@@ -4,8 +4,8 @@
     "type": "Game",
     "schinese_name": "青天井",
     "isfreeapp": 0,
-    "update_time": "2025-06-21 00:39:55",
-    "change_number": 29672179,
+    "update_time": "2025-07-18 07:34:41",
+    "change_number": 30125725,
     "depot": {
         "baselanguages": "english,schinese",
         "3066571": {
@@ -14,9 +14,9 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "6131848422883614726",
-                    "size": "350246189",
-                    "download": "93592560"
+                    "gid": "8769776588258999280",
+                    "size": "355451741",
+                    "download": "99478192"
                 }
             },
             "decryptionkey": "3a0d81046c1bd184184fde7c181a9e705d2a78580deef1c427be4392d9e5558f"
@@ -27,16 +27,16 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "4228373491806836583",
-                    "size": "342227892",
-                    "download": "91496416"
+                    "gid": "532166800220076489",
+                    "size": "348063334",
+                    "download": "96224688"
                 }
             }
         },
         "branches": {
             "public": {
-                "buildid": "18403829",
-                "timeupdated": "1746807761"
+                "buildid": "19262012",
+                "timeupdated": "1752820475"
             }
         },
         "privatebranches": "1"
