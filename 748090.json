@@ -4,8 +4,8 @@
     "type": "Tool",
     "schinese_name": "",
     "isfreeapp": 0,
-    "update_time": "2025-05-31 07:25:04",
-    "change_number": 29286841,
+    "update_time": "2025-07-23 19:35:19",
+    "change_number": 30212673,
     "depot": {
         "1004": {
             "config": {
@@ -13,9 +13,9 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "7747775778018907449",
-                    "size": "46727128",
-                    "download": "14307024"
+                    "gid": "8904491048620934740",
+                    "size": "68697032",
+                    "download": "20552544"
                 }
             },
             "depotfromapp": "1007",
@@ -41,9 +41,9 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "7138471031118904166",
-                    "size": "78382436",
-                    "download": "21254752"
+                    "gid": "5587033981095108078",
+                    "size": "107476144",
+                    "download": "29272144"
                 }
             },
             "depotfromapp": "1007",
@@ -305,7 +305,7 @@
                     "download": "48622576"
                 }
             },
-            "decryptionkey": ""
+            "decryptionkey": "ee53d793d36de550ffbc4fbaeb072fad8b9adac6c1ce197154188184a89af6f3"
         },
         "748093": {
             "config": {
@@ -433,7 +433,8 @@
                     "size": "120071441",
                     "download": "57366320"
                 }
-            }
+            },
+            "decryptionkey": "64720f7ad67ca400f199accf9f6c78c87fd4d95a6e8f93b87f5f4f750689cf07"
         },
         "748094": {
             "config": {
@@ -561,7 +562,8 @@
                     "size": "108317877",
                     "download": "64066144"
                 }
-            }
+            },
+            "decryptionkey": "a53c98d721f032952e6e8619a24d4c7e5bf209cd021e9fd2a5459b4e5df2ca12"
         },
         "branches": {
             "public": {
