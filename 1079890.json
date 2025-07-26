@@ -1,0 +1,45 @@
+{
+    "appid": 1079890,
+    "name": "Happy World",
+    "type": "Game",
+    "schinese_name": "",
+    "isfreeapp": 1,
+    "update_time": "2025-07-02 08:51:39",
+    "change_number": 29856122,
+    "depot": {
+        "228986": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "228990": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "1079891": {
+            "config": {
+                "oslist": "windows",
+                "osarch": "64"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "7003677047965430507",
+                    "size": "2334621876",
+                    "download": "2261090400"
+                }
+            },
+            "decryptionkey": "17751f28fd2b1933b5223dd08d888f741cf68cc617c15060273e947c4257297f"
+        },
+        "branches": {
+            "public": {
+                "buildid": "5096684",
+                "timeupdated": "1590773386"
+            }
+        }
+    }
+}
