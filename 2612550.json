@@ -4,8 +4,8 @@
     "type": "Tool",
     "schinese_name": "",
     "isfreeapp": 0,
-    "update_time": "2025-05-29 15:09:51",
-    "change_number": 29254060,
+    "update_time": "2025-07-23 19:37:20",
+    "change_number": 30212673,
     "depot": {
         "1004": {
             "config": {
@@ -13,9 +13,9 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "7747775778018907449",
-                    "size": "46727128",
-                    "download": "14307024"
+                    "gid": "8904491048620934740",
+                    "size": "68697032",
+                    "download": "20552544"
                 }
             },
             "depotfromapp": "1007",
@@ -41,9 +41,9 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "7138471031118904166",
-                    "size": "78382436",
-                    "download": "21254752"
+                    "gid": "5587033981095108078",
+                    "size": "107476144",
+                    "download": "29272144"
                 }
             },
             "depotfromapp": "1007",
@@ -73,17 +73,17 @@
         "2612551": {
             "manifests": {
                 "public": {
-                    "gid": "5787338486063457247",
-                    "size": "3073183277",
-                    "download": "2887160624"
+                    "gid": "7270823746798799997",
+                    "size": "3260521888",
+                    "download": "3077083968"
                 }
             },
             "decryptionkey": "53b87fb2dca0ac49158c70dbd3232a747ba0ef7328ea23c2cb61503c4e3f2b8c"
         },
         "branches": {
             "public": {
-                "buildid": "18638325",
-                "timeupdated": "1748502583"
+                "buildid": "19254436",
+                "timeupdated": "1752824457"
             }
         }
     }
