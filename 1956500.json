@@ -4,8 +4,8 @@
     "type": "Tool",
     "schinese_name": "",
     "isfreeapp": 0,
-    "update_time": "2025-06-10 21:19:27",
-    "change_number": 29486834,
+    "update_time": "2025-07-23 19:36:56",
+    "change_number": 30212673,
     "depot": {
         "1004": {
             "config": {
@@ -13,9 +13,9 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "7747775778018907449",
-                    "size": "46727128",
-                    "download": "14307024"
+                    "gid": "8904491048620934740",
+                    "size": "68697032",
+                    "download": "20552544"
                 }
             },
             "depotfromapp": "1007",
@@ -41,9 +41,9 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "7138471031118904166",
-                    "size": "78382436",
-                    "download": "21254752"
+                    "gid": "5587033981095108078",
+                    "size": "107476144",
+                    "download": "29272144"
                 }
             },
             "depotfromapp": "1007",
@@ -56,9 +56,9 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "5511491784545145404",
-                    "size": "755824609",
-                    "download": "527587024"
+                    "gid": "3360700680105150031",
+                    "size": "756125457",
+                    "download": "539481008"
                 }
             },
             "decryptionkey": "43c01e4193a322d5716917ce6189389d82b68f1f7d284ec5a39d75d465669d44"
@@ -70,17 +70,17 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "7763965188080181017",
-                    "size": "1056394050",
-                    "download": "482527408"
+                    "gid": "8604034411114540658",
+                    "size": "1056707016",
+                    "download": "516691376"
                 }
             }
         },
         "hasdepotsindlc": "0",
         "branches": {
             "public": {
-                "buildid": "18810343",
-                "timeupdated": "1749561562"
+                "buildid": "19007071",
+                "timeupdated": "1750933653"
             }
         }
     }
