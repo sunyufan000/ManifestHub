@@ -4,33 +4,33 @@
     "type": "Game",
     "schinese_name": "终极幸运之塔 (Lucky Tower Ultimate)",
     "isfreeapp": 0,
-    "update_time": "2025-06-20 05:31:41",
-    "change_number": 29656135,
+    "update_time": "2025-07-21 20:21:03",
+    "change_number": 30173083,
     "depot": {
         "1700271": {
             "manifests": {
                 "public": {
-                    "gid": "7544548341956501872",
-                    "size": "918081955",
-                    "download": "755251648"
+                    "gid": "4659780013067364595",
+                    "size": "918324342",
+                    "download": "767293040"
                 },
                 "public-beta": {
-                    "gid": "7544548341956501872",
-                    "size": "918081955",
-                    "download": "755251648"
+                    "gid": "4659780013067364595",
+                    "size": "918324342",
+                    "download": "767293040"
                 }
             },
             "decryptionkey": "e9d47fee5f2c047a0323c658234c240bdf35a6bfd16e4e80097004a5c2b14393"
         },
         "branches": {
             "public": {
-                "buildid": "18914313",
-                "timeupdated": "1750363185"
+                "buildid": "19257572",
+                "timeupdated": "1753109293"
             },
             "public-beta": {
-                "buildid": "18914313",
+                "buildid": "19257572",
                 "description": "to get future updates earlier",
-                "timeupdated": "1750263130"
+                "timeupdated": "1752762982"
             }
         },
         "privatebranches": "1"
