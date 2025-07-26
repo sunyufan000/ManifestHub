@@ -4,8 +4,8 @@
     "type": "Game",
     "schinese_name": "深林",
     "isfreeapp": 0,
-    "update_time": "2025-05-26 09:17:06",
-    "change_number": 29182778,
+    "update_time": "2025-07-14 00:12:00",
+    "change_number": 30039766,
     "depot": {
         "baselanguages": "english,german,french,koreana,schinese,tchinese,russian,japanese,brazilian,latam",
         "hasdepotsindlc": "0",
@@ -48,7 +48,7 @@
                     "download": "433063760"
                 }
             },
-            "decryptionkey": ""
+            "decryptionkey": "15b69965e7ee45f4912af21887cafa0caa7b551dc4ca627162870c598a84188a"
         },
         "1294114": {
             "config": {
