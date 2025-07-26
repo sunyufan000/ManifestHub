@@ -4,8 +4,8 @@
     "type": "Application",
     "schinese_name": "",
     "isfreeapp": 0,
-    "update_time": "2025-06-12 09:17:21",
-    "change_number": 29518858,
+    "update_time": "2025-07-21 08:51:50",
+    "change_number": 30162602,
     "depot": {
         "228989": {
             "config": {
@@ -84,6 +84,6 @@
             }
         },
         "privatebranches": "1",
-        "workshopdepotdecryptionkey": ""
+        "workshopdepotdecryptionkey": "f1685148ee4a04da44d8eb82718399997fbcccd9a1725672cd7ab86d8f64480b"
     }
 }
