@@ -4,8 +4,8 @@
     "type": "Game",
     "schinese_name": "",
     "isfreeapp": 1,
-    "update_time": "2025-05-28 09:50:34",
-    "change_number": 29225947,
+    "update_time": "2025-07-22 19:41:23",
+    "change_number": 30192288,
     "depot": {
         "228989": {
             "config": {
@@ -17,24 +17,34 @@
         "2346661": {
             "manifests": {
                 "public": {
-                    "gid": "2923039275934030535",
-                    "size": "17562343",
-                    "download": "9067264"
+                    "gid": "1821313899794811603",
+                    "size": "18142309",
+                    "download": "9117520"
+                },
+                "51.13": {
+                    "gid": "747727622894482971",
+                    "size": "17605946",
+                    "download": "9111616"
                 },
                 "beta": {
+                    "gid": "1821313899794811603",
+                    "size": "18142309",
+                    "download": "9117520"
+                },
+                "experimental": {
+                    "gid": "1821313899794811603",
+                    "size": "18142309",
+                    "download": "9117520"
+                },
+                "testing": {
+                    "gid": "1821313899794811603",
+                    "size": "18142309",
+                    "download": "9117520"
+                },
+                "51.11": {
                     "gid": "2923039275934030535",
                     "size": "17562343",
                     "download": "9067264"
-                },
-                "experimental": {
-                    "gid": "4963590604064565650",
-                    "size": "17211445",
-                    "download": "9059536"
-                },
-                "testing": {
-                    "gid": "7514470210622266653",
-                    "size": "17602197",
-                    "download": "9077712"
                 },
                 "51.10": {
                     "gid": "3060672757399462853",
@@ -110,24 +120,34 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "4598509635121684109",
-                    "size": "39761326",
-                    "download": "8953472"
+                    "gid": "2593349894989348907",
+                    "size": "40108974",
+                    "download": "10963376"
+                },
+                "51.13": {
+                    "gid": "1451705684578434672",
+                    "size": "40097710",
+                    "download": "10972800"
                 },
                 "beta": {
+                    "gid": "2593349894989348907",
+                    "size": "40108974",
+                    "download": "10963376"
+                },
+                "experimental": {
+                    "gid": "2593349894989348907",
+                    "size": "40108974",
+                    "download": "10963376"
+                },
+                "testing": {
+                    "gid": "2593349894989348907",
+                    "size": "40108974",
+                    "download": "10963376"
+                },
+                "51.11": {
                     "gid": "4598509635121684109",
                     "size": "39761326",
                     "download": "8953472"
-                },
-                "experimental": {
-                    "gid": "3436303681512980676",
-                    "size": "39765934",
-                    "download": "8954368"
-                },
-                "testing": {
-                    "gid": "5674444843908057966",
-                    "size": "40054702",
-                    "download": "9044944"
                 },
                 "51.10": {
                     "gid": "8498616993421959934",
@@ -198,24 +218,34 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "908619922540755955",
-                    "size": "32681100",
-                    "download": "6835616"
+                    "gid": "8543054751380567417",
+                    "size": "32792900",
+                    "download": "8141680"
+                },
+                "51.13": {
+                    "gid": "8843054124969737752",
+                    "size": "32779572",
+                    "download": "8138016"
                 },
                 "beta": {
+                    "gid": "8543054751380567417",
+                    "size": "32792900",
+                    "download": "8141680"
+                },
+                "experimental": {
+                    "gid": "8543054751380567417",
+                    "size": "32792900",
+                    "download": "8141680"
+                },
+                "testing": {
+                    "gid": "8543054751380567417",
+                    "size": "32792900",
+                    "download": "8141680"
+                },
+                "51.11": {
                     "gid": "908619922540755955",
                     "size": "32681100",
                     "download": "6835616"
-                },
-                "experimental": {
-                    "gid": "479063480464953305",
-                    "size": "32697060",
-                    "download": "6827712"
-                },
-                "testing": {
-                    "gid": "9202848150372571686",
-                    "size": "32738156",
-                    "download": "6844416"
                 },
                 "51.10": {
                     "gid": "728797471335265172",
@@ -287,23 +317,33 @@
         },
         "branches": {
             "public": {
-                "buildid": "18216770",
-                "timeupdated": "1745456738"
+                "buildid": "19318477",
+                "timeupdated": "1753209665"
+            },
+            "51.13": {
+                "buildid": "19019008",
+                "description": "Legacy compatibility branch for DF 51.13",
+                "timeupdated": "1753209618"
             },
             "beta": {
-                "buildid": "18216770",
+                "buildid": "19318477",
                 "description": "DFHack pre-releases (for the default non-beta DF branch)",
-                "timeupdated": "1745456682"
+                "timeupdated": "1753209519"
             },
             "experimental": {
-                "buildid": "18217400",
-                "description": "For the DF experimental branch",
-                "timeupdated": "1745460919"
+                "buildid": "19318477",
+                "description": "For the DF experimental and beta branches",
+                "timeupdated": "1753209535"
             },
             "testing": {
-                "buildid": "18634558",
+                "buildid": "19318477",
                 "description": "For testing in-progress features discussed on the DFHack Discord",
-                "timeupdated": "1748397026"
+                "timeupdated": "1753209555"
+            },
+            "51.11": {
+                "buildid": "18216770",
+                "description": "Legacy compatibility branch for DF 51.11",
+                "timeupdated": "1750941830"
             },
             "51.10": {
                 "buildid": "17972190",
