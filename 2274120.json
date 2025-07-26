@@ -4,8 +4,8 @@
     "type": "Game",
     "schinese_name": "",
     "isfreeapp": 1,
-    "update_time": "2025-06-20 05:15:14",
-    "change_number": 29650509,
+    "update_time": "2025-07-22 18:58:36",
+    "change_number": 30191676,
     "depot": {
         "baselanguages": "english",
         "hasdepotsindlc": "0",
@@ -16,9 +16,9 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "1091725376936734895",
-                    "size": "725004454",
-                    "download": "488052144"
+                    "gid": "4349382054191977803",
+                    "size": "749457775",
+                    "download": "512270144"
                 }
             },
             "decryptionkey": "8ab778e04e57fdbbab09a082231e133ae4f45bf4a89761efec9472468bec95c8"
@@ -30,9 +30,9 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "6238713456667729497",
-                    "size": "741191180",
-                    "download": "494692496"
+                    "gid": "6890074792564357357",
+                    "size": "765633474",
+                    "download": "518916256"
                 }
             },
             "decryptionkey": "56160889f27ab6a4a245e436cf97e3d725c21b9e1baba88b44322999e595b47f"
@@ -44,9 +44,9 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "1252610565836545516",
-                    "size": "719972184",
-                    "download": "485982400"
+                    "gid": "3276650759181114210",
+                    "size": "744426758",
+                    "download": "510197648"
                 }
             },
             "decryptionkey": "085b0114c448bb594e608313a78f106a6436965c0e39153fac4cdddee43d2bc0"
@@ -77,9 +77,9 @@
             "dlcappid": "3115110",
             "manifests": {
                 "public": {
-                    "gid": "924244638601306150",
-                    "size": "1138671949",
-                    "download": "1144776288"
+                    "gid": "2570732826289642182",
+                    "size": "1211807569",
+                    "download": "1218161152"
                 }
             },
             "decryptionkey": ""
@@ -121,17 +121,28 @@
             "dlcappid": "3831360",
             "manifests": {
                 "public": {
-                    "gid": "6141175975551533159",
-                    "size": "235814201",
-                    "download": "237254880"
+                    "gid": "3563487791853276613",
+                    "size": "235736348",
+                    "download": "237172960"
+                }
+            },
+            "decryptionkey": ""
+        },
+        "3880230": {
+            "dlcappid": "3880230",
+            "manifests": {
+                "public": {
+                    "gid": "1980857412200402208",
+                    "size": "288744118",
+                    "download": "290382640"
                 }
             },
             "decryptionkey": ""
         },
         "branches": {
             "public": {
-                "buildid": "18927594",
-                "timeupdated": "1750341177"
+                "buildid": "19318581",
+                "timeupdated": "1753207110"
             }
         }
     }
