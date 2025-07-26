@@ -4,7 +4,7 @@
     "type": "Game",
     "schinese_name": "大航海家4",
     "isfreeapp": 0,
-    "update_time": "2025-06-20 06:39:13",
+    "update_time": "2025-06-23 09:52:34",
     "change_number": 29657789,
     "depot": {
         "57621": {
@@ -47,7 +47,7 @@
                     "download": "2570204672"
                 }
             },
-            "decryptionkey": ""
+            "decryptionkey": "57ccdb053cc16af1d01412879015beb0a40e5407d30d217474cfa33a7b2d0cb3"
         },
         "overridescddb": "1",
         "branches": {
