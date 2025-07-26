@@ -4,8 +4,8 @@
     "type": "Game",
     "schinese_name": "地狱击剑",
     "isfreeapp": 0,
-    "update_time": "2025-06-10 18:33:14",
-    "change_number": 29484017,
+    "update_time": "2025-07-23 08:11:03",
+    "change_number": 30201093,
     "depot": {
         "1000361": {
             "config": {
@@ -14,9 +14,9 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "440790838784865664",
-                    "size": "15401545040",
-                    "download": "7968089968"
+                    "gid": "1877935547319009574",
+                    "size": "15401769328",
+                    "download": "7979198800"
                 },
                 "oldversion": {
                     "gid": "5123359371692701402",
@@ -54,17 +54,17 @@
                     "download": "7664048688"
                 },
                 "test": {
-                    "gid": "440790838784865664",
-                    "size": "15401545040",
-                    "download": "7968089968"
+                    "gid": "1877935547319009574",
+                    "size": "15401769328",
+                    "download": "7979198800"
                 }
             },
             "decryptionkey": "b5b97451061159abe6184f5c46e24d7d3a1898c26611b7dce09483c6b5843f79"
         },
         "branches": {
             "public": {
-                "buildid": "18808295",
-                "timeupdated": "1749551589"
+                "buildid": "19298954",
+                "timeupdated": "1753098376"
             },
             "oldversion": {
                 "buildid": "6425228",
@@ -102,9 +102,9 @@
                 "timeupdated": "1748697527"
             },
             "test": {
-                "buildid": "18808295",
+                "buildid": "19298954",
                 "description": "Beta",
-                "timeupdated": "1749551514"
+                "timeupdated": "1753098502"
             }
         },
         "privatebranches": "1"
