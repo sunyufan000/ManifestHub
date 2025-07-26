@@ -4,8 +4,8 @@
     "type": "DLC",
     "schinese_name": "SVFI - 专业版",
     "isfreeapp": 0,
-    "update_time": "2025-06-13 12:13:35",
-    "change_number": 29541850,
+    "update_time": "2025-07-23 15:08:59",
+    "change_number": 30207895,
     "depot": {
         "1718751": {
             "config": {
@@ -24,14 +24,9 @@
                     "download": "1299005168"
                 },
                 "beta": {
-                    "gid": "1663336085803392924",
-                    "size": "4326184146",
-                    "download": "3346084832"
-                },
-                "beta-cu128": {
-                    "gid": "1663336085803392924",
-                    "size": "4326184146",
-                    "download": "3346084832"
+                    "gid": "780473394530014834",
+                    "size": "4691520276",
+                    "download": "3578456976"
                 },
                 "revision-1": {
                     "gid": "2123462492286852784",
@@ -54,14 +49,9 @@
                     "download": "21710960"
                 },
                 "beta": {
-                    "gid": "2672776120084530170",
-                    "size": "48293376",
-                    "download": "21710960"
-                },
-                "beta-cu128": {
-                    "gid": "2672776120084530170",
-                    "size": "48293376",
-                    "download": "21710960"
+                    "gid": "2791548072325035263",
+                    "size": "48809472",
+                    "download": "24005856"
                 }
             },
             "dlcappid": "1718750",
@@ -78,14 +68,9 @@
                 "timeupdated": "1698293546"
             },
             "beta": {
-                "buildid": "18850414",
+                "buildid": "19330163",
                 "description": "SVFI Beta Test",
-                "timeupdated": "1749787977"
-            },
-            "beta-cu128": {
-                "buildid": "18850414",
-                "description": "Blackwell Support",
-                "timeupdated": "1749788011"
+                "timeupdated": "1753279726"
             },
             "revision-1": {
                 "buildid": "14333259",
