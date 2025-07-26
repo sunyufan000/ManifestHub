@@ -4,8 +4,8 @@
     "type": "Game",
     "schinese_name": "海军艺术 NavalArt",
     "isfreeapp": 0,
-    "update_time": "2025-06-19 20:55:23",
-    "change_number": 29649309,
+    "update_time": "2025-07-17 11:28:48",
+    "change_number": 30108202,
     "depot": {
         "baselanguages": "english,schinese",
         "workshopdepot": "842780",
@@ -16,9 +16,9 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "1312074629709365668",
-                    "size": "3030884851",
-                    "download": "706427872"
+                    "gid": "5526681132627589237",
+                    "size": "3030491397",
+                    "download": "706426880"
                 },
                 "version0.8": {
                     "gid": "8901879992971740775",
@@ -47,8 +47,8 @@
         },
         "branches": {
             "public": {
-                "buildid": "18926744",
-                "timeupdated": "1750336529"
+                "buildid": "19077878",
+                "timeupdated": "1751452333"
             },
             "version0.8": {
                 "buildid": "7345785",
