@@ -4,8 +4,8 @@
     "type": "Game",
     "schinese_name": "全网公敌2 新世界",
     "isfreeapp": 0,
-    "update_time": "2025-06-20 11:14:28",
-    "change_number": 29660708,
+    "update_time": "2025-07-16 08:09:41",
+    "change_number": 30083806,
     "depot": {
         "2421411": {
             "config": {
@@ -27,17 +27,17 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "7950316659094835923",
-                    "size": "3466437040",
-                    "download": "2841279024"
+                    "gid": "594412308864072839",
+                    "size": "3499161948",
+                    "download": "2939557744"
                 }
             },
             "decryptionkey": "de9d565e3be8af53510237991c16dab96fb14373b032f085124ec01a67847e28"
         },
         "branches": {
             "public": {
-                "buildid": "18890735",
-                "timeupdated": "1750389262"
+                "buildid": "19023275",
+                "timeupdated": "1751016879"
             }
         },
         "privatebranches": "1"
