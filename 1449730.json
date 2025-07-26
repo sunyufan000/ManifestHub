@@ -4,8 +4,8 @@
     "type": "Game",
     "schinese_name": "",
     "isfreeapp": 0,
-    "update_time": "2025-05-24 11:13:49",
-    "change_number": 29162678,
+    "update_time": "2025-07-01 19:28:46",
+    "change_number": 29847878,
     "depot": {
         "baselanguages": "english,spanish,schinese,tchinese,japanese",
         "1449731": {
@@ -25,8 +25,7 @@
         "1449732": {
             "config": {
                 "oslist": "linux",
-                "osarch": "64",
-                "steamdeck": "1"
+                "osarch": "64"
             },
             "manifests": {
                 "public": {
