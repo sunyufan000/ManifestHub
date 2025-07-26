@@ -4,8 +4,8 @@
     "type": "Application",
     "schinese_name": "",
     "isfreeapp": 0,
-    "update_time": "2025-06-17 13:26:43",
-    "change_number": 29601342,
+    "update_time": "2025-07-19 21:51:33",
+    "change_number": 30149560,
     "depot": {
         "baselanguages": "english",
         "554821": {
@@ -94,14 +94,14 @@
                     "download": "6018944"
                 },
                 "all_test_debug": {
-                    "gid": "6251082550941274429",
-                    "size": "52254454",
-                    "download": "11572064"
+                    "gid": "375098343161841751",
+                    "size": "52470595",
+                    "download": "13234224"
                 },
                 "all_test_release": {
-                    "gid": "2145534804474008897",
-                    "size": "16498934",
-                    "download": "7446512"
+                    "gid": "6007812802756848642",
+                    "size": "16515395",
+                    "download": "8117232"
                 }
             },
             "decryptionkey": "62eac58a076f282e3f672f01f5253046be12a05c01107b9bcee28b6f74adc799"
@@ -271,14 +271,14 @@
                     "download": "6193792"
                 },
                 "all_test_debug": {
-                    "gid": "1291902560917793721",
-                    "size": "50968303",
-                    "download": "11530464"
+                    "gid": "7533795477018417137",
+                    "size": "52057332",
+                    "download": "13229008"
                 },
                 "all_test_release": {
-                    "gid": "3736476296005663581",
-                    "size": "16176367",
-                    "download": "7442832"
+                    "gid": "310968174142642440",
+                    "size": "16210676",
+                    "download": "7450464"
                 }
             },
             "decryptionkey": ""
@@ -361,14 +361,14 @@
                     "download": "5911696"
                 },
                 "all_test_debug": {
-                    "gid": "5530536148872715275",
-                    "size": "51470182",
-                    "download": "11507008"
+                    "gid": "7230070780070750284",
+                    "size": "52560230",
+                    "download": "13230896"
                 },
                 "all_test_release": {
-                    "gid": "6274689891563593546",
-                    "size": "16576870",
-                    "download": "7423424"
+                    "gid": "6927856395811976559",
+                    "size": "16622438",
+                    "download": "8085712"
                 }
             },
             "decryptionkey": ""
@@ -445,9 +445,9 @@
                     "download": "5837360"
                 },
                 "all_test_debug": {
-                    "gid": "5808359904124112802",
-                    "size": "53500874",
-                    "download": "13058032"
+                    "gid": "5910654255908370060",
+                    "size": "53730258",
+                    "download": "14714560"
                 },
                 "all_test_release": {
                     "gid": "4665943477712529351",
@@ -529,14 +529,14 @@
                     "download": "5864240"
                 },
                 "all_test_debug": {
-                    "gid": "8856344239479151179",
-                    "size": "51466107",
-                    "download": "11489920"
+                    "gid": "7500013577968516325",
+                    "size": "52557181",
+                    "download": "13213552"
                 },
                 "all_test_release": {
-                    "gid": "6560385676698118392",
-                    "size": "16561019",
-                    "download": "7393296"
+                    "gid": "6387350640862239297",
+                    "size": "16606589",
+                    "download": "8064816"
                 }
             },
             "decryptionkey": ""
@@ -583,14 +583,14 @@
                     "download": "5896112"
                 },
                 "all_test_debug": {
-                    "gid": "1313009538487445157",
-                    "size": "51433762",
-                    "download": "11489056"
+                    "gid": "3872307437745624584",
+                    "size": "52523309",
+                    "download": "13208000"
                 },
                 "all_test_release": {
-                    "gid": "4129448526719863478",
-                    "size": "16533794",
-                    "download": "7395456"
+                    "gid": "7092862655773790234",
+                    "size": "16579885",
+                    "download": "8061888"
                 }
             },
             "decryptionkey": "bb5a8e85d4434e8a22e5bf00745688f8906ca586fcd3eb90c5f187aa5ec92f30"
@@ -661,12 +661,12 @@
                 "timeupdated": "1581405688"
             },
             "all_test_debug": {
-                "buildid": "18892663",
-                "timeupdated": "1750137999"
+                "buildid": "19259936",
+                "timeupdated": "1752756263"
             },
             "all_test_release": {
-                "buildid": "18892639",
-                "timeupdated": "1750137822"
+                "buildid": "19274721",
+                "timeupdated": "1752841753"
             }
         }
     }
