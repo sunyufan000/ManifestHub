@@ -4,8 +4,8 @@
     "type": "Game",
     "schinese_name": "《恶意不息》",
     "isfreeapp": 0,
-    "update_time": "2025-06-22 10:23:52",
-    "change_number": 29687254,
+    "update_time": "2025-07-24 03:04:52",
+    "change_number": 30218242,
     "depot": {
         "228989": {
             "config": {
@@ -17,9 +17,9 @@
         "1371981": {
             "manifests": {
                 "public": {
-                    "gid": "299589289949788488",
-                    "size": "45456858374",
-                    "download": "15651233056"
+                    "gid": "6786745793025270417",
+                    "size": "45991579450",
+                    "download": "16409228608"
                 },
                 "crucible_legacy": {
                     "gid": "6620547913613966320",
@@ -32,9 +32,9 @@
         "1371982": {
             "manifests": {
                 "public": {
-                    "gid": "8444995481786655308",
-                    "size": "567997041",
-                    "download": "354700720"
+                    "gid": "6654993460787894975",
+                    "size": "564968965",
+                    "download": "387487536"
                 },
                 "crucible_legacy": {
                     "gid": "8070228660872352263",
@@ -63,8 +63,8 @@
         "baselanguages": "english,german,french,italian,koreana,spanish,schinese,tchinese,russian,japanese,polish,brazilian",
         "branches": {
             "public": {
-                "buildid": "18571643",
-                "timeupdated": "1748012514"
+                "buildid": "19243141",
+                "timeupdated": "1752774066"
             },
             "crucible_legacy": {
                 "buildid": "17855848",
