@@ -4,8 +4,8 @@
     "type": "Application",
     "schinese_name": "",
     "isfreeapp": 0,
-    "update_time": "2025-06-19 16:53:36",
-    "change_number": 29645982,
+    "update_time": "2025-07-23 09:34:00",
+    "change_number": 30202379,
     "depot": {
         "hasdepotsindlc": "1",
         "baselanguages": "english,japanese",
@@ -27,14 +27,9 @@
         "1036641": {
             "manifests": {
                 "public": {
-                    "gid": "7258152100326640682",
-                    "size": "8200093141",
-                    "download": "2146462736"
-                },
-                "ver1.0.15": {
-                    "gid": "6268989584704739775",
-                    "size": "5240341371",
-                    "download": "1786775696"
+                    "gid": "20901870593494252",
+                    "size": "8208326238",
+                    "download": "2152202768"
                 },
                 "ver1.1.3": {
                     "gid": "1210038485233157474",
@@ -81,11 +76,6 @@
                     "size": "8360314115",
                     "download": "1916613776"
                 },
-                "ver1.10.0": {
-                    "gid": "8540062737632571557",
-                    "size": "8362814587",
-                    "download": "1919095232"
-                },
                 "ver1.10.1": {
                     "gid": "6154704586255647428",
                     "size": "8362976899",
@@ -130,19 +120,24 @@
                     "gid": "8265852438392821649",
                     "size": "8200091688",
                     "download": "2146461968"
+                },
+                "ver1.14.2": {
+                    "gid": "7258152100326640682",
+                    "size": "8200093141",
+                    "download": "2146462736"
+                },
+                "ver1.15.0": {
+                    "gid": "5603020251863415304",
+                    "size": "8208032942",
+                    "download": "2151882528"
                 }
             },
             "decryptionkey": "64815a8bd36127e977b7959101e3fd9352c237cf06e86ddae2e669ac714d52e9"
         },
         "branches": {
             "public": {
-                "buildid": "18713367",
-                "timeupdated": "1749103786"
-            },
-            "ver1.0.15": {
-                "buildid": "10128116",
-                "description": "ver1.0.15 rollback",
-                "timeupdated": "1671756349"
+                "buildid": "19325934",
+                "timeupdated": "1753259634"
             },
             "ver1.1.3": {
                 "buildid": "10545838",
@@ -189,11 +184,6 @@
                 "description": "ver1.9.1 rollback",
                 "timeupdated": "1718797715"
             },
-            "ver1.10.0": {
-                "buildid": "14778738",
-                "description": "ver1.10.0 rollback",
-                "timeupdated": "1739420065"
-            },
             "ver1.10.1": {
                 "buildid": "15207801",
                 "description": "ver1.10.1 rollback",
@@ -238,6 +228,16 @@
                 "buildid": "18618998",
                 "description": "ver1.14.1 rollback",
                 "timeupdated": "1749092197"
+            },
+            "ver1.14.2": {
+                "buildid": "18713367",
+                "description": "ver1.14.2 rollback",
+                "timeupdated": "1750898391"
+            },
+            "ver1.15.0": {
+                "buildid": "19020583",
+                "description": "ver1.15.0 rollback",
+                "timeupdated": "1752051776"
             }
         },
         "privatebranches": "1",
