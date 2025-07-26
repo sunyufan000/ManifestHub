@@ -4,8 +4,8 @@
     "type": "Game",
     "schinese_name": "",
     "isfreeapp": 0,
-    "update_time": "2025-06-18 07:39:26",
-    "change_number": 29618437,
+    "update_time": "2025-07-23 19:43:45",
+    "change_number": 30212822,
     "depot": {
         "2862141": {
             "config": {
@@ -13,9 +13,9 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "3625169347607914485",
-                    "size": "704268513",
-                    "download": "220140864"
+                    "gid": "70261030006897974",
+                    "size": "703014129",
+                    "download": "221703120"
                 }
             },
             "decryptionkey": ""
@@ -26,9 +26,9 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "3801682986227743782",
-                    "size": "736922661",
-                    "download": "224076480"
+                    "gid": "8710020322561760774",
+                    "size": "735484034",
+                    "download": "230611984"
                 }
             }
         },
@@ -38,9 +38,9 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "4259595258417757323",
-                    "size": "718928896",
-                    "download": "223972480"
+                    "gid": "3136524482136861664",
+                    "size": "717674243",
+                    "download": "226695248"
                 }
             }
         },
@@ -51,9 +51,9 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "2125920012581554230",
-                    "size": "704268513",
-                    "download": "220169264"
+                    "gid": "1763820390463054999",
+                    "size": "703014129",
+                    "download": "221713536"
                 }
             },
             "decryptionkey": "9c50c8fb6cd2aa8d0927afd8ec7710a3ce64d845dbc428bf6fdccbb8f03d75eb"
@@ -64,9 +64,9 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "6489081257825811756",
-                    "size": "736922661",
-                    "download": "224065168"
+                    "gid": "3348813247615550871",
+                    "size": "735484034",
+                    "download": "230675856"
                 }
             }
         },
@@ -76,16 +76,16 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "4564177258501983824",
-                    "size": "718928896",
-                    "download": "224068576"
+                    "gid": "5215635522445517414",
+                    "size": "717674243",
+                    "download": "226798464"
                 }
             }
         },
         "branches": {
             "public": {
-                "buildid": "18901489",
-                "timeupdated": "1750202565"
+                "buildid": "19333286",
+                "timeupdated": "1753296220"
             }
         },
         "privatebranches": "1"
