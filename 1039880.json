@@ -1,0 +1,54 @@
+{
+    "appid": 1039880,
+    "name": "Hellsplit: Arena",
+    "type": "Game",
+    "schinese_name": "",
+    "isfreeapp": 0,
+    "update_time": "2025-06-25 21:24:16",
+    "change_number": 29749337,
+    "depot": {
+        "228988": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "228990": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "baselanguages": "english",
+        "1039881": {
+            "config": {
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "5348594110938169028",
+                    "size": "23723468463",
+                    "download": "11367314352"
+                }
+            },
+            "decryptionkey": "c82e45950978f480b8308f86005c508ac9eb7f2a67dd3563162ca69a90dcc269"
+        },
+        "1039882": {
+            "config": {
+                "oslist": "windows"
+            }
+        },
+        "1149250": {
+            "dlcappid": "1149250"
+        },
+        "branches": {
+            "public": {
+                "buildid": "18996591",
+                "timeupdated": "1750882823"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
