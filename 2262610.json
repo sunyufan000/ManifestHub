@@ -4,8 +4,8 @@
     "type": "Game",
     "schinese_name": "永不结束的星期一：梦想与死线 Endless Monday: Dreams and Deadlines",
     "isfreeapp": 0,
-    "update_time": "2025-06-19 20:56:55",
-    "change_number": 29607405,
+    "update_time": "2025-07-16 23:47:08",
+    "change_number": 30099139,
     "depot": {
         "2262611": {
             "config": {
@@ -14,14 +14,14 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "8992364955520893618",
-                    "size": "236130511",
-                    "download": "146002624"
+                    "gid": "3632296133833966115",
+                    "size": "236150233",
+                    "download": "146113872"
                 },
                 "publicbeta": {
-                    "gid": "8992364955520893618",
-                    "size": "236130511",
-                    "download": "146002624"
+                    "gid": "3632296133833966115",
+                    "size": "236150233",
+                    "download": "146113872"
                 }
             },
             "decryptionkey": "6dcaffbc78aa5951f599de7972be0348674e2da77ea436e94ba4ca74d492f363"
@@ -33,14 +33,14 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "3110326779920443601",
-                    "size": "269892432",
-                    "download": "153404592"
+                    "gid": "4544965625085108275",
+                    "size": "269927363",
+                    "download": "153362512"
                 },
                 "publicbeta": {
-                    "gid": "3110326779920443601",
-                    "size": "269892432",
-                    "download": "153404592"
+                    "gid": "4544965625085108275",
+                    "size": "269927363",
+                    "download": "153362512"
                 }
             }
         },
@@ -51,27 +51,27 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "4846923302873482229",
-                    "size": "241970353",
-                    "download": "146652784"
+                    "gid": "5713187740757037672",
+                    "size": "241991307",
+                    "download": "146614304"
                 },
                 "publicbeta": {
-                    "gid": "4846923302873482229",
-                    "size": "241970353",
-                    "download": "146652784"
+                    "gid": "5713187740757037672",
+                    "size": "241991307",
+                    "download": "146614304"
                 }
             }
         },
         "baselanguages": "english,koreana,schinese,japanese,brazilian",
         "branches": {
             "public": {
-                "buildid": "18739436",
-                "timeupdated": "1749064995"
+                "buildid": "19198973",
+                "timeupdated": "1752299716"
             },
             "publicbeta": {
-                "buildid": "18739436",
+                "buildid": "19198973",
                 "description": "public beta",
-                "timeupdated": "1749064971"
+                "timeupdated": "1752291683"
             }
         },
         "privatebranches": "1"
