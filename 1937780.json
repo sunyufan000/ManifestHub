@@ -4,8 +4,8 @@
     "type": "Game",
     "schinese_name": "全面战争：法老",
     "isfreeapp": 0,
-    "update_time": "2025-06-18 07:11:13",
-    "change_number": 29618132,
+    "update_time": "2025-07-21 02:29:33",
+    "change_number": 30159607,
     "depot": {
         "workshopdepot": "1937780",
         "hasdepotsindlc": "0",
@@ -452,7 +452,8 @@
                     "size": "103817971",
                     "download": "42617824"
                 }
-            }
+            },
+            "decryptionkey": "083719ada44a5723e5f0d0598d2e108e4ff499e28f2c4b39134177d2aa0067e0"
         },
         "branches": {
             "public": {
