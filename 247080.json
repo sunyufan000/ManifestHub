@@ -4,8 +4,8 @@
     "type": "Game",
     "schinese_name": "节奏地牢",
     "isfreeapp": 0,
-    "update_time": "2025-06-18 06:06:22",
-    "change_number": 29615435,
+    "update_time": "2025-07-22 23:32:08",
+    "change_number": 30194978,
     "depot": {
         "overridescddb": "1",
         "baselanguages": "english,german,french,italian,spanish,japanese",
@@ -228,9 +228,9 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "1675059721419190007",
-                    "size": "232480285",
-                    "download": "105326896"
+                    "gid": "1538221871068811261",
+                    "size": "232655661",
+                    "download": "106788656"
                 },
                 "legacy": {
                     "gid": "845042445285665040",
@@ -247,9 +247,9 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "4215424760157537731",
-                    "size": "256519971",
-                    "download": "117059456"
+                    "gid": "1071557638088094055",
+                    "size": "256693811",
+                    "download": "118541920"
                 },
                 "legacy": {
                     "gid": "1206045201537588146",
@@ -266,9 +266,9 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "8689190958369428447",
-                    "size": "130306195",
-                    "download": "90899840"
+                    "gid": "4422593636473303381",
+                    "size": "130313798",
+                    "download": "90893520"
                 },
                 "legacy": {
                     "gid": "3237576505887945458",
@@ -286,9 +286,9 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "2270628497038742576",
-                    "size": "142072206",
-                    "download": "102717072"
+                    "gid": "6081434195943075784",
+                    "size": "142079809",
+                    "download": "102710768"
                 },
                 "legacy": {
                     "gid": "3575407032547324475",
@@ -305,9 +305,9 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "4034552869732267045",
-                    "size": "208121395",
-                    "download": "96616240"
+                    "gid": "8086106075427356550",
+                    "size": "210445018",
+                    "download": "100260416"
                 },
                 "legacy": {
                     "gid": "8699474925881294027",
@@ -325,9 +325,9 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "176088829896996309",
-                    "size": "219857996",
-                    "download": "108447040"
+                    "gid": "4916793889280392569",
+                    "size": "222181619",
+                    "download": "111972880"
                 },
                 "legacy": {
                     "gid": "5097556165488698169",
@@ -366,10 +366,25 @@
             },
             "decryptionkey": "99b813a0b1923a7dc62509bd3c05f3ba174de174e3bf3ed209fbf23f0536b302"
         },
+        "3884150": {
+            "dlcappid": "3884150",
+            "config": {
+                "oslist": "windows,linux"
+            },
+            "manifests": {}
+        },
+        "3884151": {
+            "dlcappid": "3884150",
+            "config": {
+                "oslist": "macos",
+                "osarch": "64"
+            },
+            "manifests": {}
+        },
         "branches": {
             "public": {
-                "buildid": "17235481",
-                "timeupdated": "1738738730"
+                "buildid": "19320510",
+                "timeupdated": "1753223525"
             },
             "legacy": {
                 "buildid": "12703508",
