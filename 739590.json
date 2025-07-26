@@ -4,8 +4,8 @@
     "type": "Tool",
     "schinese_name": "",
     "isfreeapp": 0,
-    "update_time": "2025-06-22 06:00:25",
-    "change_number": 29685297,
+    "update_time": "2025-07-24 03:55:22",
+    "change_number": 30218789,
     "depot": {
         "1004": {
             "config": {
@@ -13,9 +13,9 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "7747775778018907449",
-                    "size": "46727128",
-                    "download": "14307024"
+                    "gid": "8904491048620934740",
+                    "size": "68697032",
+                    "download": "20552544"
                 }
             },
             "depotfromapp": "1007",
@@ -41,9 +41,9 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "7138471031118904166",
-                    "size": "78382436",
-                    "download": "21254752"
+                    "gid": "5587033981095108078",
+                    "size": "107476144",
+                    "download": "29272144"
                 }
             },
             "depotfromapp": "1007",
@@ -149,6 +149,11 @@
                     "gid": "8977006133212689721",
                     "size": "251986910",
                     "download": "82329088"
+                },
+                "playtest": {
+                    "gid": "3810651517055116960",
+                    "size": "250477471",
+                    "download": "80838016"
                 }
             },
             "decryptionkey": "aa6f9ecc36434fe2207806a4631e33a27ad0c8205de09acef8bdff316098e54d"
@@ -239,6 +244,11 @@
                     "gid": "1603428722004141811",
                     "size": "379502449",
                     "download": "116946928"
+                },
+                "playtest": {
+                    "gid": "961866337740657793",
+                    "size": "378484026",
+                    "download": "116454512"
                 }
             },
             "decryptionkey": "306960e67a16d40be9ee05e7f87f23ad9f3a549489269637572b005a18e21cd0"
@@ -329,6 +339,11 @@
                     "gid": "3728871018678333182",
                     "size": "256728095",
                     "download": "86486064"
+                },
+                "playtest": {
+                    "gid": "3413465195671062034",
+                    "size": "255706600",
+                    "download": "85925104"
                 }
             },
             "decryptionkey": "3b7e35492265652e9bc0da7b1d2b9d67f5dd75250432b1a1d1bde228ac9d941d"
@@ -419,6 +434,11 @@
                     "gid": "8047867591110530925",
                     "size": "293925491",
                     "download": "86523328"
+                },
+                "playtest": {
+                    "gid": "8239803724760962114",
+                    "size": "292903996",
+                    "download": "85889568"
                 }
             },
             "decryptionkey": "478e6d8769bea78f672bf1df0f4cd008bf29f3b069f56b063f0a2808d91a1d86"
@@ -507,6 +527,11 @@
                     "gid": "8717820652300658035",
                     "size": "0",
                     "download": "0"
+                },
+                "playtest": {
+                    "gid": "8717820652300658035",
+                    "size": "0",
+                    "download": "0"
                 }
             },
             "decryptionkey": "65ff957e3a8832fcd758af310a701fa09d732b1fe30e8e81dfd02f778a0eb2d5"
@@ -590,6 +615,11 @@
                 "buildid": "17453781",
                 "description": "Beta 11.1.9",
                 "timeupdated": "1740135929"
+            },
+            "playtest": {
+                "buildid": "19319524",
+                "description": "Eco Playtest for Update 12 on White Tiger",
+                "timeupdated": "1753255401"
             }
         },
         "privatebranches": "1"
