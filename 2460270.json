@@ -4,15 +4,15 @@
     "type": "Game",
     "schinese_name": "戏假成真",
     "isfreeapp": 0,
-    "update_time": "2025-06-21 21:54:25",
-    "change_number": 29681474,
+    "update_time": "2025-07-06 18:13:58",
+    "change_number": 29920175,
     "depot": {
         "2460271": {
             "manifests": {
                 "public": {
-                    "gid": "169310819640005762",
-                    "size": "572693554",
-                    "download": "406163360"
+                    "gid": "4920560050343733593",
+                    "size": "572698296",
+                    "download": "406170304"
                 }
             },
             "decryptionkey": "8ca7734f8263bc017538cc2462011026a02e37c4eefdded213834f0efd035528"
@@ -20,8 +20,8 @@
         "hasdepotsindlc": "1",
         "branches": {
             "public": {
-                "buildid": "18735335",
-                "timeupdated": "1749045730"
+                "buildid": "19124136",
+                "timeupdated": "1751822033"
             }
         }
     }
