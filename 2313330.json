@@ -4,8 +4,8 @@
     "type": "Game",
     "schinese_name": "泰拉科技世界",
     "isfreeapp": 0,
-    "update_time": "2025-06-20 20:49:59",
-    "change_number": 29668339,
+    "update_time": "2025-07-18 18:16:58",
+    "change_number": 30136302,
     "depot": {
         "228989": {
             "config": {
@@ -24,14 +24,14 @@
         "2313331": {
             "manifests": {
                 "public": {
-                    "gid": "3637510435570749068",
-                    "size": "8979978647",
-                    "download": "2790417616"
+                    "gid": "630973501302453562",
+                    "size": "9010939112",
+                    "download": "2814529632"
                 },
                 "ttw_unstable": {
-                    "gid": "1524473373341235557",
-                    "size": "9010007784",
-                    "download": "2813627792"
+                    "gid": "630973501302453562",
+                    "size": "9010939112",
+                    "download": "2814529632"
                 },
                 "legacy_0.5_build": {
                     "gid": "29336971284646861",
@@ -47,13 +47,13 @@
         "workshopdepot": "2313330",
         "branches": {
             "public": {
-                "buildid": "18237199",
-                "timeupdated": "1745581888"
+                "buildid": "19107353",
+                "timeupdated": "1751630274"
             },
             "ttw_unstable": {
-                "buildid": "18927199",
+                "buildid": "19107353",
                 "description": "Work-in-progress version",
-                "timeupdated": "1750419845"
+                "timeupdated": "1751630219"
             },
             "legacy_0.5_build": {
                 "buildid": "15162671",
