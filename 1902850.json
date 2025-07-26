@@ -4,8 +4,8 @@
     "type": "Game",
     "schinese_name": "",
     "isfreeapp": 0,
-    "update_time": "2025-06-16 18:22:59",
-    "change_number": 29584994,
+    "update_time": "2025-07-07 20:44:08",
+    "change_number": 29936826,
     "depot": {
         "1902851": {
             "config": {
@@ -35,6 +35,7 @@
                 "description": "Version 1.07",
                 "timeupdated": "1750066088"
             }
-        }
+        },
+        "privatebranches": "1"
     }
 }
