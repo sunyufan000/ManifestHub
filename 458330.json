@@ -4,7 +4,7 @@
     "type": "Game",
     "schinese_name": "Vilmonic进化",
     "isfreeapp": 0,
-    "update_time": "2025-06-10 12:20:24",
+    "update_time": "2025-06-23 11:52:12",
     "change_number": 29478541,
     "depot": {
         "baselanguages": "english,french,spanish,russian,latam",
@@ -25,7 +25,8 @@
                     "size": "171091321",
                     "download": "83571008"
                 }
-            }
+            },
+            "decryptionkey": "cd0e5c7daf27b6ecc98cd35e13752e8c26a8d5674354f2168c5719caf74c1801"
         },
         "458332": {
             "config": {
@@ -64,7 +65,8 @@
                     "size": "208581623",
                     "download": "107701984"
                 }
-            }
+            },
+            "decryptionkey": "4c3d911ab8e4a637523ad3fac75243a7e78f1c5cc970c76e41081ba4edf8bd63"
         },
         "458333": {
             "config": {
@@ -83,7 +85,8 @@
                     "size": "242630791",
                     "download": "116160224"
                 }
-            }
+            },
+            "decryptionkey": "9756f7538dcd6339915a8a9e542ca9e2adb9512b4a7fae53aa279457b35b3d16"
         },
         "458335": {
             "config": {
@@ -102,7 +105,8 @@
                     "size": "264225735",
                     "download": "107717936"
                 }
-            }
+            },
+            "decryptionkey": "02d427ee48aecbbc561c5897e9925ee4ef943338774016cbbb8669a589e8daa5"
         },
         "458336": {
             "config": {
