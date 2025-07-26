@@ -4,15 +4,15 @@
     "type": "Game",
     "schinese_name": "盛世繁荣：皇冠之重",
     "isfreeapp": 0,
-    "update_time": "2025-06-21 21:57:25",
-    "change_number": 29682519,
+    "update_time": "2025-07-22 01:42:52",
+    "change_number": 30176945,
     "depot": {
         "1245251": {
             "manifests": {
                 "public": {
-                    "gid": "6516858952945792548",
-                    "size": "6164214748",
-                    "download": "3176154224"
+                    "gid": "4002775078336293503",
+                    "size": "6164465084",
+                    "download": "3186407264"
                 },
                 "local": {
                     "gid": "5806562016910436320",
@@ -24,8 +24,8 @@
         },
         "branches": {
             "public": {
-                "buildid": "18861927",
-                "timeupdated": "1750290714"
+                "buildid": "19235839",
+                "timeupdated": "1753059322"
             },
             "local": {
                 "buildid": "12825745",
