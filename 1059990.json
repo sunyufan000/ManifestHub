@@ -4,8 +4,8 @@
     "type": "Game",
     "schinese_name": "",
     "isfreeapp": 0,
-    "update_time": "2025-06-19 03:03:34",
-    "change_number": 29635512,
+    "update_time": "2025-07-17 20:25:09",
+    "change_number": 30117685,
     "depot": {
         "baselanguages": "english",
         "1059991": {
@@ -15,14 +15,14 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "4004576616707719688",
-                    "size": "1060066846",
-                    "download": "740598272"
+                    "gid": "5611103566534941657",
+                    "size": "1060068085",
+                    "download": "740596912"
                 },
                 "betatesting": {
-                    "gid": "4004576616707719688",
-                    "size": "1060066846",
-                    "download": "740598272"
+                    "gid": "2986864928969665199",
+                    "size": "1048975764",
+                    "download": "740374080"
                 },
                 "last_update": {
                     "gid": "1803257756199674365",
@@ -39,14 +39,14 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "7904597121964821028",
-                    "size": "1052696533",
-                    "download": "738286288"
+                    "gid": "6572661733325510626",
+                    "size": "1052735935",
+                    "download": "738298608"
                 },
                 "betatesting": {
-                    "gid": "7904597121964821028",
-                    "size": "1052696533",
-                    "download": "738286288"
+                    "gid": "6290986590175645299",
+                    "size": "1041644141",
+                    "download": "738073328"
                 },
                 "last_update": {
                     "gid": "6714310705953277910",
@@ -62,14 +62,14 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "460199240532798275",
-                    "size": "1064695897",
-                    "download": "742177392"
+                    "gid": "2455369687063168689",
+                    "size": "1064697869",
+                    "download": "742175760"
                 },
                 "betatesting": {
-                    "gid": "460199240532798275",
-                    "size": "1064695897",
-                    "download": "742177392"
+                    "gid": "8424893269239964115",
+                    "size": "1053605138",
+                    "download": "741952560"
                 },
                 "last_update": {
                     "gid": "4798978594934125458",
@@ -82,13 +82,13 @@
         "workshopdepot": "1059990",
         "branches": {
             "public": {
-                "buildid": "18902327",
-                "timeupdated": "1750273369"
+                "buildid": "18999051",
+                "timeupdated": "1750950911"
             },
             "betatesting": {
-                "buildid": "18902327",
+                "buildid": "19264841",
                 "description": "Public branch for testing updates",
-                "timeupdated": "1750189364"
+                "timeupdated": "1752780304"
             },
             "last_update": {
                 "buildid": "17782378",
