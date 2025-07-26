@@ -4,7 +4,7 @@
     "type": "Game",
     "schinese_name": "落银城",
     "isfreeapp": 0,
-    "update_time": "2025-05-27 23:16:08",
+    "update_time": "2025-06-23 13:51:46",
     "change_number": 29215590,
     "depot": {
         "4428": {
@@ -150,7 +150,7 @@
                     "download": "0"
                 }
             },
-            "decryptionkey": ""
+            "decryptionkey": "2e464faecb091a83e7449e0dfef6d66cf99b5ae675de521283c1988b4e41807d"
         },
         "overridescddb": "1",
         "branches": {
