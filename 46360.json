@@ -4,8 +4,8 @@
     "type": "Game",
     "schinese_name": "战场2：库尔斯克1943",
     "isfreeapp": 0,
-    "update_time": "2025-05-27 01:16:07",
-    "change_number": 29196226,
+    "update_time": "2025-07-16 11:43:18",
+    "change_number": 30087375,
     "depot": {
         "overridescddb": "1",
         "228990": {
@@ -55,7 +55,7 @@
                     "download": "177754016"
                 }
             },
-            "decryptionkey": ""
+            "decryptionkey": "77294e7291bc1a99ee7a3ecfb3759bc3ad23817c82cd01f24ada5d5ddb442baa"
         },
         "46365": {
             "config": {
@@ -69,7 +69,7 @@
                     "download": "237856"
                 }
             },
-            "decryptionkey": ""
+            "decryptionkey": "145f0c23dd4e2b29ba2c97d4331e99e94528d78f3a37514bb45b1afd5f550d52"
         },
         "46362": {
             "optional": "1",
@@ -99,7 +99,7 @@
                     "download": "25182688"
                 }
             },
-            "decryptionkey": ""
+            "decryptionkey": "6cb2eeaf4172540daba53ec6a128d0224c0e34ca2aa521e4405d7cc942ba5144"
         },
         "46366": {
             "config": {
@@ -114,7 +114,7 @@
                     "download": "183776"
                 }
             },
-            "decryptionkey": ""
+            "decryptionkey": "5e72c3073f13fd8a1d3403671b809ee40e03ab9d9fb7d51ee9aa91c9108838fd"
         },
         "branches": {
             "public": {
