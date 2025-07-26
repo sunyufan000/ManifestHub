@@ -4,8 +4,8 @@
     "type": "Game",
     "schinese_name": "瞒着妈妈吃夜宵",
     "isfreeapp": 0,
-    "update_time": "2025-06-19 06:16:30",
-    "change_number": 29638053,
+    "update_time": "2025-07-19 15:53:05",
+    "change_number": 30147180,
     "depot": {
         "228989": {
             "config": {
@@ -24,17 +24,17 @@
         "3447571": {
             "manifests": {
                 "public": {
-                    "gid": "878854034145120190",
-                    "size": "1083290874",
-                    "download": "772152896"
+                    "gid": "2416164553778466210",
+                    "size": "1083344576",
+                    "download": "772213696"
                 }
             },
             "decryptionkey": "f9bb61e4615afefa730b28be97bbdde15dec611b9f63dc6c754adcf7dee9b70a"
         },
         "branches": {
             "public": {
-                "buildid": "18840847",
-                "timeupdated": "1749734202"
+                "buildid": "19006718",
+                "timeupdated": "1750921792"
             }
         }
     }
