@@ -4,8 +4,8 @@
     "type": "Game",
     "schinese_name": "术士计划2",
     "isfreeapp": 0,
-    "update_time": "2025-06-21 08:37:37",
-    "change_number": 29677577,
+    "update_time": "2025-07-24 01:07:22",
+    "change_number": 30216881,
     "depot": {
         "1640301": {
             "config": {
@@ -13,9 +13,9 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "4215251166041778895",
-                    "size": "11243848359",
-                    "download": "3519768896"
+                    "gid": "509428064242392009",
+                    "size": "11224911239",
+                    "download": "3527282976"
                 },
                 "chapter2_wargression": {
                     "gid": "4855901570708881704",
@@ -50,8 +50,8 @@
         },
         "branches": {
             "public": {
-                "buildid": "18897288",
-                "timeupdated": "1750174123"
+                "buildid": "19175565",
+                "timeupdated": "1752158416"
             },
             "chapter2_wargression": {
                 "buildid": "14627764",
