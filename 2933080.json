@@ -4,8 +4,8 @@
     "type": "Game",
     "schinese_name": "《法外枭雄：滚石城》Crime Boss: Rockay City",
     "isfreeapp": 0,
-    "update_time": "2025-06-22 05:55:18",
-    "change_number": 29683358,
+    "update_time": "2025-07-22 16:12:49",
+    "change_number": 30188773,
     "depot": {
         "228989": {
             "config": {
@@ -31,9 +31,9 @@
         "2933081": {
             "manifests": {
                 "public": {
-                    "gid": "7107308104261671000",
-                    "size": "94320458418",
-                    "download": "84114625952"
+                    "gid": "199567002226581427",
+                    "size": "95339069042",
+                    "download": "85068276720"
                 }
             },
             "decryptionkey": "c19e67580e16bb198a0208353b4ae25e66eee4cb16421cc24f593925c2cd41ec"
@@ -60,8 +60,8 @@
         },
         "branches": {
             "public": {
-                "buildid": "18344880",
-                "timeupdated": "1746715859"
+                "buildid": "19096471",
+                "timeupdated": "1752159087"
             }
         },
         "privatebranches": "1"
