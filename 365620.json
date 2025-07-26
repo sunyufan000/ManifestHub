@@ -4,7 +4,7 @@
     "type": "Game",
     "schinese_name": "空战英雄：二战航空",
     "isfreeapp": 0,
-    "update_time": "2025-06-12 11:48:41",
+    "update_time": "2025-06-23 11:26:14",
     "change_number": 29520503,
     "depot": {
         "228990": {
@@ -59,7 +59,8 @@
                     "size": "5393163856",
                     "download": "1984738560"
                 }
-            }
+            },
+            "decryptionkey": "3e4f7a404346036b8e2f9409bc94e700212be34c1a06a33722e3279ecce1778e"
         },
         "365623": {
             "config": {
