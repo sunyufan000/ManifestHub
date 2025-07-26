@@ -4,8 +4,8 @@
     "type": "Game",
     "schinese_name": "哥们，我的头去哪了？",
     "isfreeapp": 0,
-    "update_time": "2025-06-09 18:52:14",
-    "change_number": 29460411,
+    "update_time": "2025-07-19 19:52:14",
+    "change_number": 30148836,
     "depot": {
         "1564761": {
             "config": {
@@ -33,7 +33,7 @@
                     "download": "143678672"
                 }
             },
-            "decryptionkey": ""
+            "decryptionkey": "b5f8bc4fb0ab7a6d9a5f006530d207fe572f7399a896c3cfa7f2f12849e1b9ff"
         },
         "1564763": {
             "config": {
