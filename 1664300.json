@@ -4,8 +4,8 @@
     "type": "Tool",
     "schinese_name": "",
     "isfreeapp": 0,
-    "update_time": "2025-06-16 11:13:04",
-    "change_number": 29579993,
+    "update_time": "2025-07-23 19:36:30",
+    "change_number": 30212673,
     "depot": {
         "baselanguages": "english",
         "1004": {
@@ -14,9 +14,9 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "7747775778018907449",
-                    "size": "46727128",
-                    "download": "14307024"
+                    "gid": "8904491048620934740",
+                    "size": "68697032",
+                    "download": "20552544"
                 }
             },
             "depotfromapp": "1007",
@@ -42,9 +42,9 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "7138471031118904166",
-                    "size": "78382436",
-                    "download": "21254752"
+                    "gid": "5587033981095108078",
+                    "size": "107476144",
+                    "download": "29272144"
                 }
             },
             "depotfromapp": "1007",
@@ -169,9 +169,9 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "1843255398560031061",
-                    "size": "696614812",
-                    "download": "359906192"
+                    "gid": "5444692834381663617",
+                    "size": "811258809",
+                    "download": "436301488"
                 },
                 "crossplay": {
                     "gid": "8136902810013897403",
@@ -182,11 +182,6 @@
                     "gid": "5444692834381663617",
                     "size": "811258809",
                     "download": "436301488"
-                },
-                "testpublic": {
-                    "gid": "1843255398560031061",
-                    "size": "696614812",
-                    "download": "359906192"
                 }
             },
             "decryptionkey": ""
@@ -200,8 +195,8 @@
         },
         "branches": {
             "public": {
-                "buildid": "18860351",
-                "timeupdated": "1749934021"
+                "buildid": "16992802",
+                "timeupdated": "1753041246"
             },
             "crossplay": {
                 "buildid": "18765845",
@@ -212,11 +207,6 @@
                 "buildid": "16992802",
                 "description": "Version Old 126.5",
                 "timeupdated": "1748369304"
-            },
-            "testpublic": {
-                "buildid": "18860351",
-                "description": "testpublic",
-                "timeupdated": "1750043538"
             }
         },
         "privatebranches": "1"
