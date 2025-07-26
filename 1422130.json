@@ -4,8 +4,8 @@
     "type": "Game",
     "schinese_name": "",
     "isfreeapp": 0,
-    "update_time": "2025-06-18 13:07:18",
-    "change_number": 29622000,
+    "update_time": "2025-07-23 13:28:21",
+    "change_number": 30206202,
     "depot": {
         "baselanguages": "english,german,french,italian,spanish,schinese,tchinese,russian,polish,hungarian,czech,ukrainian",
         "workshopdepot": "1422130",
@@ -24,9 +24,9 @@
                     "download": "759002192"
                 },
                 "next": {
-                    "gid": "2013338472650414525",
-                    "size": "1207533011",
-                    "download": "759008144"
+                    "gid": "5692539834089223096",
+                    "size": "1192551147",
+                    "download": "769633952"
                 }
             },
             "decryptionkey": "1619b6c1fac954e2ca5ad8b46b1e5073af05feea9be14ef642832dc14e76a5d1"
@@ -39,9 +39,9 @@
                     "download": "17276596768"
                 },
                 "next": {
-                    "gid": "4484932471963446741",
-                    "size": "20524223570",
-                    "download": "17395937520"
+                    "gid": "2136901568047778541",
+                    "size": "20577194281",
+                    "download": "17465658112"
                 }
             },
             "decryptionkey": "03e8f3d92041be292986b8d84398fa901e2679f3eb8ebbea2fdef8ef623b3eaa"
@@ -54,9 +54,9 @@
                     "download": "286573472"
                 },
                 "next": {
-                    "gid": "5256321461930936741",
-                    "size": "372538954",
-                    "download": "286574064"
+                    "gid": "8415454707390914170",
+                    "size": "385383036",
+                    "download": "295044144"
                 }
             },
             "decryptionkey": "94a2e078e11a6ba3a441b41c83704e96dd97b8581f49fa6d0fd5116167e7b5ff"
@@ -69,9 +69,9 @@
                     "download": "32955601840"
                 },
                 "next": {
-                    "gid": "2229504367509734969",
-                    "size": "48181318418",
-                    "download": "33026902864"
+                    "gid": "6247471645178001634",
+                    "size": "48214449576",
+                    "download": "33079329392"
                 }
             },
             "decryptionkey": "5ba05793cfe06281329404679e35c9916f808892b239e8e11f26360f0a6614af"
@@ -85,9 +85,9 @@
                     "download": "12779223552"
                 },
                 "next": {
-                    "gid": "3854805500696321229",
-                    "size": "18216127392",
-                    "download": "12877038240"
+                    "gid": "5496235273885674807",
+                    "size": "28070026476",
+                    "download": "17784996912"
                 }
             },
             "decryptionkey": ""
@@ -101,9 +101,9 @@
                     "download": "6159267008"
                 },
                 "next": {
-                    "gid": "8677045415447938429",
-                    "size": "9125244187",
-                    "download": "6191580464"
+                    "gid": "4355990579187953806",
+                    "size": "9175262745",
+                    "download": "6271195120"
                 }
             },
             "decryptionkey": "35592f2d0dede2624b2620b56c4ee6070629e682ca1de506136164a6bd3260f3"
@@ -115,12 +115,12 @@
                 "timeupdated": "1749909052"
             },
             "next": {
-                "buildid": "18770070",
+                "buildid": "19305176",
                 "description": "Testing of next update",
-                "timeupdated": "1749933893"
+                "timeupdated": "1753273698"
             }
         },
         "privatebranches": "1",
-        "workshopdepotdecryptionkey": ""
+        "workshopdepotdecryptionkey": "a543494297f1016f380dd11d59d887fc3190460a20e7836f2bcf0a41bc87e6ec"
     }
 }
