@@ -4,23 +4,23 @@
     "type": "Game",
     "schinese_name": "咒运魔骰",
     "isfreeapp": 0,
-    "update_time": "2025-06-21 21:54:59",
-    "change_number": 29681667,
+    "update_time": "2025-07-21 10:31:34",
+    "change_number": 30163984,
     "depot": {
         "1990111": {
             "manifests": {
                 "public": {
-                    "gid": "1531684535815712088",
-                    "size": "2694767333",
-                    "download": "993053168"
+                    "gid": "1230240522064874880",
+                    "size": "2746542086",
+                    "download": "1035097792"
                 }
             },
             "decryptionkey": "f723416114aee3b707f497bfa2a6c20fc931920e4ad4d7d1526b8b9b8b3cdde6"
         },
         "branches": {
             "public": {
-                "buildid": "18550028",
-                "timeupdated": "1747835654"
+                "buildid": "19297520",
+                "timeupdated": "1753090289"
             }
         },
         "privatebranches": "1"
