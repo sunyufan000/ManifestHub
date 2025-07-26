@@ -4,8 +4,8 @@
     "type": "Game",
     "schinese_name": "无双深渊",
     "isfreeapp": 0,
-    "update_time": "2025-06-22 10:38:45",
-    "change_number": 29687320,
+    "update_time": "2025-07-16 07:40:31",
+    "change_number": 30083469,
     "depot": {
         "baselanguages": "english,german,french,italian,koreana,spanish,schinese,tchinese,japanese",
         "hasdepotsindlc": "1",
@@ -26,17 +26,17 @@
         "3178351": {
             "manifests": {
                 "public": {
-                    "gid": "4944510526985260465",
-                    "size": "3420276315",
-                    "download": "3307985056"
+                    "gid": "54252121847905997",
+                    "size": "3468960083",
+                    "download": "3352999888"
                 }
             },
             "decryptionkey": "50d5b19878cdd566dccd7b3f0042e13d42e13d32f5be8c88e71ea45a4d38323d"
         },
         "branches": {
             "public": {
-                "buildid": "18093291",
-                "timeupdated": "1745549595"
+                "buildid": "19171034",
+                "timeupdated": "1752202546"
             }
         },
         "privatebranches": "1"
