@@ -4,8 +4,8 @@
     "type": "Game",
     "schinese_name": "",
     "isfreeapp": 1,
-    "update_time": "2025-06-18 23:11:34",
-    "change_number": 29631592,
+    "update_time": "2025-07-20 19:18:18",
+    "change_number": 30156740,
     "depot": {
         "workshopdepot": "980610",
         "228986": {
@@ -42,9 +42,9 @@
                     "download": "120745216"
                 },
                 "canary": {
-                    "gid": "8223084585114017922",
-                    "size": "219822683",
-                    "download": "120699664"
+                    "gid": "7116221486510440704",
+                    "size": "220552089",
+                    "download": "121244448"
                 }
             },
             "decryptionkey": "418d82ef5ebf260ca48ddd96c01c1367ea2537b6367673b191ed585e25bb13c9"
@@ -62,9 +62,9 @@
                     "download": "120018000"
                 },
                 "canary": {
-                    "gid": "8272556580112015884",
-                    "size": "219748853",
-                    "download": "119815728"
+                    "gid": "8787381070755665286",
+                    "size": "220479283",
+                    "download": "120345040"
                 }
             },
             "decryptionkey": "a93064f352649bfe89c511446784777b7d1e33651c7c7233ecc9ceb882ec803a"
@@ -82,9 +82,9 @@
                     "download": "120298032"
                 },
                 "canary": {
-                    "gid": "3936373880180768655",
-                    "size": "219913196",
-                    "download": "120110032"
+                    "gid": "2746881405715760941",
+                    "size": "228234158",
+                    "download": "123180480"
                 }
             },
             "decryptionkey": "495de73db17a910672e29996fb7c6aee64bfd7429cfb3a516faffc490749fca6"
@@ -95,9 +95,9 @@
                 "timeupdated": "1737752001"
             },
             "canary": {
-                "buildid": "18250592",
+                "buildid": "19292581",
                 "description": "Canary Testing",
-                "timeupdated": "1745687746"
+                "timeupdated": "1753035494"
             }
         },
         "privatebranches": "1",
