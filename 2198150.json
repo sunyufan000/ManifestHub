@@ -4,8 +4,8 @@
     "type": "Game",
     "schinese_name": "林间小世界",
     "isfreeapp": 0,
-    "update_time": "2025-06-11 00:58:30",
-    "change_number": 29490989,
+    "update_time": "2025-07-23 11:31:12",
+    "change_number": 30204450,
     "depot": {
         "228988": {
             "config": {
@@ -31,10 +31,20 @@
                     "size": "2475046266",
                     "download": "1330608656"
                 },
-                "beta-1_13_0": {
-                    "gid": "8842829929210206983",
-                    "size": "2475927859",
-                    "download": "1330880448"
+                "beta-1_14_0": {
+                    "gid": "7612219056049217285",
+                    "size": "2689399208",
+                    "download": "1578743680"
+                },
+                "beta-hang-detect": {
+                    "gid": "6920076376235460189",
+                    "size": "2683932784",
+                    "download": "1576109824"
+                },
+                "beta-swapchain-timeout": {
+                    "gid": "5539600080393508089",
+                    "size": "2684055664",
+                    "download": "1576136688"
                 },
                 "old-1_12_1": {
                     "gid": "6911844144586561210",
@@ -65,10 +75,20 @@
                     "size": "2562496348",
                     "download": "1335281376"
                 },
-                "beta-1_13_0": {
-                    "gid": "5893050644304887348",
-                    "size": "2564803064",
-                    "download": "1335590224"
+                "beta-1_14_0": {
+                    "gid": "1197256735405350958",
+                    "size": "2806903710",
+                    "download": "1581218512"
+                },
+                "beta-hang-detect": {
+                    "gid": "5392346625917977282",
+                    "size": "2795999262",
+                    "download": "1577968640"
+                },
+                "beta-swapchain-timeout": {
+                    "gid": "3903368485364565933",
+                    "size": "2796003142",
+                    "download": "1577957520"
                 },
                 "old-1_12_1": {
                     "gid": "4260473591285961254",
@@ -93,10 +113,20 @@
                 "description": "(temp) 1.13.2a with 2x wall count limit",
                 "timeupdated": "1745236642"
             },
-            "beta-1_13_0": {
-                "buildid": "17646389",
-                "description": "2x terrain height + QoL",
-                "timeupdated": "1741435527"
+            "beta-1_14_0": {
+                "buildid": "19327497",
+                "description": "[BETA] Stairs & cobblestone",
+                "timeupdated": "1753266668"
+            },
+            "beta-hang-detect": {
+                "buildid": "19138962",
+                "description": "Experimental game hang detection",
+                "timeupdated": "1751935152"
+            },
+            "beta-swapchain-timeout": {
+                "buildid": "19145416",
+                "description": "Try to handle swapchain driver hang",
+                "timeupdated": "1751975971"
             },
             "old-1_12_1": {
                 "buildid": "17499064",
