@@ -4,8 +4,8 @@
     "type": "Game",
     "schinese_name": "武装突袭 重铸者",
     "isfreeapp": 0,
-    "update_time": "2025-06-22 09:24:10",
-    "change_number": 29686968,
+    "update_time": "2025-07-23 23:39:31",
+    "change_number": 30215916,
     "depot": {
         "228989": {
             "config": {
@@ -23,9 +23,9 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "526909479203247354",
-                    "size": "21664304631",
-                    "download": "16335275728"
+                    "gid": "3208659220235311754",
+                    "size": "21664327993",
+                    "download": "16439033456"
                 }
             },
             "decryptionkey": "f1bc308d3a58a8d144a76dc02d552819b433bda49c325060fcab53e8100cead3"
@@ -46,8 +46,8 @@
         },
         "branches": {
             "public": {
-                "buildid": "18898277",
-                "timeupdated": "1750331611"
+                "buildid": "19146543",
+                "timeupdated": "1752145254"
             }
         },
         "privatebranches": "1",
