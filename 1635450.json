@@ -4,8 +4,8 @@
     "type": "Game",
     "schinese_name": "",
     "isfreeapp": 0,
-    "update_time": "2025-06-11 22:37:05",
-    "change_number": 29505516,
+    "update_time": "2025-07-23 13:46:34",
+    "change_number": 30206504,
     "depot": {
         "228989": {
             "config": {
@@ -35,9 +35,9 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "4546985485199815738",
-                    "size": "7822417173",
-                    "download": "1520194144"
+                    "gid": "6841281202064311016",
+                    "size": "8209331272",
+                    "download": "1929515312"
                 },
                 "1.10b": {
                     "gid": "3739550028934972874",
@@ -54,6 +54,11 @@
                     "size": "6299875909",
                     "download": "1185421728"
                 },
+                "1.0-releasebuild": {
+                    "gid": "8275852934278927045",
+                    "size": "7822276885",
+                    "download": "1753529632"
+                },
                 "1.13": {
                     "gid": "41845239009616520",
                     "size": "6778659246",
@@ -65,9 +70,9 @@
                     "download": "1288400720"
                 },
                 "experimental-public": {
-                    "gid": "5971641368664193338",
-                    "size": "7805159693",
-                    "download": "1476133072"
+                    "gid": "271949674269074468",
+                    "size": "8577341283",
+                    "download": "2158858016"
                 }
             },
             "decryptionkey": "c2ee929e91b9cd2a8c5fbeacc241aa350dd3d69ef9b816e088ca7f13d8a1bb7c"
@@ -80,9 +85,9 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "2414131001960762049",
-                    "size": "1010998691",
-                    "download": "318414144"
+                    "gid": "8690857428353852669",
+                    "size": "1351045554",
+                    "download": "514697056"
                 },
                 "1.10b": {
                     "gid": "8615346765062420916",
@@ -99,6 +104,11 @@
                     "size": "971711079",
                     "download": "258000336"
                 },
+                "1.0-releasebuild": {
+                    "gid": "320066618720977345",
+                    "size": "899785341",
+                    "download": "270015840"
+                },
                 "1.13": {
                     "gid": "5485186111041144755",
                     "size": "992524165",
@@ -110,9 +120,9 @@
                     "download": "265496544"
                 },
                 "experimental-public": {
-                    "gid": "1937284281482746808",
-                    "size": "996571701",
-                    "download": "275121040"
+                    "gid": "8673850548934350381",
+                    "size": "1370775671",
+                    "download": "516042112"
                 }
             },
             "decryptionkey": "e8ba636ef56364d7b8ac0a117aaf34b9218b34c51597690c910afeb6f34f3f47"
@@ -120,8 +130,8 @@
         "workshopdepot": "1635450",
         "branches": {
             "public": {
-                "buildid": "18514700",
-                "timeupdated": "1747651422"
+                "buildid": "19269744",
+                "timeupdated": "1752813048"
             },
             "1.10b": {
                 "buildid": "11347715",
@@ -138,6 +148,11 @@
                 "description": "For modding compatibility",
                 "timeupdated": "1711487760"
             },
+            "1.0-releasebuild": {
+                "buildid": "19063857",
+                "description": "For modding compatibility",
+                "timeupdated": "1751366267"
+            },
             "1.13": {
                 "buildid": "14596055",
                 "description": "For modding compatibility",
@@ -149,9 +164,9 @@
                 "timeupdated": "1740125863"
             },
             "experimental-public": {
-                "buildid": "17867528",
+                "buildid": "19027136",
                 "description": "public testing",
-                "timeupdated": "1742995578"
+                "timeupdated": "1751113405"
             }
         },
         "privatebranches": "1",
