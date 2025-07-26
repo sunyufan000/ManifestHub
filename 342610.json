@@ -4,7 +4,7 @@
     "type": "Game",
     "schinese_name": "",
     "isfreeapp": 0,
-    "update_time": "2025-05-26 16:27:12",
+    "update_time": "2025-06-23 14:00:28",
     "change_number": 29187160,
     "depot": {
         "baselanguages": "english,german,russian,polish,czech,turkish",
@@ -56,7 +56,8 @@
                     "size": "12372172",
                     "download": "3814672"
                 }
-            }
+            },
+            "decryptionkey": "99f317920523c2a0f8a623219dec9ef84d52068120237c42f9cab7defe081d06"
         },
         "342613": {
             "config": {
@@ -80,7 +81,8 @@
                     "size": "17428622",
                     "download": "4932624"
                 }
-            }
+            },
+            "decryptionkey": "050b91817485944ad8ca36a1177eed5f45a4cde115d4a63027dbd56643be87ea"
         },
         "342614": {
             "config": {
@@ -103,7 +105,8 @@
                     "size": "19438908",
                     "download": "5833184"
                 }
-            }
+            },
+            "decryptionkey": "55cc3cfee841b21fb35a5177fcdeefe11bbf755543e3f4671cc49122dadbe2f7"
         },
         "342615": {
             "config": {
