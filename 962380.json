@@ -4,8 +4,8 @@
     "type": "Game",
     "schinese_name": "",
     "isfreeapp": 1,
-    "update_time": "2025-06-13 17:49:37",
-    "change_number": 29546520,
+    "update_time": "2025-07-12 10:22:13",
+    "change_number": 30025633,
     "depot": {
         "hasdepotsindlc": "0",
         "baselanguages": "english,japanese",
@@ -24,14 +24,14 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "4414305480208493414",
-                    "size": "638506436",
-                    "download": "507843552"
+                    "gid": "4685274468333016225",
+                    "size": "638283706",
+                    "download": "507772464"
                 },
                 "test": {
-                    "gid": "7556416216550068460",
-                    "size": "598227028",
-                    "download": "466927504"
+                    "gid": "4685274468333016225",
+                    "size": "638283706",
+                    "download": "507772464"
                 }
             },
             "decryptionkey": "1ef89851103d2aa0b76e6857dd90a76d2d72df19fabe20b9d8316212c326e832"
@@ -48,9 +48,9 @@
                     "download": "185123024"
                 },
                 "test": {
-                    "gid": "6999935832899984502",
-                    "size": "219331422",
-                    "download": "185123920"
+                    "gid": "3639996024053336551",
+                    "size": "219331413",
+                    "download": "185123024"
                 }
             },
             "decryptionkey": ""
@@ -67,9 +67,9 @@
                     "download": "248482832"
                 },
                 "test": {
-                    "gid": "1562103609138414653",
-                    "size": "288706129",
-                    "download": "248482704"
+                    "gid": "8028402961206787330",
+                    "size": "288706127",
+                    "download": "248482832"
                 }
             },
             "decryptionkey": ""
@@ -86,9 +86,9 @@
                     "download": "170679648"
                 },
                 "test": {
-                    "gid": "2158070926514306635",
-                    "size": "201368207",
-                    "download": "170679376"
+                    "gid": "9012706037355317510",
+                    "size": "201368208",
+                    "download": "170679648"
                 }
             },
             "decryptionkey": ""
@@ -105,9 +105,9 @@
                     "download": "209528688"
                 },
                 "test": {
-                    "gid": "7225532381091727919",
-                    "size": "247459331",
-                    "download": "209530272"
+                    "gid": "675596361615236533",
+                    "size": "247459334",
+                    "download": "209528688"
                 }
             },
             "decryptionkey": ""
@@ -124,9 +124,9 @@
                     "download": "247875712"
                 },
                 "test": {
-                    "gid": "8612250487000424580",
-                    "size": "297433149",
-                    "download": "247875760"
+                    "gid": "2469270921376358457",
+                    "size": "297433154",
+                    "download": "247875712"
                 }
             },
             "decryptionkey": ""
@@ -141,18 +141,23 @@
                     "gid": "5196946487031381266",
                     "size": "1239027212",
                     "download": "1047185728"
+                },
+                "test": {
+                    "gid": "5196946487031381266",
+                    "size": "1239027212",
+                    "download": "1047185728"
                 }
             },
             "decryptionkey": ""
         },
         "branches": {
             "public": {
-                "buildid": "10846368",
-                "timeupdated": "1679648814"
+                "buildid": "19103382",
+                "timeupdated": "1751608491"
             },
             "test": {
-                "buildid": "3292305",
-                "timeupdated": "1541760602"
+                "buildid": "19103382",
+                "timeupdated": "1751605891"
             }
         },
         "workshopdepotdecryptionkey": ""
