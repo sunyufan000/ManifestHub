@@ -4,35 +4,35 @@
     "type": "Game",
     "schinese_name": "",
     "isfreeapp": 0,
-    "update_time": "2025-06-08 11:55:32",
-    "change_number": 29442272,
+    "update_time": "2025-07-21 06:20:59",
+    "change_number": 30161093,
     "depot": {
         "baselanguages": "english,schinese",
         "hasdepotsindlc": "0",
         "1725951": {
             "manifests": {
                 "public": {
-                    "gid": "947845129325038643",
-                    "size": "428207612",
-                    "download": "203158176"
+                    "gid": "3545037659680690434",
+                    "size": "429704414",
+                    "download": "204517296"
                 },
                 "old-version": {
-                    "gid": "3776913240917857936",
-                    "size": "420940071",
-                    "download": "196465440"
+                    "gid": "7577050256005143822",
+                    "size": "430623495",
+                    "download": "204520800"
                 }
             },
             "decryptionkey": "84a861d76b157b4729f0bffbd15255b98bad47300252ab0e88221f7a375eb3f5"
         },
         "branches": {
             "public": {
-                "buildid": "18781955",
-                "timeupdated": "1749354925"
+                "buildid": "19295915",
+                "timeupdated": "1753075229"
             },
             "old-version": {
-                "buildid": "18282600",
+                "buildid": "19037924",
                 "description": "老版本，如果无法读取存档请在这个版本转生之后再更新",
-                "timeupdated": "1749026762"
+                "timeupdated": "1753075254"
             }
         },
         "privatebranches": "1"
