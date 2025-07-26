@@ -4,8 +4,8 @@
     "type": "Game",
     "schinese_name": "世纪：灰烬纪元",
     "isfreeapp": 1,
-    "update_time": "2025-06-13 01:18:55",
-    "change_number": 29525424,
+    "update_time": "2025-07-09 14:10:14",
+    "change_number": 29968762,
     "depot": {
         "228988": {
             "config": {
@@ -28,9 +28,9 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "5754949539902903171",
-                    "size": "16098672524",
-                    "download": "12693681168"
+                    "gid": "8209082841011515708",
+                    "size": "16098859391",
+                    "download": "12693639728"
                 }
             },
             "decryptionkey": "a93b27550f2a4862a1d66a3dafa345b2bc7a796274a2f732caca7d6aa08e7a66"
@@ -38,8 +38,8 @@
         "baselanguages": "english,german,french,spanish,schinese,russian,japanese,brazilian",
         "branches": {
             "public": {
-                "buildid": "18808863",
-                "timeupdated": "1749721691"
+                "buildid": "19110181",
+                "timeupdated": "1752066609"
             }
         },
         "privatebranches": "1"
