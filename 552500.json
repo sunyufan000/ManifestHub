@@ -4,8 +4,8 @@
     "type": "Game",
     "schinese_name": "战锤：末世鼠疫2",
     "isfreeapp": 0,
-    "update_time": "2025-06-18 20:20:24",
-    "change_number": 29604988,
+    "update_time": "2025-07-23 15:39:22",
+    "change_number": 30208471,
     "depot": {
         "228983": {
             "config": {
@@ -62,14 +62,14 @@
         "552501": {
             "manifests": {
                 "public": {
-                    "gid": "8557175706894570494",
-                    "size": "67454969217",
-                    "download": "42104847200"
+                    "gid": "7992702276935981436",
+                    "size": "67454974046",
+                    "download": "42104853056"
                 },
                 "temporary_launcher_workaround": {
-                    "gid": "8557175706894570494",
-                    "size": "67454969217",
-                    "download": "42104847200"
+                    "gid": "7992702276935981436",
+                    "size": "67454974046",
+                    "download": "42104853056"
                 }
             },
             "decryptionkey": "a7a75811b296249cb955e09881a66f2d253d083995ab0a749c6448e5ee6beee2"
@@ -92,14 +92,14 @@
         "552503": {
             "manifests": {
                 "public": {
-                    "gid": "4982309000004089357",
-                    "size": "272074101",
-                    "download": "68229840"
+                    "gid": "4036638607872741551",
+                    "size": "272085096",
+                    "download": "68228064"
                 },
                 "temporary_launcher_workaround": {
-                    "gid": "4982309000004089357",
-                    "size": "272074101",
-                    "download": "68229840"
+                    "gid": "4036638607872741551",
+                    "size": "272085096",
+                    "download": "68228064"
                 }
             },
             "decryptionkey": "dedd3fd14201a662940967a122b5f016d671e484a6b5e916669062f82007426a"
@@ -107,14 +107,14 @@
         "552504": {
             "manifests": {
                 "public": {
-                    "gid": "1948786653051546473",
+                    "gid": "3560935231160226457",
                     "size": "318641577",
-                    "download": "75529776"
+                    "download": "75537952"
                 },
                 "temporary_launcher_workaround": {
-                    "gid": "1948786653051546473",
+                    "gid": "3560935231160226457",
                     "size": "318641577",
-                    "download": "75529776"
+                    "download": "75537952"
                 }
             },
             "decryptionkey": ""
@@ -144,13 +144,13 @@
         },
         "branches": {
             "public": {
-                "buildid": "18643134",
-                "timeupdated": "1748441413"
+                "buildid": "19130873",
+                "timeupdated": "1752051681"
             },
             "temporary_launcher_workaround": {
-                "buildid": "18643127",
+                "buildid": "19130873",
                 "description": "Bypass Launcher",
-                "timeupdated": "1748441371"
+                "timeupdated": "1752100008"
             }
         },
         "privatebranches": "1",
