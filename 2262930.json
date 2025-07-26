@@ -4,8 +4,8 @@
     "type": "Game",
     "schinese_name": "",
     "isfreeapp": 0,
-    "update_time": "2025-05-24 02:17:28",
-    "change_number": 29156398,
+    "update_time": "2025-07-22 22:13:08",
+    "change_number": 30194171,
     "depot": {
         "228988": {
             "config": {
@@ -25,9 +25,9 @@
                     "download": "59300208"
                 },
                 "testing": {
-                    "gid": "3360178893160193849",
-                    "size": "89195756",
-                    "download": "59303360"
+                    "gid": "305037297292855728",
+                    "size": "89132319",
+                    "download": "59293248"
                 }
             },
             "decryptionkey": "a4988f49f480c7124865b393dbd99b5d8ee316574f6d4168ee3fb0d5063bcff4"
@@ -43,9 +43,9 @@
                     "download": "65114320"
                 },
                 "testing": {
-                    "gid": "4637080146867641635",
-                    "size": "108175188",
-                    "download": "65153008"
+                    "gid": "7394199065283350881",
+                    "size": "108126015",
+                    "download": "65766352"
                 }
             }
         },
@@ -60,9 +60,9 @@
                     "download": "63408688"
                 },
                 "testing": {
-                    "gid": "361194437812992457",
-                    "size": "105736292",
-                    "download": "63412880"
+                    "gid": "2023927404805065820",
+                    "size": "105671375",
+                    "download": "63429616"
                 }
             }
         },
@@ -72,9 +72,9 @@
                 "timeupdated": "1743443373"
             },
             "testing": {
-                "buildid": "18102624",
+                "buildid": "19320458",
                 "description": " Testing branch for unstable and experimental",
-                "timeupdated": "1744652018"
+                "timeupdated": "1753218784"
             }
         }
     }
