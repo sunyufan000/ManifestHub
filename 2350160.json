@@ -4,15 +4,15 @@
     "type": "DLC",
     "schinese_name": "三国志汉末霸业-美术升级包",
     "isfreeapp": 0,
-    "update_time": "2025-05-27 16:29:10",
-    "change_number": 29202794,
+    "update_time": "2025-07-15 04:09:36",
+    "change_number": 30060424,
     "depot": {
         "2350161": {
             "manifests": {
                 "public": {
-                    "gid": "5125624472013331282",
-                    "size": "911286307",
-                    "download": "567171888"
+                    "gid": "1990535219017686755",
+                    "size": "1058688789",
+                    "download": "689557056"
                 }
             },
             "dlcappid": "2350160",
@@ -20,8 +20,8 @@
         },
         "branches": {
             "public": {
-                "buildid": "18607618",
-                "timeupdated": "1748311072"
+                "buildid": "19224505",
+                "timeupdated": "1752548971"
             }
         },
         "privatebranches": "1"
