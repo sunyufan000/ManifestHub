@@ -4,8 +4,8 @@
     "type": "Game",
     "schinese_name": "风暴之城 Against the Storm",
     "isfreeapp": 0,
-    "update_time": "2025-06-22 06:39:09",
-    "change_number": 29686123,
+    "update_time": "2025-07-23 16:10:38",
+    "change_number": 30209051,
     "depot": {
         "1336491": {
             "config": {
@@ -26,7 +26,7 @@
             },
             "decryptionkey": "c62157594f44e2a3087998f70ca9dfe4736a0a98d9d1eca658ecaaf102f17dec"
         },
-        "baselanguages": "english",
+        "baselanguages": "english,german,french,italian,koreana,spanish,schinese,tchinese,russian,thai,japanese,polish,hungarian,czech,turkish,brazilian,ukrainian,latam",
         "hasdepotsindlc": "1",
         "branches": {
             "public": {
