@@ -1,0 +1,32 @@
+{
+    "appid": 1118840,
+    "name": "My Name is You and it's the only unusual thing in my life",
+    "type": "Game",
+    "schinese_name": "",
+    "isfreeapp": 0,
+    "update_time": "2025-07-20 12:51:59",
+    "change_number": 30154098,
+    "depot": {
+        "1118841": {
+            "config": {
+                "oslist": "windows",
+                "language": ""
+            },
+            "manifests": {
+                "public": {
+                    "gid": "5226808124100043362",
+                    "size": "384354344",
+                    "download": "246211024"
+                }
+            },
+            "decryptionkey": "e4fdbf680b355f9cca03258a0e1948a4c10c0e251d285f27f191244c423fed79"
+        },
+        "baselanguages": "english,russian",
+        "branches": {
+            "public": {
+                "buildid": "17911234",
+                "timeupdated": "1743273841"
+            }
+        }
+    }
+}
