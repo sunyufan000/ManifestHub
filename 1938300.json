@@ -4,8 +4,8 @@
     "type": "Game",
     "schinese_name": "模拟触手",
     "isfreeapp": 0,
-    "update_time": "2025-06-20 16:46:25",
-    "change_number": 29664631,
+    "update_time": "2025-07-22 12:07:44",
+    "change_number": 30184577,
     "depot": {
         "1938301": {
             "config": {
@@ -13,17 +13,17 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "9122031758800077530",
-                    "size": "4874882520",
-                    "download": "717915904"
+                    "gid": "5304010022159221128",
+                    "size": "5026646520",
+                    "download": "762379888"
                 }
             },
             "decryptionkey": "1788feeb0f2ddff968a94fd76e7a3b8c64b57f191c423264c48b7fb22839eb4a"
         },
         "branches": {
             "public": {
-                "buildid": "18937554",
-                "timeupdated": "1750409179"
+                "buildid": "19210701",
+                "timeupdated": "1753182460"
             }
         },
         "privatebranches": "1"
