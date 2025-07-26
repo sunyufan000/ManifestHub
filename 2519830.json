@@ -4,8 +4,8 @@
     "type": "Game",
     "schinese_name": "",
     "isfreeapp": 1,
-    "update_time": "2025-06-18 06:05:11",
-    "change_number": 29609979,
+    "update_time": "2025-07-24 00:23:52",
+    "change_number": 30216419,
     "depot": {
         "baselanguages": "english,german,french,koreana,spanish,schinese,tchinese,russian,japanese,polish,dutch,finnish,norwegian,swedish,czech,turkish,ukrainian",
         "228984": {
@@ -48,9 +48,9 @@
                     "download": "191754528"
                 },
                 "prerelease": {
-                    "gid": "4281492182895112523",
-                    "size": "1407685347",
-                    "download": "240973056"
+                    "gid": "2574249368132515320",
+                    "size": "1772722126",
+                    "download": "300993840"
                 },
                 "release": {
                     "gid": "6221332527682572057",
@@ -86,9 +86,9 @@
                 "timeupdated": "1750170469"
             },
             "prerelease": {
-                "buildid": "18665887",
+                "buildid": "19336121",
                 "description": "This includes pre-release builds for testing, before they're pushed to public. USE AT YOUR OWN RISK",
-                "timeupdated": "1748559721"
+                "timeupdated": "1753313028"
             },
             "release": {
                 "buildid": "18898712",
