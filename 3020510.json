@@ -4,22 +4,22 @@
     "type": "Game",
     "schinese_name": "英雄立志传：三国志",
     "isfreeapp": 0,
-    "update_time": "2025-06-21 21:56:58",
-    "change_number": 29682333,
+    "update_time": "2025-07-23 12:57:53",
+    "change_number": 30205716,
     "depot": {
         "baselanguages": "schinese",
         "workshopdepot": "3020510",
         "3020511": {
             "manifests": {
                 "public": {
-                    "gid": "8405912205173568430",
-                    "size": "7139508916",
-                    "download": "3588150624"
+                    "gid": "6833991641999778686",
+                    "size": "7206607624",
+                    "download": "3606448912"
                 },
                 "guoqibanben": {
-                    "gid": "3917392777495613047",
-                    "size": "7107318386",
-                    "download": "3468152960"
+                    "gid": "8946658463924159480",
+                    "size": "7107314226",
+                    "download": "3468050160"
                 },
                 "v0.59.08": {
                     "gid": "7072751219543211132",
@@ -31,13 +31,13 @@
         },
         "branches": {
             "public": {
-                "buildid": "18826728",
-                "timeupdated": "1749711820"
+                "buildid": "19142235",
+                "timeupdated": "1751963603"
             },
             "guoqibanben": {
-                "buildid": "18322993",
+                "buildid": "18293931",
                 "description": "无法更新的玩家请尝试将Steam客户端更新至最新版本(版本号1747701111，版本日期5月20日)",
-                "timeupdated": "1748659197"
+                "timeupdated": "1751356161"
             },
             "v0.59.08": {
                 "buildid": "18512062",
