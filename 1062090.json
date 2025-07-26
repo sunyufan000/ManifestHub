@@ -4,8 +4,8 @@
     "type": "Game",
     "schinese_name": "海狸浮生记 Timberborn",
     "isfreeapp": 0,
-    "update_time": "2025-06-18 16:39:40",
-    "change_number": 29624967,
+    "update_time": "2025-07-20 13:18:23",
+    "change_number": 30154234,
     "depot": {
         "228988": {
             "config": {
@@ -29,14 +29,14 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "8975623315779301297",
-                    "size": "2043614396",
-                    "download": "982571296"
+                    "gid": "8428754161272443208",
+                    "size": "2043167335",
+                    "download": "990033872"
                 },
                 "experimental": {
-                    "gid": "9051206689597356600",
-                    "size": "2043785201",
-                    "download": "982605856"
+                    "gid": "6979424090794165838",
+                    "size": "2043167399",
+                    "download": "989833520"
                 },
                 "old-0.0": {
                     "gid": "3617753957323826031",
@@ -83,14 +83,14 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "2611919397874353807",
-                    "size": "2053091098",
-                    "download": "987359024"
+                    "gid": "2432352389034748122",
+                    "size": "2052644235",
+                    "download": "995166480"
                 },
                 "experimental": {
-                    "gid": "4372837412148680973",
-                    "size": "2053261970",
-                    "download": "987394768"
+                    "gid": "948992292125819443",
+                    "size": "2052644284",
+                    "download": "994965296"
                 },
                 "old-0.0": {
                     "gid": "2167248415237250361",
@@ -134,13 +134,13 @@
         "workshopdepot": "1062090",
         "branches": {
             "public": {
-                "buildid": "18821008",
-                "timeupdated": "1749631705"
+                "buildid": "19230973",
+                "timeupdated": "1752652695"
             },
             "experimental": {
-                "buildid": "18909284",
+                "buildid": "19158502",
                 "description": "Experimental branch",
-                "timeupdated": "1750235973"
+                "timeupdated": "1752055176"
             },
             "old-0.0": {
                 "buildid": "7817926",
