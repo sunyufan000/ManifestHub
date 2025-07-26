@@ -4,8 +4,8 @@
     "type": "Game",
     "schinese_name": "极限巅峰",
     "isfreeapp": 0,
-    "update_time": "2025-06-12 17:06:00",
-    "change_number": 29524701,
+    "update_time": "2025-07-03 13:13:57",
+    "change_number": 29878371,
     "depot": {
         "baselanguages": "english,german,french,italian,spanish,schinese,tchinese,russian,japanese,polish,danish,dutch,finnish,norwegian,swedish,brazilian",
         "228990": {
@@ -28,9 +28,9 @@
         "1716751": {
             "manifests": {
                 "public": {
-                    "gid": "7692967814764193714",
-                    "size": "631944",
-                    "download": "515248"
+                    "gid": "818295193716041715",
+                    "size": "632424",
+                    "download": "551504"
                 }
             },
             "depotfromapp": "1716750",
