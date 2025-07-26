@@ -4,8 +4,8 @@
     "type": "Tool",
     "schinese_name": "",
     "isfreeapp": 0,
-    "update_time": "2025-06-20 21:00:10",
-    "change_number": 29668511,
+    "update_time": "2025-07-23 19:37:19",
+    "change_number": 30212673,
     "depot": {
         "1004": {
             "config": {
@@ -13,9 +13,9 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "7747775778018907449",
-                    "size": "46727128",
-                    "download": "14307024"
+                    "gid": "8904491048620934740",
+                    "size": "68697032",
+                    "download": "20552544"
                 }
             },
             "depotfromapp": "1007",
@@ -41,9 +41,9 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "7138471031118904166",
-                    "size": "78382436",
-                    "download": "21254752"
+                    "gid": "5587033981095108078",
+                    "size": "107476144",
+                    "download": "29272144"
                 }
             },
             "depotfromapp": "1007",
@@ -56,27 +56,27 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "4007377315584078726",
-                    "size": "4213979000",
-                    "download": "1181651568"
+                    "gid": "73661866862380437",
+                    "size": "4222770559",
+                    "download": "1197805232"
                 },
                 "ttw_unstable": {
-                    "gid": "1436809371717071535",
-                    "size": "4221877119",
-                    "download": "1197485216"
+                    "gid": "73661866862380437",
+                    "size": "4222770559",
+                    "download": "1197805232"
                 }
             },
             "decryptionkey": "6414d7c755a04492deecd3b9e0977312a0958da1f2fe5b70877851c87d7d1ba7"
         },
         "branches": {
             "public": {
-                "buildid": "18237327",
-                "timeupdated": "1745581927"
+                "buildid": "19107448",
+                "timeupdated": "1751630397"
             },
             "ttw_unstable": {
-                "buildid": "18927328",
+                "buildid": "19107448",
                 "description": "Work-in-progress build",
-                "timeupdated": "1750419874"
+                "timeupdated": "1751630234"
             }
         },
         "privatebranches": "1"
