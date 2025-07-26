@@ -1,0 +1,28 @@
+{
+    "appid": 1022472,
+    "name": "DFF NT: Ace Starter Pack",
+    "type": "DLC",
+    "schinese_name": "",
+    "isfreeapp": 0,
+    "update_time": "2025-06-23 14:10:17",
+    "change_number": 26201212,
+    "depot": {
+        "1022472": {
+            "manifests": {
+                "public": {
+                    "gid": "5124788876507055363",
+                    "size": "0",
+                    "download": "0"
+                }
+            },
+            "dlcappid": "1022472",
+            "decryptionkey": "e6dd3bbcc894ccaac13d56ef548155548a69c10605cf202d004deca7e8143dd5"
+        },
+        "branches": {
+            "public": {
+                "buildid": "3508047",
+                "timeupdated": "1548671985"
+            }
+        }
+    }
+}
