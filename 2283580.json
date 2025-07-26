@@ -4,8 +4,8 @@
     "type": "Game",
     "schinese_name": "",
     "isfreeapp": 0,
-    "update_time": "2025-06-12 02:52:31",
-    "change_number": 29513930,
+    "update_time": "2025-07-23 19:46:34",
+    "change_number": 30212857,
     "depot": {
         "2283581": {
             "config": {
@@ -13,47 +13,37 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "4292012777952729831",
-                    "size": "768048719",
-                    "download": "297895824"
+                    "gid": "3517421421594251773",
+                    "size": "769113282",
+                    "download": "336989216"
                 },
                 "devtest": {
-                    "gid": "4292012777952729831",
-                    "size": "768048719",
-                    "download": "297895824"
+                    "gid": "3517421421594251773",
+                    "size": "769113282",
+                    "download": "336989216"
                 },
                 "earlytest": {
-                    "gid": "4292012777952729831",
-                    "size": "768048719",
-                    "download": "297895824"
-                },
-                "last_old_worlds": {
-                    "gid": "5705626228557329003",
-                    "size": "715505029",
-                    "download": "331279824"
+                    "gid": "3517421421594251773",
+                    "size": "769113282",
+                    "download": "336989216"
                 }
             },
             "decryptionkey": "9b84af9059367218f69b366e157a18614b0841913a555a78865df2f4515b2e7f"
         },
         "branches": {
             "public": {
-                "buildid": "18829513",
-                "timeupdated": "1749667945"
+                "buildid": "19333323",
+                "timeupdated": "1753296389"
             },
             "devtest": {
-                "buildid": "18829513",
+                "buildid": "19333323",
                 "description": "for devs only, no testers",
-                "timeupdated": "1749665860"
+                "timeupdated": "1753295812"
             },
             "earlytest": {
-                "buildid": "18829513",
+                "buildid": "19333323",
                 "description": "EarlyTest",
-                "timeupdated": "1749665916"
-            },
-            "last_old_worlds": {
-                "buildid": "14227051",
-                "description": "last version that will load worlds in the old format, and save in the new",
-                "timeupdated": "1714517372"
+                "timeupdated": "1753295868"
             }
         }
     }
