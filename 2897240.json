@@ -4,8 +4,8 @@
     "type": "Game",
     "schinese_name": "",
     "isfreeapp": 0,
-    "update_time": "2025-06-03 19:28:52",
-    "change_number": 29340459,
+    "update_time": "2025-07-23 02:18:23",
+    "change_number": 30197185,
     "depot": {
         "2897241": {
             "config": {
@@ -13,47 +13,57 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "1876299674135533474",
-                    "size": "630539293",
-                    "download": "196689248"
+                    "gid": "3907369027993130631",
+                    "size": "648662093",
+                    "download": "211726576"
                 },
                 "preview": {
-                    "gid": "700989779993188601",
-                    "size": "630652909",
-                    "download": "200316992"
+                    "gid": "3907369027993130631",
+                    "size": "648662093",
+                    "download": "211726576"
                 },
-                "legacy": {
+                "old-v17": {
+                    "gid": "1184565469634580986",
+                    "size": "648653861",
+                    "download": "211696880"
+                },
+                "old-v16": {
                     "gid": "1154810789474934108",
                     "size": "628295842",
                     "download": "195404880"
                 },
-                "originalgame": {
-                    "gid": "812925127942085086",
-                    "size": "250984322",
-                    "download": "85975488"
+                "old-v15": {
+                    "gid": "4888001769942715505",
+                    "size": "616867686",
+                    "download": "187179408"
                 }
             },
             "decryptionkey": "ba11bbfd0530c6d8c0d71902a329f6345f9bfe90a82e944b111a474559b81a9c"
         },
         "branches": {
             "public": {
-                "buildid": "18602707",
-                "timeupdated": "1748200592"
+                "buildid": "19309587",
+                "timeupdated": "1753233271"
             },
             "preview": {
-                "buildid": "18712500",
+                "buildid": "19309587",
                 "description": "For previewing the next update and giving feedback",
-                "timeupdated": "1748926371"
+                "timeupdated": "1753155743"
             },
-            "legacy": {
+            "old-v17": {
+                "buildid": "19254393",
+                "description": "(OLD) v17",
+                "timeupdated": "1753233401"
+            },
+            "old-v16": {
                 "buildid": "16546163",
-                "description": "The previous version of the game",
-                "timeupdated": "1747717232"
+                "description": "(OLD) v16",
+                "timeupdated": "1753233437"
             },
-            "originalgame": {
-                "buildid": "13781313",
-                "description": "Want to know what this game was like early on in development? This is a snapshot from March 2024.",
-                "timeupdated": "1720592001"
+            "old-v15": {
+                "buildid": "15623083",
+                "description": "(OLD) v15",
+                "timeupdated": "1753233499"
             }
         }
     }
