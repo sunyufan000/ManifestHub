@@ -4,8 +4,8 @@
     "type": "Game",
     "schinese_name": "",
     "isfreeapp": 0,
-    "update_time": "2025-06-21 15:18:14",
-    "change_number": 29680104,
+    "update_time": "2025-07-22 12:37:16",
+    "change_number": 30185025,
     "depot": {
         "baselanguages": "english,german",
         "workshopdepot": "1043340",
@@ -15,9 +15,9 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "157793737453331505",
-                    "size": "1661826967",
-                    "download": "898020480"
+                    "gid": "620059325801435738",
+                    "size": "1662472178",
+                    "download": "909466480"
                 },
                 "legacy": {
                     "gid": "7156769587563603838",
@@ -30,9 +30,9 @@
                     "download": "290036288"
                 },
                 "public-testing": {
-                    "gid": "8761220402574717913",
-                    "size": "1662255833",
-                    "download": "901578704"
+                    "gid": "620059325801435738",
+                    "size": "1662472178",
+                    "download": "909466480"
                 }
             },
             "decryptionkey": "6cacd8ad6995eee791022c2c1cf956eeae2bae1cc693150d53dc016e346eeb08"
@@ -43,9 +43,9 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "703465978064097281",
-                    "size": "1798814344",
-                    "download": "993772624"
+                    "gid": "6287257765749872514",
+                    "size": "1799382197",
+                    "download": "1005199600"
                 },
                 "legacy": {
                     "gid": "6312511305375488909",
@@ -58,16 +58,16 @@
                     "download": "1035863136"
                 },
                 "public-testing": {
-                    "gid": "703465978064097281",
-                    "size": "1798814344",
-                    "download": "993772624"
+                    "gid": "6287257765749872514",
+                    "size": "1799382197",
+                    "download": "1005199600"
                 }
             }
         },
         "branches": {
             "public": {
-                "buildid": "18810656",
-                "timeupdated": "1749588454"
+                "buildid": "19314049",
+                "timeupdated": "1753184232"
             },
             "legacy": {
                 "buildid": "14727878",
@@ -80,9 +80,9 @@
                 "timeupdated": "1718433625"
             },
             "public-testing": {
-                "buildid": "18948332",
+                "buildid": "19314049",
                 "description": "Open for the public -- UNSTABLE -- Always backup your saves!",
-                "timeupdated": "1750490266"
+                "timeupdated": "1753184203"
             }
         },
         "workshopdepotdecryptionkey": "3988c60342c75c49060028ce02a445154c37a3b557b2df8d2b175992d55ece73"
