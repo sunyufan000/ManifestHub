@@ -4,8 +4,8 @@
     "type": "Application",
     "schinese_name": "",
     "isfreeapp": 0,
-    "update_time": "2025-06-20 05:28:32",
-    "change_number": 29654263,
+    "update_time": "2025-07-23 18:15:02",
+    "change_number": 30211376,
     "depot": {
         "overridescddb": "1",
         "preloadonly": "1",
@@ -698,7 +698,7 @@
                     "download": "3024160"
                 }
             },
-            "decryptionkey": ""
+            "decryptionkey": "9e5fa29e320aaeebf416f77894bf98833a128559ba99b3209c1151a36abb3c2e"
         },
         "271964": {
             "dlcappid": "271964",
@@ -2093,7 +2093,7 @@
                     "download": "5644768"
                 }
             },
-            "decryptionkey": ""
+            "decryptionkey": "eb87759249de0ba0d4408e628e582c0b1f9537c8d3f673fde477332859ba1fa3"
         },
         "525442": {
             "dlcappid": "525442",
@@ -2349,7 +2349,7 @@
                     "download": "198856544"
                 }
             },
-            "decryptionkey": ""
+            "decryptionkey": "3df2874946f8da29c826c5ba3474c0052c33eec61ee90d00ec5a7c6b765725f3"
         },
         "721050": {
             "dlcappid": "721050",
@@ -4024,7 +4024,7 @@
                     "download": "2694720"
                 }
             },
-            "decryptionkey": ""
+            "decryptionkey": "ee43ccc58478a6f6aed960867caf7737e011dc7e596b1695fba1ebbf2f79d237"
         },
         "1110143": {
             "dlcappid": "1110143",
@@ -5502,7 +5502,7 @@
                     "download": "58468208"
                 }
             },
-            "decryptionkey": ""
+            "decryptionkey": "19162f67dde05b988fa6e5433398417c9dc1b1530475b8102b24c1dc8ac473c6"
         },
         "1558220": {
             "dlcappid": "1558220",
@@ -5546,7 +5546,7 @@
                     "download": "57402496"
                 }
             },
-            "decryptionkey": ""
+            "decryptionkey": "46cbc8c615a9950b84b93881478e01f549752544c6791d36dad0ce05bc79620d"
         },
         "1595530": {
             "dlcappid": "1595530",
@@ -5781,7 +5781,7 @@
                     "download": "7256320"
                 }
             },
-            "decryptionkey": ""
+            "decryptionkey": "23b22024a0dffedb7145eb3144af02500547d825f9032b67dd1d98715819b09f"
         },
         "1767060": {
             "dlcappid": "1767060",
@@ -7279,10 +7279,32 @@
             },
             "decryptionkey": ""
         },
+        "3766090": {
+            "dlcappid": "3766090",
+            "manifests": {
+                "public": {
+                    "gid": "6103321309375057714",
+                    "size": "797407",
+                    "download": "462208"
+                }
+            },
+            "decryptionkey": ""
+        },
+        "3831770": {
+            "dlcappid": "3831770",
+            "manifests": {
+                "public": {
+                    "gid": "8306658630197168417",
+                    "size": "750683",
+                    "download": "442848"
+                }
+            },
+            "decryptionkey": ""
+        },
         "branches": {
             "public": {
-                "buildid": "18798944",
-                "timeupdated": "1749491639"
+                "buildid": "19220464",
+                "timeupdated": "1752520509"
             },
             "original": {
                 "buildid": "6173484",
