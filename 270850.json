@@ -4,8 +4,8 @@
     "type": "Game",
     "schinese_name": "",
     "isfreeapp": 0,
-    "update_time": "2025-06-20 21:50:49",
-    "change_number": 29669330,
+    "update_time": "2025-07-22 16:39:22",
+    "change_number": 30189265,
     "depot": {
         "overridescddb": "1",
         "markdlcdepots": "1",
@@ -45,7 +45,8 @@
         },
         "branches": {
             "public": {
-                "buildid": "762524"
+                "buildid": "762524",
+                "timeupdated": "1753198757"
             }
         },
         "privatebranches": "1"
