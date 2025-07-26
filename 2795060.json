@@ -4,8 +4,8 @@
     "type": "Game",
     "schinese_name": "",
     "isfreeapp": 0,
-    "update_time": "2025-06-15 07:47:57",
-    "change_number": 29569882,
+    "update_time": "2025-07-22 08:49:34",
+    "change_number": 30181490,
     "depot": {
         "228989": {
             "config": {
@@ -17,19 +17,19 @@
         "2795061": {
             "manifests": {
                 "public": {
-                    "gid": "7179383135169612248",
-                    "size": "3597719263",
-                    "download": "2067308752"
+                    "gid": "2301077391878841599",
+                    "size": "3125059229",
+                    "download": "1935018704"
                 },
                 "beta": {
-                    "gid": "7179383135169612248",
-                    "size": "3597719263",
-                    "download": "2067308752"
+                    "gid": "2301077391878841599",
+                    "size": "3125059229",
+                    "download": "1935018704"
                 },
                 "nightly": {
-                    "gid": "7179383135169612248",
-                    "size": "3597719263",
-                    "download": "2067308752"
+                    "gid": "2301077391878841599",
+                    "size": "3125059229",
+                    "download": "1935018704"
                 }
             },
             "decryptionkey": "ef4305110b445059ce0979096ce45df0f73fae89d4fa49738ade891680fc7c9f"
@@ -37,18 +37,18 @@
         "workshopdepot": "2795060",
         "branches": {
             "public": {
-                "buildid": "18870348",
-                "timeupdated": "1749942412"
+                "buildid": "19302670",
+                "timeupdated": "1753117383"
             },
             "beta": {
-                "buildid": "18870348",
+                "buildid": "19302670",
                 "description": "beta testing branch",
-                "timeupdated": "1749942351"
+                "timeupdated": "1753117327"
             },
             "nightly": {
-                "buildid": "18870348",
+                "buildid": "19302670",
                 "description": "very unstable builds",
-                "timeupdated": "1749942341"
+                "timeupdated": "1753117301"
             }
         },
         "privatebranches": "1",
