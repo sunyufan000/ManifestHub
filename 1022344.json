@@ -1,0 +1,28 @@
+{
+    "appid": 1022344,
+    "name": "DFF NT: Locke Cole Starter Pack",
+    "type": "DLC",
+    "schinese_name": "",
+    "isfreeapp": 0,
+    "update_time": "2025-06-23 14:09:54",
+    "change_number": 26201212,
+    "depot": {
+        "1022344": {
+            "manifests": {
+                "public": {
+                    "gid": "6610524645615671512",
+                    "size": "0",
+                    "download": "0"
+                }
+            },
+            "dlcappid": "1022344",
+            "decryptionkey": "59425e0f41926e16c8e7eb08e344866843b20337c4d7f00014948473ccb747f0"
+        },
+        "branches": {
+            "public": {
+                "buildid": "3508316",
+                "timeupdated": "1548673614"
+            }
+        }
+    }
+}
