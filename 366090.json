@@ -4,8 +4,8 @@
     "type": "Game",
     "schinese_name": "殖民地生存",
     "isfreeapp": 0,
-    "update_time": "2025-06-17 18:41:40",
-    "change_number": 29606108,
+    "update_time": "2025-07-19 14:01:00",
+    "change_number": 30146344,
     "depot": {
         "228990": {
             "config": {
@@ -131,7 +131,7 @@
                     "download": "72130304"
                 }
             },
-            "decryptionkey": ""
+            "decryptionkey": "9ec618701a0e4539e52db97cba3d1b5848d9c9821ed3ba40d8175c18ba4da50b"
         },
         "366092": {
             "config": {
@@ -368,7 +368,8 @@
                     "size": "172404548",
                     "download": "69046720"
                 }
-            }
+            },
+            "decryptionkey": "e829591abe38a04dd0eccb725a73dfda89d12ebcc953ff9c571ab63441824a52"
         },
         "366096": {
             "config": {
@@ -486,7 +487,8 @@
                     "size": "283809690",
                     "download": "78608688"
                 }
-            }
+            },
+            "decryptionkey": "b251de5137c42223518ecc6b233a8d0a34afd3f5027483ce8a2a4b5fe4acd423"
         },
         "366093": {
             "config": {
@@ -588,7 +590,8 @@
                     "size": "338449277",
                     "download": "79699488"
                 }
-            }
+            },
+            "decryptionkey": "4124822435fd86d9f9a5b13bf27e193f64ab899659265996f13fd04d917958c3"
         },
         "workshopdepot": "366090",
         "branches": {
