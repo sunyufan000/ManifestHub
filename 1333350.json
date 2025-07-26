@@ -4,8 +4,8 @@
     "type": "Game",
     "schinese_name": "天使军团-LSP放置RPG",
     "isfreeapp": 1,
-    "update_time": "2025-06-20 16:12:59",
-    "change_number": 29664116,
+    "update_time": "2025-07-23 11:12:35",
+    "change_number": 30204090,
     "depot": {
         "baselanguages": "english,schinese,tchinese,japanese",
         "hasdepotsindlc": "0",
@@ -16,9 +16,9 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "5027633926797954508",
-                    "size": "3107886607",
-                    "download": "2393858784"
+                    "gid": "3205735133753428178",
+                    "size": "3177593550",
+                    "download": "2460009568"
                 }
             },
             "decryptionkey": "d261f1c5fd56aa71f668d873476793628c85f826b79dde306c3375a96d51f610"
@@ -36,17 +36,17 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "6578053116080086178",
-                    "size": "3228865699",
-                    "download": "2444159568"
+                    "gid": "4055519209307017420",
+                    "size": "3315380910",
+                    "download": "2528030320"
                 }
             },
             "decryptionkey": "2b212d2a86cc889645c7da7359add44dfc65cf493fb9f30ade3fc3a7cb95240f"
         },
         "branches": {
             "public": {
-                "buildid": "18923189",
-                "timeupdated": "1750330559"
+                "buildid": "19326576",
+                "timeupdated": "1753265536"
             }
         }
     }
