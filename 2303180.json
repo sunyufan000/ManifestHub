@@ -4,8 +4,8 @@
     "type": "Game",
     "schinese_name": "Resoraki: 赛车",
     "isfreeapp": 0,
-    "update_time": "2025-06-14 19:15:15",
-    "change_number": 29564580,
+    "update_time": "2025-07-06 04:10:48",
+    "change_number": 29915428,
     "depot": {
         "2303181": {
             "config": {
@@ -33,7 +33,7 @@
                     "download": "498512592"
                 }
             },
-            "decryptionkey": ""
+            "decryptionkey": "47622adaf8a73167e8aa01627cc1af804b7771e201e46d0be0582eb291ff2e51"
         },
         "2303183": {
             "config": {
