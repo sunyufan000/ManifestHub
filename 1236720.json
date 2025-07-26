@@ -4,8 +4,8 @@
     "type": "Game",
     "schinese_name": "精灵岛",
     "isfreeapp": 0,
-    "update_time": "2025-06-21 15:05:33",
-    "change_number": 29680034,
+    "update_time": "2025-07-24 01:09:00",
+    "change_number": 30216902,
     "depot": {
         "1236721": {
             "config": {
@@ -14,9 +14,9 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "4369293439419683000",
-                    "size": "741393041",
-                    "download": "649571840"
+                    "gid": "2527914210596623317",
+                    "size": "744433105",
+                    "download": "654323568"
                 }
             },
             "decryptionkey": "e73e6f677962152de16c2dafad17cc4d399a3a160a97935b7cd013b9175c6884"
@@ -28,9 +28,9 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "122682082632300733",
-                    "size": "767203632",
-                    "download": "657937040"
+                    "gid": "9156820854866610858",
+                    "size": "770272744",
+                    "download": "662683120"
                 }
             }
         },
@@ -41,16 +41,16 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "4039245498232152865",
-                    "size": "786362816",
-                    "download": "650548960"
+                    "gid": "7326446721060432816",
+                    "size": "789437395",
+                    "download": "655410064"
                 }
             }
         },
         "branches": {
             "public": {
-                "buildid": "18868437",
-                "timeupdated": "1750104289"
+                "buildid": "19031034",
+                "timeupdated": "1751053189"
             }
         },
         "privatebranches": "1"
