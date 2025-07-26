@@ -4,8 +4,8 @@
     "type": "Game",
     "schinese_name": "战地之王-国际",
     "isfreeapp": 1,
-    "update_time": "2025-06-05 17:34:46",
-    "change_number": 29389601,
+    "update_time": "2025-07-24 02:05:16",
+    "change_number": 30217553,
     "depot": {
         "hasdepotsindlc": "0",
         "228983": {
@@ -53,9 +53,9 @@
         "1473481": {
             "manifests": {
                 "public": {
-                    "gid": "6335958106819779163",
-                    "size": "29757923268",
-                    "download": "10737749872"
+                    "gid": "2863445404993933830",
+                    "size": "30550714419",
+                    "download": "11281530528"
                 }
             },
             "decryptionkey": "489412c62cb5a465d06b78ebaaae2698e037823fa6f37abac88621bc5633a568"
@@ -65,8 +65,8 @@
         },
         "branches": {
             "public": {
-                "buildid": "18560599",
-                "timeupdated": "1747892426"
+                "buildid": "19338509",
+                "timeupdated": "1753331137"
             }
         }
     }
