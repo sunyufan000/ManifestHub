@@ -4,8 +4,8 @@
     "type": "Game",
     "schinese_name": "冥界契约",
     "isfreeapp": 0,
-    "update_time": "2025-06-22 06:18:15",
-    "change_number": 29686018,
+    "update_time": "2025-07-23 12:11:37",
+    "change_number": 30205076,
     "depot": {
         "2735583": {
             "config": {
@@ -13,9 +13,9 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "6020348024327425172",
-                    "size": "3991787499",
-                    "download": "2626994144"
+                    "gid": "6601961989772010696",
+                    "size": "3962004880",
+                    "download": "2600119680"
                 }
             },
             "decryptionkey": "c55904da7d44d2a56d195136d0a47a4c722bd166cd278e69055417c1972b39be"
@@ -26,16 +26,16 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "7690019492915265148",
-                    "size": "4160840793",
-                    "download": "2691778656"
+                    "gid": "6249478704604257530",
+                    "size": "4131078193",
+                    "download": "2667232384"
                 }
             }
         },
         "branches": {
             "public": {
-                "buildid": "18953676",
-                "timeupdated": "1750566902"
+                "buildid": "19075157",
+                "timeupdated": "1751451467"
             }
         },
         "privatebranches": "1"
