@@ -1,0 +1,28 @@
+{
+    "appid": 1022468,
+    "name": "DFF NT: Lightning Starter Pack",
+    "type": "DLC",
+    "schinese_name": "",
+    "isfreeapp": 0,
+    "update_time": "2025-06-23 14:10:15",
+    "change_number": 26201212,
+    "depot": {
+        "1022468": {
+            "manifests": {
+                "public": {
+                    "gid": "5425705450099152702",
+                    "size": "0",
+                    "download": "0"
+                }
+            },
+            "dlcappid": "1022468",
+            "decryptionkey": "eb206b3bcf585c9d9e0f818d360b180acce20c3c9881c6213c190143c0577152"
+        },
+        "branches": {
+            "public": {
+                "buildid": "3508042",
+                "timeupdated": "1548672042"
+            }
+        }
+    }
+}
