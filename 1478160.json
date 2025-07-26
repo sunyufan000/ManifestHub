@@ -4,8 +4,8 @@
     "type": "Game",
     "schinese_name": "咸鱼喵喵",
     "isfreeapp": 0,
-    "update_time": "2025-06-20 05:26:44",
-    "change_number": 29653105,
+    "update_time": "2025-07-19 11:52:08",
+    "change_number": 30145440,
     "depot": {
         "baselanguages": "english,schinese,japanese",
         "hasdepotsindlc": "1",
@@ -16,9 +16,9 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "6079131137723823860",
-                    "size": "659282088",
-                    "download": "367810944"
+                    "gid": "6239979445219154872",
+                    "size": "710930142",
+                    "download": "413928880"
                 }
             },
             "decryptionkey": "0b31a1bb4d834f46c37bd1b54b48127e24153c121da8b990eed3d22bfe55c812"
@@ -30,9 +30,9 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "3517852428049588382",
-                    "size": "710618766",
-                    "download": "413470592"
+                    "gid": "5983915511794436454",
+                    "size": "710930142",
+                    "download": "413595776"
                 }
             },
             "decryptionkey": ""
@@ -44,9 +44,9 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "8896341790066190324",
-                    "size": "776077734",
-                    "download": "380164960"
+                    "gid": "3304795690046511877",
+                    "size": "827724716",
+                    "download": "426309712"
                 }
             },
             "decryptionkey": "a9540f1c2d4cdcbe060c10053578556ee98482b8828c354a711a5b3d60fb0bb7"
@@ -64,8 +64,8 @@
         },
         "branches": {
             "public": {
-                "buildid": "18431716",
-                "timeupdated": "1747066168"
+                "buildid": "19264936",
+                "timeupdated": "1752780878"
             }
         }
     }
