@@ -4,8 +4,8 @@
     "type": "Game",
     "schinese_name": "农场经理2021",
     "isfreeapp": 0,
-    "update_time": "2025-06-06 17:07:30",
-    "change_number": 29414249,
+    "update_time": "2025-07-22 14:39:42",
+    "change_number": 30187022,
     "depot": {
         "228988": {
             "config": {
@@ -17,17 +17,17 @@
         "1123831": {
             "manifests": {
                 "public": {
-                    "gid": "6894222353726511623",
-                    "size": "6475089046",
-                    "download": "3355247008"
+                    "gid": "4265919184913621164",
+                    "size": "6473921630",
+                    "download": "3360143824"
                 }
             },
             "decryptionkey": "5da5856d56413eaf4fad6261fd4f9303892bae6d3cca1762a62cf737c7980c33"
         },
         "branches": {
             "public": {
-                "buildid": "16803008",
-                "timeupdated": "1734634987"
+                "buildid": "19315444",
+                "timeupdated": "1753191578"
             }
         },
         "privatebranches": "1"
