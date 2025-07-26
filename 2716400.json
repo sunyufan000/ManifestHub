@@ -4,8 +4,8 @@
     "type": "Game",
     "schinese_name": "",
     "isfreeapp": 0,
-    "update_time": "2025-06-20 22:17:11",
-    "change_number": 29669802,
+    "update_time": "2025-07-23 09:51:21",
+    "change_number": 30202665,
     "depot": {
         "baselanguages": "english",
         "2716401": {
@@ -14,9 +14,9 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "1818342929660930497",
-                    "size": "3025780319",
-                    "download": "2896220832"
+                    "gid": "4174516721183003474",
+                    "size": "3185162422",
+                    "download": "3055597584"
                 }
             },
             "decryptionkey": "369c88aa7a34e596ee6cf0e3eb93af0259fe3ef7de70e1e285e73557f365188f"
@@ -28,9 +28,9 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "4407156409923288102",
-                    "size": "3104887963",
-                    "download": "2914166432"
+                    "gid": "1772626135109149663",
+                    "size": "3264262874",
+                    "download": "3073382512"
                 }
             }
         },
@@ -52,9 +52,9 @@
             "dlcappid": "3333860",
             "manifests": {
                 "public": {
-                    "gid": "2607531214138884029",
-                    "size": "891319888",
-                    "download": "864176192"
+                    "gid": "8734339835894036047",
+                    "size": "234404752",
+                    "download": "226389344"
                 }
             },
             "decryptionkey": "2adfc1b7518f90239656a9f29587c851f9b8f206381b83d6f0efef44af1bb663"
@@ -77,7 +77,15 @@
             "dlcappid": "3335340",
             "config": {
                 "oslist": "windows,macos"
-            }
+            },
+            "manifests": {
+                "public": {
+                    "gid": "3246422727610009028",
+                    "size": "234404752",
+                    "download": "226655840"
+                }
+            },
+            "decryptionkey": "2000a328e7913b585f04f3db4284593d30a52908720f87c3db07ccbaa9aa596c"
         },
         "3335351": {
             "dlcappid": "3335350",
@@ -85,10 +93,17 @@
                 "oslist": "windows,macos"
             }
         },
+        "3335342": {
+            "dlcappid": "3335340",
+            "config": {
+                "oslist": "windows,macos"
+            },
+            "manifests": {}
+        },
         "branches": {
             "public": {
-                "buildid": "18733217",
-                "timeupdated": "1749036728"
+                "buildid": "19325888",
+                "timeupdated": "1753260675"
             }
         },
         "privatebranches": "1"
