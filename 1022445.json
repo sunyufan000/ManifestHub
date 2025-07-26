@@ -1,0 +1,28 @@
+{
+    "appid": 1022445,
+    "name": "DFF NT: Exdeath Starter Pack",
+    "type": "DLC",
+    "schinese_name": "",
+    "isfreeapp": 0,
+    "update_time": "2025-06-23 14:10:11",
+    "change_number": 26201212,
+    "depot": {
+        "1022445": {
+            "manifests": {
+                "public": {
+                    "gid": "2314564520847640550",
+                    "size": "0",
+                    "download": "0"
+                }
+            },
+            "dlcappid": "1022445",
+            "decryptionkey": "02395496f464caf9015ca2e72a7bff42546fefae25376b48dd5c2a7379e4cd8b"
+        },
+        "branches": {
+            "public": {
+                "buildid": "3508027",
+                "timeupdated": "1548672176"
+            }
+        }
+    }
+}
