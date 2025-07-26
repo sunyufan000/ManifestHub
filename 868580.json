@@ -4,14 +4,27 @@
     "type": "Game",
     "schinese_name": "",
     "isfreeapp": 1,
-    "update_time": "2025-06-21 11:22:20",
-    "change_number": 29678752,
+    "update_time": "2025-07-18 01:20:29",
+    "change_number": 30121474,
     "depot": {
+        "868584": {
+            "config": {
+                "oslist": "windows",
+                "osarch": "64"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "6925336222773820541",
+                    "size": "5271096601",
+                    "download": "1867792592"
+                }
+            },
+            "decryptionkey": "2dda4c1773777bd32254fd0329d57aa220b4291a2de12f86c21e4a4cae7f8033"
+        },
         "868581": {
             "config": {
                 "oslist": "windows",
-                "osarch": "32",
-                "language": ""
+                "osarch": "32"
             },
             "manifests": {
                 "public": {
@@ -24,8 +37,7 @@
         },
         "868582": {
             "config": {
-                "oslist": "macos",
-                "language": ""
+                "oslist": "macos"
             },
             "manifests": {
                 "public": {
@@ -36,25 +48,9 @@
             },
             "decryptionkey": "420f9f089aece0b472d23ef5f5cb9476c8071601c5ecef5f89c9551dab205fc8"
         },
-        "868584": {
-            "config": {
-                "oslist": "windows",
-                "osarch": "64",
-                "language": ""
-            },
-            "manifests": {
-                "public": {
-                    "gid": "6925336222773820541",
-                    "size": "5271096601",
-                    "download": "1867792592"
-                }
-            },
-            "decryptionkey": "2dda4c1773777bd32254fd0329d57aa220b4291a2de12f86c21e4a4cae7f8033"
-        },
         "868585": {
             "config": {
-                "oslist": "linux",
-                "language": ""
+                "oslist": "linux"
             },
             "manifests": {
                 "public": {
