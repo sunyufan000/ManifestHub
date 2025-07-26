@@ -4,8 +4,8 @@
     "type": "Game",
     "schinese_name": "堡垒：猎鹰战纪",
     "isfreeapp": 0,
-    "update_time": "2025-06-21 13:56:17",
-    "change_number": 29679669,
+    "update_time": "2025-07-18 02:04:41",
+    "change_number": 30121987,
     "depot": {
         "overridescddb": "1",
         "290102": {
@@ -14,14 +14,14 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "5404979766962705923",
-                    "size": "1363616784",
-                    "download": "810961232"
+                    "gid": "1547614689545318770",
+                    "size": "1363689336",
+                    "download": "810929344"
                 },
                 "beta": {
-                    "gid": "4013937053642296096",
-                    "size": "1363615384",
-                    "download": "810962528"
+                    "gid": "6472041759853681704",
+                    "size": "1364112484",
+                    "download": "810990192"
                 },
                 "debug": {
                     "gid": "4143603685908103167",
@@ -38,13 +38,13 @@
         },
         "branches": {
             "public": {
-                "buildid": "18932335",
-                "timeupdated": "1750397079"
+                "buildid": "19099203",
+                "timeupdated": "1751972919"
             },
             "beta": {
-                "buildid": "18947988",
+                "buildid": "19182558",
                 "description": "Beta patch",
-                "timeupdated": "1750485374"
+                "timeupdated": "1752188353"
             },
             "debug": {
                 "buildid": "18880299",
