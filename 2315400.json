@@ -4,8 +4,8 @@
     "type": "Game",
     "schinese_name": "狭间骑士",
     "isfreeapp": 0,
-    "update_time": "2025-06-21 03:04:40",
-    "change_number": 29674313,
+    "update_time": "2025-07-23 19:26:17",
+    "change_number": 30212576,
     "depot": {
         "2315401": {
             "config": {
@@ -13,9 +13,9 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "7161184401570669359",
-                    "size": "1969456579",
-                    "download": "1588327072"
+                    "gid": "2966537357758614805",
+                    "size": "1970116112",
+                    "download": "1590148208"
                 }
             },
             "decryptionkey": "7bc82ef006cc54f59a83a8a8d5b497c94a4c4e17908a1bacc40e26b351ccdf2c"
@@ -24,8 +24,8 @@
         "baselanguages": "english",
         "branches": {
             "public": {
-                "buildid": "18242427",
-                "timeupdated": "1745917155"
+                "buildid": "18968685",
+                "timeupdated": "1750755583"
             }
         },
         "privatebranches": "1"
