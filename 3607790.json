@@ -4,15 +4,15 @@
     "type": "Game",
     "schinese_name": "打砖块创作家",
     "isfreeapp": 0,
-    "update_time": "2025-06-22 05:55:19",
-    "change_number": 29683369,
+    "update_time": "2025-07-23 17:09:57",
+    "change_number": 30210178,
     "depot": {
         "3607791": {
             "manifests": {
                 "public": {
-                    "gid": "5867254861585050390",
-                    "size": "185746094",
-                    "download": "57523312"
+                    "gid": "4102197061393229427",
+                    "size": "208028662",
+                    "download": "64320784"
                 }
             },
             "decryptionkey": "3f0d0e9b08699dcd56120d50803c46faf268ab3d004bbb0ca60db0b4a6d3f24a"
@@ -21,8 +21,8 @@
         "workshopdepot": "3607790",
         "branches": {
             "public": {
-                "buildid": "18950684",
-                "timeupdated": "1750519219"
+                "buildid": "19331669",
+                "timeupdated": "1753286991"
             }
         },
         "workshopdepotdecryptionkey": "df3de88be29cab8361fc26a33b05e527dec0ee00c62375c69dbf33837c87c8a4"
