@@ -1,0 +1,28 @@
+{
+    "appid": 1046321,
+    "name": "DFF NT: Ultima Weapon, Terra Branford's 5th Weapon",
+    "type": "DLC",
+    "schinese_name": "",
+    "isfreeapp": 0,
+    "update_time": "2025-06-23 14:10:27",
+    "change_number": 22534048,
+    "depot": {
+        "1046321": {
+            "dlcappid": "1046321",
+            "manifests": {
+                "public": {
+                    "gid": "6114170318727462223",
+                    "size": "0",
+                    "download": "0"
+                }
+            },
+            "decryptionkey": "99528d23fc159e485306006e31a6a40afb71cb55aaac8427b2de49b07be82534"
+        },
+        "branches": {
+            "public": {
+                "buildid": "3623930",
+                "timeupdated": "1551944320"
+            }
+        }
+    }
+}
