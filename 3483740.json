@@ -1,0 +1,60 @@
+{
+    "appid": 3483740,
+    "name": "Cast n Chill",
+    "type": "Game",
+    "schinese_name": "",
+    "isfreeapp": 0,
+    "update_time": "2025-07-22 08:26:48",
+    "change_number": 30181161,
+    "depot": {
+        "3483741": {
+            "config": {
+                "oslist": "windows",
+                "osarch": "64"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "1867447625032413701",
+                    "size": "296086893",
+                    "download": "153933600"
+                },
+                "beta": {
+                    "gid": "6415097429973105304",
+                    "size": "301636719",
+                    "download": "157177040"
+                }
+            },
+            "decryptionkey": "0085e2ab6e91d273c72748b41db876429a43a28e359be3bd5519ddfa4d8ac501"
+        },
+        "3483742": {
+            "config": {
+                "oslist": "macos"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "1423852064071044238",
+                    "size": "382689586",
+                    "download": "178299664"
+                },
+                "beta": {
+                    "gid": "1551882025778309546",
+                    "size": "386799380",
+                    "download": "179886768"
+                }
+            },
+            "decryptionkey": "3413029df000861faa325cd3547914567f865ffb3c71247b47a8b9d7d57c7f6f"
+        },
+        "branches": {
+            "public": {
+                "buildid": "18987738",
+                "timeupdated": "1750811537"
+            },
+            "beta": {
+                "buildid": "19310821",
+                "description": "Public beta",
+                "timeupdated": "1753169203"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
