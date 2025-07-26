@@ -1,0 +1,96 @@
+{
+    "appid": 1062960,
+    "name": "UNDER the SAND",
+    "type": "Game",
+    "schinese_name": "沙下之城：公路旅行游戏",
+    "isfreeapp": 0,
+    "update_time": "2025-07-20 13:28:41",
+    "change_number": 30154306,
+    "depot": {
+        "228981": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "228982": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "228983": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "228984": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "228985": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "228988": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "228990": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "baselanguages": "english,russian",
+        "hasdepotsindlc": "0",
+        "1062962": {
+            "config": {
+                "oslist": "windows",
+                "osarch": "64"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "8605493974281300208",
+                    "size": "1949054538",
+                    "download": "1794051488"
+                }
+            },
+            "decryptionkey": "989d21b0f93b1ddd79d230d1de15813a52063f0bbc554b0266534b54d5a36c4e"
+        },
+        "1062961": {
+            "config": {
+                "oslist": "windows",
+                "osarch": "32"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "7673266018817893049",
+                    "size": "1949054538",
+                    "download": "1794052016"
+                }
+            },
+            "decryptionkey": "3f0e2e3915ddb9229ca249dc16ea8adf8de6151ab8cf518d79c47081a91e6e44"
+        },
+        "branches": {
+            "public": {
+                "buildid": "19291063",
+                "timeupdated": "1753014518"
+            }
+        }
+    }
+}
