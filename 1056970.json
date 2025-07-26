@@ -1,0 +1,165 @@
+{
+    "appid": 1056970,
+    "name": "Wolfenstein: Cyberpilot",
+    "type": "Game",
+    "schinese_name": "",
+    "isfreeapp": 0,
+    "update_time": "2025-07-13 12:11:55",
+    "change_number": 30034895,
+    "depot": {
+        "baselanguages": "english,french,italian,koreana,spanish,schinese,tchinese,russian,japanese,polish,brazilian,latam",
+        "228987": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "228990": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "1056971": {
+            "config": {
+                "oslist": "windows",
+                "osarch": "64"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "2312239109685695980",
+                    "size": "61642176",
+                    "download": "34221264"
+                }
+            },
+            "decryptionkey": "23ebad0269476acefdfbb69996ef999375ba1e81199dc69e2e9f11f8ec35bd69"
+        },
+        "1056972": {
+            "config": {
+                "oslist": "windows",
+                "osarch": "64"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "5401123626836719746",
+                    "size": "16491319738",
+                    "download": "15315952384"
+                }
+            },
+            "decryptionkey": "34c601ab67d6fc0363ee3feb57f4fc2d69ddbd9299ea773d2175e7620c11e96f"
+        },
+        "1056973": {
+            "config": {
+                "oslist": "windows",
+                "osarch": "64"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "495168090367144300",
+                    "size": "100450994",
+                    "download": "87946800"
+                }
+            },
+            "decryptionkey": "c89043dbd84c02fa1ee59cc0bf97d2a6f8947dec194b08b2b2ce0154d408d8a5"
+        },
+        "1056974": {
+            "config": {
+                "language": "french",
+                "oslist": "windows",
+                "osarch": "64"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "1186706124905479079",
+                    "size": "100563780",
+                    "download": "88115472"
+                }
+            },
+            "decryptionkey": "5b366b191ddbed2ba7c627b41d8963c2a52ee954446fb42536360f3d26dff624"
+        },
+        "1056975": {
+            "config": {
+                "language": "italian",
+                "oslist": "windows",
+                "osarch": "64"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "1086565311540960612",
+                    "size": "100725348",
+                    "download": "88256928"
+                }
+            },
+            "decryptionkey": "99f0161956331710088ac08db7d6da8c86e8add7fc394bb6d9df6226e1eec4e1"
+        },
+        "1056976": {
+            "config": {
+                "language": "brazilian",
+                "oslist": "windows",
+                "osarch": "64"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "1468029206287685776",
+                    "size": "99924375",
+                    "download": "87380592"
+                }
+            },
+            "decryptionkey": "6ba739f7e52f25cbd03e996ef730a7bd27118a3dbc7e99a9b774b0035d108a49"
+        },
+        "1056977": {
+            "config": {
+                "language": "russian",
+                "oslist": "windows",
+                "osarch": "64"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "1517153295818514461",
+                    "size": "99297677",
+                    "download": "86770480"
+                }
+            },
+            "decryptionkey": "1d68a258575549b52e32f8f46a924d9b1c39a202ca63b18bc72bed8331d0e237"
+        },
+        "1056978": {
+            "config": {
+                "language": "latam",
+                "oslist": "windows",
+                "osarch": "64"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "396774891539395327",
+                    "size": "100731104",
+                    "download": "88216032"
+                }
+            },
+            "decryptionkey": "d5a1c344ae31f8793dd07e59ed928bd7da348aa8fccc5cdb82cc318e04436f20"
+        },
+        "1056979": {
+            "config": {
+                "language": "spanish",
+                "oslist": "windows",
+                "osarch": "64"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "757581503284698088",
+                    "size": "101407563",
+                    "download": "88933056"
+                }
+            },
+            "decryptionkey": "2e4b290cc9bf3815adf5ca717ac73a4ca29775fe1e2d5f1d5fa6c84c2559c7a9"
+        },
+        "branches": {
+            "public": {
+                "buildid": "4206198",
+                "timeupdated": "1568990391"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
