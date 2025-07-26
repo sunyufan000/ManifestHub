@@ -4,8 +4,8 @@
     "type": "Game",
     "schinese_name": "热狗，马蹄和手榴弹",
     "isfreeapp": 0,
-    "update_time": "2025-06-21 09:31:18",
-    "change_number": 29678011,
+    "update_time": "2025-07-04 20:56:39",
+    "change_number": 29903692,
     "depot": {
         "228986": {
             "config": {
@@ -27,9 +27,9 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "6611182380572878328",
-                    "size": "24629793810",
-                    "download": "16425218144"
+                    "gid": "7157299411624808637",
+                    "size": "24715957852",
+                    "download": "16482308208"
                 },
                 "update110": {
                     "gid": "7382673893389642246",
@@ -42,14 +42,14 @@
                     "download": "14584457216"
                 },
                 "alpha": {
-                    "gid": "6611182380572878328",
-                    "size": "24629793810",
-                    "download": "16425218144"
+                    "gid": "7157299411624808637",
+                    "size": "24715957852",
+                    "download": "16482308208"
                 },
                 "experimental": {
-                    "gid": "6611182380572878328",
-                    "size": "24629793810",
-                    "download": "16425218144"
+                    "gid": "7157299411624808637",
+                    "size": "24715957852",
+                    "download": "16482308208"
                 },
                 "update112": {
                     "gid": "554683791114262660",
@@ -75,6 +75,11 @@
                     "gid": "429559417654675577",
                     "size": "24413409133",
                     "download": "16241176944"
+                },
+                "update118": {
+                    "gid": "9182103884776243877",
+                    "size": "24629841555",
+                    "download": "16425210544"
                 }
             },
             "decryptionkey": "d8909d31b2dab9e3a81423e760b9f59dd71f37ff1d2eb2c6efb3f1ea188b8038"
@@ -82,8 +87,8 @@
         "workshopdepot": "450540",
         "branches": {
             "public": {
-                "buildid": "18945285",
-                "timeupdated": "1750469474"
+                "buildid": "19112332",
+                "timeupdated": "1751658995"
             },
             "update110": {
                 "buildid": "11871273",
@@ -96,14 +101,14 @@
                 "timeupdated": "1708739577"
             },
             "alpha": {
-                "buildid": "18945285",
+                "buildid": "19112332",
                 "description": "Mod Safe",
-                "timeupdated": "1750469451"
+                "timeupdated": "1751658656"
             },
             "experimental": {
-                "buildid": "18945285",
+                "buildid": "19112332",
                 "description": "NOT MOD SAFE!!!",
-                "timeupdated": "1750469443"
+                "timeupdated": "1751658692"
             },
             "update112": {
                 "buildid": "13549672",
@@ -129,6 +134,11 @@
                 "buildid": "18162809",
                 "description": "U117legacy",
                 "timeupdated": "1750466456"
+            },
+            "update118": {
+                "buildid": "18972383",
+                "description": "U118legacy",
+                "timeupdated": "1751658619"
             }
         },
         "privatebranches": "1",
