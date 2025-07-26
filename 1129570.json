@@ -4,8 +4,8 @@
     "type": "Game",
     "schinese_name": "工业巨擘 - Industry Giant 4.0",
     "isfreeapp": 0,
-    "update_time": "2025-06-13 01:36:49",
-    "change_number": 29530771,
+    "update_time": "2025-07-17 17:36:09",
+    "change_number": 30115181,
     "depot": {
         "228989": {
             "config": {
@@ -17,9 +17,9 @@
         "1129571": {
             "manifests": {
                 "public": {
-                    "gid": "9218069329022892941",
-                    "size": "14011396638",
-                    "download": "13140495408"
+                    "gid": "3783362147524845927",
+                    "size": "14015065447",
+                    "download": "13144857216"
                 },
                 "public_testing": {
                     "gid": "8056573108777597841",
@@ -87,8 +87,8 @@
         },
         "branches": {
             "public": {
-                "buildid": "18483449",
-                "timeupdated": "1747844192"
+                "buildid": "19181635",
+                "timeupdated": "1752762514"
             },
             "public_testing": {
                 "buildid": "17530656",
