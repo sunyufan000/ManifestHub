@@ -4,24 +4,24 @@
     "type": "Game",
     "schinese_name": "英勇之地",
     "isfreeapp": 1,
-    "update_time": "2025-06-17 17:30:56",
-    "change_number": 29604875,
+    "update_time": "2025-07-18 00:24:22",
+    "change_number": 30120780,
     "depot": {
         "baselanguages": "english,schinese,tchinese",
         "2349821": {
             "manifests": {
                 "public": {
-                    "gid": "8338012967842983869",
-                    "size": "9597487083",
-                    "download": "5373199328"
+                    "gid": "1742604240114579060",
+                    "size": "9341899175",
+                    "download": "5165918992"
                 }
             },
             "decryptionkey": "9744cf91e311141d253c46ca7a89a75fa6ba2d86f5d29ff3b5a4141413a62f81"
         },
         "branches": {
             "public": {
-                "buildid": "18894156",
-                "timeupdated": "1750152650"
+                "buildid": "19260621",
+                "timeupdated": "1752794659"
             }
         },
         "privatebranches": "1"
