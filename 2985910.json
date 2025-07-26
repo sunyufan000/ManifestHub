@@ -4,24 +4,24 @@
     "type": "Game",
     "schinese_name": "枪手：丧尸幸存者",
     "isfreeapp": 0,
-    "update_time": "2025-06-21 21:58:23",
-    "change_number": 29682772,
+    "update_time": "2025-07-13 10:02:22",
+    "change_number": 30034199,
     "depot": {
         "baselanguages": "english,koreana,schinese,tchinese,japanese",
         "2985911": {
             "manifests": {
                 "public": {
-                    "gid": "7659399661773956874",
-                    "size": "861206081",
-                    "download": "225605344"
+                    "gid": "6695209548449508546",
+                    "size": "861547194",
+                    "download": "225674976"
                 }
             },
             "decryptionkey": "4f27208bbde696c31fc2bca0b936fd0ad9f7d672c935707e19733b0bb05b07c0"
         },
         "branches": {
             "public": {
-                "buildid": "18944706",
-                "timeupdated": "1750452111"
+                "buildid": "19206136",
+                "timeupdated": "1752397337"
             }
         }
     }
