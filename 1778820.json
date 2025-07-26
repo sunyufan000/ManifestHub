@@ -4,8 +4,8 @@
     "type": "Game",
     "schinese_name": "铁拳8",
     "isfreeapp": 0,
-    "update_time": "2025-06-21 03:44:26",
-    "change_number": 29674752,
+    "update_time": "2025-07-23 01:22:34",
+    "change_number": 30196583,
     "depot": {
         "baselanguages": "english,german,french,italian,koreana,spanish,schinese,tchinese,russian,thai,japanese,polish,arabic,brazilian,latam",
         "228989": {
@@ -25,9 +25,9 @@
         "1778821": {
             "manifests": {
                 "public": {
-                    "gid": "2434125641804352105",
-                    "size": "124660987260",
-                    "download": "108697705792"
+                    "gid": "1256948630391479920",
+                    "size": "127308971935",
+                    "download": "110892226528"
                 }
             },
             "decryptionkey": "c7c87be587ce9a828a290d82a8650ff9edd77f53919f2f8d2f686f1e586417b7"
@@ -35,9 +35,9 @@
         "1778822": {
             "manifests": {
                 "public": {
-                    "gid": "8448240444531247139",
-                    "size": "1686882638",
-                    "download": "301922064"
+                    "gid": "88998105997127057",
+                    "size": "1689316960",
+                    "download": "379395904"
                 }
             },
             "decryptionkey": ""
@@ -57,7 +57,7 @@
             "dlcappid": "3025000",
             "manifests": {
                 "public": {
-                    "gid": "6220439871464418842",
+                    "gid": "7282372065457185729",
                     "size": "34884128",
                     "download": "35360608"
                 }
@@ -84,12 +84,12 @@
                     "download": "36139456"
                 }
             },
-            "decryptionkey": ""
+            "decryptionkey": "4839f0f96b42c57b6e15373696ba97c30db5aff2511924e376a443f594af0ab4"
         },
         "branches": {
             "public": {
-                "buildid": "18711029",
-                "timeupdated": "1748916001"
+                "buildid": "19191415",
+                "timeupdated": "1753149601"
             }
         },
         "privatebranches": "1"
