@@ -4,8 +4,8 @@
     "type": "Application",
     "schinese_name": "",
     "isfreeapp": 0,
-    "update_time": "2025-06-17 03:57:15",
-    "change_number": 29588861,
+    "update_time": "2025-07-17 12:44:28",
+    "change_number": 30109554,
     "depot": {
         "228988": {
             "config": {
@@ -55,9 +55,9 @@
             },
             "manifests": {
                 "beta-install-cache": {
-                    "gid": "6389515152693854141",
+                    "gid": "4957179533524632982",
                     "size": "12900507380",
-                    "download": "6472641232"
+                    "download": "6569796160"
                 }
             },
             "decryptionkey": "995893f9afd36fd7c26b8da3ae5de68b1b0cb88c2b850eb3ba6f994444187a6c"
@@ -73,9 +73,9 @@
                 "timeupdated": "1749832077"
             },
             "beta-install-cache": {
-                "buildid": "18858906",
+                "buildid": "19259162",
                 "description": "Beta branch with install cache",
-                "timeupdated": "1749832085"
+                "timeupdated": "1752752664"
             },
             "1.1.0": {
                 "buildid": "15880915",
