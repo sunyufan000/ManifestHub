@@ -4,16 +4,16 @@
     "type": "Game",
     "schinese_name": "节奏光剑VR",
     "isfreeapp": 0,
-    "update_time": "2025-06-21 09:15:14",
-    "change_number": 29677883,
+    "update_time": "2025-07-24 01:51:46",
+    "change_number": 30217378,
     "depot": {
         "hasdepotsindlc": "1",
         "620981": {
             "manifests": {
                 "public": {
-                    "gid": "3050696685250334115",
-                    "size": "1529027828",
-                    "download": "1348835520"
+                    "gid": "7263483117834945201",
+                    "size": "1529802176",
+                    "download": "1349545360"
                 },
                 "1.34.2_legacy": {
                     "gid": "8045892568861450718",
@@ -38,8 +38,8 @@
         },
         "branches": {
             "public": {
-                "buildid": "18520579",
-                "timeupdated": "1749134958"
+                "buildid": "18910761",
+                "timeupdated": "1752159074"
             },
             "1.34.2_legacy": {
                 "buildid": "12890561",
