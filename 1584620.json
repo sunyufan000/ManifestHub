@@ -4,8 +4,8 @@
     "type": "Music",
     "schinese_name": "仙剑奇侠传三 原声音乐精选集",
     "isfreeapp": 0,
-    "update_time": "2025-06-14 16:01:12",
-    "change_number": 26201212,
+    "update_time": "2025-06-27 14:16:24",
+    "change_number": 29787547,
     "depot": {
         "1584621": {
             "config": {
@@ -31,7 +31,7 @@
                     "download": "295981040"
                 }
             },
-            "decryptionkey": ""
+            "decryptionkey": "d40dc6c95dd9c65eaa5a8ed21ed1036cc498b25b6603c3ee4eb06f7b5764d7b7"
         },
         "1584623": {
             "config": {
@@ -59,7 +59,7 @@
                     "download": "437032768"
                 }
             },
-            "decryptionkey": ""
+            "decryptionkey": "5490297f832083fa67be43e936b2456242bfa5f5fb13fa5e00ef22040f5e7bc8"
         },
         "1584625": {
             "config": {
