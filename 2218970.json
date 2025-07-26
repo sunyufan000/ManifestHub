@@ -4,8 +4,8 @@
     "type": "Game",
     "schinese_name": "",
     "isfreeapp": 0,
-    "update_time": "2025-06-20 05:19:45",
-    "change_number": 29654719,
+    "update_time": "2025-07-23 19:04:48",
+    "change_number": 30212243,
     "depot": {
         "2218971": {
             "config": {
@@ -14,14 +14,19 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "3908515328848035028",
-                    "size": "4186179601",
-                    "download": "2070567312"
+                    "gid": "3878018010817397830",
+                    "size": "4207358745",
+                    "download": "2094041776"
+                },
+                "experimental": {
+                    "gid": "3878018010817397830",
+                    "size": "4207358745",
+                    "download": "2094041776"
                 },
                 "previous": {
-                    "gid": "2715750895909316818",
-                    "size": "4200935222",
-                    "download": "2067371920"
+                    "gid": "4592359011091957356",
+                    "size": "4207354326",
+                    "download": "2094056512"
                 },
                 "v0.5": {
                     "gid": "7056385628732735879",
@@ -33,13 +38,18 @@
         },
         "branches": {
             "public": {
-                "buildid": "18929701",
-                "timeupdated": "1750355503"
+                "buildid": "19213917",
+                "timeupdated": "1752500515"
+            },
+            "experimental": {
+                "buildid": "19213917",
+                "description": "Next unstable patch",
+                "timeupdated": "1752500449"
             },
             "previous": {
-                "buildid": "18758318",
+                "buildid": "19180446",
                 "description": "Previous working patch",
-                "timeupdated": "1750355492"
+                "timeupdated": "1752500502"
             },
             "v0.5": {
                 "buildid": "16964771",
