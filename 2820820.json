@@ -4,15 +4,20 @@
     "type": "Game",
     "schinese_name": "巨人杀手：暗黑之潮",
     "isfreeapp": 0,
-    "update_time": "2025-06-22 10:36:30",
-    "change_number": 29687309,
+    "update_time": "2025-07-24 02:44:59",
+    "change_number": 30218008,
     "depot": {
         "2820821": {
             "manifests": {
                 "public": {
-                    "gid": "6728304572247011211",
-                    "size": "17040114869",
-                    "download": "5449294400"
+                    "gid": "5808818619300961994",
+                    "size": "19583313266",
+                    "download": "6081680272"
+                },
+                "public_playtest": {
+                    "gid": "2292088233552026274",
+                    "size": "19717090246",
+                    "download": "6102115904"
                 }
             },
             "decryptionkey": "6c3ca2723bed87cab9ee1a573779e7cd92ddfaa4f61727af0e5f5219c736611d"
@@ -27,6 +32,11 @@
                     "gid": "2085888886786368912",
                     "size": "65704167",
                     "download": "58699120"
+                },
+                "public_playtest": {
+                    "gid": "2085888886786368912",
+                    "size": "65704167",
+                    "download": "58699120"
                 }
             },
             "decryptionkey": "aa6311cfc779ff46fdbcde4dc361ae59e77a942ab4ec0431eb5d1f560793426f"
@@ -34,8 +44,13 @@
         "baselanguages": "english,german,french,italian,koreana,spanish,schinese,tchinese,japanese,portuguese",
         "branches": {
             "public": {
-                "buildid": "18913848",
-                "timeupdated": "1750258003"
+                "buildid": "19171741",
+                "timeupdated": "1752132795"
+            },
+            "public_playtest": {
+                "buildid": "19260212",
+                "description": "Public playtest branch",
+                "timeupdated": "1752757420"
             }
         },
         "privatebranches": "1"
