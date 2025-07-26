@@ -4,8 +4,8 @@
     "type": "Game",
     "schinese_name": "Backrooms 清洁小队 (Backrooms Cleanup Crew)",
     "isfreeapp": 0,
-    "update_time": "2025-06-22 10:39:01",
-    "change_number": 29687322,
+    "update_time": "2025-07-17 19:19:21",
+    "change_number": 30116888,
     "depot": {
         "228989": {
             "config": {
@@ -24,17 +24,17 @@
         "3140991": {
             "manifests": {
                 "public": {
-                    "gid": "3770283444700110655",
-                    "size": "2114440144",
-                    "download": "1840748576"
+                    "gid": "2058313187119786084",
+                    "size": "2193880926",
+                    "download": "1903524992"
                 }
             },
             "decryptionkey": "d81e674b226c7ab087cff2aedcf107268b8d53a6264227b549fe9b4a0ae7c35f"
         },
         "branches": {
             "public": {
-                "buildid": "18558060",
-                "timeupdated": "1747934080"
+                "buildid": "19054739",
+                "timeupdated": "1751313418"
             }
         },
         "privatebranches": "1"
