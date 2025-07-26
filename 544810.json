@@ -4,8 +4,8 @@
     "type": "Game",
     "schinese_name": "KARDS - 二战卡牌游戏",
     "isfreeapp": 1,
-    "update_time": "2025-06-20 20:23:53",
-    "change_number": 29667995,
+    "update_time": "2025-07-15 19:04:03",
+    "change_number": 30074383,
     "depot": {
         "544811": {
             "config": {
@@ -14,17 +14,17 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "16532979536107807",
-                    "size": "6840226955",
-                    "download": "2780075840"
+                    "gid": "5157695674643189922",
+                    "size": "6771903534",
+                    "download": "2747834928"
                 }
             },
             "decryptionkey": "5e4ae85b0dbdd225d6da1cd10dc861b4836c0e907f2e685fe99ce8a50ccba6a9"
         },
         "branches": {
             "public": {
-                "buildid": "18939564",
-                "timeupdated": "1750422227"
+                "buildid": "18994572",
+                "timeupdated": "1750854061"
             }
         },
         "privatebranches": "1"
