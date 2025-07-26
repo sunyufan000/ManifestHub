@@ -4,8 +4,8 @@
     "type": "Game",
     "schinese_name": "",
     "isfreeapp": 0,
-    "update_time": "2025-06-20 20:52:49",
-    "change_number": 29668384,
+    "update_time": "2025-07-21 18:46:08",
+    "change_number": 30171664,
     "depot": {
         "228989": {
             "config": {
@@ -24,37 +24,37 @@
         "3594191": {
             "manifests": {
                 "public": {
-                    "gid": "5443544741864321422",
-                    "size": "3304324256",
-                    "download": "2924747488"
+                    "gid": "3726284582821326918",
+                    "size": "3683887690",
+                    "download": "3299051472"
                 },
                 "experimental": {
-                    "gid": "5443544741864321422",
-                    "size": "3304324256",
-                    "download": "2924747488"
+                    "gid": "3726284582821326918",
+                    "size": "3683887690",
+                    "download": "3299051472"
                 },
                 "previous": {
-                    "gid": "7700316092698276891",
-                    "size": "3310028914",
-                    "download": "2930895888"
+                    "gid": "2302924088853876060",
+                    "size": "3511343830",
+                    "download": "3126641504"
                 }
             },
             "decryptionkey": "0549442421a2aa7f183fe947c50d418a070ebc91e62af83bcdfda2977b9cb81d"
         },
         "branches": {
             "public": {
-                "buildid": "18940233",
-                "timeupdated": "1750423964"
+                "buildid": "19219559",
+                "timeupdated": "1752515638"
             },
             "experimental": {
-                "buildid": "18940233",
+                "buildid": "19219559",
                 "description": "experimental",
-                "timeupdated": "1750423664"
+                "timeupdated": "1752515029"
             },
             "previous": {
-                "buildid": "18816705",
+                "buildid": "19165823",
                 "description": "This is the previous build of the game, kept in case you encounter issues in the default version that weren't present before. It may not receive future updates.",
-                "timeupdated": "1750175811"
+                "timeupdated": "1752093286"
             }
         }
     }
