@@ -4,8 +4,8 @@
     "type": "Demo",
     "schinese_name": "",
     "isfreeapp": 0,
-    "update_time": "2025-06-04 20:52:50",
-    "change_number": 29371871,
+    "update_time": "2025-07-05 10:53:48",
+    "change_number": 29909330,
     "depot": {
         "228988": {
             "config": {
@@ -27,9 +27,9 @@
         "1397392": {
             "manifests": {
                 "public": {
-                    "gid": "8228846391380448607",
-                    "size": "8396686057",
-                    "download": "738736480"
+                    "gid": "4953095495452737081",
+                    "size": "8397780577",
+                    "download": "756837312"
                 }
             },
             "depotfromapp": "1397390",
