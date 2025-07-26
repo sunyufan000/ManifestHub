@@ -4,8 +4,8 @@
     "type": "Game",
     "schinese_name": "",
     "isfreeapp": 0,
-    "update_time": "2025-06-15 06:02:07",
-    "change_number": 29569466,
+    "update_time": "2025-07-21 00:49:12",
+    "change_number": 30158940,
     "depot": {
         "baselanguages": "english",
         "hasdepotsindlc": "0",
@@ -31,9 +31,9 @@
                     "download": "873157536"
                 },
                 "2.2alpha-inventory-test": {
-                    "gid": "3527617158280875767",
-                    "size": "14626156024",
-                    "download": "4876829840"
+                    "gid": "2798247841057293372",
+                    "size": "14661306790",
+                    "download": "5926307168"
                 },
                 "venge_1.0": {
                     "gid": "3768378221335995505",
@@ -65,9 +65,9 @@
                     "download": "881106368"
                 },
                 "2.2alpha-inventory-test": {
-                    "gid": "5148828262646085945",
-                    "size": "14621470348",
-                    "download": "4868553568"
+                    "gid": "7107929312196389728",
+                    "size": "14672989593",
+                    "download": "5911915344"
                 },
                 "venge_1.0": {
                     "gid": "7326779642028544679",
@@ -98,9 +98,9 @@
                 "timeupdated": "1653795647"
             },
             "2.2alpha-inventory-test": {
-                "buildid": "18544309",
+                "buildid": "19267123",
                 "description": "this is a public test of my new inventory system!",
-                "timeupdated": "1747805307"
+                "timeupdated": "1752794214"
             },
             "venge_1.0": {
                 "buildid": "8829699",
