@@ -4,8 +4,8 @@
     "type": "Game",
     "schinese_name": "Force of Warships: 战舰游戏",
     "isfreeapp": 1,
-    "update_time": "2025-06-05 17:28:46",
-    "change_number": 29389787,
+    "update_time": "2025-07-18 06:38:55",
+    "change_number": 30125012,
     "depot": {
         "1991862": {
             "config": {
@@ -14,9 +14,9 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "6681022083505093578",
-                    "size": "2405089622",
-                    "download": "1982073664"
+                    "gid": "9023035730670142912",
+                    "size": "2613247897",
+                    "download": "2258726112"
                 }
             },
             "decryptionkey": "b45d6118d1797cdef4cc8072876bf4ef9b527aa21e06dd533f77c298fdd23141"
@@ -28,9 +28,9 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "3128833871496199384",
-                    "size": "2522480955",
-                    "download": "2005839184"
+                    "gid": "6440382051413540819",
+                    "size": "2799178455",
+                    "download": "2295650336"
                 }
             },
             "decryptionkey": "ae09d4e416a3865dae0b4556a23ef732ef2a4dee8274ffe52020b1a92bc0b037"
@@ -42,17 +42,17 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "7511411868568874751",
-                    "size": "2601556238",
-                    "download": "2010456256"
+                    "gid": "9049342647229698081",
+                    "size": "2742080613",
+                    "download": "2266427696"
                 }
             },
             "decryptionkey": "4c235c8899a009c867a094123554f091cd39288670d8226329168e89c3e49ccd"
         },
         "branches": {
             "public": {
-                "buildid": "18223489",
-                "timeupdated": "1745819932"
+                "buildid": "19141721",
+                "timeupdated": "1751960584"
             }
         },
         "privatebranches": "1"
