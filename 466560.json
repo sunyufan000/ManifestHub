@@ -4,8 +4,8 @@
     "type": "Game",
     "schinese_name": "北境之地",
     "isfreeapp": 0,
-    "update_time": "2025-06-20 17:16:44",
-    "change_number": 29665086,
+    "update_time": "2025-07-20 21:18:06",
+    "change_number": 30157565,
     "depot": {
         "228989": {
             "config": {
@@ -19,9 +19,9 @@
         "466561": {
             "manifests": {
                 "public": {
-                    "gid": "4459425584923856058",
-                    "size": "3629320793",
-                    "download": "1538527696"
+                    "gid": "2743093440625530244",
+                    "size": "3629253024",
+                    "download": "1538390256"
                 }
             },
             "decryptionkey": "073598adfc95cad9b9866fb7b6625dc6ab9ff54d5f00dff91733906ab3da0042"
@@ -91,8 +91,8 @@
         },
         "branches": {
             "public": {
-                "buildid": "18896970",
-                "timeupdated": "1750166391"
+                "buildid": "19145830",
+                "timeupdated": "1751980442"
             }
         },
         "privatebranches": "1",
