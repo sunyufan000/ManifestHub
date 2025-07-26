@@ -4,8 +4,8 @@
     "type": "Game",
     "schinese_name": "太阳帝国的原罪2",
     "isfreeapp": 0,
-    "update_time": "2025-06-18 22:45:00",
-    "change_number": 29631090,
+    "update_time": "2025-07-23 15:55:42",
+    "change_number": 30208748,
     "depot": {
         "baselanguages": "english,german,french,italian,koreana,spanish,schinese,russian,thai,japanese,polish,brazilian,indonesian",
         "228989": {
@@ -40,9 +40,9 @@
                     "download": "8216764656"
                 },
                 "test_edition": {
-                    "gid": "4151072988243715910",
-                    "size": "17648775665",
-                    "download": "8715799168"
+                    "gid": "1312688134654568932",
+                    "size": "17956275308",
+                    "download": "8979319232"
                 }
             },
             "decryptionkey": "4e2e571147e77d0cadda071bc6cb8aea54d2c0e2c076b1dbf4d5fea94482ff09"
@@ -116,9 +116,9 @@
                 "timeupdated": "1748530768"
             },
             "test_edition": {
-                "buildid": "18740322",
+                "buildid": "19263517",
                 "description": "Try out new versions early",
-                "timeupdated": "1749484393"
+                "timeupdated": "1752772835"
             }
         },
         "privatebranches": "1"
