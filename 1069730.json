@@ -1,0 +1,30 @@
+{
+    "appid": 1069730,
+    "name": "Avorion - Soundtrack",
+    "type": "Music",
+    "schinese_name": "",
+    "isfreeapp": 0,
+    "update_time": "2025-06-23 10:27:36",
+    "change_number": 28212585,
+    "depot": {
+        "1069730": {
+            "config": {
+                "language": ""
+            },
+            "manifests": {
+                "public": {
+                    "gid": "5980550666785886823",
+                    "size": "201013181",
+                    "download": "200480720"
+                }
+            },
+            "decryptionkey": "0fd968d9ddd4fe18acad96f063da89cecf95d15e3388a69fee3e69ac50919227"
+        },
+        "branches": {
+            "public": {
+                "buildid": "4702345",
+                "timeupdated": "1582299146"
+            }
+        }
+    }
+}
