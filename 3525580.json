@@ -4,8 +4,8 @@
     "type": "Game",
     "schinese_name": "城堡战记",
     "isfreeapp": 0,
-    "update_time": "2025-06-21 14:33:01",
-    "change_number": 29679861,
+    "update_time": "2025-07-18 14:26:04",
+    "change_number": 30132339,
     "depot": {
         "baselanguages": "english,schinese",
         "hasdepotsindlc": "0",
@@ -15,9 +15,9 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "1383556376040196137",
-                    "size": "142899409",
-                    "download": "56686384"
+                    "gid": "2321865620125534286",
+                    "size": "143370561",
+                    "download": "57039152"
                 }
             },
             "decryptionkey": "bc3d95dfee9505ceceb773ef61fefbfff2e042162d6f929de688b57b5a5cd9e1"
@@ -28,16 +28,16 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "5612501411952011343",
-                    "size": "115067297",
-                    "download": "51382160"
+                    "gid": "642495912095021754",
+                    "size": "115538449",
+                    "download": "51711952"
                 }
             }
         },
         "branches": {
             "public": {
-                "buildid": "18948145",
-                "timeupdated": "1750487577"
+                "buildid": "19275326",
+                "timeupdated": "1752845159"
             }
         }
     }
