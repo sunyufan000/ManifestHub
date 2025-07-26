@@ -4,8 +4,8 @@
     "type": "Game",
     "schinese_name": "抬头只见天花板 Looking Up I See Only A Ceiling",
     "isfreeapp": 0,
-    "update_time": "2025-06-13 04:58:02",
-    "change_number": 29536818,
+    "update_time": "2025-07-10 21:44:52",
+    "change_number": 29997182,
     "depot": {
         "228989": {
             "config": {
@@ -38,7 +38,8 @@
                     "size": "511752278",
                     "download": "384022480"
                 }
-            }
+            },
+            "decryptionkey": "673b19de8de7d6df32a671baa5364966a677c3186eb480fc46615859b5f7a5d6"
         },
         "1742933": {
             "config": {
@@ -50,7 +51,8 @@
                     "size": "977717553",
                     "download": "478574080"
                 }
-            }
+            },
+            "decryptionkey": "db937211c675e7edf54f1d70f3fa318adda0ec27847b19f8a5ef63a8215f414d"
         },
         "branches": {
             "public": {
