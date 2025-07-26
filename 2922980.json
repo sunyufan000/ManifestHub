@@ -4,8 +4,8 @@
     "type": "Game",
     "schinese_name": "亚森·罗宾：昔日大盗 (Arsene Lupin - Once a Thief)",
     "isfreeapp": 0,
-    "update_time": "2025-06-17 21:39:45",
-    "change_number": 29609092,
+    "update_time": "2025-07-19 01:51:03",
+    "change_number": 30141573,
     "depot": {
         "2922981": {
             "manifests": {
@@ -15,7 +15,7 @@
                     "download": "3554777664"
                 }
             },
-            "decryptionkey": ""
+            "decryptionkey": "b977e04e8acfd99921dc27640b048208ca63452945659f93b6ced3f6b7e5783f"
         },
         "3270640": {
             "dlcappid": "3270640",
