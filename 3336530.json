@@ -4,8 +4,8 @@
     "type": "Game",
     "schinese_name": "",
     "isfreeapp": 0,
-    "update_time": "2025-06-21 01:38:44",
-    "change_number": 29673189,
+    "update_time": "2025-07-24 02:16:14",
+    "change_number": 30217677,
     "depot": {
         "3336533": {
             "config": {
@@ -14,14 +14,14 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "4292328087678797682",
-                    "size": "10193766148",
-                    "download": "5597680064"
+                    "gid": "932123747359548047",
+                    "size": "10329582307",
+                    "download": "5673132272"
                 },
                 "development": {
-                    "gid": "9135945216231853720",
-                    "size": "10404446918",
-                    "download": "5728426432"
+                    "gid": "7042406916072845787",
+                    "size": "10528435969",
+                    "download": "5781430592"
                 }
             }
         },
@@ -32,14 +32,14 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "2322014753362760297",
-                    "size": "9834575746",
-                    "download": "5289497856"
+                    "gid": "6543334891482567469",
+                    "size": "9969462266",
+                    "download": "5364877904"
                 },
                 "development": {
-                    "gid": "8376989112733436175",
-                    "size": "10072207088",
-                    "download": "5434443840"
+                    "gid": "79365061433721656",
+                    "size": "10021976501",
+                    "download": "5432840016"
                 }
             }
         },
@@ -50,27 +50,27 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "1077872339711859644",
-                    "size": "9639862647",
-                    "download": "5298236976"
+                    "gid": "5224999582941955602",
+                    "size": "9749904828",
+                    "download": "5368037008"
                 },
                 "development": {
-                    "gid": "2249504190276785468",
-                    "size": "9853050802",
-                    "download": "5442451648"
+                    "gid": "200259223924399059",
+                    "size": "9849935632",
+                    "download": "5452151744"
                 }
             },
             "decryptionkey": "d61eaa9efa46e92dafb506cf8b62380c12d5b52c3b7588e815f71e274b93f18e"
         },
         "branches": {
             "public": {
-                "buildid": "18751972",
-                "timeupdated": "1749133705"
+                "buildid": "19148584",
+                "timeupdated": "1751991314"
             },
             "development": {
-                "buildid": "18917164",
+                "buildid": "19331101",
                 "description": "QA Testing",
-                "timeupdated": "1750276276"
+                "timeupdated": "1753284072"
             }
         }
     }
