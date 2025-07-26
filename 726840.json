@@ -4,8 +4,8 @@
     "type": "Game",
     "schinese_name": "城市游戏工作室",
     "isfreeapp": 0,
-    "update_time": "2025-06-18 21:29:25",
-    "change_number": 29629693,
+    "update_time": "2025-07-23 07:23:40",
+    "change_number": 30200518,
     "depot": {
         "baselanguages": "english,german,french,italian,koreana,spanish,schinese,russian,japanese,portuguese,polish,dutch,turkish,ukrainian",
         "726842": {
@@ -15,9 +15,9 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "1839211822115380510",
-                    "size": "372851757",
-                    "download": "277574752"
+                    "gid": "1801487084700778406",
+                    "size": "373434998",
+                    "download": "277897584"
                 },
                 "oldstable": {
                     "gid": "8757294308409845471",
@@ -25,12 +25,12 @@
                     "download": "277430288"
                 },
                 "unstable": {
-                    "gid": "7294775572989672335",
-                    "size": "373435596",
-                    "download": "277897632"
+                    "gid": "210144633178708370",
+                    "size": "388321204",
+                    "download": "278247232"
                 }
             },
-            "decryptionkey": ""
+            "decryptionkey": "2d308a50e5eeba5e71eec2712fcb79c7274c3f02b35369d56b1be67a1d5f8a61"
         },
         "726844": {
             "config": {
@@ -39,9 +39,9 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "8572196452145690231",
-                    "size": "375214493",
-                    "download": "278348672"
+                    "gid": "3410518311152920466",
+                    "size": "375797734",
+                    "download": "278652064"
                 },
                 "oldstable": {
                     "gid": "3707062458008569724",
@@ -49,9 +49,9 @@
                     "download": "278195216"
                 },
                 "unstable": {
-                    "gid": "3789678810153564668",
-                    "size": "375798332",
-                    "download": "278652288"
+                    "gid": "6429114798888855400",
+                    "size": "390683940",
+                    "download": "278953600"
                 }
             },
             "decryptionkey": "cbe477aab7ce09bfebf6c5c4096023b76e4bb51a8599feea893c80eaaa51de71"
@@ -62,9 +62,9 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "3736013489127592863",
-                    "size": "379503944",
-                    "download": "292918672"
+                    "gid": "9031538800044820393",
+                    "size": "380087185",
+                    "download": "293249488"
                 },
                 "oldstable": {
                     "gid": "6340509842121398816",
@@ -72,11 +72,12 @@
                     "download": "292533728"
                 },
                 "unstable": {
-                    "gid": "3742860656173532271",
-                    "size": "380087783",
-                    "download": "293248576"
+                    "gid": "4905371531694909556",
+                    "size": "394973391",
+                    "download": "293568496"
                 }
-            }
+            },
+            "decryptionkey": "eb838de9f804f1b700891f70e0606e30fcaae0c6e180c653396bb478f37bb98b"
         },
         "726843": {
             "config": {
@@ -84,9 +85,9 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "4332466853806505611",
-                    "size": "385183732",
-                    "download": "280553312"
+                    "gid": "4416813166835646756",
+                    "size": "385766973",
+                    "download": "280861168"
                 },
                 "oldstable": {
                     "gid": "8328364098725224772",
@@ -94,17 +95,18 @@
                     "download": "280193888"
                 },
                 "unstable": {
-                    "gid": "8330973699841228033",
-                    "size": "385767571",
-                    "download": "280861200"
+                    "gid": "5230717475879443165",
+                    "size": "400653179",
+                    "download": "281223200"
                 }
-            }
+            },
+            "decryptionkey": "fd3c00aaff43436ad2c4f903f09068ad5ec63e70a3fa90814ccb2d52ed0630f3"
         },
         "workshopdepot": "726840",
         "branches": {
             "public": {
-                "buildid": "17951439",
-                "timeupdated": "1743582014"
+                "buildid": "19035652",
+                "timeupdated": "1751097301"
             },
             "oldstable": {
                 "buildid": "15874484",
@@ -112,9 +114,9 @@
                 "timeupdated": "1733731412"
             },
             "unstable": {
-                "buildid": "18912579",
+                "buildid": "19324882",
                 "description": "Unstable branch, contains the newest features",
-                "timeupdated": "1750252481"
+                "timeupdated": "1753251816"
             }
         },
         "privatebranches": "1",
