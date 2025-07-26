@@ -1,0 +1,28 @@
+{
+    "appid": 1022421,
+    "name": "DFF NT: Second Coming, Sephiroth's 4th Weapon",
+    "type": "DLC",
+    "schinese_name": "",
+    "isfreeapp": 0,
+    "update_time": "2025-06-23 14:10:04",
+    "change_number": 26201212,
+    "depot": {
+        "1022421": {
+            "manifests": {
+                "public": {
+                    "gid": "5942828225274516019",
+                    "size": "0",
+                    "download": "0"
+                }
+            },
+            "dlcappid": "1022421",
+            "decryptionkey": "138687dc42e47646b1a17f6934e41bd98cb6fad75863df6700fa186418b416c8"
+        },
+        "branches": {
+            "public": {
+                "buildid": "3507987",
+                "timeupdated": "1548672472"
+            }
+        }
+    }
+}
