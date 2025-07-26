@@ -4,8 +4,8 @@
     "type": "Game",
     "schinese_name": "吾王保卫战 Just King",
     "isfreeapp": 0,
-    "update_time": "2025-06-18 06:22:47",
-    "change_number": 29617009,
+    "update_time": "2025-07-22 20:52:40",
+    "change_number": 30193202,
     "depot": {
         "baselanguages": "english",
         "1059981": {
@@ -14,14 +14,19 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "5114318384816442977",
-                    "size": "528897889",
-                    "download": "275715760"
+                    "gid": "8190833048965335444",
+                    "size": "528975529",
+                    "download": "277428288"
                 },
                 "april_fools": {
                     "gid": "8540273319229980820",
                     "size": "527051797",
                     "download": "275615120"
+                },
+                "open_beta": {
+                    "gid": "3475919048974424609",
+                    "size": "497146412",
+                    "download": "224619616"
                 }
             },
             "decryptionkey": "34533a736ad588eadf3d54a4d396138ffd82c4c67a791cc8b5f6583289168abd"
@@ -29,13 +34,18 @@
         "workshopdepot": "1059980",
         "branches": {
             "public": {
-                "buildid": "18903527",
-                "timeupdated": "1750195799"
+                "buildid": "19319681",
+                "timeupdated": "1753213955"
             },
             "april_fools": {
                 "buildid": "17947811",
                 "description": "April Fools",
                 "timeupdated": "1743604184"
+            },
+            "open_beta": {
+                "buildid": "19319018",
+                "description": "Open Beta",
+                "timeupdated": "1753209719"
             }
         },
         "privatebranches": "1",
