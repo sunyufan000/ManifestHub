@@ -4,8 +4,8 @@
     "type": "Tool",
     "schinese_name": "",
     "isfreeapp": 0,
-    "update_time": "2025-06-15 22:17:47",
-    "change_number": 29574673,
+    "update_time": "2025-07-23 19:36:26",
+    "change_number": 30212673,
     "depot": {
         "baselanguages": "english",
         "hasdepotsindlc": "0",
@@ -15,9 +15,9 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "7747775778018907449",
-                    "size": "46727128",
-                    "download": "14307024"
+                    "gid": "8904491048620934740",
+                    "size": "68697032",
+                    "download": "20552544"
                 }
             },
             "depotfromapp": "1007",
@@ -43,9 +43,9 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "7138471031118904166",
-                    "size": "78382436",
-                    "download": "21254752"
+                    "gid": "5587033981095108078",
+                    "size": "107476144",
+                    "download": "29272144"
                 }
             },
             "depotfromapp": "1007",
@@ -59,9 +59,9 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "5229034604226135380",
-                    "size": "820289983",
-                    "download": "472167952"
+                    "gid": "4110823078713680015",
+                    "size": "794543478",
+                    "download": "522414336"
                 },
                 "experimentalwindows": {
                     "gid": "7282175433893886699",
@@ -69,9 +69,9 @@
                     "download": "971095184"
                 },
                 "experimental": {
-                    "gid": "5229034604226135380",
-                    "size": "820289983",
-                    "download": "472167952"
+                    "gid": "4110823078713680015",
+                    "size": "794543478",
+                    "download": "522414336"
                 }
             }
         },
@@ -82,9 +82,9 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "3114172129702222152",
-                    "size": "827470714",
-                    "download": "505413776"
+                    "gid": "595950686993244579",
+                    "size": "845199875",
+                    "download": "575899424"
                 },
                 "experimentalwindows": {
                     "gid": "4652151882370758544",
@@ -92,17 +92,17 @@
                     "download": "950174928"
                 },
                 "experimental": {
-                    "gid": "3114172129702222152",
-                    "size": "827470714",
-                    "download": "505413776"
+                    "gid": "595950686993244579",
+                    "size": "845199875",
+                    "download": "575899424"
                 }
             },
             "decryptionkey": "fdaa8fa29d52330b37e9a243c0ff3d6181cef31718a1262dca88b0db537a5330"
         },
         "branches": {
             "public": {
-                "buildid": "18795125",
-                "timeupdated": "1749480674"
+                "buildid": "19178050",
+                "timeupdated": "1752171650"
             },
             "experimentalwindows": {
                 "buildid": "9754712",
@@ -110,9 +110,9 @@
                 "timeupdated": "1666272627"
             },
             "experimental": {
-                "buildid": "18795125",
+                "buildid": "19178050",
                 "description": "for testing",
-                "timeupdated": "1749480632"
+                "timeupdated": "1752171489"
             }
         },
         "privatebranches": "1"
