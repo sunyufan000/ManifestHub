@@ -4,8 +4,8 @@
     "type": "Application",
     "schinese_name": "",
     "isfreeapp": 1,
-    "update_time": "2025-06-20 22:38:55",
-    "change_number": 29670227,
+    "update_time": "2025-07-22 02:01:53",
+    "change_number": 30177151,
     "depot": {
         "hasdepotsindlc": "1",
         "228989": {
@@ -22,19 +22,19 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "6970148056852882757",
-                    "size": "471091302",
-                    "download": "145069840"
-                },
-                "beta": {
-                    "gid": "2065499537929294070",
-                    "size": "478261400",
-                    "download": "146219152"
+                    "gid": "8552353851854602425",
+                    "size": "475165145",
+                    "download": "156237840"
                 },
                 "nightly": {
-                    "gid": "2720537510637543473",
-                    "size": "650174750",
-                    "download": "172390144"
+                    "gid": "4148516539152917119",
+                    "size": "647171133",
+                    "download": "189481392"
+                },
+                "31.1": {
+                    "gid": "8552353851854602425",
+                    "size": "475165145",
+                    "download": "156237840"
                 },
                 "31.0": {
                     "gid": "6970148056852882757",
@@ -96,19 +96,19 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "8706926431015269548",
-                    "size": "912549826",
-                    "download": "232765120"
-                },
-                "beta": {
-                    "gid": "494519157374507085",
-                    "size": "913125680",
-                    "download": "234077456"
+                    "gid": "5539540616677916354",
+                    "size": "912886092",
+                    "download": "243428640"
                 },
                 "nightly": {
-                    "gid": "8066818324821620161",
-                    "size": "925052394",
-                    "download": "235018704"
+                    "gid": "1575040086851167436",
+                    "size": "924500884",
+                    "download": "244549136"
+                },
+                "31.1": {
+                    "gid": "5539540616677916354",
+                    "size": "912886092",
+                    "download": "243428640"
                 },
                 "31.0": {
                     "gid": "8706926431015269548",
@@ -172,22 +172,22 @@
         },
         "branches": {
             "public": {
-                "buildid": "17903979",
-                "timeupdated": "1743547861"
-            },
-            "beta": {
-                "buildid": "18773405",
-                "description": "Betas and release candidates",
-                "timeupdated": "1749260680"
+                "buildid": "19198655",
+                "timeupdated": "1752343369"
             },
             "nightly": {
-                "buildid": "18890531",
+                "buildid": "19308205",
                 "description": "Unsigned nightly builds from CI",
-                "timeupdated": "1750122190"
+                "timeupdated": "1753146109"
+            },
+            "31.1": {
+                "buildid": "19198655",
+                "description": "31.1 Release (Latest)",
+                "timeupdated": "1752343342"
             },
             "31.0": {
                 "buildid": "17903979",
-                "description": "31.0 Release (Latest)",
+                "description": "31.0 Release",
                 "timeupdated": "1743547847"
             },
             "30.2": {
