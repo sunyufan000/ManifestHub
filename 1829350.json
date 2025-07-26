@@ -4,8 +4,8 @@
     "type": "Tool",
     "schinese_name": "",
     "isfreeapp": 0,
-    "update_time": "2025-06-12 17:03:35",
-    "change_number": 29524665,
+    "update_time": "2025-07-23 19:36:46",
+    "change_number": 30212673,
     "depot": {
         "1004": {
             "config": {
@@ -13,9 +13,9 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "7747775778018907449",
-                    "size": "46727128",
-                    "download": "14307024"
+                    "gid": "8904491048620934740",
+                    "size": "68697032",
+                    "download": "20552544"
                 }
             },
             "depotfromapp": "1007",
@@ -41,9 +41,9 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "7138471031118904166",
-                    "size": "78382436",
-                    "download": "21254752"
+                    "gid": "5587033981095108078",
+                    "size": "107476144",
+                    "download": "29272144"
                 }
             },
             "depotfromapp": "1007",
@@ -52,14 +52,14 @@
         "1829351": {
             "manifests": {
                 "public": {
-                    "gid": "5527475766995900046",
-                    "size": "1949644740",
-                    "download": "225629376"
+                    "gid": "5488502256865046300",
+                    "size": "1949554587",
+                    "download": "263437232"
                 },
                 "ce-1": {
-                    "gid": "7240567611961296093",
-                    "size": "1949601248",
-                    "download": "225789520"
+                    "gid": "1113456910595698485",
+                    "size": "1949601755",
+                    "download": "263294176"
                 },
                 "legacy-0.5.x": {
                     "gid": "6425872806400860839",
@@ -86,13 +86,13 @@
         },
         "branches": {
             "public": {
-                "buildid": "18809405",
-                "timeupdated": "1749718968"
+                "buildid": "18990948",
+                "timeupdated": "1750833947"
             },
             "ce-1": {
-                "buildid": "18809444",
+                "buildid": "18990971",
                 "description": "...",
-                "timeupdated": "1749719007"
+                "timeupdated": "1750834041"
             },
             "legacy-0.5.x": {
                 "buildid": "10409337",
