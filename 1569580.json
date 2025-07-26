@@ -4,8 +4,8 @@
     "type": "Game",
     "schinese_name": "蓝途王子",
     "isfreeapp": 0,
-    "update_time": "2025-06-21 01:42:30",
-    "change_number": 29673267,
+    "update_time": "2025-07-13 23:31:19",
+    "change_number": 30039523,
     "depot": {
         "1569581": {
             "config": {
@@ -44,7 +44,7 @@
                     "download": "2545749536"
                 }
             },
-            "decryptionkey": ""
+            "decryptionkey": "6dc8f52fe7e1127a4c9a0da6a7fee1874d73046b9b1678d92037c85e7feaef9a"
         },
         "branches": {
             "public": {
