@@ -4,8 +4,8 @@
     "type": "Game",
     "schinese_name": "This Grand Life 2 (这宏伟的人生2)",
     "isfreeapp": 0,
-    "update_time": "2025-06-18 07:37:04",
-    "change_number": 29618422,
+    "update_time": "2025-07-15 00:27:07",
+    "change_number": 30057923,
     "depot": {
         "228984": {
             "config": {
@@ -31,14 +31,14 @@
         "2459491": {
             "manifests": {
                 "public": {
-                    "gid": "7389155470546349989",
-                    "size": "453519422",
-                    "download": "416176048"
+                    "gid": "5595395166065375502",
+                    "size": "448842929",
+                    "download": "411710992"
                 },
                 "experimental": {
-                    "gid": "7389155470546349989",
-                    "size": "453519422",
-                    "download": "416176048"
+                    "gid": "5595395166065375502",
+                    "size": "448842929",
+                    "download": "411710992"
                 },
                 "v0.59.09": {
                     "gid": "5574560775322840453",
@@ -51,13 +51,13 @@
         "workshopdepot": "2459490",
         "branches": {
             "public": {
-                "buildid": "18904540",
-                "timeupdated": "1750203388"
+                "buildid": "19222504",
+                "timeupdated": "1752534494"
             },
             "experimental": {
-                "buildid": "18904540",
+                "buildid": "19222504",
                 "description": "For early release of major updates",
-                "timeupdated": "1750203421"
+                "timeupdated": "1752534451"
             },
             "v0.59.09": {
                 "buildid": "16763996",
@@ -66,6 +66,6 @@
             }
         },
         "privatebranches": "1",
-        "workshopdepotdecryptionkey": ""
+        "workshopdepotdecryptionkey": "49bdbe63d4c02c0fdf9aee1d19bdadcff66487804873ddc00b0fc74d2cf7c736"
     }
 }
