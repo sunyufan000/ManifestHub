@@ -4,8 +4,8 @@
     "type": "Game",
     "schinese_name": "银河文明IV",
     "isfreeapp": 0,
-    "update_time": "2025-06-19 20:56:29",
-    "change_number": 29595200,
+    "update_time": "2025-07-22 15:11:56",
+    "change_number": 30187601,
     "depot": {
         "baselanguages": "english,german,french,italian,koreana,spanish,schinese,russian,portuguese,polish,brazilian,greek,latam",
         "workshopdepot": "1357210",
@@ -27,9 +27,9 @@
         "1357211": {
             "manifests": {
                 "public": {
-                    "gid": "3393641552655557182",
-                    "size": "27225345003",
-                    "download": "22916605424"
+                    "gid": "6044645979487406465",
+                    "size": "27225342139",
+                    "download": "22919396368"
                 },
                 "version_1.51": {
                     "gid": "5431806142850171811",
@@ -37,9 +37,9 @@
                     "download": "19562369008"
                 },
                 "insiders": {
-                    "gid": "3393641552655557182",
-                    "size": "27225345003",
-                    "download": "22916605424"
+                    "gid": "6044645979487406465",
+                    "size": "27225342139",
+                    "download": "22919396368"
                 },
                 "v2.99_legacy": {
                     "gid": "6094759693288665532",
@@ -76,8 +76,8 @@
         },
         "branches": {
             "public": {
-                "buildid": "18887914",
-                "timeupdated": "1750105604"
+                "buildid": "19303286",
+                "timeupdated": "1753193512"
             },
             "version_1.51": {
                 "buildid": "11218835",
@@ -85,9 +85,9 @@
                 "timeupdated": "1685545333"
             },
             "insiders": {
-                "buildid": "18887914",
+                "buildid": "19303286",
                 "description": "Explore experimental features and fixes",
-                "timeupdated": "1750105625"
+                "timeupdated": "1753193493"
             },
             "v2.99_legacy": {
                 "buildid": "18799677",
