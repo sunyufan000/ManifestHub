@@ -4,8 +4,8 @@
     "type": "Game",
     "schinese_name": "荒野之心",
     "isfreeapp": 0,
-    "update_time": "2025-06-21 00:47:22",
-    "change_number": 29672295,
+    "update_time": "2025-06-26 19:51:34",
+    "change_number": 29767484,
     "depot": {
         "hasdepotsindlc": "1",
         "baselanguages": "english,german,french,italian,koreana,spanish,schinese,tchinese,japanese,polish,brazilian,latam",
@@ -185,9 +185,9 @@
         "3340992": {
             "manifests": {
                 "public": {
-                    "gid": "31927642884531629",
-                    "size": "234648126",
-                    "download": "234136224"
+                    "gid": "2787832777200282612",
+                    "size": "235231374",
+                    "download": "234719552"
                 }
             },
             "depotfromapp": "3340990",
