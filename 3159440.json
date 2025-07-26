@@ -4,15 +4,15 @@
     "type": "Game",
     "schinese_name": "修仙故事: 无尽剑域",
     "isfreeapp": 0,
-    "update_time": "2025-06-22 08:18:18",
-    "change_number": 29686634,
+    "update_time": "2025-07-24 01:06:10",
+    "change_number": 30216870,
     "depot": {
         "3159441": {
             "manifests": {
                 "public": {
-                    "gid": "2483336737096407856",
-                    "size": "282776468",
-                    "download": "225679696"
+                    "gid": "1845283963760004859",
+                    "size": "345015906",
+                    "download": "284581072"
                 }
             },
             "decryptionkey": "dbf73ccb3e98f3de21ee28008f403a25d04f581571ab326e6e9ed476289ac265"
@@ -20,8 +20,8 @@
         "baselanguages": "english,schinese,tchinese",
         "branches": {
             "public": {
-                "buildid": "18865871",
-                "timeupdated": "1749886938"
+                "buildid": "19333420",
+                "timeupdated": "1753298409"
             }
         },
         "privatebranches": "1"
