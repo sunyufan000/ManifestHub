@@ -4,8 +4,8 @@
     "type": "Demo",
     "schinese_name": "PGA TOUR 2K25 抢先体验",
     "isfreeapp": 0,
-    "update_time": "2025-06-21 21:58:05",
-    "change_number": 29682651,
+    "update_time": "2025-07-23 14:41:21",
+    "change_number": 30207411,
     "depot": {
         "228983": {
             "config": {
@@ -24,9 +24,9 @@
         "3089071": {
             "manifests": {
                 "public": {
-                    "gid": "2552123620709580976",
-                    "size": "29878867934",
-                    "download": "27779952560"
+                    "gid": "5181842561397629620",
+                    "size": "33728995456",
+                    "download": "32202014448"
                 }
             },
             "decryptionkey": "cfd30bba743df834ad53f490daeb26ed12ce4c41c3e62bc7f9850bddfbb67315"
@@ -34,8 +34,8 @@
         "baselanguages": "english,german,french,italian,koreana,spanish,schinese,tchinese,japanese",
         "branches": {
             "public": {
-                "buildid": "17597382",
-                "timeupdated": "1741363241"
+                "buildid": "18910008",
+                "timeupdated": "1751475753"
             }
         },
         "privatebranches": "1"
