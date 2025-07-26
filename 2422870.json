@@ -4,8 +4,8 @@
     "type": "Game",
     "schinese_name": "铜须酒馆",
     "isfreeapp": 1,
-    "update_time": "2025-06-22 09:15:46",
-    "change_number": 29686911,
+    "update_time": "2025-07-21 14:23:25",
+    "change_number": 30167468,
     "depot": {
         "228989": {
             "config": {
@@ -24,9 +24,9 @@
         "2422871": {
             "manifests": {
                 "public": {
-                    "gid": "6560055148342067059",
-                    "size": "2280719628",
-                    "download": "2105353568"
+                    "gid": "8938864157530872195",
+                    "size": "2632741705",
+                    "download": "2447387744"
                 }
             },
             "decryptionkey": "5e12c568d89f839c61851e113b653f37285a1c4073f65d40d338cbf0e8c34061"
@@ -38,8 +38,8 @@
         },
         "branches": {
             "public": {
-                "buildid": "18427963",
-                "timeupdated": "1747053746"
+                "buildid": "19041823",
+                "timeupdated": "1751197289"
             }
         },
         "privatebranches": "1"
