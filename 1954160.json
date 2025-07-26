@@ -4,8 +4,8 @@
     "type": "Game",
     "schinese_name": "像素人生 To Pixelia",
     "isfreeapp": 0,
-    "update_time": "2025-06-14 00:44:58",
-    "change_number": 29553800,
+    "update_time": "2025-07-18 21:18:24",
+    "change_number": 30138697,
     "depot": {
         "1954161": {
             "config": {
@@ -14,9 +14,9 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "8556890538447700833",
-                    "size": "2310091929",
-                    "download": "297094880"
+                    "gid": "3962372107729070516",
+                    "size": "2310704685",
+                    "download": "307610096"
                 },
                 "crash_solution_test": {
                     "gid": "7976569636141267765",
@@ -28,8 +28,8 @@
         },
         "branches": {
             "public": {
-                "buildid": "18859055",
-                "timeupdated": "1749833093"
+                "buildid": "19263175",
+                "timeupdated": "1752770805"
             },
             "crash_solution_test": {
                 "buildid": "18473150",
