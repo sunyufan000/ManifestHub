@@ -4,8 +4,8 @@
     "type": "Tool",
     "schinese_name": "",
     "isfreeapp": 0,
-    "update_time": "2025-06-21 21:54:35",
-    "change_number": 29681535,
+    "update_time": "2025-07-24 01:58:52",
+    "change_number": 30217458,
     "depot": {
         "1004": {
             "config": {
@@ -13,9 +13,9 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "7747775778018907449",
-                    "size": "46727128",
-                    "download": "14307024"
+                    "gid": "8904491048620934740",
+                    "size": "68697032",
+                    "download": "20552544"
                 }
             },
             "depotfromapp": "1007",
@@ -41,9 +41,9 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "7138471031118904166",
-                    "size": "78382436",
-                    "download": "21254752"
+                    "gid": "5587033981095108078",
+                    "size": "107476144",
+                    "download": "29272144"
                 }
             },
             "depotfromapp": "1007",
@@ -69,9 +69,9 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "2782037095200883183",
-                    "size": "4173714639",
-                    "download": "2884512480"
+                    "gid": "7677153276026150200",
+                    "size": "4181103926",
+                    "download": "2889845568"
                 },
                 "beforemacoschanges": {
                     "gid": "4534454870854554447",
@@ -79,9 +79,9 @@
                     "download": "2380486432"
                 },
                 "updatebeta": {
-                    "gid": "1624641941262332079",
-                    "size": "4137047005",
-                    "download": "2864274000"
+                    "gid": "755450990722827664",
+                    "size": "4184019996",
+                    "download": "2893786096"
                 }
             },
             "decryptionkey": "2c52e5002a767247ff7bb75add632763dc0afe52acc5769f5d5eb6209544b7f8"
@@ -92,9 +92,9 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "4981898187074458199",
-                    "size": "4088882534",
-                    "download": "2781977792"
+                    "gid": "1423366173862809830",
+                    "size": "4096273866",
+                    "download": "2787303584"
                 },
                 "beforemacoschanges": {
                     "gid": "4555268090536644559",
@@ -102,9 +102,9 @@
                     "download": "2274945136"
                 },
                 "updatebeta": {
-                    "gid": "3224761010902179690",
-                    "size": "4052215348",
-                    "download": "2761745872"
+                    "gid": "2174016438694471006",
+                    "size": "4099199609",
+                    "download": "2791029872"
                 }
             },
             "decryptionkey": "fcec5bd16dfbc7de765d0a1a7af7e175878d153d572012b3381b9b9cfcff3476"
@@ -115,9 +115,9 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "5302529924496444716",
-                    "size": "3994520122",
-                    "download": "2757285936"
+                    "gid": "753093593590211774",
+                    "size": "4001913874",
+                    "download": "2762629856"
                 },
                 "beforemacoschanges": {
                     "gid": "2845679795893720385",
@@ -125,17 +125,17 @@
                     "download": "2257541728"
                 },
                 "updatebeta": {
-                    "gid": "563556098284909565",
-                    "size": "3957829325",
-                    "download": "2737051056"
+                    "gid": "8693494923493121356",
+                    "size": "4004826693",
+                    "download": "2766064032"
                 }
             },
             "decryptionkey": "4af842c155c770e5b6ac26a64aa4869f7515d7c6ffa0b812e3798290d3b17c0e"
         },
         "branches": {
             "public": {
-                "buildid": "18946105",
-                "timeupdated": "1750464775"
+                "buildid": "19097992",
+                "timeupdated": "1751569547"
             },
             "beforemacoschanges": {
                 "buildid": "12576213",
@@ -143,9 +143,9 @@
                 "timeupdated": "1698883395"
             },
             "updatebeta": {
-                "buildid": "18836421",
+                "buildid": "19336759",
                 "description": "Public Beta",
-                "timeupdated": "1749712525"
+                "timeupdated": "1753318729"
             }
         },
         "privatebranches": "1"
