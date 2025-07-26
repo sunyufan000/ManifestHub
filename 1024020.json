@@ -4,8 +4,8 @@
     "type": "Beta",
     "schinese_name": "僵尸末日 实验版",
     "isfreeapp": 0,
-    "update_time": "2025-06-04 02:41:01",
-    "change_number": 29355467,
+    "update_time": "2025-07-17 13:00:16",
+    "change_number": 30109858,
     "depot": {
         "228983": {
             "config": {
@@ -49,9 +49,9 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "6004889096023842043",
-                    "size": "25129855464",
-                    "download": "20050302000"
+                    "gid": "4798114599278080782",
+                    "size": "25130638820",
+                    "download": "20060871984"
                 }
             },
             "decryptionkey": "0af6eb2f327175bfd4ec84842a87204573c89b6be16e532850ad050293a10499"
@@ -72,8 +72,8 @@
         },
         "branches": {
             "public": {
-                "buildid": "18722028",
-                "timeupdated": "1748976056"
+                "buildid": "19247592",
+                "timeupdated": "1752753613"
             }
         },
         "privatebranches": "1"
