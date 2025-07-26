@@ -4,8 +4,8 @@
     "type": "Game",
     "schinese_name": "传奇4",
     "isfreeapp": 1,
-    "update_time": "2025-06-18 16:13:57",
-    "change_number": 29624535,
+    "update_time": "2025-07-22 00:03:19",
+    "change_number": 30175849,
     "depot": {
         "228988": {
             "config": {
@@ -25,9 +25,9 @@
         "1623661": {
             "manifests": {
                 "public": {
-                    "gid": "1897020533727733366",
-                    "size": "514955235",
-                    "download": "235151936"
+                    "gid": "8374630436524835686",
+                    "size": "515712996",
+                    "download": "243451184"
                 }
             },
             "decryptionkey": "1041c3b158f316ee0590805796ae98ddb308f7468e1ce6de0ed1df161c879141"
@@ -35,8 +35,8 @@
         "baselanguages": "english,schinese,tchinese,japanese",
         "branches": {
             "public": {
-                "buildid": "18745599",
-                "timeupdated": "1749510566"
+                "buildid": "19255690",
+                "timeupdated": "1753138995"
             }
         },
         "privatebranches": "1"
