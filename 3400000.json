@@ -4,35 +4,36 @@
     "type": "Game",
     "schinese_name": "",
     "isfreeapp": 0,
-    "update_time": "2025-06-20 21:03:41",
-    "change_number": 29668559,
+    "update_time": "2025-07-23 21:12:52",
+    "change_number": 30214047,
     "depot": {
         "baselanguages": "english,german,french,italian,koreana,spanish,schinese,tchinese,japanese,portuguese,romanian",
         "3400001": {
             "manifests": {
                 "public": {
-                    "gid": "4490367985656254007",
-                    "size": "6031125132",
-                    "download": "2309932064"
+                    "gid": "6350865456057928647",
+                    "size": "6120977136",
+                    "download": "2323589408"
                 },
                 "beta": {
-                    "gid": "4490367985656254007",
-                    "size": "6031125132",
-                    "download": "2309932064"
+                    "gid": "6350865456057928647",
+                    "size": "6120977136",
+                    "download": "2323589408"
                 }
             },
             "decryptionkey": "e1ef4a14595192f4e31bd0a1fef3c533c6b297918ff247799117e214b6c9d7ff"
         },
         "branches": {
             "public": {
-                "buildid": "18939556",
-                "timeupdated": "1750424613"
+                "buildid": "19312887",
+                "timeupdated": "1753180792"
             },
             "beta": {
-                "buildid": "18939556",
+                "buildid": "19312887",
                 "description": "Upcoming patch - testing in progress",
-                "timeupdated": "1750422470"
+                "timeupdated": "1753178274"
             }
-        }
+        },
+        "privatebranches": "1"
     }
 }
