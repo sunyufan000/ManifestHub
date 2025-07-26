@@ -4,8 +4,8 @@
     "type": "Game",
     "schinese_name": "天才退魔师才不会屈服于触手妖魔",
     "isfreeapp": 0,
-    "update_time": "2025-06-13 23:15:56",
-    "change_number": 29552270,
+    "update_time": "2025-07-17 06:31:57",
+    "change_number": 30103705,
     "depot": {
         "baselanguages": "english,schinese,tchinese,japanese",
         "2799921": {
@@ -48,7 +48,7 @@
                     "download": "1396135952"
                 }
             },
-            "decryptionkey": ""
+            "decryptionkey": "3c9dddf7e9a7ef7745dbc52209e3ca6925d7e0b701bcdf70bc45fc7bc42bc54c"
         },
         "2799924": {
             "config": {
