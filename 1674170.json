@@ -4,8 +4,8 @@
     "type": "Game",
     "schinese_name": "",
     "isfreeapp": 0,
-    "update_time": "2025-06-18 06:06:17",
-    "change_number": 29611305,
+    "update_time": "2025-07-23 17:17:46",
+    "change_number": 30210341,
     "depot": {
         "228990": {
             "config": {
@@ -27,9 +27,9 @@
                     "download": "1576698432"
                 },
                 "experimental": {
-                    "gid": "2197753626214383789",
-                    "size": "3446493077",
-                    "download": "1900324464"
+                    "gid": "7950052916131165212",
+                    "size": "3444873057",
+                    "download": "1914247424"
                 },
                 "0.127": {
                     "gid": "7851031514040539145",
@@ -37,9 +37,9 @@
                     "download": "1576712288"
                 },
                 "0.2-alpha": {
-                    "gid": "2197753626214383789",
-                    "size": "3446493077",
-                    "download": "1900324464"
+                    "gid": "7950052916131165212",
+                    "size": "3444873057",
+                    "download": "1914247424"
                 },
                 "uncle_competition": {
                     "gid": "4150522930305217075",
@@ -56,9 +56,9 @@
                 "timeupdated": "1679935066"
             },
             "experimental": {
-                "buildid": "18899619",
+                "buildid": "19331730",
                 "description": "The latest features, at the cost of more bugs.",
-                "timeupdated": "1750174376"
+                "timeupdated": "1753287461"
             },
             "0.127": {
                 "buildid": "10894503",
@@ -66,9 +66,9 @@
                 "timeupdated": "1748446278"
             },
             "0.2-alpha": {
-                "buildid": "18899619",
+                "buildid": "19331730",
                 "description": "The legacy 0.2 alpha branch. Identical to the experimental branch and soon to be removed.",
-                "timeupdated": "1750174390"
+                "timeupdated": "1753287448"
             },
             "uncle_competition": {
                 "buildid": "9348391",
