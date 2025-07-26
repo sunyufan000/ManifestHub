@@ -4,8 +4,8 @@
     "type": "Game",
     "schinese_name": "巴士模拟2",
     "isfreeapp": 0,
-    "update_time": "2025-06-05 17:33:50",
-    "change_number": 29389211,
+    "update_time": "2025-07-14 11:16:03",
+    "change_number": 30046405,
     "depot": {
         "overridescddb": "1",
         "baselanguages": "english",
@@ -765,9 +765,9 @@
             "dlcappid": "1058180",
             "manifests": {
                 "public": {
-                    "gid": "7799522319173383304",
-                    "size": "7167373235",
-                    "download": "986079888"
+                    "gid": "2666024866062889327",
+                    "size": "7173298118",
+                    "download": "989350880"
                 }
             },
             "decryptionkey": "b798de3ef82dbd851231fae18dfcd33712c537fdbadc541f03ccac7b20b71e95"
@@ -1238,9 +1238,9 @@
             "dlcappid": "1880550",
             "manifests": {
                 "public": {
-                    "gid": "866197916116330353",
-                    "size": "3527381424",
-                    "download": "562972592"
+                    "gid": "7248141545796718253",
+                    "size": "3530610160",
+                    "download": "565656448"
                 }
             },
             "decryptionkey": "98106c10cb63d2d19d4e2cd03d92627db395eaab2729903d4d9d3b9e16ade29b"
@@ -1315,9 +1315,9 @@
             "dlcappid": "2126130",
             "manifests": {
                 "public": {
-                    "gid": "8698396829679974045",
-                    "size": "8997476",
-                    "download": "5509008"
+                    "gid": "9091451749305654923",
+                    "size": "9000771",
+                    "download": "5510752"
                 }
             },
             "decryptionkey": "b7053161203b0ef973c22de14f29ae1acd067e40b1e0e68ae38d1b5189a2cc0a"
@@ -1546,9 +1546,9 @@
             "dlcappid": "3046770",
             "manifests": {
                 "public": {
-                    "gid": "7458940928128073728",
-                    "size": "4852986216",
-                    "download": "817118672"
+                    "gid": "1197256420314339356",
+                    "size": "5030766212",
+                    "download": "849693456"
                 }
             },
             "decryptionkey": "495ab4b44c071ed09e269da17f6af83f3c6f28798eea7fccd9ec6f94aebc20c0"
@@ -1557,9 +1557,9 @@
             "dlcappid": "3181690",
             "manifests": {
                 "public": {
-                    "gid": "5631586823588057856",
-                    "size": "4978844290",
-                    "download": "1069330752"
+                    "gid": "1304236644458599291",
+                    "size": "4898547281",
+                    "download": "1062750176"
                 }
             },
             "decryptionkey": ""
@@ -1612,9 +1612,9 @@
             "dlcappid": "3533470",
             "manifests": {
                 "public": {
-                    "gid": "16839125028140482",
-                    "size": "3325548504",
-                    "download": "395408144"
+                    "gid": "6606601781318314645",
+                    "size": "3315778668",
+                    "download": "389751904"
                 }
             },
             "decryptionkey": "cae42a2ddf755fe7f0d518222671ed5ab075bae99148e981bf6610fb6003918e"
@@ -1634,17 +1634,28 @@
             "dlcappid": "3743640",
             "manifests": {
                 "public": {
-                    "gid": "2005338360013403421",
-                    "size": "2332881769",
-                    "download": "543919424"
+                    "gid": "26466287109531665",
+                    "size": "2339490181",
+                    "download": "541177680"
                 }
             },
-            "decryptionkey": ""
+            "decryptionkey": "afbf2d67e17814186149e98df4995c6e3e520ac2a20b2b04e006af34672b2470"
+        },
+        "3844330": {
+            "dlcappid": "3844330",
+            "manifests": {
+                "public": {
+                    "gid": "7227006710877234042",
+                    "size": "960712610",
+                    "download": "307767296"
+                }
+            },
+            "decryptionkey": "ba0bf4dd96986290f3c411aa976cd1529605ace40432d3014f2d1f81eb811a62"
         },
         "branches": {
             "public": {
-                "buildid": "18746570",
-                "timeupdated": "1749109171"
+                "buildid": "19214524",
+                "timeupdated": "1752488160"
             }
         },
         "appmanagesdlc": "1"
