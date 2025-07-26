@@ -4,8 +4,8 @@
     "type": "Game",
     "schinese_name": "",
     "isfreeapp": 0,
-    "update_time": "2025-06-08 04:58:21",
-    "change_number": 29439659,
+    "update_time": "2025-07-12 20:24:40",
+    "change_number": 30030227,
     "depot": {
         "1519493": {
             "config": {
@@ -14,11 +14,16 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "5316163872038421763",
-                    "size": "600562490",
-                    "download": "431501888"
+                    "gid": "5655728900996879850",
+                    "size": "615120216",
+                    "download": "443435136"
                 },
                 "beta": {
+                    "gid": "5655728900996879850",
+                    "size": "615120216",
+                    "download": "443435136"
+                },
+                "v0.5.16": {
                     "gid": "5316163872038421763",
                     "size": "600562490",
                     "download": "431501888"
@@ -84,9 +89,9 @@
                     "download": "374635952"
                 },
                 "deploy-test": {
-                    "gid": "5316163872038421763",
-                    "size": "600562490",
-                    "download": "431501888"
+                    "gid": "1342670135042348886",
+                    "size": "615121194",
+                    "download": "443431504"
                 }
             }
         },
@@ -97,11 +102,16 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "167430444738253359",
-                    "size": "593773016",
-                    "download": "428457872"
+                    "gid": "7457905029805154880",
+                    "size": "608330742",
+                    "download": "440412336"
                 },
                 "beta": {
+                    "gid": "7457905029805154880",
+                    "size": "608330742",
+                    "download": "440412336"
+                },
+                "v0.5.16": {
                     "gid": "167430444738253359",
                     "size": "593773016",
                     "download": "428457872"
@@ -185,11 +195,16 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "6103234089761465874",
-                    "size": "586220173",
-                    "download": "427977568"
+                    "gid": "2145092913673410426",
+                    "size": "600777899",
+                    "download": "440981920"
                 },
                 "beta": {
+                    "gid": "2145092913673410426",
+                    "size": "600777899",
+                    "download": "440981920"
+                },
+                "v0.5.16": {
                     "gid": "6103234089761465874",
                     "size": "586220173",
                     "download": "427977568"
@@ -304,13 +319,18 @@
         },
         "branches": {
             "public": {
-                "buildid": "17957510",
-                "timeupdated": "1743611109"
+                "buildid": "19203245",
+                "timeupdated": "1752348274"
             },
             "beta": {
+                "buildid": "19203245",
+                "description": "latest beta build",
+                "timeupdated": "1752348238"
+            },
+            "v0.5.16": {
                 "buildid": "17957510",
-                "description": "beta",
-                "timeupdated": "1743611079"
+                "description": "Character Customization",
+                "timeupdated": "1751327599"
             },
             "v0.5.15": {
                 "buildid": "17612921",
@@ -413,9 +433,9 @@
                 "timeupdated": "1671132645"
             },
             "deploy-test": {
-                "buildid": "17957510",
+                "buildid": "19194966",
                 "description": "For testing deployments",
-                "timeupdated": "1743610611"
+                "timeupdated": "1752258289"
             }
         }
     }
