@@ -4,8 +4,8 @@
     "type": "Game",
     "schinese_name": "",
     "isfreeapp": 0,
-    "update_time": "2025-06-18 06:09:04",
-    "change_number": 29617422,
+    "update_time": "2025-07-02 22:55:24",
+    "change_number": 29868137,
     "depot": {
         "baselanguages": "english,russian",
         "hasdepotsindlc": "1",
@@ -54,7 +54,8 @@
                     "size": "2935268574",
                     "download": "2519051840"
                 }
-            }
+            },
+            "decryptionkey": "fecd3a957c73d5dcf977d6d5144b5b23574076649553b85fe163793ff1a8557f"
         },
         "615533": {
             "config": {
@@ -76,7 +77,8 @@
                     "size": "3133454450",
                     "download": "2568528016"
                 }
-            }
+            },
+            "decryptionkey": "09514769a9093810fe2e725d9cb6b97b71628394770f14448a79c651ca2b8b49"
         },
         "615534": {
             "config": {
@@ -100,7 +102,7 @@
                     "download": "2491597984"
                 }
             },
-            "decryptionkey": ""
+            "decryptionkey": "c71f8ed70d1f2c2cc7d2b4a7d5268fbb350d874f5f4916911a0394ea1283714b"
         },
         "workshopdepot": "615530",
         "branches": {
@@ -119,6 +121,6 @@
                 "timeupdated": "1750197725"
             }
         },
-        "workshopdepotdecryptionkey": ""
+        "workshopdepotdecryptionkey": "e985eb9384b9fc1ba324856319b5c8f65635b08cf34db2d87234f71efb13b259"
     }
 }
