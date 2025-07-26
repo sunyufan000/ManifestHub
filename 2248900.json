@@ -4,8 +4,8 @@
     "type": "Game",
     "schinese_name": "",
     "isfreeapp": 0,
-    "update_time": "2025-06-20 05:17:07",
-    "change_number": 29655834,
+    "update_time": "2025-07-23 07:59:48",
+    "change_number": 30200939,
     "depot": {
         "2248901": {
             "manifests": {
@@ -20,14 +20,14 @@
                     "download": "109009728"
                 },
                 "beta": {
-                    "gid": "405932191865061193",
-                    "size": "310877166",
-                    "download": "114422192"
+                    "gid": "5615930697081694492",
+                    "size": "311104622",
+                    "download": "115036272"
                 },
                 "debug": {
-                    "gid": "405932191865061193",
-                    "size": "310877166",
-                    "download": "114422192"
+                    "gid": "5615930697081694492",
+                    "size": "311104622",
+                    "download": "115036272"
                 },
                 "mac_test": {
                     "gid": "5118736129994295490",
@@ -48,14 +48,14 @@
                     "download": "158483744"
                 },
                 "beta": {
-                    "gid": "1329288387364799742",
-                    "size": "547688625",
-                    "download": "158483744"
+                    "gid": "418398285707725072",
+                    "size": "547944953",
+                    "download": "158871056"
                 },
                 "debug": {
-                    "gid": "1329288387364799742",
-                    "size": "547688625",
-                    "download": "158483744"
+                    "gid": "418398285707725072",
+                    "size": "547944953",
+                    "download": "158871056"
                 },
                 "mac_test": {
                     "gid": "5017792989720678989",
@@ -64,6 +64,7 @@
                 }
             }
         },
+        "workshopdepot": "2248900",
         "branches": {
             "public": {
                 "buildid": "18930434",
@@ -75,20 +76,21 @@
                 "timeupdated": "1731747719"
             },
             "beta": {
-                "buildid": "18930434",
+                "buildid": "19325134",
                 "description": "Branch to test new and unstable builds",
-                "timeupdated": "1750357043"
+                "timeupdated": "1753253972"
             },
             "debug": {
-                "buildid": "18930434",
+                "buildid": "19325134",
                 "description": "For debugging crashes of players on discord. Use with caution.",
-                "timeupdated": "1750357065"
+                "timeupdated": "1753253983"
             },
             "mac_test": {
                 "buildid": "18792950",
                 "description": "Testing mac build",
                 "timeupdated": "1749464943"
             }
-        }
+        },
+        "workshopdepotdecryptionkey": ""
     }
 }
