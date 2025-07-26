@@ -1,0 +1,31 @@
+{
+    "appid": 1019965,
+    "name": "DYNASTY WARRIORS 9: Additional Weapon \"Tripartite Nunchucks\" / 追加武器「三結棍」",
+    "type": "DLC",
+    "schinese_name": "",
+    "isfreeapp": 0,
+    "update_time": "2025-06-23 13:40:53",
+    "change_number": 26201212,
+    "depot": {
+        "1019965": {
+            "config": {
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "407413435493345598",
+                    "size": "8024712",
+                    "download": "7861808"
+                }
+            },
+            "dlcappid": "1019965",
+            "decryptionkey": "4f376206268a2ca83e65f4c6723248fd4f1cf398f5a0268eeebe061f46ca2ec7"
+        },
+        "branches": {
+            "public": {
+                "buildid": "3563362",
+                "timeupdated": "1550205692"
+            }
+        }
+    }
+}
