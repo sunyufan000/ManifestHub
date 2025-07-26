@@ -4,8 +4,8 @@
     "type": "Game",
     "schinese_name": "",
     "isfreeapp": 0,
-    "update_time": "2025-06-19 14:38:48",
-    "change_number": 29643382,
+    "update_time": "2025-07-22 22:19:07",
+    "change_number": 30194262,
     "depot": {
         "228989": {
             "config": {
@@ -28,24 +28,24 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "4132964135311791585",
-                    "size": "6000084520",
-                    "download": "5735602944"
+                    "gid": "8961817987062663990",
+                    "size": "5940264531",
+                    "download": "5675015456"
                 },
                 "forward_shading": {
-                    "gid": "6744464327879809674",
-                    "size": "5976532044",
-                    "download": "5714776528"
+                    "gid": "3128556903342445652",
+                    "size": "5916598835",
+                    "download": "5654265008"
                 },
                 "non_rtx": {
-                    "gid": "1635775159715030830",
-                    "size": "5977736290",
-                    "download": "5715234288"
+                    "gid": "2956029803496782472",
+                    "size": "5917670565",
+                    "download": "5654637952"
                 },
                 "upcoming_features": {
-                    "gid": "4132964135311791585",
-                    "size": "6000084520",
-                    "download": "5735602944"
+                    "gid": "8961817987062663990",
+                    "size": "5940264531",
+                    "download": "5675015456"
                 }
             },
             "decryptionkey": "dba98ceae0220e43e02479a21fe2843be7d4adda5694f3bd8466c96a44b5851c"
@@ -53,23 +53,23 @@
         "workshopdepot": "2730700",
         "branches": {
             "public": {
-                "buildid": "18684467",
-                "timeupdated": "1748685398"
+                "buildid": "19318795",
+                "timeupdated": "1753213067"
             },
             "forward_shading": {
-                "buildid": "18684583",
+                "buildid": "19319023",
                 "description": "Performant mode using forward shading for computers with integrated GPU. Use this branch!",
-                "timeupdated": "1748682296"
+                "timeupdated": "1753213033"
             },
             "non_rtx": {
-                "buildid": "18684716",
+                "buildid": "19319236",
                 "description": "Build with RTX explicitly turned off. Will not be using rtx features, regardless your graphics card. Good for 2060s",
-                "timeupdated": "1748683626"
+                "timeupdated": "1753213040"
             },
             "upcoming_features": {
-                "buildid": "18684467",
+                "buildid": "19318795",
                 "description": "This branch is to test upcoming features, before they are available for everyone",
-                "timeupdated": "1748681448"
+                "timeupdated": "1753208601"
             }
         },
         "privatebranches": "1",
