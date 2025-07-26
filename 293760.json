@@ -4,8 +4,8 @@
     "type": "Game",
     "schinese_name": "自动化：汽车公司大亨",
     "isfreeapp": 0,
-    "update_time": "2025-06-20 17:38:40",
-    "change_number": 29665427,
+    "update_time": "2025-07-23 22:56:55",
+    "change_number": 30215410,
     "depot": {
         "overridescddb": "1",
         "baselanguages": "english,german,french,italian,spanish,schinese,russian,japanese,portuguese,polish,turkish,brazilian",
@@ -54,9 +54,9 @@
                     "download": "9743617872"
                 },
                 "openbeta": {
-                    "gid": "1393420301259771348",
-                    "size": "34312747135",
-                    "download": "10996918784"
+                    "gid": "1616441299894131473",
+                    "size": "34636277534",
+                    "download": "11098863200"
                 },
                 "lcv_4.2": {
                     "gid": "4534996427396207041",
@@ -117,33 +117,15 @@
             },
             "decryptionkey": "ed26582ba2f857a7988fddd419b3349a3ea2c59cea1259d7f6d52383e1fd9252"
         },
-        "293763": {
-            "config": {
-                "oslist": "macos"
-            },
-            "manifests": {
-                "public": {
-                    "gid": "3929135212585852000",
-                    "size": "32713798111",
-                    "download": "10898037104"
-                },
-                "openbeta": {
-                    "gid": "5493583827637627034",
-                    "size": "72597687971",
-                    "download": "13263842624"
-                }
-            },
-            "decryptionkey": "7ec9b41ee31af226e692adbb59e357a8ca86bef110eee64952d7c03046822520"
-        },
         "branches": {
             "public": {
                 "buildid": "17650713",
                 "timeupdated": "1741500274"
             },
             "openbeta": {
-                "buildid": "18856733",
+                "buildid": "19184533",
                 "description": "Al Rilma Update Open Alpha",
-                "timeupdated": "1750025815"
+                "timeupdated": "1752205838"
             },
             "lcv_4.2": {
                 "buildid": "10287257",
