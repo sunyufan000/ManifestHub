@@ -4,8 +4,8 @@
     "type": "Game",
     "schinese_name": "微软模拟飞行 40周年纪念版",
     "isfreeapp": 0,
-    "update_time": "2025-06-20 23:21:37",
-    "change_number": 29670978,
+    "update_time": "2025-07-23 15:43:08",
+    "change_number": 30208537,
     "depot": {
         "228988": {
             "config": {
@@ -22,9 +22,9 @@
                     "download": "1195823808"
                 },
                 "flight_sim_beta": {
-                    "gid": "5588010666328509710",
-                    "size": "28340925326",
-                    "download": "13318086640"
+                    "gid": "4615252933050935740",
+                    "size": "2131526512",
+                    "download": "1195402624"
                 }
             },
             "decryptionkey": "dbf9d5a5cae7eab44d452bfe53856e4b08b448ac7c224124316ca8cf3f91b3a8"
@@ -39,9 +39,9 @@
                 "timeupdated": "1727794876"
             },
             "flight_sim_beta": {
-                "buildid": "18895073",
+                "buildid": "19260129",
                 "description": "Sim Update 16",
-                "timeupdated": "1750353026"
+                "timeupdated": "1753201763"
             }
         },
         "privatebranches": "1"
