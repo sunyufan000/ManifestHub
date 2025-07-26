@@ -4,8 +4,8 @@
     "type": "Game",
     "schinese_name": "弹弹跳跳闪避人",
     "isfreeapp": 0,
-    "update_time": "2025-06-20 22:42:10",
-    "change_number": 29670289,
+    "update_time": "2025-07-08 20:25:23",
+    "change_number": 29955725,
     "depot": {
         "228983": {
             "config": {
@@ -79,9 +79,9 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "6072715098824952650",
+                    "gid": "3265968554360241567",
                     "size": "75883082",
-                    "download": "65115680"
+                    "download": "65115632"
                 },
                 "2.2-archive": {
                     "gid": "1245510960219112541",
@@ -103,8 +103,8 @@
         },
         "branches": {
             "public": {
-                "buildid": "18929375",
-                "timeupdated": "1750350668"
+                "buildid": "19150647",
+                "timeupdated": "1752002718"
             },
             "2.2-archive": {
                 "buildid": "4404957",
