@@ -4,8 +4,8 @@
     "type": "Tool",
     "schinese_name": "",
     "isfreeapp": 0,
-    "update_time": "2025-06-21 03:50:15",
-    "change_number": 29674808,
+    "update_time": "2025-07-23 23:10:20",
+    "change_number": 30215565,
     "depot": {
         "1004": {
             "config": {
@@ -13,9 +13,9 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "7747775778018907449",
-                    "size": "46727128",
-                    "download": "14307024"
+                    "gid": "8904491048620934740",
+                    "size": "68697032",
+                    "download": "20552544"
                 }
             },
             "depotfromapp": "1007",
@@ -41,9 +41,9 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "7138471031118904166",
-                    "size": "78382436",
-                    "download": "21254752"
+                    "gid": "5587033981095108078",
+                    "size": "107476144",
+                    "download": "29272144"
                 }
             },
             "depotfromapp": "1007",
@@ -72,9 +72,9 @@
                     "download": "8437070304"
                 },
                 "tester": {
-                    "gid": "3166661632974985770",
-                    "size": "10603902986",
-                    "download": "9965810576"
+                    "gid": "8853221997983667084",
+                    "size": "10542824548",
+                    "download": "9920664480"
                 }
             },
             "decryptionkey": ""
@@ -90,9 +90,9 @@
                     "download": "81119904"
                 },
                 "tester": {
-                    "gid": "9014369408160649714",
-                    "size": "500183072",
-                    "download": "146046080"
+                    "gid": "3641850818999360087",
+                    "size": "507549936",
+                    "download": "169682496"
                 }
             },
             "decryptionkey": ""
@@ -120,9 +120,9 @@
                 "timeupdated": "1743436377"
             },
             "tester": {
-                "buildid": "18944286",
+                "buildid": "19335410",
                 "description": "Tester branch",
-                "timeupdated": "1750449011"
+                "timeupdated": "1753308616"
             }
         },
         "privatebranches": "1"
