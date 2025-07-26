@@ -4,8 +4,8 @@
     "type": "Game",
     "schinese_name": "养鱼模拟器",
     "isfreeapp": 0,
-    "update_time": "2025-06-22 06:00:20",
-    "change_number": 29685249,
+    "update_time": "2025-07-17 17:04:21",
+    "change_number": 30114474,
     "depot": {
         "228989": {
             "config": {
@@ -24,9 +24,9 @@
         "1372151": {
             "manifests": {
                 "public": {
-                    "gid": "2361775041678746530",
-                    "size": "7089396407",
-                    "download": "1913586224"
+                    "gid": "8059415647478850529",
+                    "size": "6993758561",
+                    "download": "1923097968"
                 }
             },
             "decryptionkey": "efb8b3757e6c420a126256c4a626da290ffc10e1e96099b695be927020130fb6"
@@ -34,8 +34,8 @@
         "hasdepotsindlc": "0",
         "branches": {
             "public": {
-                "buildid": "18259221",
-                "timeupdated": "1745849902"
+                "buildid": "18951950",
+                "timeupdated": "1750949429"
             }
         },
         "privatebranches": "1"
