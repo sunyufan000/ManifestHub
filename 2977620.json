@@ -4,8 +4,8 @@
     "type": "Game",
     "schinese_name": "蹦蹦小囤鼠",
     "isfreeapp": 0,
-    "update_time": "2025-06-18 21:21:37",
-    "change_number": 29629568,
+    "update_time": "2025-07-23 02:14:12",
+    "change_number": 30197135,
     "depot": {
         "228989": {
             "config": {
@@ -27,17 +27,17 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "7772124674205087751",
-                    "size": "1629094509",
-                    "download": "1342674144"
+                    "gid": "8701329381566225693",
+                    "size": "1628397326",
+                    "download": "1342912240"
                 }
             },
             "decryptionkey": "9b2b59462dabe462d78e6bac46a35a2fe6c511f9e3a73275388da29b1900901a"
         },
         "branches": {
             "public": {
-                "buildid": "18911743",
-                "timeupdated": "1750252891"
+                "buildid": "19231742",
+                "timeupdated": "1752759011"
             }
         },
         "privatebranches": "1"
