@@ -4,8 +4,8 @@
     "type": "Game",
     "schinese_name": "",
     "isfreeapp": 0,
-    "update_time": "2025-06-21 21:56:06",
-    "change_number": 29682093,
+    "update_time": "2025-07-23 18:51:40",
+    "change_number": 30212020,
     "depot": {
         "baselanguages": "english,schinese,tchinese",
         "workshopdepot": "1519140",
@@ -27,9 +27,9 @@
         "1519141": {
             "manifests": {
                 "public": {
-                    "gid": "344952069512714301",
-                    "size": "786358278",
-                    "download": "740319712"
+                    "gid": "2036366926972578879",
+                    "size": "794195002",
+                    "download": "743901616"
                 },
                 "aow4_lastexistingversion": {
                     "gid": "590293290179657206",
@@ -47,17 +47,17 @@
                     "download": "299182768"
                 },
                 "rollback_1_version": {
-                    "gid": "8350492779919492346",
-                    "size": "786337083",
-                    "download": "740320608"
+                    "gid": "3570466687325109069",
+                    "size": "794112702",
+                    "download": "743835184"
                 }
             },
             "decryptionkey": "8e0e461f09dcadd643ed7d1efe9805ad828808273c330ca6fc5c8e4e96190518"
         },
         "branches": {
             "public": {
-                "buildid": "18949697",
-                "timeupdated": "1750507833"
+                "buildid": "19332707",
+                "timeupdated": "1753292921"
             },
             "aow4_lastexistingversion": {
                 "buildid": "11174866",
@@ -75,9 +75,9 @@
                 "timeupdated": "1638873632"
             },
             "rollback_1_version": {
-                "buildid": "18938177",
+                "buildid": "19297163",
                 "description": "If anything blows up, use this to roll back to a previous version",
-                "timeupdated": "1750508001"
+                "timeupdated": "1753293094"
             }
         },
         "privatebranches": "1",
