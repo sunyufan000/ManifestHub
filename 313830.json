@@ -4,7 +4,7 @@
     "type": "Game",
     "schinese_name": "",
     "isfreeapp": 0,
-    "update_time": "2025-05-30 16:23:02",
+    "update_time": "2025-06-23 13:29:36",
     "change_number": 29279299,
     "depot": {
         "313831": {
@@ -32,7 +32,7 @@
             "config": {
                 "optionaldlc": "320210"
             },
-            "decryptionkey": ""
+            "decryptionkey": "c0cc9a5568c3b82a4148300c290f26173c4b18e685545984c186c2f31b71ce5d"
         },
         "branches": {
             "public": {
