@@ -1,0 +1,28 @@
+{
+    "appid": 1022395,
+    "name": "DFF NT: Snow Villiers Starter Pack",
+    "type": "DLC",
+    "schinese_name": "",
+    "isfreeapp": 0,
+    "update_time": "2025-06-23 14:09:58",
+    "change_number": 26201212,
+    "depot": {
+        "1022395": {
+            "manifests": {
+                "public": {
+                    "gid": "2093249655310186418",
+                    "size": "0",
+                    "download": "0"
+                }
+            },
+            "dlcappid": "1022395",
+            "decryptionkey": "d55dbb5b886b288cb777e4aa7bd3abb4956acfc66cbac34bb773fbcb22f26f18"
+        },
+        "branches": {
+            "public": {
+                "buildid": "3508335",
+                "timeupdated": "1548673978"
+            }
+        }
+    }
+}
