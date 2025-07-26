@@ -4,8 +4,8 @@
     "type": "Game",
     "schinese_name": "姐姐Z催眠",
     "isfreeapp": 0,
-    "update_time": "2025-06-14 08:07:45",
-    "change_number": 29559808,
+    "update_time": "2025-07-17 00:18:11",
+    "change_number": 30099469,
     "depot": {
         "3078911": {
             "config": {
@@ -46,7 +46,7 @@
                     "download": "832529152"
                 }
             },
-            "decryptionkey": ""
+            "decryptionkey": "95017fb8de598f979f28d56585c2d2869ec225c757bbc3d996c780b78e8112c4"
         },
         "3320130": {
             "dlcappid": "3320130",
