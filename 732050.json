@@ -4,8 +4,8 @@
     "type": "Game",
     "schinese_name": "",
     "isfreeapp": 0,
-    "update_time": "2025-05-24 01:29:58",
-    "change_number": 29148049,
+    "update_time": "2025-07-01 15:58:19",
+    "change_number": 29844717,
     "depot": {
         "732051": {
             "config": {
@@ -23,9 +23,9 @@
                     "download": "282047904"
                 },
                 "beta": {
-                    "gid": "3434790596104173442",
-                    "size": "475015592",
-                    "download": "296606176"
+                    "gid": "5581285260471822206",
+                    "size": "475069447",
+                    "download": "296620720"
                 }
             },
             "decryptionkey": "27645fbec4e2e2e2ebe1b7c1070fbc67132e1f1a18902f7f879fa59c0ea2ecb4"
@@ -41,9 +41,9 @@
                     "download": "301873904"
                 },
                 "beta": {
-                    "gid": "2227531822296299048",
-                    "size": "486711898",
-                    "download": "301873904"
+                    "gid": "7120001424998456759",
+                    "size": "486751497",
+                    "download": "301887472"
                 }
             },
             "decryptionkey": "17f8caf0e9e64513f318cd82fdbf0e6d574754745995b16e65b61d56e2d0e137"
@@ -59,9 +59,9 @@
                     "download": "297555984"
                 },
                 "beta": {
-                    "gid": "4206141973955129268",
-                    "size": "520536992",
-                    "download": "297555984"
+                    "gid": "6143026655132044188",
+                    "size": "520620431",
+                    "download": "297573648"
                 }
             },
             "decryptionkey": "128f48efafcf1622a14a8a8ade244c6c39260044b99df1062235976b9ed5eab2"
@@ -80,9 +80,9 @@
                 "timeupdated": "1541633732"
             },
             "beta": {
-                "buildid": "18580632",
+                "buildid": "19066797",
                 "description": "Beta",
-                "timeupdated": "1747997394"
+                "timeupdated": "1751381894"
             }
         },
         "privatebranches": "1",
