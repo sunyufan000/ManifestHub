@@ -1,0 +1,28 @@
+{
+    "appid": 1022400,
+    "name": "DFF NT: Sun Blade / Diamond Shield, Warrior of Light's 4th Weapon Set",
+    "type": "DLC",
+    "schinese_name": "",
+    "isfreeapp": 0,
+    "update_time": "2025-06-23 14:09:59",
+    "change_number": 26201212,
+    "depot": {
+        "1022400": {
+            "manifests": {
+                "public": {
+                    "gid": "5268225910491682605",
+                    "size": "0",
+                    "download": "0"
+                }
+            },
+            "dlcappid": "1022400",
+            "decryptionkey": "cd56a0b33eedb36f8aa34a29394b504e9f6242aa0c7ea49b6a787c1de75dd3e0"
+        },
+        "branches": {
+            "public": {
+                "buildid": "3508264",
+                "timeupdated": "1548672793"
+            }
+        }
+    }
+}
