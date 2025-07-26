@@ -4,8 +4,8 @@
     "type": "Game",
     "schinese_name": "星界救世主",
     "isfreeapp": 0,
-    "update_time": "2025-06-22 05:56:51",
-    "change_number": 29684022,
+    "update_time": "2025-07-13 14:12:53",
+    "change_number": 30035693,
     "depot": {
         "3620431": {
             "config": {
@@ -14,17 +14,17 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "7810493129442635871",
-                    "size": "633643764",
-                    "download": "408723200"
+                    "gid": "9031416784391921196",
+                    "size": "643969893",
+                    "download": "416598272"
                 }
             },
             "decryptionkey": "8e7603716f55551551ee6230ecfeb973167a951a3db8fed8f1967d1351b8a8e2"
         },
         "branches": {
             "public": {
-                "buildid": "18951135",
-                "timeupdated": "1750525084"
+                "buildid": "19130638",
+                "timeupdated": "1751900678"
             }
         }
     }
