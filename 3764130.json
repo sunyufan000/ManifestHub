@@ -4,8 +4,8 @@
     "type": "Game",
     "schinese_name": "超级狗冒险",
     "isfreeapp": 0,
-    "update_time": "2025-06-14 10:47:10",
-    "change_number": 29502429,
+    "update_time": "2025-07-03 16:14:18",
+    "change_number": 29881370,
     "depot": {
         "baselanguages": "english,schinese",
         "228989": {
@@ -28,17 +28,17 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "559830489994129086",
-                    "size": "665024015",
-                    "download": "75532592"
+                    "gid": "3841171957322153856",
+                    "size": "665041007",
+                    "download": "75537280"
                 }
             },
             "decryptionkey": "e722f1a28fd2323fd908a5127d9f31d3004a6dfa902daa7dd6da27399dcf280d"
         },
         "branches": {
             "public": {
-                "buildid": "18658044",
-                "timeupdated": "1748519935"
+                "buildid": "19095638",
+                "timeupdated": "1751555653"
             }
         }
     }
