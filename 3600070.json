@@ -4,8 +4,8 @@
     "type": "Game",
     "schinese_name": "悠闲垂钓",
     "isfreeapp": 0,
-    "update_time": "2025-06-05 21:44:16",
-    "change_number": 29396538,
+    "update_time": "2025-06-24 03:47:20",
+    "change_number": 29714991,
     "depot": {
         "baselanguages": "english,schinese,japanese",
         "3600071": {
@@ -15,17 +15,17 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "4188693336398111138",
-                    "size": "177156608",
-                    "download": "111731312"
+                    "gid": "1413461967089380876",
+                    "size": "179457472",
+                    "download": "113933440"
                 }
             },
             "decryptionkey": "e3a4987b6a8e25d8469e013e534ac9bddf035c8d7f8bb82bb0b83525abc3e1e3"
         },
         "branches": {
             "public": {
-                "buildid": "18579453",
-                "timeupdated": "1747992061"
+                "buildid": "18974402",
+                "timeupdated": "1750733232"
             }
         }
     }
