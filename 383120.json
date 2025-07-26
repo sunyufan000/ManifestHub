@@ -4,8 +4,8 @@
     "type": "Game",
     "schinese_name": "帝国霸业：银河生存",
     "isfreeapp": 0,
-    "update_time": "2025-06-19 09:17:50",
-    "change_number": 29640003,
+    "update_time": "2025-07-24 01:29:53",
+    "change_number": 30217150,
     "depot": {
         "workshopdepot": "383120",
         "hasdepotsindlc": "1",
@@ -61,6 +61,11 @@
                     "gid": "4532113771825280900",
                     "size": "9128180753",
                     "download": "3985802592"
+                },
+                "experimental": {
+                    "gid": "7702086941051900092",
+                    "size": "17226938311",
+                    "download": "10060186080"
                 }
             },
             "decryptionkey": "34c1757941c6a2a64511d2d07327a24569014d7bd684b4259ec76f37f7aedc55"
@@ -104,6 +109,11 @@
                 "buildid": "3799908",
                 "description": "Archive: Alpha 9",
                 "timeupdated": "1587836017"
+            },
+            "experimental": {
+                "buildid": "19303731",
+                "description": "Experimental branch",
+                "timeupdated": "1753180683"
             }
         },
         "privatebranches": "1",
