@@ -4,8 +4,8 @@
     "type": "Game",
     "schinese_name": "东京股神 STONKS-9800",
     "isfreeapp": 0,
-    "update_time": "2025-06-11 23:39:35",
-    "change_number": 29510508,
+    "update_time": "2025-07-22 01:03:42",
+    "change_number": 30176486,
     "depot": {
         "baselanguages": "english,koreana,japanese,ukrainian",
         "workshopdepot": "1539140",
@@ -15,14 +15,14 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "4525654025492585420",
-                    "size": "96546899",
-                    "download": "77283232"
+                    "gid": "2491503377445324647",
+                    "size": "97083495",
+                    "download": "77999232"
                 },
                 "beta": {
-                    "gid": "4525654025492585420",
-                    "size": "96546899",
-                    "download": "77283232"
+                    "gid": "8615545997190354252",
+                    "size": "96579085",
+                    "download": "77832320"
                 },
                 "v.0.1": {
                     "gid": "3030159766078331891",
@@ -63,14 +63,14 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "7656196596450816354",
-                    "size": "99855055",
-                    "download": "77775024"
+                    "gid": "1277482738400495353",
+                    "size": "100391651",
+                    "download": "78354944"
                 },
                 "beta": {
-                    "gid": "7656196596450816354",
-                    "size": "99855055",
-                    "download": "77775024"
+                    "gid": "1277482738400495353",
+                    "size": "100391651",
+                    "download": "78354944"
                 },
                 "v.0.1": {
                     "gid": "7803828411245589805",
@@ -110,14 +110,14 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "3534038381597754817",
-                    "size": "142080006",
-                    "download": "88484016"
+                    "gid": "928538477091734415",
+                    "size": "143473806",
+                    "download": "92722624"
                 },
                 "beta": {
-                    "gid": "3534038381597754817",
-                    "size": "142080006",
-                    "download": "88484016"
+                    "gid": "928538477091734415",
+                    "size": "143473806",
+                    "download": "92722624"
                 },
                 "v.0.1": {
                     "gid": "6466909058159972148",
@@ -143,13 +143,13 @@
         },
         "branches": {
             "public": {
-                "buildid": "18827417",
-                "timeupdated": "1749656371"
+                "buildid": "19108007",
+                "timeupdated": "1751631345"
             },
             "beta": {
-                "buildid": "18827417",
+                "buildid": "19307737",
                 "description": "Branch with more frequent but possibly unstable updates",
-                "timeupdated": "1749656236"
+                "timeupdated": "1753142617"
             },
             "v.0.1": {
                 "buildid": "15061321",
