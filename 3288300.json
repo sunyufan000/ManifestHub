@@ -4,9 +4,10 @@
     "type": "Game",
     "schinese_name": "黑色童话：梦境幸存者",
     "isfreeapp": 0,
-    "update_time": "2025-06-22 06:18:19",
-    "change_number": 29686020,
+    "update_time": "2025-07-23 09:17:12",
+    "change_number": 30202106,
     "depot": {
+        "hasdepotsindlc": "1",
         "228989": {
             "config": {
                 "oslist": "windows"
@@ -28,17 +29,17 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "125569355464272998",
-                    "size": "831588761",
-                    "download": "667641216"
+                    "gid": "3261663456973735086",
+                    "size": "884324810",
+                    "download": "717916752"
                 }
             },
             "decryptionkey": "54e8719fe2d4ca369a41e7c8bbe6db4dea81fbcac6cdd4ccd064d7dda6f7548e"
         },
         "branches": {
             "public": {
-                "buildid": "18929490",
-                "timeupdated": "1750353310"
+                "buildid": "19313378",
+                "timeupdated": "1753181286"
             }
         },
         "privatebranches": "1"
