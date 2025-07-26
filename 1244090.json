@@ -4,8 +4,8 @@
     "type": "Game",
     "schinese_name": "Sea of Stars 星之海",
     "isfreeapp": 0,
-    "update_time": "2025-06-17 09:50:58",
-    "change_number": 29599113,
+    "update_time": "2025-07-22 05:33:16",
+    "change_number": 30179371,
     "depot": {
         "228988": {
             "config": {
@@ -24,9 +24,9 @@
         "1244091": {
             "manifests": {
                 "public": {
-                    "gid": "8257802931126893674",
-                    "size": "4780979772",
-                    "download": "3878431680"
+                    "gid": "8706695471388047844",
+                    "size": "4781836993",
+                    "download": "3879120224"
                 }
             },
             "decryptionkey": "1549d20da14b7d148867bd5c7ae9353bf17b61ca4b5babd432a332beb9ca8b92"
@@ -44,8 +44,8 @@
         },
         "branches": {
             "public": {
-                "buildid": "18586791",
-                "timeupdated": "1748024962"
+                "buildid": "18966000",
+                "timeupdated": "1750687254"
             }
         },
         "privatebranches": "1"
