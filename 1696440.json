@@ -4,8 +4,8 @@
     "type": "Game",
     "schinese_name": "绝世好武功",
     "isfreeapp": 0,
-    "update_time": "2025-06-21 15:55:53",
-    "change_number": 29680369,
+    "update_time": "2025-07-18 11:20:31",
+    "change_number": 30129232,
     "depot": {
         "baselanguages": "english,schinese",
         "228989": {
@@ -32,6 +32,11 @@
                     "gid": "8905387756851237751",
                     "size": "2694537449",
                     "download": "2456860528"
+                },
+                "outertest1.3": {
+                    "gid": "2460017957300174162",
+                    "size": "2792395151",
+                    "download": "2494228896"
                 }
             },
             "decryptionkey": "d9d9203084ea5a76bb40325b0d450fda89e2f4b27f1c4a336f062110ed51c526"
@@ -41,6 +46,11 @@
             "public": {
                 "buildid": "18357200",
                 "timeupdated": "1746523778"
+            },
+            "outertest1.3": {
+                "buildid": "19273216",
+                "description": "大地图版本分支",
+                "timeupdated": "1752834028"
             }
         },
         "privatebranches": "1",
