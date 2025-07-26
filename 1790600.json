@@ -4,8 +4,8 @@
     "type": "Game",
     "schinese_name": "七龙珠 电光炸裂！ZERO",
     "isfreeapp": 0,
-    "update_time": "2025-06-13 20:21:54",
-    "change_number": 29537915,
+    "update_time": "2025-07-23 23:50:32",
+    "change_number": 30216041,
     "depot": {
         "228989": {
             "config": {
@@ -25,9 +25,9 @@
         "1790601": {
             "manifests": {
                 "public": {
-                    "gid": "3839409597117565370",
-                    "size": "30481985132",
-                    "download": "29014104704"
+                    "gid": "4594551172414663128",
+                    "size": "30537091108",
+                    "download": "29070406016"
                 }
             },
             "decryptionkey": "0721a07eb97ba7b4e59e31606ae9f0d67c66309cc467c5da1aa79a924c34e7d8"
@@ -59,8 +59,8 @@
         },
         "branches": {
             "public": {
-                "buildid": "17961911",
-                "timeupdated": "1745272801"
+                "buildid": "18836676",
+                "timeupdated": "1750716002"
             }
         },
         "privatebranches": "1"
