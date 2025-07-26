@@ -4,8 +4,8 @@
     "type": "Game",
     "schinese_name": "暗黑潜水员",
     "isfreeapp": 0,
-    "update_time": "2025-06-20 05:23:50",
-    "change_number": 29651317,
+    "update_time": "2025-07-22 01:20:42",
+    "change_number": 30176709,
     "depot": {
         "228989": {
             "config": {
@@ -38,9 +38,9 @@
         "2963881": {
             "manifests": {
                 "public": {
-                    "gid": "8644034556916401143",
-                    "size": "2722352585",
-                    "download": "1831068608"
+                    "gid": "8523090333980732620",
+                    "size": "2723226910",
+                    "download": "1832832304"
                 },
                 "mod-dev": {
                     "gid": "8768611312135541562",
@@ -48,9 +48,9 @@
                     "download": "1613640320"
                 },
                 "preview": {
-                    "gid": "8644034556916401143",
-                    "size": "2722352585",
-                    "download": "1831068608"
+                    "gid": "8523090333980732620",
+                    "size": "2723226910",
+                    "download": "1832832304"
                 }
             },
             "decryptionkey": "c3a31b0c3db48e0ad7f0245194d068209eb66d50106821e8b64ab67d3c29a2fa"
@@ -58,8 +58,8 @@
         "workshopdepot": "2963880",
         "branches": {
             "public": {
-                "buildid": "18899643",
-                "timeupdated": "1750175156"
+                "buildid": "19161260",
+                "timeupdated": "1752069685"
             },
             "mod-dev": {
                 "buildid": "18893726",
@@ -67,9 +67,9 @@
                 "timeupdated": "1750145332"
             },
             "preview": {
-                "buildid": "18899643",
+                "buildid": "19161260",
                 "description": "A beta branch to access the latest features before they're pushed to the official default one.",
-                "timeupdated": "1750175114"
+                "timeupdated": "1752069710"
             }
         },
         "privatebranches": "1",
