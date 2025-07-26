@@ -4,8 +4,8 @@
     "type": "Game",
     "schinese_name": "苍翼：混沌效应",
     "isfreeapp": 0,
-    "update_time": "2025-06-20 12:05:38",
-    "change_number": 29661147,
+    "update_time": "2025-07-23 08:10:35",
+    "change_number": 30201080,
     "depot": {
         "228989": {
             "config": {
@@ -23,9 +23,9 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "5585592230693079363",
-                    "size": "10085017005",
-                    "download": "8699522736"
+                    "gid": "9077258417775296772",
+                    "size": "10686954347",
+                    "download": "9379576128"
                 },
                 "bbee-ea": {
                     "gid": "1181538358703119718",
@@ -42,9 +42,9 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "8647357607935395000",
-                    "size": "10091967431",
-                    "download": "8688979136"
+                    "gid": "7663657295629746010",
+                    "size": "10732522014",
+                    "download": "9276729872"
                 },
                 "bbee-ea": {
                     "gid": "8289491013708764854",
@@ -67,8 +67,8 @@
         },
         "branches": {
             "public": {
-                "buildid": "18609016",
-                "timeupdated": "1748255944"
+                "buildid": "19297085",
+                "timeupdated": "1753149078"
             },
             "bbee-ea": {
                 "sc_schinese": "Early Access",
