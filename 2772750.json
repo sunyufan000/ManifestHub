@@ -4,8 +4,8 @@
     "type": "Game",
     "schinese_name": "",
     "isfreeapp": 0,
-    "update_time": "2025-06-22 08:18:16",
-    "change_number": 29686634,
+    "update_time": "2025-07-20 13:56:21",
+    "change_number": 30154486,
     "depot": {
         "workshopdepot": "2772750",
         "hasdepotsindlc": "1",
@@ -32,9 +32,9 @@
                     "download": "793523104"
                 },
                 "betatests": {
-                    "gid": "5767549039209758158",
-                    "size": "857161906",
-                    "download": "603588352"
+                    "gid": "4140932075830942115",
+                    "size": "857197990",
+                    "download": "603833968"
                 },
                 "lwjgl3": {
                     "gid": "8988784493304029838",
@@ -83,9 +83,9 @@
                 "timeupdated": "1736556840"
             },
             "betatests": {
-                "buildid": "18807969",
+                "buildid": "19125441",
                 "description": "Beta testing before an update release - LATEST",
-                "timeupdated": "1749549470"
+                "timeupdated": "1751839093"
             },
             "lwjgl3": {
                 "buildid": "16348461",
