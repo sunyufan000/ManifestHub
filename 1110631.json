@@ -1,0 +1,32 @@
+{
+    "appid": 1110631,
+    "name": "02-逝去的回忆3【50元充值】",
+    "type": "DLC",
+    "schinese_name": "",
+    "isfreeapp": 0,
+    "update_time": "2025-06-24 03:54:56",
+    "change_number": 26201212,
+    "depot": {
+        "1110631": {
+            "dlcappid": "1110631",
+            "config": {
+                "language": "schinese",
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "4382116676307678045",
+                    "size": "100235",
+                    "download": "100368"
+                }
+            },
+            "decryptionkey": "95c70569c245415ff1db5b827bd8bba7819b4f6f7baaadf92c0635e6382449ee"
+        },
+        "branches": {
+            "public": {
+                "buildid": "4043559",
+                "timeupdated": "1564051134"
+            }
+        }
+    }
+}
