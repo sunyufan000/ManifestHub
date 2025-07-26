@@ -4,8 +4,8 @@
     "type": "Game",
     "schinese_name": "黎明杀机",
     "isfreeapp": 0,
-    "update_time": "2025-06-21 08:21:18",
-    "change_number": 29677410,
+    "update_time": "2025-07-22 00:19:37",
+    "change_number": 30176015,
     "depot": {
         "228989": {
             "config": {
@@ -27,9 +27,9 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "5683459818669019364",
-                    "size": "54565295739",
-                    "download": "53908425088"
+                    "gid": "6206829912593478896",
+                    "size": "54792896411",
+                    "download": "54136780304"
                 }
             },
             "decryptionkey": "66477a849ed619510d127ff3f05d4d37b38a04fd7074654337053dfe817798ca"
@@ -47,8 +47,8 @@
         },
         "branches": {
             "public": {
-                "buildid": "18928457",
-                "timeupdated": "1750355706"
+                "buildid": "19002612",
+                "timeupdated": "1751468387"
             }
         },
         "privatebranches": "1"
