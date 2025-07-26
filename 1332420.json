@@ -4,8 +4,8 @@
     "type": "Music",
     "schinese_name": "",
     "isfreeapp": 0,
-    "update_time": "2025-06-17 11:02:52",
-    "change_number": 26990564,
+    "update_time": "2025-06-26 09:31:09",
+    "change_number": 29758581,
     "depot": {
         "1332421": {
             "config": {
@@ -13,9 +13,9 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "5405633280674514121",
-                    "size": "100670756",
-                    "download": "93737360"
+                    "gid": "1971110661278008529",
+                    "size": "126510884",
+                    "download": "117105280"
                 }
             },
             "decryptionkey": "8753f2c35620c8b811315dfa7573fed19bc8f4a684e0a73b760ed3525d6d6fa3"
@@ -27,17 +27,17 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "3306334178854029144",
-                    "size": "792220418",
-                    "download": "744316624"
+                    "gid": "383027080380922336",
+                    "size": "1024692788",
+                    "download": "971842304"
                 }
             },
             "decryptionkey": "489d4d3c9bcefa769d23ceaaf0789de21f974b57fdf42726605b19cc8ed4a497"
         },
         "branches": {
             "public": {
-                "buildid": "12933178",
-                "timeupdated": "1702328106"
+                "buildid": "19007639",
+                "timeupdated": "1750926662"
             }
         }
     }
