@@ -1,0 +1,28 @@
+{
+    "appid": 1022466,
+    "name": "DFF NT: Shantotto Starter Pack",
+    "type": "DLC",
+    "schinese_name": "",
+    "isfreeapp": 0,
+    "update_time": "2025-06-23 14:10:14",
+    "change_number": 26201212,
+    "depot": {
+        "1022466": {
+            "manifests": {
+                "public": {
+                    "gid": "2721549994197010223",
+                    "size": "0",
+                    "download": "0"
+                }
+            },
+            "dlcappid": "1022466",
+            "decryptionkey": "09b593c18c3ef5d7649c46353fc91e4e22c85bf53b724a0d0f4a210ec688b8ac"
+        },
+        "branches": {
+            "public": {
+                "buildid": "3508040",
+                "timeupdated": "1548672063"
+            }
+        }
+    }
+}
