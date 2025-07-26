@@ -4,7 +4,7 @@
     "type": "Game",
     "schinese_name": "移动字母",
     "isfreeapp": 0,
-    "update_time": "2025-06-09 19:13:09",
+    "update_time": "2025-06-23 11:37:40",
     "change_number": 29460796,
     "depot": {
         "1430121": {
@@ -20,7 +20,7 @@
                     "download": "206771920"
                 }
             },
-            "decryptionkey": ""
+            "decryptionkey": "3826c88c6426d31ba6b2a7a220ffdcd10c36f8d57d9ccad05b88cd533cc4f48c"
         },
         "1430122": {
             "config": {
