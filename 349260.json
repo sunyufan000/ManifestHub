@@ -4,8 +4,8 @@
     "type": "Game",
     "schinese_name": "",
     "isfreeapp": 0,
-    "update_time": "2025-06-20 05:23:59",
-    "change_number": 29651347,
+    "update_time": "2025-07-10 02:55:41",
+    "change_number": 29979289,
     "depot": {
         "hasdepotsindlc": "0",
         "baselanguages": "english",
@@ -29,9 +29,9 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "7270531712527938651",
-                    "size": "555140659",
-                    "download": "159868544"
+                    "gid": "559627384853526566",
+                    "size": "554909028",
+                    "download": "159780912"
                 }
             },
             "decryptionkey": "0546db72bdc5b397d8b35c1dfe383b41f2bd0fb155805574da95fe5291c10fa3"
@@ -43,12 +43,12 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "2290363815626993723",
-                    "size": "4122272",
-                    "download": "2395984"
+                    "gid": "5335678465055599317",
+                    "size": "4124888",
+                    "download": "2398544"
                 }
             },
-            "decryptionkey": ""
+            "decryptionkey": "0ec44122ea06da05ac81bfa0436fdbf226e8a9442773e6712cecbd14832efdf5"
         },
         "349263": {
             "config": {
@@ -76,7 +76,7 @@
             "config": {
                 "optionaldlc": "822060"
             },
-            "decryptionkey": ""
+            "decryptionkey": "57454fbe78c0da7cf446df5c77f2381fa3b62baf819ed82078efe6267fab9f94"
         },
         "822061": {
             "dlcappid": "822061",
@@ -90,12 +90,12 @@
             "config": {
                 "optionaldlc": "822061"
             },
-            "decryptionkey": ""
+            "decryptionkey": "ed12f357e8c1ef7db9bc556a446100d8280d80e2a8c7168c1800d01ef75f3b12"
         },
         "branches": {
             "public": {
-                "buildid": "18727119",
-                "timeupdated": "1749265236"
+                "buildid": "18959089",
+                "timeupdated": "1751079993"
             }
         },
         "privatebranches": "1",
