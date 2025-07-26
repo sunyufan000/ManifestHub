@@ -1,0 +1,28 @@
+{
+    "appid": 1022506,
+    "name": "DFF NT: Knight of Etro Appearance Set for Lightning",
+    "type": "DLC",
+    "schinese_name": "",
+    "isfreeapp": 0,
+    "update_time": "2025-06-23 14:10:24",
+    "change_number": 26201212,
+    "depot": {
+        "1022506": {
+            "manifests": {
+                "public": {
+                    "gid": "6130608947574290421",
+                    "size": "0",
+                    "download": "0"
+                }
+            },
+            "dlcappid": "1022506",
+            "decryptionkey": "9a048b25b68d9a4e5978ee9b6356320e4dcaffe4d7215ad359d35a0e67c9b730"
+        },
+        "branches": {
+            "public": {
+                "buildid": "3508082",
+                "timeupdated": "1548671561"
+            }
+        }
+    }
+}
