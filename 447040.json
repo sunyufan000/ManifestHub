@@ -4,10 +4,9 @@
     "type": "Game",
     "schinese_name": "看门狗2",
     "isfreeapp": 0,
-    "update_time": "2025-06-12 17:06:00",
-    "change_number": 29524701,
+    "update_time": "2025-07-15 13:21:47",
+    "change_number": 30068069,
     "depot": {
-        "baselanguages": "",
         "228983": {
             "config": {
                 "oslist": "windows"
@@ -22,6 +21,13 @@
             "depotfromapp": "228980",
             "sharedinstall": "1"
         },
+        "228989": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
         "228990": {
             "config": {
                 "oslist": "windows"
@@ -29,6 +35,7 @@
             "depotfromapp": "228980",
             "sharedinstall": "1"
         },
+        "baselanguages": "",
         "447041": {
             "config": {
                 "oslist": "windows"
@@ -820,9 +827,9 @@
         "1716751": {
             "manifests": {
                 "public": {
-                    "gid": "7692967814764193714",
-                    "size": "631944",
-                    "download": "515248"
+                    "gid": "818295193716041715",
+                    "size": "632424",
+                    "download": "551504"
                 }
             },
             "depotfromapp": "1716750",
