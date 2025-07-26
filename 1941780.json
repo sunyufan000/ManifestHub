@@ -4,8 +4,8 @@
     "type": "Game",
     "schinese_name": "",
     "isfreeapp": 1,
-    "update_time": "2025-06-16 00:04:28",
-    "change_number": 29575359,
+    "update_time": "2025-07-08 15:30:37",
+    "change_number": 29951128,
     "depot": {
         "228989": {
             "config": {
@@ -21,14 +21,14 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "766318867065119811",
-                    "size": "257599477",
-                    "download": "65711776"
+                    "gid": "5230935842190960333",
+                    "size": "268431844",
+                    "download": "76117776"
                 },
                 "test": {
-                    "gid": "766318867065119811",
-                    "size": "257599477",
-                    "download": "65711776"
+                    "gid": "5230935842190960333",
+                    "size": "268431844",
+                    "download": "76117776"
                 }
             },
             "decryptionkey": "c0dd21eacfa642b61bd60e82a6ff6b5487472d65d62b7d606449a6f3b03f2b44"
@@ -40,27 +40,27 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "633518237595715196",
-                    "size": "245493733",
-                    "download": "62140576"
+                    "gid": "7454656443015818320",
+                    "size": "256193670",
+                    "download": "72583920"
                 },
                 "test": {
-                    "gid": "633518237595715196",
-                    "size": "245493733",
-                    "download": "62140576"
+                    "gid": "7454656443015818320",
+                    "size": "256193670",
+                    "download": "72583920"
                 }
             },
             "decryptionkey": "d82cc1c76c12fbeeb4327e3ac67c7d26e6337aaad9f3de310f70e6ec2c5b92ee"
         },
         "branches": {
             "public": {
-                "buildid": "18162737",
-                "timeupdated": "1745017340"
+                "buildid": "19147246",
+                "timeupdated": "1751985033"
             },
             "test": {
-                "buildid": "18162737",
+                "buildid": "19147246",
                 "description": "Test branch",
-                "timeupdated": "1745015715"
+                "timeupdated": "1751984813"
             }
         }
     }
