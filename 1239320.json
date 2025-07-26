@@ -4,15 +4,15 @@
     "type": "Game",
     "schinese_name": "动物收容所",
     "isfreeapp": 0,
-    "update_time": "2025-06-13 19:23:48",
-    "change_number": 29548216,
+    "update_time": "2025-07-23 19:35:33",
+    "change_number": 30212708,
     "depot": {
         "1239321": {
             "manifests": {
                 "public": {
-                    "gid": "6462977004996065175",
-                    "size": "7834386914",
-                    "download": "3028203424"
+                    "gid": "5434897317349036330",
+                    "size": "7838643993",
+                    "download": "3029413696"
                 },
                 "no-event": {
                     "gid": "6462977004996065175",
@@ -24,8 +24,8 @@
         },
         "branches": {
             "public": {
-                "buildid": "16600476",
-                "timeupdated": "1740142714"
+                "buildid": "19305471",
+                "timeupdated": "1753293261"
             },
             "no-event": {
                 "buildid": "16600476",
