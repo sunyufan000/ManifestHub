@@ -4,8 +4,8 @@
     "type": "Game",
     "schinese_name": "生存主义：隐形异变",
     "isfreeapp": 0,
-    "update_time": "2025-06-22 05:53:06",
-    "change_number": 29683615,
+    "update_time": "2025-07-20 15:46:18",
+    "change_number": 30155230,
     "depot": {
         "229003": {
             "config": {
@@ -21,28 +21,28 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "664367131095501257",
-                    "size": "2748531360",
-                    "download": "1116164176"
+                    "gid": "5111496537641713176",
+                    "size": "2748821618",
+                    "download": "1122646944"
                 },
                 "publicbeta": {
-                    "gid": "6904325436640482721",
-                    "size": "2748574196",
-                    "download": "1117115664"
+                    "gid": "4877961830032191808",
+                    "size": "2748910924",
+                    "download": "1123595392"
                 }
             },
             "decryptionkey": "4bb6f2708dc837f78156fadb98d5d7e0c06e598c26f6a4dac7a3711064372e7c"
         },
         "workshopdepot": "1054510",
-        "baselanguages": "english,french,italian,koreana,spanish,schinese,russian,japanese,hungarian,turkish,latam",
+        "baselanguages": "english,french,italian,koreana,spanish,schinese,russian,japanese,hungarian,turkish,brazilian,latam",
         "branches": {
             "public": {
-                "buildid": "18831599",
-                "timeupdated": "1749937125"
+                "buildid": "19124916",
+                "timeupdated": "1753022752"
             },
             "publicbeta": {
-                "buildid": "18950752",
-                "timeupdated": "1750521530"
+                "buildid": "19291202",
+                "timeupdated": "1753022772"
             }
         },
         "privatebranches": "1",
