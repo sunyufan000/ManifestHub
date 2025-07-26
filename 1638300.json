@@ -4,8 +4,8 @@
     "type": "Game",
     "schinese_name": "太阳基因",
     "isfreeapp": 0,
-    "update_time": "2025-06-21 17:39:45",
-    "change_number": 29681075,
+    "update_time": "2025-07-22 10:30:17",
+    "change_number": 30183050,
     "depot": {
         "228988": {
             "config": {
@@ -46,9 +46,9 @@
                     "download": "18471607568"
                 },
                 "beta": {
-                    "gid": "7150174441323536536",
-                    "size": "11626308065",
-                    "download": "10859066128"
+                    "gid": "3184180085149158637",
+                    "size": "11626714752",
+                    "download": "10859427040"
                 },
                 "debug": {
                     "gid": "5197290169008785584",
@@ -100,9 +100,9 @@
                 "timeupdated": "1657193757"
             },
             "beta": {
-                "buildid": "18948951",
+                "buildid": "19312541",
                 "description": "\tTesting builds before publishing to the main branch",
-                "timeupdated": "1750498744"
+                "timeupdated": "1753176614"
             },
             "debug": {
                 "buildid": "15266723",
