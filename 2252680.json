@@ -4,33 +4,33 @@
     "type": "Game",
     "schinese_name": "星球田园诗",
     "isfreeapp": 0,
-    "update_time": "2025-06-11 22:34:19",
-    "change_number": 29504466,
+    "update_time": "2025-06-26 19:49:26",
+    "change_number": 29766489,
     "depot": {
         "2252681": {
             "manifests": {
                 "public": {
-                    "gid": "7516553206509888432",
+                    "gid": "9190283701485552591",
                     "size": "4810611106",
-                    "download": "204911152"
+                    "download": "205037376"
                 },
                 "experimental": {
-                    "gid": "7516553206509888432",
+                    "gid": "9190283701485552591",
                     "size": "4810611106",
-                    "download": "204911152"
+                    "download": "205037376"
                 }
             },
             "decryptionkey": "73dbb18df72b601184646e91f441676cbac196f1540ba71c5b16a639e4bae4c0"
         },
         "branches": {
             "public": {
-                "buildid": "18823090",
-                "timeupdated": "1749636306"
+                "buildid": "19013010",
+                "timeupdated": "1750950366"
             },
             "experimental": {
-                "buildid": "18823090",
+                "buildid": "19013010",
                 "description": "Experimental Builds",
-                "timeupdated": "1749636260"
+                "timeupdated": "1750950313"
             }
         },
         "privatebranches": "1"
