@@ -4,8 +4,8 @@
     "type": "Game",
     "schinese_name": "Demon Turf: 魅影飞蝠",
     "isfreeapp": 0,
-    "update_time": "2025-06-11 07:44:37",
-    "change_number": 29496314,
+    "update_time": "2025-06-23 03:38:52",
+    "change_number": 29696116,
     "depot": {
         "228988": {
             "config": {
@@ -43,6 +43,6 @@
             }
         },
         "privatebranches": "1",
-        "workshopdepotdecryptionkey": ""
+        "workshopdepotdecryptionkey": "06d95ad2f3e20d70284a4bb658ec8939293edb473d249f06f4bfffe37c372bba"
     }
 }
