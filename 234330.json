@@ -4,8 +4,8 @@
     "type": "Game",
     "schinese_name": "漫威迷城：黑暗王朝",
     "isfreeapp": 1,
-    "update_time": "2025-06-21 00:54:06",
-    "change_number": 29672395,
+    "update_time": "2025-07-17 20:19:35",
+    "change_number": 30117622,
     "depot": {
         "228983": {
             "config": {
@@ -43,9 +43,9 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "5283433664825417840",
-                    "size": "295479792",
-                    "download": "151385200"
+                    "gid": "6153265406310797913",
+                    "size": "285784212",
+                    "download": "145242720"
                 }
             },
             "decryptionkey": "aa9b7126d3542d957b7283d01b2e78bd79885efe608f9dd560a4078992e8d7c9"
@@ -54,8 +54,8 @@
         "baselanguages": "english,german,french,italian,koreana,spanish,japanese",
         "branches": {
             "public": {
-                "buildid": "18931192",
-                "timeupdated": "1750438441"
+                "buildid": "19251117",
+                "timeupdated": "1752779742"
             }
         },
         "privatebranches": "1"
