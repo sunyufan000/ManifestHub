@@ -4,8 +4,8 @@
     "type": "Game",
     "schinese_name": "少女魔役",
     "isfreeapp": 0,
-    "update_time": "2025-06-19 10:05:55",
-    "change_number": 29640489,
+    "update_time": "2025-07-24 04:20:45",
+    "change_number": 30219086,
     "depot": {
         "baselanguages": "english,german,french,italian,koreana,spanish,schinese,tchinese,japanese,brazilian",
         "hasdepotsindlc": "1",
@@ -26,17 +26,17 @@
         "3253631": {
             "manifests": {
                 "public": {
-                    "gid": "8480975724558341820",
-                    "size": "4588502943",
-                    "download": "2271313088"
+                    "gid": "7509276548910689218",
+                    "size": "4634072356",
+                    "download": "2325747536"
                 }
             },
             "decryptionkey": "35b657ff529e35bc5bc2480eda73c452361b0e5875c1a66000bd08f5da5789a8"
         },
         "branches": {
             "public": {
-                "buildid": "18452492",
-                "timeupdated": "1748443939"
+                "buildid": "18920325",
+                "timeupdated": "1751209019"
             }
         },
         "privatebranches": "1"
