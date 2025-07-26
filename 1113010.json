@@ -4,8 +4,8 @@
     "type": "Game",
     "schinese_name": "切尔诺贝利清算人",
     "isfreeapp": 0,
-    "update_time": "2025-06-08 19:09:44",
-    "change_number": 29445058,
+    "update_time": "2025-07-12 06:29:11",
+    "change_number": 30023847,
     "depot": {
         "hasdepotsindlc": "1",
         "228989": {
@@ -25,9 +25,9 @@
         "1113011": {
             "manifests": {
                 "public": {
-                    "gid": "4408519559563709774",
-                    "size": "35135804689",
-                    "download": "16309898832"
+                    "gid": "7294481608631525559",
+                    "size": "33849963676",
+                    "download": "16132723424"
                 }
             },
             "decryptionkey": "d71b286cac53c71bdb76c9ae274bf38949f8977982d9faf4939e9ac20ca0975a"
@@ -45,8 +45,8 @@
         },
         "branches": {
             "public": {
-                "buildid": "18252590",
-                "timeupdated": "1745709832"
+                "buildid": "19029922",
+                "timeupdated": "1751047550"
             }
         },
         "privatebranches": "1"
