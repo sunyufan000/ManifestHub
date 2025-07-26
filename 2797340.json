@@ -1,0 +1,60 @@
+{
+    "appid": 2797340,
+    "name": "Cat God Ranch",
+    "type": "Game",
+    "schinese_name": "猫神牧场",
+    "isfreeapp": 0,
+    "update_time": "2025-07-10 07:58:58",
+    "change_number": 29982586,
+    "depot": {
+        "baselanguages": "english,koreana,schinese,tchinese,japanese",
+        "hasdepotsindlc": "1",
+        "2797341": {
+            "config": {
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "2092350401308480138",
+                    "size": "298326004",
+                    "download": "141039760"
+                },
+                "beta": {
+                    "gid": "2092350401308480138",
+                    "size": "298326004",
+                    "download": "141039760"
+                }
+            },
+            "decryptionkey": "4adf02cfdd9a75f570ed860197c2c5d7565aa95826e5a3da4afecccc758f7438"
+        },
+        "2797342": {
+            "config": {
+                "oslist": "macos"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "2737767192836160089",
+                    "size": "415038335",
+                    "download": "168163440"
+                },
+                "beta": {
+                    "gid": "2737767192836160089",
+                    "size": "415038335",
+                    "download": "168163440"
+                }
+            }
+        },
+        "branches": {
+            "public": {
+                "buildid": "18963625",
+                "timeupdated": "1750684788"
+            },
+            "beta": {
+                "buildid": "18963625",
+                "description": "Beta Test",
+                "timeupdated": "1750675286"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
