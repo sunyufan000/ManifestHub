@@ -4,8 +4,8 @@
     "type": "Tool",
     "schinese_name": "",
     "isfreeapp": 0,
-    "update_time": "2025-06-21 01:16:27",
-    "change_number": 29672850,
+    "update_time": "2025-07-01 22:23:48",
+    "change_number": 29849921,
     "depot": {
         "346682": {
             "config": {
@@ -13,9 +13,9 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "4624217051303325697",
-                    "size": "47292496",
-                    "download": "14818064"
+                    "gid": "4279127814029302364",
+                    "size": "47293008",
+                    "download": "14816960"
                 },
                 "black-mesa-1-0": {
                     "gid": "6717280190829659861",
@@ -33,9 +33,9 @@
                     "download": "14485776"
                 },
                 "public-beta": {
-                    "gid": "8041750353265332751",
-                    "size": "47293072",
-                    "download": "14816976"
+                    "gid": "4279127814029302364",
+                    "size": "47293008",
+                    "download": "14816960"
                 }
             },
             "decryptionkey": "3aa263a5123d02847882a03282e27c4897e2bdbed535aa745d53465329ea1c41"
@@ -46,9 +46,9 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "3108102894344501840",
-                    "size": "87522375",
-                    "download": "23617984"
+                    "gid": "7694768553056811417",
+                    "size": "87522694",
+                    "download": "23620848"
                 },
                 "black-mesa-1-0": {
                     "gid": "6909355390652833361",
@@ -66,9 +66,9 @@
                     "download": "23021712"
                 },
                 "public-beta": {
-                    "gid": "4330789035758570138",
+                    "gid": "7694768553056811417",
                     "size": "87522694",
-                    "download": "23620800"
+                    "download": "23620848"
                 }
             },
             "decryptionkey": "89bd6e3a3f09ed063cefac06eb4f542f877e66bab844d785048dd28aa511fa63"
@@ -76,9 +76,9 @@
         "346681": {
             "manifests": {
                 "public": {
-                    "gid": "5909791215612974014",
-                    "size": "30038887026",
-                    "download": "12908392608"
+                    "gid": "1555642379270353072",
+                    "size": "30055331111",
+                    "download": "12915334000"
                 },
                 "black-mesa-1-0": {
                     "gid": "6421219417975466847",
@@ -119,8 +119,8 @@
         },
         "branches": {
             "public": {
-                "buildid": "18615129",
-                "timeupdated": "1749584565"
+                "buildid": "19042909",
+                "timeupdated": "1751404995"
             },
             "black-mesa-1-0": {
                 "buildid": "4815927",
@@ -138,8 +138,8 @@
                 "timeupdated": "1731521319"
             },
             "public-beta": {
-                "buildid": "18861750",
-                "timeupdated": "1749850495"
+                "buildid": "19042909",
+                "timeupdated": "1751405023"
             }
         },
         "privatebranches": "1"
