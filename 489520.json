@@ -4,8 +4,8 @@
     "type": "Game",
     "schinese_name": "随从大师",
     "isfreeapp": 1,
-    "update_time": "2025-06-17 04:42:18",
-    "change_number": 29595408,
+    "update_time": "2025-07-22 05:56:37",
+    "change_number": 30179566,
     "depot": {
         "489521": {
             "config": {
@@ -13,9 +13,9 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "1059273836214056120",
-                    "size": "3783348550",
-                    "download": "3211994288"
+                    "gid": "2931185819136061444",
+                    "size": "3783422497",
+                    "download": "3234717184"
                 }
             },
             "decryptionkey": "45a166379b24baf7777bc77d32ad618dbb49857a55199085a38bd2a0c5beee72"
@@ -27,9 +27,9 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "3329616495086480078",
-                    "size": "3783348550",
-                    "download": "3211994288"
+                    "gid": "8106006556719886314",
+                    "size": "3783422497",
+                    "download": "3234681680"
                 }
             },
             "decryptionkey": "7225f5252b1a5ad86620873e7d4b862fcbafc56bbe826dd52be1b3b34c279f6c"
@@ -40,17 +40,17 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "6081400652518914520",
-                    "size": "3777389544",
-                    "download": "3220075264"
+                    "gid": "3161421180588671189",
+                    "size": "3777409556",
+                    "download": "3238700112"
                 }
             },
             "decryptionkey": "d5321a86e91d11c18618b16ed442a2d53d2baecb3780fc25e2f7aa02da8723a7"
         },
         "branches": {
             "public": {
-                "buildid": "18601981",
-                "timeupdated": "1748193602"
+                "buildid": "19304474",
+                "timeupdated": "1753160194"
             }
         },
         "privatebranches": "1"
