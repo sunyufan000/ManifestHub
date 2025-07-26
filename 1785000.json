@@ -4,8 +4,8 @@
     "type": "Game",
     "schinese_name": "莫科科 X",
     "isfreeapp": 0,
-    "update_time": "2025-06-14 05:12:54",
-    "change_number": 29557879,
+    "update_time": "2025-07-01 18:56:41",
+    "change_number": 29847491,
     "depot": {
         "baselanguages": "english",
         "hasdepotsindlc": "1",
@@ -35,7 +35,7 @@
                     "download": "527807872"
                 }
             },
-            "decryptionkey": ""
+            "decryptionkey": "36b4244fd12b057e95fbb23f1665e55cefa08d327bb9bbaa7203882bbb24632b"
         },
         "1785003": {
             "config": {
