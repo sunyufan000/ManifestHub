@@ -4,8 +4,8 @@
     "type": "Game",
     "schinese_name": "",
     "isfreeapp": 0,
-    "update_time": "2025-06-13 05:42:13",
-    "change_number": 29537383,
+    "update_time": "2025-07-22 19:41:40",
+    "change_number": 30192292,
     "depot": {
         "workshopdepot": "370350",
         "baselanguages": "english,german",
@@ -54,9 +54,9 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "4982068370578560067",
-                    "size": "10824485161",
-                    "download": "10634383632"
+                    "gid": "5236855018597226527",
+                    "size": "10840480025",
+                    "download": "10645741520"
                 },
                 "nightlybuilds": {
                     "gid": "3775457404993603209",
@@ -110,9 +110,9 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "1810141258817810982",
-                    "size": "10824487001",
-                    "download": "10647314368"
+                    "gid": "7381961906831377916",
+                    "size": "10860780201",
+                    "download": "10677597584"
                 },
                 "nightlybuilds": {
                     "gid": "4056911522428930600",
@@ -166,9 +166,9 @@
                     "download": "0"
                 },
                 "nightlybuilds": {
-                    "gid": "1030942011768556156",
-                    "size": "10824486281",
-                    "download": "10629998624"
+                    "gid": "647779503989463685",
+                    "size": "10840481145",
+                    "download": "10638737024"
                 }
             },
             "decryptionkey": "dea1d19136250bca194d02a1cf8a1232f7526825866575b29cf667cbca84083b"
@@ -203,13 +203,13 @@
         },
         "branches": {
             "public": {
-                "buildid": "16929182",
-                "timeupdated": "1736261321"
+                "buildid": "19203697",
+                "timeupdated": "1752354795"
             },
             "nightlybuilds": {
-                "buildid": "16863765",
+                "buildid": "19203692",
                 "description": "Nightly Builds, fixing issues or creating new ones. Get always the most recent release candidate of LOTUS.",
-                "timeupdated": "1735349953"
+                "timeupdated": "1752354762"
             }
         },
         "privatebranches": "1",
