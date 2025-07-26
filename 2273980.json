@@ -4,8 +4,8 @@
     "type": "Game",
     "schinese_name": "兽人必须死! 死亡陷阱",
     "isfreeapp": 0,
-    "update_time": "2025-06-20 23:20:55",
-    "change_number": 29670969,
+    "update_time": "2025-07-23 19:18:06",
+    "change_number": 30212461,
     "depot": {
         "228989": {
             "config": {
@@ -29,9 +29,9 @@
                     "download": "10664933360"
                 },
                 "local": {
-                    "gid": "8651525217211109554",
-                    "size": "16518573259",
-                    "download": "10770138432"
+                    "gid": "1225206318473097558",
+                    "size": "16744529506",
+                    "download": "11010006400"
                 }
             },
             "decryptionkey": "179ec5c394c5940b45918894a57184084765edbab18b181584b305b0e9d917a7"
@@ -42,10 +42,10 @@
                 "timeupdated": "1749747335"
             },
             "local": {
-                "buildid": "18866402",
+                "buildid": "19326990",
                 "description": "Local Content Server",
                 "lcsrequired": "1",
-                "timeupdated": "1749893227"
+                "timeupdated": "1753263764"
             }
         },
         "privatebranches": "1"
