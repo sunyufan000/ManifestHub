@@ -4,8 +4,8 @@
     "type": "Game",
     "schinese_name": "刺客信条：英灵殿",
     "isfreeapp": 0,
-    "update_time": "2025-06-15 00:05:03",
-    "change_number": 29566871,
+    "update_time": "2025-07-08 11:13:26",
+    "change_number": 29946960,
     "depot": {
         "baselanguages": "english,german,french,italian,koreana,spanish,schinese,tchinese,russian,japanese,polish,dutch,arabic,brazilian",
         "228988": {
@@ -273,9 +273,9 @@
         "1716751": {
             "manifests": {
                 "public": {
-                    "gid": "7692967814764193714",
-                    "size": "631944",
-                    "download": "515248"
+                    "gid": "818295193716041715",
+                    "size": "632424",
+                    "download": "551504"
                 }
             },
             "depotfromapp": "1716750",
