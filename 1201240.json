@@ -4,8 +4,8 @@
     "type": "Game",
     "schinese_name": "BLEACH Brave Souls - 3D 动作",
     "isfreeapp": 1,
-    "update_time": "2025-06-16 16:53:56",
-    "change_number": 29583558,
+    "update_time": "2025-07-23 12:07:48",
+    "change_number": 30205022,
     "depot": {
         "baselanguages": "english,french,koreana,schinese,tchinese,thai,japanese",
         "228985": {
@@ -72,17 +72,17 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "6687620488098306718",
-                    "size": "433871758",
-                    "download": "123873984"
+                    "gid": "1738679832283399314",
+                    "size": "442642859",
+                    "download": "130455952"
                 }
             },
             "decryptionkey": "85566eaa31209ac31dde217a058f58e810356a8df255c9a7c4c8b31749858248"
         },
         "branches": {
             "public": {
-                "buildid": "18517232",
-                "timeupdated": "1748399117"
+                "buildid": "19159946",
+                "timeupdated": "1753152334"
             }
         },
         "privatebranches": "1"
