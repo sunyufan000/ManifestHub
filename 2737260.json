@@ -4,8 +4,8 @@
     "type": "Game",
     "schinese_name": "",
     "isfreeapp": 0,
-    "update_time": "2025-06-12 05:19:22",
-    "change_number": 29515988,
+    "update_time": "2025-07-18 09:19:22",
+    "change_number": 30127311,
     "depot": {
         "2737261": {
             "manifests": {
@@ -26,6 +26,6 @@
             }
         },
         "privatebranches": "1",
-        "workshopdepotdecryptionkey": ""
+        "workshopdepotdecryptionkey": "e912f1f735d1a4065862525b034bd5c7583e1854278d56a93b8eed6e3ea1ff5d"
     }
 }
