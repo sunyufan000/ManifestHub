@@ -4,8 +4,8 @@
     "type": "Game",
     "schinese_name": "安全出口",
     "isfreeapp": 0,
-    "update_time": "2025-06-10 23:11:46",
-    "change_number": 29488946,
+    "update_time": "2025-07-17 19:36:54",
+    "change_number": 30117106,
     "depot": {
         "3626101": {
             "config": {
@@ -14,17 +14,17 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "2066956776382160634",
-                    "size": "1031709945",
-                    "download": "390803040"
+                    "gid": "549630686273045283",
+                    "size": "1031583876",
+                    "download": "390966400"
                 }
             },
             "decryptionkey": "8c0eddedde8d00a9976c8d822346b4a9e00e878cc3372a4e017c82545e3d9b5a"
         },
         "branches": {
             "public": {
-                "buildid": "18223055",
-                "timeupdated": "1745494599"
+                "buildid": "19040383",
+                "timeupdated": "1751168364"
             }
         }
     }
