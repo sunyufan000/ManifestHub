@@ -4,8 +4,8 @@
     "type": "Game",
     "schinese_name": "友尽高尔夫",
     "isfreeapp": 0,
-    "update_time": "2025-06-09 18:48:06",
-    "change_number": 29460346,
+    "update_time": "2025-07-23 14:58:52",
+    "change_number": 30207687,
     "depot": {
         "workshopdepot": "431240",
         "baselanguages": "english,german,french,italian,spanish,schinese,tchinese,russian,japanese,brazilian",
@@ -23,9 +23,9 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "5606939825788499672",
-                    "size": "6017993198",
-                    "download": "4579881376"
+                    "gid": "8112973493159524194",
+                    "size": "6018004268",
+                    "download": "4579824224"
                 }
             },
             "decryptionkey": "16cd47114e4065cbc0a73cdeb4ea975256bf4ab9ac9e6306e112f94c5522f12d"
@@ -37,9 +37,9 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "229341675374926779",
-                    "size": "6024390077",
-                    "download": "4574668672"
+                    "gid": "6683279502164554441",
+                    "size": "6024457278",
+                    "download": "4574656752"
                 }
             },
             "decryptionkey": "6b14b5df622bf22a48c1842adf665a0e018cf6728a6f65ccc64dbe4a9258a3c3"
@@ -51,9 +51,9 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "3546432359047078129",
-                    "size": "6065034969",
-                    "download": "4592460288"
+                    "gid": "8943036448877586672",
+                    "size": "6065024514",
+                    "download": "4592516848"
                 }
             },
             "decryptionkey": "8cc130bb9bbf82e74db58ec24740489b008779b70337a4bc6adce57825740d2f"
@@ -74,8 +74,8 @@
         },
         "branches": {
             "public": {
-                "buildid": "18746006",
-                "timeupdated": "1749466080"
+                "buildid": "19042842",
+                "timeupdated": "1753279128"
             }
         },
         "privatebranches": "1",
