@@ -4,8 +4,8 @@
     "type": "Game",
     "schinese_name": "角斗士：罗马求生",
     "isfreeapp": 1,
-    "update_time": "2025-06-11 00:23:50",
-    "change_number": 29490432,
+    "update_time": "2025-07-15 08:29:25",
+    "change_number": 30063265,
     "depot": {
         "2295521": {
             "config": {
@@ -13,17 +13,17 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "8152038963901421960",
-                    "size": "1567487245",
-                    "download": "609482256"
+                    "gid": "3677769990978548082",
+                    "size": "1568340275",
+                    "download": "616998896"
                 }
             },
             "decryptionkey": "fb2c8f6ff8e62f1ac26d86aa94da77f16e50acf09d5825ed97ff18e4400d1db0"
         },
         "branches": {
             "public": {
-                "buildid": "18300725",
-                "timeupdated": "1746170302"
+                "buildid": "19222342",
+                "timeupdated": "1752564560"
             }
         },
         "privatebranches": "1"
