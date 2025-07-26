@@ -4,8 +4,8 @@
     "type": "Game",
     "schinese_name": "Six Days in Fallujah 费卢杰六日",
     "isfreeapp": 0,
-    "update_time": "2025-06-21 21:53:47",
-    "change_number": 29682580,
+    "update_time": "2025-07-23 11:51:11",
+    "change_number": 30204774,
     "depot": {
         "228989": {
             "config": {
@@ -24,9 +24,9 @@
         "1548851": {
             "manifests": {
                 "public": {
-                    "gid": "7693352574167180090",
-                    "size": "35717620395",
-                    "download": "17964190864"
+                    "gid": "8408929455948915370",
+                    "size": "35718363331",
+                    "download": "19043478736"
                 }
             },
             "decryptionkey": "5ddd294e2b084b4ae33865370c91bf4f1f505788577332bd9542a4cf4d01835c"
@@ -34,8 +34,8 @@
         "baselanguages": "english,german,french,italian,koreana,spanish,schinese,latam",
         "branches": {
             "public": {
-                "buildid": "18906995",
-                "timeupdated": "1750348264"
+                "buildid": "19031251",
+                "timeupdated": "1751060095"
             }
         },
         "privatebranches": "1"
