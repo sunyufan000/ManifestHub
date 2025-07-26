@@ -1,11 +1,11 @@
 {
     "appid": 3322850,
-    "name": "The Maze Survivor : First Entrants",
+    "name": "The Maze Survivor : First Entrants (Demo)",
     "type": "Game",
-    "schinese_name": "怪奇迷宫：首批进入者",
+    "schinese_name": "怪奇迷宫：首批进入者（测试版）",
     "isfreeapp": 1,
-    "update_time": "2025-06-10 01:36:04",
-    "change_number": 29469704,
+    "update_time": "2025-07-23 01:09:50",
+    "change_number": 30196413,
     "depot": {
         "228989": {
             "config": {
@@ -34,7 +34,7 @@
         "branches": {
             "public": {
                 "buildid": "17466699",
-                "timeupdated": "1749490559"
+                "timeupdated": "1752782292"
             }
         }
     }
