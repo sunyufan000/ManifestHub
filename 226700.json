@@ -4,8 +4,8 @@
     "type": "Game",
     "schinese_name": "感染：生存故事",
     "isfreeapp": 1,
-    "update_time": "2025-06-18 20:04:19",
-    "change_number": 29628297,
+    "update_time": "2025-07-11 10:29:22",
+    "change_number": 30007635,
     "depot": {
         "overridescddb": "1",
         "228985": {
@@ -58,17 +58,17 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "8733644000121151313",
-                    "size": "19178256450",
-                    "download": "15875693856"
+                    "gid": "8893445323818536734",
+                    "size": "19295308130",
+                    "download": "15959622544"
                 }
             },
             "decryptionkey": "89dccd4ca0cb554eabac3bd6c26e9c5f9c7e3a65e0f91ad05350b55aca6ce47d"
         },
         "branches": {
             "public": {
-                "buildid": "18911605",
-                "timeupdated": "1750248251"
+                "buildid": "19177855",
+                "timeupdated": "1752226156"
             }
         }
     }
