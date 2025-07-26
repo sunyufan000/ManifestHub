@@ -4,8 +4,8 @@
     "type": "Game",
     "schinese_name": "",
     "isfreeapp": 0,
-    "update_time": "2025-06-21 16:17:57",
-    "change_number": 29680487,
+    "update_time": "2025-07-02 12:57:28",
+    "change_number": 29859766,
     "depot": {
         "228989": {
             "config": {
@@ -21,14 +21,14 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "4051748148879506630",
-                    "size": "196403738",
-                    "download": "188582304"
+                    "gid": "7129483753862292921",
+                    "size": "196413034",
+                    "download": "188572624"
                 },
                 "prerelease": {
-                    "gid": "4051748148879506630",
-                    "size": "196403738",
-                    "download": "188582304"
+                    "gid": "7129483753862292921",
+                    "size": "196413034",
+                    "download": "188572624"
                 }
             },
             "decryptionkey": "8c0fc9ed0e842f2938f08e3d6e1586f077b553203e9833a3b2d62412b46d3f39"
@@ -40,26 +40,26 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "6547395957669835475",
-                    "size": "199729127",
-                    "download": "189104784"
+                    "gid": "2601450270324587260",
+                    "size": "199738423",
+                    "download": "189109200"
                 },
                 "prerelease": {
-                    "gid": "6547395957669835475",
-                    "size": "199729127",
-                    "download": "189104784"
+                    "gid": "2601450270324587260",
+                    "size": "199738423",
+                    "download": "189109200"
                 }
             }
         },
         "branches": {
             "public": {
-                "buildid": "18890089",
-                "timeupdated": "1750119696"
+                "buildid": "19045925",
+                "timeupdated": "1751249783"
             },
             "prerelease": {
-                "buildid": "18890089",
+                "buildid": "19045925",
                 "description": "Branch for pre-releasing",
-                "timeupdated": "1750119058"
+                "timeupdated": "1751249204"
             }
         }
     }
