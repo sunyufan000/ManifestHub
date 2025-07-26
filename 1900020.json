@@ -4,26 +4,21 @@
     "type": "Game",
     "schinese_name": "",
     "isfreeapp": 0,
-    "update_time": "2025-06-16 00:15:35",
-    "change_number": 29575449,
+    "update_time": "2025-07-19 16:38:09",
+    "change_number": 30147476,
     "depot": {
         "hasdepotsindlc": "0",
         "1900021": {
             "manifests": {
                 "public": {
+                    "gid": "7545423002901091707",
+                    "size": "2610822434",
+                    "download": "1045255520"
+                },
+                "previous_stable_build": {
                     "gid": "8968473395159223677",
                     "size": "2452552512",
                     "download": "964343136"
-                },
-                "previous_stable_build": {
-                    "gid": "247302457997107267",
-                    "size": "2452552096",
-                    "download": "964338384"
-                },
-                "test_build": {
-                    "gid": "1442103231703953438",
-                    "size": "2610446758",
-                    "download": "1033873168"
                 },
                 "version1": {
                     "gid": "7329244516999027631",
@@ -35,18 +30,13 @@
         },
         "branches": {
             "public": {
-                "buildid": "18297468",
-                "timeupdated": "1746024534"
+                "buildid": "19286138",
+                "timeupdated": "1752938976"
             },
             "previous_stable_build": {
-                "buildid": "18250047",
+                "buildid": "18297468",
                 "description": "       If you'd like to roll back to the last stable update, this is the branch to use",
-                "timeupdated": "1746024557"
-            },
-            "test_build": {
-                "buildid": "18874293",
-                "description": "Test 1.1 for Update 1",
-                "timeupdated": "1750004120"
+                "timeupdated": "1752938999"
             },
             "version1": {
                 "buildid": "13731081",
