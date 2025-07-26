@@ -4,8 +4,8 @@
     "type": "Game",
     "schinese_name": "桃花源物语：建造小镇",
     "isfreeapp": 0,
-    "update_time": "2025-06-07 22:27:13",
-    "change_number": 29436181,
+    "update_time": "2025-07-16 05:50:45",
+    "change_number": 30082395,
     "depot": {
         "3056581": {
             "config": {
@@ -40,7 +40,8 @@
                     "size": "708803257",
                     "download": "162833232"
                 }
-            }
+            },
+            "decryptionkey": "5c8986d4c03a89e80209e9947cbc40486fd213c89a16574017a7f627407633a1"
         },
         "3056583": {
             "config": {
@@ -57,7 +58,8 @@
                     "size": "695361969",
                     "download": "161771920"
                 }
-            }
+            },
+            "decryptionkey": "513638bb5cf7d5121e95d17f840c5eb60a4af75ebe28a11db3837b6c17bde2b0"
         },
         "branches": {
             "public": {
