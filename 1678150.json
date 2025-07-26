@@ -4,8 +4,8 @@
     "type": "Game",
     "schinese_name": "",
     "isfreeapp": 1,
-    "update_time": "2025-06-05 17:23:32",
-    "change_number": 29384974,
+    "update_time": "2025-07-20 03:15:05",
+    "change_number": 30151291,
     "depot": {
         "workshopdepot": "1678150",
         "baselanguages": "english,russian",
@@ -22,9 +22,9 @@
                     "download": "8670797392"
                 },
                 "test": {
-                    "gid": "6352530951922991501",
-                    "size": "25336168223",
-                    "download": "11210661712"
+                    "gid": "2567424685943457117",
+                    "size": "26656134507",
+                    "download": "12202382992"
                 }
             },
             "decryptionkey": "51f15b6faf77a1c9d168d7d9fc6efb716bd615358ba4329276934ea4c508cff8"
@@ -41,9 +41,9 @@
                     "download": "965613824"
                 },
                 "test": {
-                    "gid": "8125999326704619313",
-                    "size": "2639997026",
-                    "download": "2318939616"
+                    "gid": "1118736741364558587",
+                    "size": "2644342366",
+                    "download": "2429546432"
                 }
             },
             "decryptionkey": "9332e2460371a1e67a7f383e65ea5e5f22c6c3f2dbd127e8752078b39a702e98"
@@ -61,9 +61,9 @@
                     "download": "1611170336"
                 },
                 "test": {
-                    "gid": "3853038655532226284",
-                    "size": "4330970321",
-                    "download": "3828529056"
+                    "gid": "3330010450023676886",
+                    "size": "4350172153",
+                    "download": "4022357824"
                 }
             },
             "decryptionkey": ""
@@ -148,9 +148,9 @@
                 "timeupdated": "1728731062"
             },
             "test": {
-                "buildid": "18251788",
+                "buildid": "19288841",
                 "description": "test",
-                "timeupdated": "1745698083"
+                "timeupdated": "1752977702"
             }
         },
         "workshopdepotdecryptionkey": ""
