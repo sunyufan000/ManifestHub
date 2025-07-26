@@ -4,7 +4,7 @@
     "type": "Game",
     "schinese_name": "UberSoldier II 狼穴尖兵2",
     "isfreeapp": 0,
-    "update_time": "2025-06-01 05:29:26",
+    "update_time": "2025-06-23 13:13:54",
     "change_number": 29305535,
     "depot": {
         "overridescddb": "1",
@@ -50,7 +50,7 @@
                     "download": "2528414912"
                 }
             },
-            "decryptionkey": ""
+            "decryptionkey": "b66c66f5e2aa2658f2883200ad6efbff27d076b23891d16f62c91f28eb07c4ad"
         },
         "281414": {
             "config": {
@@ -64,7 +64,7 @@
                     "download": "2502069008"
                 }
             },
-            "decryptionkey": ""
+            "decryptionkey": "e0a3e7e5235376fc6cf06afc9a9f4e86279b04a1bfe452d839c82c6d4c0150f8"
         },
         "281415": {
             "config": {
@@ -78,7 +78,7 @@
                     "download": "2511917968"
                 }
             },
-            "decryptionkey": ""
+            "decryptionkey": "682c63522cfe1ae2c86eded9392572fd115f9def9ae4bcf0cafb6f7922f7bfea"
         },
         "281416": {
             "config": {
@@ -106,7 +106,7 @@
                     "download": "2513791824"
                 }
             },
-            "decryptionkey": ""
+            "decryptionkey": "ab8f494183f48e22ad467942c1628f35f3be35d71e516c31ef832232bdc5eaff"
         },
         "281418": {
             "config": {
@@ -120,7 +120,7 @@
                     "download": "2520116816"
                 }
             },
-            "decryptionkey": ""
+            "decryptionkey": "554854ad2287f92a3f1e7c2ba62c7f3c8a4e5f8dcd381eb2347ad439adcf8b60"
         },
         "281419": {
             "config": {
@@ -134,7 +134,7 @@
                     "download": "2520476336"
                 }
             },
-            "decryptionkey": ""
+            "decryptionkey": "f78cba8df2fc548a402b7daafd7cc3f0c2cfd8e79aa52d9e6a0d2afa1b336986"
         },
         "branches": {
             "public": {
