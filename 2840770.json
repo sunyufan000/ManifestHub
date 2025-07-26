@@ -4,8 +4,8 @@
     "type": "Game",
     "schinese_name": "阿凡达：潘多拉边境™",
     "isfreeapp": 0,
-    "update_time": "2025-06-22 06:38:52",
-    "change_number": 29686120,
+    "update_time": "2025-07-24 03:13:09",
+    "change_number": 30218340,
     "depot": {
         "hasdepotsindlc": "0",
         "baselanguages": "english,german,french,italian,koreana,spanish,schinese,tchinese,russian,japanese,polish,arabic,brazilian",
@@ -39,9 +39,9 @@
         "1716751": {
             "manifests": {
                 "public": {
-                    "gid": "7692967814764193714",
-                    "size": "631944",
-                    "download": "515248"
+                    "gid": "818295193716041715",
+                    "size": "632424",
+                    "download": "551504"
                 }
             },
             "depotfromapp": "1716750",
