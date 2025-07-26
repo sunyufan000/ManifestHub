@@ -4,8 +4,8 @@
     "type": "Game",
     "schinese_name": "",
     "isfreeapp": 0,
-    "update_time": "2025-06-22 06:39:09",
-    "change_number": 29686123,
+    "update_time": "2025-07-10 17:52:20",
+    "change_number": 29992930,
     "depot": {
         "228985": {
             "config": {
@@ -49,14 +49,14 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "1812137452630851058",
-                    "size": "7734726802",
-                    "download": "6636372672"
+                    "gid": "4067248035552355366",
+                    "size": "7133477411",
+                    "download": "6626597584"
                 },
                 "sacrificial": {
-                    "gid": "1812137452630851058",
-                    "size": "7734726802",
-                    "download": "6636372672"
+                    "gid": "4067248035552355366",
+                    "size": "7133477411",
+                    "download": "6626597584"
                 }
             },
             "decryptionkey": "271e9950bea175b078726d4129a7070f696d4984c6a51f54a427bf86fc24cd75"
@@ -64,16 +64,16 @@
         "workshopdepot": "973230",
         "branches": {
             "public": {
-                "buildid": "18918522",
-                "timeupdated": "1750288844"
+                "buildid": "19174684",
+                "timeupdated": "1752166334"
             },
             "sacrificial": {
-                "buildid": "18918522",
+                "buildid": "19174684",
                 "description": "Experimental public test branch. Unstable! Report bugs on the official Discord! See #sacrificial-info",
-                "timeupdated": "1750288894"
+                "timeupdated": "1752166308"
             }
         },
         "privatebranches": "1",
-        "workshopdepotdecryptionkey": ""
+        "workshopdepotdecryptionkey": "14014220bdf9dcda5239b79ae99d253c84f8d384d1ca1ec6028086aa3b6dee26"
     }
 }
