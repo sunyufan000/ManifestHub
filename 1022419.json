@@ -1,0 +1,28 @@
+{
+    "appid": 1022419,
+    "name": "DFF NT: Thinking Cap, Kefka Palazzo's 4th Weapon",
+    "type": "DLC",
+    "schinese_name": "",
+    "isfreeapp": 0,
+    "update_time": "2025-06-23 14:10:03",
+    "change_number": 26201212,
+    "depot": {
+        "1022419": {
+            "manifests": {
+                "public": {
+                    "gid": "319217710394900294",
+                    "size": "0",
+                    "download": "0"
+                }
+            },
+            "dlcappid": "1022419",
+            "decryptionkey": "fc06b385a3b6ced236375810ec9c34448b14a59c3c95fd206b8ad3f396026045"
+        },
+        "branches": {
+            "public": {
+                "buildid": "3507985",
+                "timeupdated": "1548672494"
+            }
+        }
+    }
+}
