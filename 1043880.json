@@ -1,0 +1,28 @@
+{
+    "appid": 1043880,
+    "name": "Hentai Clouds",
+    "type": "Game",
+    "schinese_name": "",
+    "isfreeapp": 0,
+    "update_time": "2025-07-20 17:51:28",
+    "change_number": 30156050,
+    "depot": {
+        "1043881": {
+            "manifests": {
+                "public": {
+                    "gid": "7647468112586640858",
+                    "size": "329845741",
+                    "download": "90925904"
+                }
+            },
+            "decryptionkey": "ef2f0e2bf83faa3fcb796db805831404036f47513c530cb6fc161e90d7c1b612"
+        },
+        "branches": {
+            "public": {
+                "buildid": "4126659",
+                "timeupdated": "1566407895"
+            }
+        }
+    },
+    "access_token": 1270107248319574370
+}
