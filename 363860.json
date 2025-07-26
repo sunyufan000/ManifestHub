@@ -4,8 +4,8 @@
     "type": "Game",
     "schinese_name": "神话力量",
     "isfreeapp": 0,
-    "update_time": "2025-06-21 16:08:05",
-    "change_number": 29680437,
+    "update_time": "2025-07-23 21:06:16",
+    "change_number": 30213958,
     "depot": {
         "228988": {
             "config": {
@@ -27,14 +27,14 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "2778815742396136400",
-                    "size": "12392590076",
-                    "download": "11651691392"
+                    "gid": "3237339865584774890",
+                    "size": "9454752886",
+                    "download": "8939400704"
                 },
                 "publictest": {
-                    "gid": "7391192652084022184",
-                    "size": "9483019500",
-                    "download": "8964744672"
+                    "gid": "3237339865584774890",
+                    "size": "9454752886",
+                    "download": "8939400704"
                 }
             },
             "decryptionkey": "95d289db6425849619bee0c01f4ad1a6394913957d879f06484a6ff93384841a"
@@ -57,13 +57,13 @@
         },
         "branches": {
             "public": {
-                "buildid": "14393276",
-                "timeupdated": "1715897021"
+                "buildid": "19084282",
+                "timeupdated": "1751494297"
             },
             "publictest": {
-                "buildid": "18416765",
+                "buildid": "19084282",
                 "description": "Beta builds for testing",
-                "timeupdated": "1747076352"
+                "timeupdated": "1751494206"
             }
         },
         "privatebranches": "1"
