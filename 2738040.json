@@ -4,8 +4,8 @@
     "type": "Tool",
     "schinese_name": "",
     "isfreeapp": 0,
-    "update_time": "2025-06-21 01:30:01",
-    "change_number": 29673041,
+    "update_time": "2025-07-23 19:37:24",
+    "change_number": 30212673,
     "depot": {
         "1004": {
             "config": {
@@ -13,9 +13,9 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "7747775778018907449",
-                    "size": "46727128",
-                    "download": "14307024"
+                    "gid": "8904491048620934740",
+                    "size": "68697032",
+                    "download": "20552544"
                 }
             },
             "depotfromapp": "1007",
@@ -41,9 +41,9 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "7138471031118904166",
-                    "size": "78382436",
-                    "download": "21254752"
+                    "gid": "5587033981095108078",
+                    "size": "107476144",
+                    "download": "29272144"
                 }
             },
             "depotfromapp": "1007",
@@ -69,14 +69,14 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "6465252650426174029",
-                    "size": "7888566476",
-                    "download": "3078888432"
-                },
-                "beta": {
                     "gid": "1412800199461526224",
                     "size": "8353272117",
                     "download": "3421411312"
+                },
+                "beta": {
+                    "gid": "3032537520446376986",
+                    "size": "8112272096",
+                    "download": "3313507728"
                 }
             },
             "decryptionkey": "a7df626c379d1ae106f0dcbb99b08f574a628a4b2b8b04cf5cc726164a5ba219"
@@ -87,27 +87,27 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "5571938159480554137",
-                    "size": "7855676805",
-                    "download": "3056717904"
-                },
-                "beta": {
                     "gid": "3815606845261515255",
                     "size": "8300570119",
                     "download": "3391256000"
+                },
+                "beta": {
+                    "gid": "6761266444822440645",
+                    "size": "8080437824",
+                    "download": "3291575568"
                 }
             },
             "decryptionkey": "bacf190329c22e21b1ed4f66d78ad12456bcfb3d62f99bc4b79a878d4780b66d"
         },
         "branches": {
             "public": {
-                "buildid": "17759302",
-                "timeupdated": "1742309422"
+                "buildid": "18943136",
+                "timeupdated": "1750966279"
             },
             "beta": {
-                "buildid": "18943136",
+                "buildid": "19078229",
                 "description": "Branch for Beta playtesting",
-                "timeupdated": "1750440595"
+                "timeupdated": "1751454765"
             }
         },
         "privatebranches": "1"
