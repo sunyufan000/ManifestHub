@@ -4,8 +4,8 @@
     "type": "Game",
     "schinese_name": "",
     "isfreeapp": 0,
-    "update_time": "2025-06-18 06:23:27",
-    "change_number": 29617444,
+    "update_time": "2025-07-19 00:34:30",
+    "change_number": 30140968,
     "depot": {
         "baselanguages": "english,german,french,italian,koreana,spanish,schinese,tchinese,russian,japanese,polish,czech,brazilian,ukrainian",
         "228988": {
@@ -29,9 +29,9 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "2300088139300311966",
-                    "size": "591230667",
-                    "download": "354898304"
+                    "gid": "173632415065048550",
+                    "size": "600866241",
+                    "download": "365178336"
                 },
                 "legacy-0.6.0.6": {
                     "gid": "118211838431058179",
@@ -44,9 +44,9 @@
                     "download": "370688336"
                 },
                 "test": {
-                    "gid": "2300088139300311966",
-                    "size": "591230667",
-                    "download": "354898304"
+                    "gid": "173632415065048550",
+                    "size": "600866241",
+                    "download": "365178336"
                 }
             },
             "decryptionkey": "38c6ceefea1d6ebdb69e27c29b2e0f7399b4aa22919e878c398cd4bb12c96fa0"
@@ -58,9 +58,9 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "4803727441872277967",
-                    "size": "470473668",
-                    "download": "340417296"
+                    "gid": "4636277628262023350",
+                    "size": "471849426",
+                    "download": "342191664"
                 },
                 "legacy-0.6.0.6": {
                     "gid": "6332691399900398064",
@@ -73,11 +73,12 @@
                     "download": "356477200"
                 },
                 "test": {
-                    "gid": "4803727441872277967",
-                    "size": "470473668",
-                    "download": "340417296"
+                    "gid": "4636277628262023350",
+                    "size": "471849426",
+                    "download": "342191664"
                 }
-            }
+            },
+            "decryptionkey": "fcd44ccb1b455e06dd15dc2f310238672b329147d8646fb4dbe793685123109e"
         },
         "1803553": {
             "config": {
@@ -86,9 +87,9 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "5005306677690753631",
-                    "size": "593425995",
-                    "download": "365794096"
+                    "gid": "5616939161557737280",
+                    "size": "603817753",
+                    "download": "382154384"
                 },
                 "legacy-0.6.0.6": {
                     "gid": "5427428102800696010",
@@ -101,17 +102,18 @@
                     "download": "380963120"
                 },
                 "test": {
-                    "gid": "5005306677690753631",
-                    "size": "593425995",
-                    "download": "365794096"
+                    "gid": "5616939161557737280",
+                    "size": "603817753",
+                    "download": "382154384"
                 }
-            }
+            },
+            "decryptionkey": "6e552a20c0ff53349ac8083eaa963b3b27f22091ca1c66680f674c65664ff531"
         },
         "workshopdepot": "1803550",
         "branches": {
             "public": {
-                "buildid": "18903860",
-                "timeupdated": "1750197840"
+                "buildid": "19281543",
+                "timeupdated": "1752881668"
             },
             "legacy-0.6.0.6": {
                 "buildid": "12312508",
@@ -124,9 +126,9 @@
                 "timeupdated": "1742251251"
             },
             "test": {
-                "buildid": "18903860",
+                "buildid": "19281543",
                 "description": "test",
-                "timeupdated": "1750197734"
+                "timeupdated": "1752881627"
             }
         },
         "workshopdepotdecryptionkey": ""
