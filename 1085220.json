@@ -1,0 +1,28 @@
+{
+    "appid": 1085220,
+    "name": "Figment 2: Creed Valley",
+    "type": "Game",
+    "schinese_name": "虚构2坚信之谷",
+    "isfreeapp": 0,
+    "update_time": "2025-07-04 15:33:24",
+    "change_number": 29899569,
+    "depot": {
+        "1085221": {
+            "manifests": {
+                "public": {
+                    "gid": "9069226349604206079",
+                    "size": "1544419078",
+                    "download": "1333455200"
+                }
+            },
+            "decryptionkey": "83265318781b27b5f9fec6836c12a1e3cc67997751c2e9d43e38153292df1454"
+        },
+        "branches": {
+            "public": {
+                "buildid": "19109164",
+                "timeupdated": "1751639598"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
