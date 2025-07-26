@@ -1,0 +1,31 @@
+{
+    "appid": 1019983,
+    "name": "DYNASTY WARRIORS 9: Zhong Hui Special Scenario / 鍾会「追加IFシナリオセット」",
+    "type": "DLC",
+    "schinese_name": "",
+    "isfreeapp": 0,
+    "update_time": "2025-06-23 13:40:56",
+    "change_number": 26201212,
+    "depot": {
+        "1019983": {
+            "config": {
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "592738896711282443",
+                    "size": "374412343",
+                    "download": "355256432"
+                }
+            },
+            "dlcappid": "1019983",
+            "decryptionkey": "0c0b3b05158288f1971157f50a0c38eb47982c46063a85bcf9ac9db731e8b3df"
+        },
+        "branches": {
+            "public": {
+                "buildid": "3721101",
+                "timeupdated": "1554794744"
+            }
+        }
+    }
+}
