@@ -4,8 +4,8 @@
     "type": "Game",
     "schinese_name": "",
     "isfreeapp": 0,
-    "update_time": "2025-06-12 02:53:31",
-    "change_number": 29513946,
+    "update_time": "2025-07-22 20:52:40",
+    "change_number": 30193201,
     "depot": {
         "228983": {
             "config": {
@@ -29,9 +29,9 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "5604488394277647492",
-                    "size": "1226983905",
-                    "download": "476841584"
+                    "gid": "9137066663550193330",
+                    "size": "1228158377",
+                    "download": "477181520"
                 }
             },
             "decryptionkey": "c8f981d7497778a947599dc4f4b1d07c0cd20f9f5ea08e91b1b7db7404294c1c"
@@ -43,9 +43,9 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "8554371041507056381",
-                    "size": "1206663490",
-                    "download": "470880496"
+                    "gid": "493132656146887443",
+                    "size": "1207601978",
+                    "download": "471150672"
                 }
             },
             "decryptionkey": "921fc7f159ff6fc15ea537dd6df7c952b2cb16aa6d46359c990c354769e3059b"
@@ -70,17 +70,17 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "1720070654264312236",
-                    "size": "1261391060",
-                    "download": "489656864"
+                    "gid": "6255711688287558146",
+                    "size": "1261278712",
+                    "download": "489761600"
                 }
             },
             "decryptionkey": "4b4826fd1970815daae691ede9e20008c75da687de1672ea22a070537ee9c1b1"
         },
         "branches": {
             "public": {
-                "buildid": "18829910",
-                "timeupdated": "1749668003"
+                "buildid": "19319689",
+                "timeupdated": "1753213954"
             }
         },
         "workshopdepotdecryptionkey": "70973b9c17a835b1244089e93dd9d586fda18e0427c6ce5e21479f4d7d56d0de"
