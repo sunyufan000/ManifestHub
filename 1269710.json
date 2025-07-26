@@ -4,8 +4,8 @@
     "type": "Game",
     "schinese_name": "海岸桃源：文明之种",
     "isfreeapp": 0,
-    "update_time": "2025-06-19 18:05:08",
-    "change_number": 29647103,
+    "update_time": "2025-06-25 17:29:59",
+    "change_number": 29745771,
     "depot": {
         "baselanguages": "english,german,french,spanish,schinese,russian,polish",
         "1269711": {
@@ -14,14 +14,14 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "9084468615802809423",
-                    "size": "760851672",
-                    "download": "615088688"
+                    "gid": "2505591424684020373",
+                    "size": "760851680",
+                    "download": "616205024"
                 },
                 "beta": {
-                    "gid": "9179337695177729283",
+                    "gid": "2505591424684020373",
                     "size": "760851680",
-                    "download": "616279968"
+                    "download": "616205024"
                 }
             },
             "decryptionkey": "e96a1f734ee1b8f27f1d6fbb714442ec169ef1f6ed87d6e229b23f69a45ef880"
@@ -84,13 +84,13 @@
         },
         "branches": {
             "public": {
-                "buildid": "18718420",
-                "timeupdated": "1749389879"
+                "buildid": "18998193",
+                "timeupdated": "1750868992"
             },
             "beta": {
-                "buildid": "18925041",
+                "buildid": "18998193",
                 "description": "For Playtesting",
-                "timeupdated": "1750327504"
+                "timeupdated": "1750868593"
             }
         },
         "privatebranches": "1",
