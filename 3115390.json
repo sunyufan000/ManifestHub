@@ -4,8 +4,8 @@
     "type": "Application",
     "schinese_name": "",
     "isfreeapp": 0,
-    "update_time": "2025-06-12 05:54:22",
-    "change_number": 29516452,
+    "update_time": "2025-06-30 15:56:33",
+    "change_number": 29824837,
     "depot": {
         "228989": {
             "config": {
@@ -21,19 +21,14 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "3411202392787863001",
-                    "size": "325239810",
-                    "download": "132117440"
+                    "gid": "1622625924011801002",
+                    "size": "327499899",
+                    "download": "139956080"
                 },
                 "alpha": {
-                    "gid": "3411202392787863001",
-                    "size": "325239810",
-                    "download": "132117440"
-                },
-                "image-specs-decoding": {
-                    "gid": "650059515946318470",
-                    "size": "329307638",
-                    "download": "137136032"
+                    "gid": "1622625924011801002",
+                    "size": "327499899",
+                    "download": "139956080"
                 },
                 "npu-testing": {
                     "gid": "1091563217738276762",
@@ -45,24 +40,20 @@
         },
         "branches": {
             "public": {
-                "buildid": "18148644",
-                "timeupdated": "1744917747"
+                "buildid": "19001625",
+                "timeupdated": "1750887814"
             },
             "alpha": {
-                "buildid": "18148644",
+                "buildid": "19001625",
                 "description": "Alpha builds, MIGHT BE UNSTABLE!!!",
-                "timeupdated": "1744917543"
-            },
-            "image-specs-decoding": {
-                "buildid": "17737849",
-                "description": "A",
-                "timeupdated": "1742054878"
+                "timeupdated": "1750887419"
             },
             "npu-testing": {
                 "buildid": "17244530",
                 "description": "Test NPU support",
                 "timeupdated": "1749678856"
             }
-        }
+        },
+        "privatebranches": "1"
     }
 }
