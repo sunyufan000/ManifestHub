@@ -4,8 +4,8 @@
     "type": "Game",
     "schinese_name": "神秘岛2：星空断层",
     "isfreeapp": 0,
-    "update_time": "2025-06-07 00:37:38",
-    "change_number": 29422613,
+    "update_time": "2025-06-26 19:54:41",
+    "change_number": 29769759,
     "depot": {
         "overridescddb": "1",
         "63611": {
@@ -15,9 +15,9 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "3482888356288548773",
-                    "size": "7413102715",
-                    "download": "5131972544"
+                    "gid": "7469125334058816620",
+                    "size": "7413109061",
+                    "download": "5131992704"
                 },
                 "previous-version": {
                     "gid": "1944300418573321316",
@@ -38,9 +38,9 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "9150868662686532268",
-                    "size": "7381781406",
-                    "download": "4822545936"
+                    "gid": "8271525394411923617",
+                    "size": "7381787240",
+                    "download": "4822566672"
                 },
                 "last_32bit_release": {
                     "gid": "1707927182142321399",
@@ -52,8 +52,8 @@
         },
         "branches": {
             "public": {
-                "buildid": "18596278",
-                "timeupdated": "1748384874"
+                "buildid": "18967904",
+                "timeupdated": "1750958598"
             },
             "previous-version": {
                 "buildid": "23904",
