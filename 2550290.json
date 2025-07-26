@@ -1,11 +1,11 @@
 {
     "appid": 2550290,
-    "name": "Who Wears The Crown?",
+    "name": "Who Takes The Crown?",
     "type": "Game",
     "schinese_name": "",
     "isfreeapp": 0,
-    "update_time": "2025-05-29 00:56:57",
-    "change_number": 29241609,
+    "update_time": "2025-07-14 03:11:29",
+    "change_number": 30040980,
     "depot": {
         "2550291": {
             "manifests": {
