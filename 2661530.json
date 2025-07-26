@@ -4,8 +4,8 @@
     "type": "Game",
     "schinese_name": "融合大师：起源",
     "isfreeapp": 0,
-    "update_time": "2025-06-17 14:36:47",
-    "change_number": 29602096,
+    "update_time": "2025-07-14 20:33:28",
+    "change_number": 30055270,
     "depot": {
         "2661531": {
             "config": {
@@ -13,9 +13,9 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "7077313251030969862",
-                    "size": "636182832",
-                    "download": "155555136"
+                    "gid": "8541447338046130838",
+                    "size": "637193301",
+                    "download": "158735840"
                 }
             },
             "decryptionkey": "c6fd3be0e2e7db830e8e0cffdb752f97d97b0a2d9a37fbeb553ae8e8eb1cfcb1"
@@ -46,8 +46,8 @@
         },
         "branches": {
             "public": {
-                "buildid": "18402790",
-                "timeupdated": "1746792686"
+                "buildid": "19220635",
+                "timeupdated": "1752521603"
             }
         }
     }
