@@ -4,8 +4,8 @@
     "type": "Game",
     "schinese_name": "",
     "isfreeapp": 0,
-    "update_time": "2025-06-09 12:48:20",
-    "change_number": 29455084,
+    "update_time": "2025-07-02 11:29:38",
+    "change_number": 29858497,
     "depot": {
         "baselanguages": "english,schinese",
         "1331511": {
@@ -14,9 +14,9 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "1608474014051353889",
-                    "size": "13304186353",
-                    "download": "4807194368"
+                    "gid": "8843134763374292655",
+                    "size": "13304056769",
+                    "download": "4807190400"
                 },
                 "v11p0": {
                     "gid": "8186553595831027849",
@@ -39,14 +39,14 @@
                     "download": "4355768480"
                 },
                 "temp": {
-                    "gid": "1608474014051353889",
-                    "size": "13304186353",
-                    "download": "4807194368"
+                    "gid": "8843134763374292655",
+                    "size": "13304056769",
+                    "download": "4807190400"
                 },
                 "test": {
-                    "gid": "1608474014051353889",
-                    "size": "13304186353",
-                    "download": "4807194368"
+                    "gid": "8843134763374292655",
+                    "size": "13304056769",
+                    "download": "4807190400"
                 },
                 "v11p7": {
                     "gid": "5812252158786590961",
@@ -78,8 +78,8 @@
         },
         "branches": {
             "public": {
-                "buildid": "18778461",
-                "timeupdated": "1749309480"
+                "buildid": "19077882",
+                "timeupdated": "1751452171"
             },
             "v11p0": {
                 "buildid": "11378924",
@@ -102,14 +102,14 @@
                 "timeupdated": "1748792797"
             },
             "temp": {
-                "buildid": "18778461",
+                "buildid": "19077882",
                 "description": "just used for bug fixed",
-                "timeupdated": "1749309423"
+                "timeupdated": "1751452137"
             },
             "test": {
-                "buildid": "18778461",
+                "buildid": "19077882",
                 "description": "test",
-                "timeupdated": "1749309436"
+                "timeupdated": "1751452150"
             },
             "v11p7": {
                 "buildid": "13666778",
