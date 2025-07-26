@@ -4,8 +4,8 @@
     "type": "Game",
     "schinese_name": "苏丹的游戏",
     "isfreeapp": 0,
-    "update_time": "2025-06-22 05:54:13",
-    "change_number": 29683075,
+    "update_time": "2025-07-21 14:12:44",
+    "change_number": 30167276,
     "depot": {
         "3117821": {
             "config": {
@@ -13,9 +13,9 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "8418129401697100086",
-                    "size": "2581628515",
-                    "download": "570719088"
+                    "gid": "8277514339056147993",
+                    "size": "2650052991",
+                    "download": "586111552"
                 },
                 "devtest-0.2": {
                     "gid": "2708524691989434518",
@@ -36,9 +36,9 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "3637921757912727307",
-                    "size": "2618203138",
-                    "download": "575057760"
+                    "gid": "695444745286719640",
+                    "size": "2686647970",
+                    "download": "590365072"
                 }
             },
             "decryptionkey": "035a90c8a84efd35f026f2ac3856c53f459fed40e95d99e490f0eed947a99be9"
@@ -49,9 +49,9 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "3940749446330981910",
-                    "size": "2674628080",
-                    "download": "592521264"
+                    "gid": "3125816260053339664",
+                    "size": "2743082038",
+                    "download": "607945280"
                 }
             },
             "decryptionkey": "4041c78dfa1b7b56de279bbaf92f1bd964a745fd067e476ed3302d0a40b90042"
@@ -60,8 +60,8 @@
         "workshopdepot": "3117820",
         "branches": {
             "public": {
-                "buildid": "18790501",
-                "timeupdated": "1749550035"
+                "buildid": "19140129",
+                "timeupdated": "1751966685"
             },
             "devtest-0.2": {
                 "buildid": "15365016",
