@@ -4,8 +4,8 @@
     "type": "Game",
     "schinese_name": "迷宫∞创造",
     "isfreeapp": 0,
-    "update_time": "2025-06-16 00:04:39",
-    "change_number": 29575361,
+    "update_time": "2025-07-21 05:51:49",
+    "change_number": 30160909,
     "depot": {
         "baselanguages": "english,schinese,tchinese,japanese",
         "2541051": {
@@ -34,7 +34,7 @@
                     "download": "224869504"
                 }
             },
-            "decryptionkey": ""
+            "decryptionkey": "e020d64c5b67f58eb9f0905612c9b9a50a4bcc343fd7c168ec2075f30512a485"
         },
         "2541053": {
             "config": {
