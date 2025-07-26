@@ -4,8 +4,8 @@
     "type": "Application",
     "schinese_name": "",
     "isfreeapp": 0,
-    "update_time": "2025-06-13 01:39:53",
-    "change_number": 29532243,
+    "update_time": "2025-07-06 13:41:51",
+    "change_number": 29918366,
     "depot": {
         "228989": {
             "config": {
@@ -27,9 +27,9 @@
                     "download": "25813824"
                 },
                 "development": {
-                    "gid": "9214843449932700444",
-                    "size": "78004131",
-                    "download": "25813824"
+                    "gid": "1692618453175396217",
+                    "size": "85334688",
+                    "download": "35236992"
                 },
                 "old-ui": {
                     "gid": "702814578312918455",
@@ -51,9 +51,9 @@
                 "timeupdated": "1749744770"
             },
             "development": {
-                "buildid": "18843265",
+                "buildid": "19122930",
                 "description": "Development test branch",
-                "timeupdated": "1749744499"
+                "timeupdated": "1751805706"
             },
             "old-ui": {
                 "buildid": "16849100",
