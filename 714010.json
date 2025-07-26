@@ -4,8 +4,8 @@
     "type": "Game",
     "schinese_name": "瞄准实验室",
     "isfreeapp": 1,
-    "update_time": "2025-06-21 16:06:01",
-    "change_number": 29680423,
+    "update_time": "2025-07-23 19:54:50",
+    "change_number": 30212962,
     "depot": {
         "228989": {
             "config": {
@@ -19,14 +19,14 @@
         "714011": {
             "manifests": {
                 "public": {
-                    "gid": "9193565737321157982",
-                    "size": "17564833935",
-                    "download": "7810220832"
+                    "gid": "5613442949244039815",
+                    "size": "17732635083",
+                    "download": "7901215056"
                 },
                 "beta": {
-                    "gid": "1124711932691892695",
-                    "size": "17558364346",
-                    "download": "7810344096"
+                    "gid": "6541160657659868857",
+                    "size": "17678715265",
+                    "download": "7831071072"
                 }
             },
             "decryptionkey": "b959968aba4c376652705a7f8697f75a1e4d94e7546548e2bb26d220cea76698"
@@ -51,13 +51,13 @@
         },
         "branches": {
             "public": {
-                "buildid": "18927159",
-                "timeupdated": "1750348327"
+                "buildid": "19279714",
+                "timeupdated": "1753078181"
             },
             "beta": {
-                "buildid": "18859376",
+                "buildid": "19178325",
                 "description": "beta test branch",
-                "timeupdated": "1749841649"
+                "timeupdated": "1752167193"
             }
         },
         "privatebranches": "1",
