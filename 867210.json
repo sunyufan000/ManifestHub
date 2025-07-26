@@ -4,8 +4,8 @@
     "type": "Game",
     "schinese_name": "征服之歌",
     "isfreeapp": 0,
-    "update_time": "2025-06-20 05:23:39",
-    "change_number": 29651312,
+    "update_time": "2025-07-08 20:44:40",
+    "change_number": 29955998,
     "depot": {
         "867211": {
             "config": {
@@ -13,9 +13,9 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "690802267366740624",
-                    "size": "2393850279",
-                    "download": "1685767712"
+                    "gid": "6466359435659155293",
+                    "size": "2394250962",
+                    "download": "1686094944"
                 },
                 "console-crossplay": {
                     "gid": "7002691389580634883",
@@ -23,9 +23,9 @@
                     "download": "1581921632"
                 },
                 "public-test-realm": {
-                    "gid": "690802267366740624",
-                    "size": "2393850279",
-                    "download": "1685767712"
+                    "gid": "6466359435659155293",
+                    "size": "2394250962",
+                    "download": "1686094944"
                 }
             },
             "decryptionkey": "ea2be0c817a8f6f2e694b3318c5560c41ff4eb9d1a16f9ce3490dc2bf58fe78c"
@@ -36,9 +36,9 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "6687661227700481331",
-                    "size": "2480871946",
-                    "download": "1704632112"
+                    "gid": "6100012616113391611",
+                    "size": "2481271895",
+                    "download": "1704957664"
                 },
                 "console-crossplay": {
                     "gid": "5231574829852973610",
@@ -46,9 +46,9 @@
                     "download": "1601142048"
                 },
                 "public-test-realm": {
-                    "gid": "6687661227700481331",
-                    "size": "2480871946",
-                    "download": "1704632112"
+                    "gid": "6100012616113391611",
+                    "size": "2481271895",
+                    "download": "1704957664"
                 }
             },
             "decryptionkey": "3546a5c46d083b5474f272b188d063e43fcf017ad720f78d3d8d655f4e5190f8"
@@ -79,8 +79,8 @@
         },
         "branches": {
             "public": {
-                "buildid": "18896882",
-                "timeupdated": "1750177998"
+                "buildid": "19063380",
+                "timeupdated": "1751375188"
             },
             "console-crossplay": {
                 "buildid": "17118774",
@@ -88,9 +88,9 @@
                 "timeupdated": "1742571950"
             },
             "public-test-realm": {
-                "buildid": "18896882",
+                "buildid": "19063380",
                 "description": "Experimental branch where you can test the next version or patch before it goes live",
-                "timeupdated": "1750177946"
+                "timeupdated": "1751375098"
             }
         },
         "privatebranches": "1"
