@@ -4,8 +4,8 @@
     "type": "Game",
     "schinese_name": "Barotrauma 潜渊症",
     "isfreeapp": 0,
-    "update_time": "2025-06-21 22:26:52",
-    "change_number": 29638338,
+    "update_time": "2025-07-06 08:44:19",
+    "change_number": 29916640,
     "depot": {
         "workshopdepot": "602960",
         "hasdepotsindlc": "1",
@@ -16,19 +16,24 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "7967858762451931979",
-                    "size": "1227811771",
-                    "download": "1061215200"
+                    "gid": "6603750300904719915",
+                    "size": "1233395246",
+                    "download": "1066821632"
                 },
                 "macos-compatibility": {
                     "gid": "4532573188645180096",
                     "size": "875058390",
                     "download": "748868944"
                 },
+                "previous-version": {
+                    "gid": "6319602320330457881",
+                    "size": "1223240586",
+                    "download": "1061030992"
+                },
                 "unstable": {
-                    "gid": "7967858762451931979",
-                    "size": "1227811771",
-                    "download": "1061215200"
+                    "gid": "1339130613722193275",
+                    "size": "1232866068",
+                    "download": "1066503776"
                 }
             },
             "decryptionkey": "9548ba939f90ad1341ef0ea0125642dabf42d425fed0a4a5b2ad3d40a88af1d2"
@@ -40,19 +45,24 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "2679275410447643528",
-                    "size": "1246428463",
-                    "download": "1064980080"
+                    "gid": "3332451177698422054",
+                    "size": "1252011598",
+                    "download": "1070580032"
                 },
                 "macos-compatibility": {
                     "gid": "8503897916685002902",
                     "size": "870442187",
                     "download": "748641200"
                 },
+                "previous-version": {
+                    "gid": "415255206200054700",
+                    "size": "1242534902",
+                    "download": "1064861408"
+                },
                 "unstable": {
-                    "gid": "2679275410447643528",
-                    "size": "1246428463",
-                    "download": "1064980080"
+                    "gid": "9096910527248927600",
+                    "size": "1251701848",
+                    "download": "1070262176"
                 }
             },
             "decryptionkey": "aa05725821345dfdedd93eaef1f0f4fb6e399b95cffc47dbabf9134a7eeca1d9"
@@ -64,19 +74,24 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "1703058015983878904",
-                    "size": "1235690776",
-                    "download": "1066423680"
+                    "gid": "8265822826193796846",
+                    "size": "1241274935",
+                    "download": "1072028176"
                 },
                 "macos-compatibility": {
                     "gid": "5124255688693021488",
                     "size": "895346870",
                     "download": "781608144"
                 },
+                "previous-version": {
+                    "gid": "373243936242421722",
+                    "size": "1231797211",
+                    "download": "1066308848"
+                },
                 "unstable": {
-                    "gid": "1703058015983878904",
-                    "size": "1235690776",
-                    "download": "1066423680"
+                    "gid": "6822059472816811892",
+                    "size": "1240964675",
+                    "download": "1071707056"
                 }
             },
             "decryptionkey": "9420d15bdd3429b9391b475f1d1c59499535e408b59dcc0053cfa369cdbb8609"
@@ -97,6 +112,11 @@
                     "size": "437541952",
                     "download": "432726192"
                 },
+                "previous-version": {
+                    "gid": "4582887644478638575",
+                    "size": "437541952",
+                    "download": "432726192"
+                },
                 "unstable": {
                     "gid": "4582887644478638575",
                     "size": "437541952",
@@ -107,18 +127,23 @@
         },
         "branches": {
             "public": {
-                "buildid": "18854431",
-                "timeupdated": "1750165776"
+                "buildid": "19006809",
+                "timeupdated": "1751622585"
             },
             "macos-compatibility": {
                 "buildid": "9659897",
                 "description": "Last build that supported macOS systems older than 10.15.",
                 "timeupdated": "1664982730"
             },
+            "previous-version": {
+                "buildid": "18455188",
+                "description": "Previous major version, provided for backwards compatibility purposes",
+                "timeupdated": "1750671484"
+            },
             "unstable": {
-                "buildid": "18854431",
+                "buildid": "19106170",
                 "description": "Public unstable version",
-                "timeupdated": "1749812073"
+                "timeupdated": "1751622608"
             }
         },
         "privatebranches": "1",
