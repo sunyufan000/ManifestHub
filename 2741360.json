@@ -4,8 +4,8 @@
     "type": "Game",
     "schinese_name": "勇敢的心：叶落归根",
     "isfreeapp": 0,
-    "update_time": "2025-06-16 03:15:40",
-    "change_number": 29576709,
+    "update_time": "2025-07-16 13:33:32",
+    "change_number": 30089140,
     "depot": {
         "228983": {
             "config": {
@@ -24,9 +24,9 @@
         "2741361": {
             "manifests": {
                 "public": {
-                    "gid": "7040257267569042858",
-                    "size": "1844415028",
-                    "download": "1484333376"
+                    "gid": "7060065011170823408",
+                    "size": "1850730012",
+                    "download": "1526710208"
                 }
             },
             "decryptionkey": "bdf619a0696d63c3f117ca0ee19d9cafd50b5f42396506f674aa947b728c8d57"
@@ -34,9 +34,9 @@
         "1716751": {
             "manifests": {
                 "public": {
-                    "gid": "7692967814764193714",
-                    "size": "631944",
-                    "download": "515248"
+                    "gid": "818295193716041715",
+                    "size": "632424",
+                    "download": "551504"
                 }
             },
             "depotfromapp": "1716750",
@@ -45,8 +45,8 @@
         "baselanguages": "english",
         "branches": {
             "public": {
-                "buildid": "17792962",
-                "timeupdated": "1743143470"
+                "buildid": "19066588",
+                "timeupdated": "1751605989"
             }
         },
         "privatebranches": "1"
