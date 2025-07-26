@@ -4,8 +4,8 @@
     "type": "Game",
     "schinese_name": "岛",
     "isfreeapp": 0,
-    "update_time": "2025-06-20 22:00:00",
-    "change_number": 29669511,
+    "update_time": "2025-07-23 16:10:16",
+    "change_number": 30209041,
     "depot": {
         "228981": {
             "config": {
@@ -138,9 +138,9 @@
                     "download": "14333571856"
                 },
                 "evrima": {
-                    "gid": "4330571182761974360",
-                    "size": "6416777225",
-                    "download": "6087190176"
+                    "gid": "1480549662686309982",
+                    "size": "6417624359",
+                    "download": "6087933952"
                 },
                 "hordetesting": {
                     "gid": "4330571182761974360",
@@ -161,9 +161,9 @@
                 "timeupdated": "1699982621"
             },
             "evrima": {
-                "buildid": "18940986",
+                "buildid": "19028035",
                 "description": "EVRIMA Public Branch",
-                "timeupdated": "1750427995"
+                "timeupdated": "1751036274"
             },
             "hordetesting": {
                 "buildid": "18939097",
