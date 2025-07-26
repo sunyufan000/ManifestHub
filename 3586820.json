@@ -4,8 +4,8 @@
     "type": "DLC",
     "schinese_name": "监寓-数字升级版",
     "isfreeapp": 0,
-    "update_time": "2025-06-21 13:42:37",
-    "change_number": 29665237,
+    "update_time": "2025-06-24 14:24:42",
+    "change_number": 29721018,
     "depot": {
         "3586821": {
             "config": {
@@ -13,9 +13,9 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "102991468162048048",
-                    "size": "1174210905",
-                    "download": "1050086160"
+                    "gid": "3463487655147043125",
+                    "size": "1174210867",
+                    "download": "1050035568"
                 }
             },
             "dlcappid": "3586820",
@@ -27,17 +27,17 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "6719575840848645806",
-                    "size": "1174548161",
-                    "download": "1049600720"
+                    "gid": "3213160575802011260",
+                    "size": "1174548159",
+                    "download": "1049553888"
                 }
             },
             "dlcappid": "3586820"
         },
         "branches": {
             "public": {
-                "buildid": "18938048",
-                "timeupdated": "1750411521"
+                "buildid": "18979103",
+                "timeupdated": "1750761550"
             }
         }
     }
