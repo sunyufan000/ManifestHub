@@ -4,8 +4,8 @@
     "type": "Game",
     "schinese_name": "雨城",
     "isfreeapp": 0,
-    "update_time": "2025-05-30 14:32:57",
-    "change_number": 29277165,
+    "update_time": "2025-06-29 04:14:14",
+    "change_number": 29806971,
     "depot": {
         "1307371": {
             "config": {
@@ -32,7 +32,8 @@
                     "size": "962824980",
                     "download": "224802944"
                 }
-            }
+            },
+            "decryptionkey": "767a24571bdb793b4fee8fe2ca0904405091b45d58e31490d9eb73bb7343cce4"
         },
         "branches": {
             "public": {
