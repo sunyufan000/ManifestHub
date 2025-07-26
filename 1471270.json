@@ -4,8 +4,8 @@
     "type": "Game",
     "schinese_name": "",
     "isfreeapp": 0,
-    "update_time": "2025-06-22 05:56:23",
-    "change_number": 29683772,
+    "update_time": "2025-07-15 14:32:21",
+    "change_number": 30069334,
     "depot": {
         "hasdepotsindlc": "0",
         "baselanguages": "english",
@@ -16,9 +16,9 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "1722932538128410879",
-                    "size": "1967875312",
-                    "download": "436206272"
+                    "gid": "4624561832083678722",
+                    "size": "1969558472",
+                    "download": "438512016"
                 }
             },
             "decryptionkey": "606ff8f57195c5bebd0a972ea660b468d9b6f3a63f9936894308266a4c9714d1"
@@ -30,9 +30,9 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "9217395781463407716",
-                    "size": "1986018054",
-                    "download": "441784704"
+                    "gid": "5153967922983061158",
+                    "size": "1987701198",
+                    "download": "444409456"
                 }
             }
         },
@@ -43,9 +43,9 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "3175330665294445168",
-                    "size": "1967875312",
-                    "download": "436206272"
+                    "gid": "879059698176141811",
+                    "size": "1969558472",
+                    "download": "438512016"
                 }
             },
             "decryptionkey": "d676bbac2f433cbacdab79b7ed7bf102fb9af9a86ac53795e21915219a32b8e5"
@@ -57,9 +57,9 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "3243225496438425068",
-                    "size": "1986018054",
-                    "download": "441784704"
+                    "gid": "7310819194038496622",
+                    "size": "1987701198",
+                    "download": "444409456"
                 }
             }
         },
@@ -70,20 +70,20 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "4144262640653462385",
-                    "size": "2069607833",
-                    "download": "446658432"
+                    "gid": "3628337918975630518",
+                    "size": "2071290993",
+                    "download": "449273360"
                 }
             }
         },
         "workshopdepot": "1471270",
         "branches": {
             "public": {
-                "buildid": "18660941",
-                "timeupdated": "1748535139"
+                "buildid": "18985645",
+                "timeupdated": "1750795985"
             }
         },
         "privatebranches": "1",
-        "workshopdepotdecryptionkey": ""
+        "workshopdepotdecryptionkey": "cfd4938558a15d9bb64dfd61aa37b668f1d2d0c17495a224ba9a5d7d113041f9"
     }
 }
