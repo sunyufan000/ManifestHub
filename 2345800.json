@@ -4,8 +4,8 @@
     "type": "DLC",
     "schinese_name": "",
     "isfreeapp": 1,
-    "update_time": "2025-06-13 16:12:25",
-    "change_number": 29544805,
+    "update_time": "2025-07-10 09:14:19",
+    "change_number": 29983862,
     "depot": {
         "2345800": {
             "config": {
@@ -18,9 +18,9 @@
                     "download": "107974176"
                 },
                 "nightly": {
-                    "gid": "3248041226827088043",
-                    "size": "195193895",
-                    "download": "108342336"
+                    "gid": "8136623324406198386",
+                    "size": "198131913",
+                    "download": "116017152"
                 }
             },
             "dlcappid": "2345800",
@@ -37,9 +37,9 @@
                     "download": "108634672"
                 },
                 "nightly": {
-                    "gid": "3388459609337859017",
-                    "size": "202869007",
-                    "download": "108974208"
+                    "gid": "5774399805339723401",
+                    "size": "205508433",
+                    "download": "117347984"
                 }
             },
             "dlcappid": "2345800",
@@ -56,9 +56,9 @@
                     "download": "128107968"
                 },
                 "nightly": {
-                    "gid": "1762570848488993298",
-                    "size": "300531770",
-                    "download": "128488768"
+                    "gid": "6020927021791423568",
+                    "size": "306150380",
+                    "download": "141752720"
                 }
             },
             "dlcappid": "2345800",
@@ -70,9 +70,9 @@
                 "timeupdated": "1745845006"
             },
             "nightly": {
-                "buildid": "18852661",
+                "buildid": "19172230",
                 "description": "Nightly unstable builds",
-                "timeupdated": "1749802339"
+                "timeupdated": "1752135252"
             }
         },
         "privatebranches": "1"
