@@ -4,8 +4,8 @@
     "type": "Game",
     "schinese_name": "植物大战僵尸：花园战争2：豪华版",
     "isfreeapp": 0,
-    "update_time": "2025-06-21 06:39:30",
-    "change_number": 29676592,
+    "update_time": "2025-07-14 11:31:49",
+    "change_number": 30046631,
     "depot": {
         "baselanguages": "english,german,french,italian,spanish,tchinese,polish,brazilian",
         "228984": {
@@ -146,9 +146,9 @@
         "3340991": {
             "manifests": {
                 "public": {
-                    "gid": "4706744716523911097",
-                    "size": "234648127",
-                    "download": "234136240"
+                    "gid": "1318423300601359782",
+                    "size": "235231375",
+                    "download": "234719568"
                 }
             },
             "depotfromapp": "3340990",
