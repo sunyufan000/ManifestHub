@@ -4,8 +4,8 @@
     "type": "Game",
     "schinese_name": "枪火农夫",
     "isfreeapp": 0,
-    "update_time": "2025-06-21 03:01:56",
-    "change_number": 29674280,
+    "update_time": "2025-07-10 20:28:34",
+    "change_number": 29995950,
     "depot": {
         "workshopdepot": "604240",
         "604244": {
@@ -16,9 +16,9 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "8241558844838903411",
-                    "size": "5692846194",
-                    "download": "2552563760"
+                    "gid": "1845008782830396279",
+                    "size": "5780377631",
+                    "download": "2591378656"
                 }
             },
             "decryptionkey": "3daa3a70b724d2b6904b3c18f2386b31a204bd6d8fe73005683411ec3291d3fa"
@@ -46,9 +46,9 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "4561049941523350873",
-                    "size": "5819393857",
-                    "download": "2707455408"
+                    "gid": "6577800301551644654",
+                    "size": "5990017944",
+                    "download": "2748344256"
                 }
             },
             "decryptionkey": "5b837aced07ca8e39cc0618486416727d7bf3422e1b916252415b9752be1d2c7"
@@ -61,17 +61,17 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "313932211560936961",
-                    "size": "6260888390",
-                    "download": "2932725504"
+                    "gid": "3931757502646501382",
+                    "size": "6040676076",
+                    "download": "2787887456"
                 }
             },
             "decryptionkey": "3a132a9b5c23766b655e88f4fbc34c3942bb9f16e14c118df03ed1d035d0d6da"
         },
         "branches": {
             "public": {
-                "buildid": "18942727",
-                "timeupdated": "1750438233"
+                "buildid": "19180646",
+                "timeupdated": "1752175709"
             }
         },
         "privatebranches": "1",
