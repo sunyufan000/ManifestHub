@@ -4,7 +4,7 @@
     "type": "DLC",
     "schinese_name": "《The Sims™ 4 自在玩家》套件包",
     "isfreeapp": 0,
-    "update_time": "2025-06-09 14:21:54",
+    "update_time": "2025-06-23 03:19:58",
     "change_number": 29456035,
     "depot": {
         "2815440": {
@@ -44,7 +44,7 @@
                 }
             },
             "dlcappid": "2815440",
-            "decryptionkey": ""
+            "decryptionkey": "b9789e909412b50a662c6986d634e6137068876dbbc99259b005bbd2a9b3a65f"
         },
         "2815443": {
             "config": {
@@ -100,7 +100,7 @@
                 }
             },
             "dlcappid": "2815440",
-            "decryptionkey": ""
+            "decryptionkey": "c08415c7f0f113525f4dd0e7008f40ac9182b00a4bf1d1c5ca4dc4c2a14548bd"
         },
         "2815447": {
             "config": {
