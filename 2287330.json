@@ -4,8 +4,8 @@
     "type": "Game",
     "schinese_name": "蚂蚁帝国（Empire of the Ants）",
     "isfreeapp": 0,
-    "update_time": "2025-06-21 09:15:30",
-    "change_number": 29677885,
+    "update_time": "2025-07-17 12:18:29",
+    "change_number": 30109053,
     "depot": {
         "228989": {
             "config": {
@@ -24,9 +24,9 @@
         "2287331": {
             "manifests": {
                 "public": {
-                    "gid": "4745006002063556108",
-                    "size": "38367062531",
-                    "download": "37683745824"
+                    "gid": "6397137006056459793",
+                    "size": "38414418227",
+                    "download": "37756337856"
                 }
             },
             "decryptionkey": "3c0468cad17b6444999a764db47c1c60ac7729f89cfd4f3d51ebf028093ea4f2"
@@ -35,7 +35,7 @@
             "dlcappid": "3126630",
             "manifests": {
                 "public": {
-                    "gid": "1231738436712627978",
+                    "gid": "4203714800996037110",
                     "size": "1292561723",
                     "download": "1204180400"
                 }
@@ -44,8 +44,8 @@
         },
         "branches": {
             "public": {
-                "buildid": "17028245",
-                "timeupdated": "1737041035"
+                "buildid": "19145019",
+                "timeupdated": "1752681616"
             }
         },
         "privatebranches": "1"
