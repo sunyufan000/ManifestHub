@@ -4,8 +4,8 @@
     "type": "Game",
     "schinese_name": "暗黑地牢",
     "isfreeapp": 0,
-    "update_time": "2025-06-20 05:17:27",
-    "change_number": 29651436,
+    "update_time": "2025-07-23 20:10:32",
+    "change_number": 30213180,
     "depot": {
         "228985": {
             "config": {
@@ -67,9 +67,9 @@
                     "download": "18491184"
                 },
                 "coming_in_hot": {
-                    "gid": "7405166184244682381",
-                    "size": "117392312",
-                    "download": "23967456"
+                    "gid": "6662545220573930393",
+                    "size": "116610094",
+                    "download": "23865872"
                 }
             },
             "decryptionkey": "c573ff0fbec6f00c8ff86aafc2085945c6a0b934b6396b0c135574e1326f7470"
@@ -91,9 +91,9 @@
                     "download": "21159840"
                 },
                 "coming_in_hot": {
-                    "gid": "7569382345108046311",
-                    "size": "178537227",
-                    "download": "19389968"
+                    "gid": "8049729468383925954",
+                    "size": "178541419",
+                    "download": "19387360"
                 }
             },
             "decryptionkey": "29e00db53e36359014c7975e1991156a35c28410f92643c66fcab5a98239f741"
@@ -139,9 +139,9 @@
                     "download": "34755904"
                 },
                 "coming_in_hot": {
-                    "gid": "2256217902405630072",
+                    "gid": "812454190185999941",
                     "size": "179166916",
-                    "download": "30092176"
+                    "download": "30084144"
                 }
             },
             "decryptionkey": "1ed93be3fc9b6d8911781b16ee38ea20b01a601089cc8ea554a0acb19ef80a1e"
@@ -556,9 +556,9 @@
                 "timeupdated": "1741773434"
             },
             "coming_in_hot": {
-                "buildid": "18717290",
+                "buildid": "18981653",
                 "description": "Pre public release branch",
-                "timeupdated": "1749167217"
+                "timeupdated": "1750784450"
             }
         },
         "privatebranches": "1",
