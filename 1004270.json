@@ -4,8 +4,8 @@
     "type": "Game",
     "schinese_name": "我的海岛",
     "isfreeapp": 0,
-    "update_time": "2025-05-28 16:51:51",
-    "change_number": 29231669,
+    "update_time": "2025-07-23 16:10:37",
+    "change_number": 30209051,
     "depot": {
         "228988": {
             "config": {
@@ -27,9 +27,9 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "3235642330189754261",
-                    "size": "5863454116",
-                    "download": "5671890992"
+                    "gid": "1796353063816593887",
+                    "size": "5863400928",
+                    "download": "5680998384"
                 }
             },
             "decryptionkey": "e33708c654903e5852d50c652ae8682ffd62ddb00d56e466ddc9a4e2db063bda"
@@ -37,8 +37,8 @@
         "baselanguages": "english,schinese",
         "branches": {
             "public": {
-                "buildid": "18638744",
-                "timeupdated": "1748422302"
+                "buildid": "19231000",
+                "timeupdated": "1752588643"
             }
         }
     }
