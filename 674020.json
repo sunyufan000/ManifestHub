@@ -4,8 +4,8 @@
     "type": "Game",
     "schinese_name": "第三次世界大战",
     "isfreeapp": 1,
-    "update_time": "2025-06-11 00:58:30",
-    "change_number": 29490989,
+    "update_time": "2025-06-24 14:29:12",
+    "change_number": 29722942,
     "depot": {
         "228986": {
             "config": {
@@ -31,9 +31,9 @@
         "674022": {
             "manifests": {
                 "public": {
-                    "gid": "3097230257795253971",
-                    "size": "57881072049",
-                    "download": "49256426048"
+                    "gid": "3047488190975928293",
+                    "size": "57438884850",
+                    "download": "48799347328"
                 }
             },
             "decryptionkey": "f6bd4411c4ea6ea40bdec9d789de5d1604def9247451ef45b5e25f5b14014914"
@@ -63,8 +63,8 @@
         },
         "branches": {
             "public": {
-                "buildid": "18579868",
-                "timeupdated": "1748328869"
+                "buildid": "18980602",
+                "timeupdated": "1750769308"
             }
         },
         "privatebranches": "1"
