@@ -4,8 +4,8 @@
     "type": "Game",
     "schinese_name": "太阳避难所",
     "isfreeapp": 0,
-    "update_time": "2025-06-22 05:57:30",
-    "change_number": 29684363,
+    "update_time": "2025-07-17 21:35:50",
+    "change_number": 30118631,
     "depot": {
         "hasdepotsindlc": "0",
         "1432861": {
@@ -15,9 +15,9 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "5917346893613288193",
-                    "size": "1532907767",
-                    "download": "1088432416"
+                    "gid": "1078850793895706526",
+                    "size": "1532663979",
+                    "download": "1088766416"
                 },
                 "patch1.3stable": {
                     "gid": "139086255618073369",
@@ -64,9 +64,9 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "3193832843504616603",
-                    "size": "1522930157",
-                    "download": "1085869568"
+                    "gid": "791064351886411741",
+                    "size": "1522823309",
+                    "download": "1085806640"
                 },
                 "patch1.3stable": {
                     "gid": "113387688628337721",
@@ -104,8 +104,8 @@
         },
         "branches": {
             "public": {
-                "buildid": "18951264",
-                "timeupdated": "1750528102"
+                "buildid": "19000177",
+                "timeupdated": "1750884023"
             },
             "patch1.3stable": {
                 "buildid": "12594992",
