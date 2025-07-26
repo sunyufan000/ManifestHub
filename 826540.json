@@ -4,7 +4,7 @@
     "type": "Game",
     "schinese_name": "动感音旅",
     "isfreeapp": 0,
-    "update_time": "2025-06-11 01:46:04",
+    "update_time": "2025-06-23 11:40:48",
     "change_number": 29491827,
     "depot": {
         "baselanguages": "english",
@@ -51,7 +51,7 @@
                     "download": "56045968"
                 }
             },
-            "decryptionkey": ""
+            "decryptionkey": "e7056f3a807b0dca1c5310bc983d78d110d01ed41589ce8fa79c534547507d9b"
         },
         "3269090": {
             "dlcappid": "3269090",
