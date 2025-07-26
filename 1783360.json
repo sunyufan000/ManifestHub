@@ -4,10 +4,10 @@
     "type": "Game",
     "schinese_name": "梅格与怪物",
     "isfreeapp": 0,
-    "update_time": "2025-06-19 20:56:51",
-    "change_number": 29489054,
+    "update_time": "2025-07-11 05:09:37",
+    "change_number": 30003158,
     "depot": {
-        "baselanguages": "english,japanese",
+        "baselanguages": "english,german,french,italian,koreana,schinese,tchinese,russian,japanese,portuguese,turkish,brazilian,latam,vietnamese,indonesian",
         "1783361": {
             "config": {
                 "oslist": "windows",
