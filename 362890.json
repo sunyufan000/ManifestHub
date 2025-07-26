@@ -4,8 +4,8 @@
     "type": "Game",
     "schinese_name": "黑山",
     "isfreeapp": 0,
-    "update_time": "2025-06-21 01:14:55",
-    "change_number": 29672821,
+    "update_time": "2025-07-01 22:16:41",
+    "change_number": 29849834,
     "depot": {
         "228985": {
             "config": {
@@ -31,9 +31,9 @@
         "362891": {
             "manifests": {
                 "public": {
-                    "gid": "2992323635006168735",
-                    "size": "29453669395",
-                    "download": "12916192688"
+                    "gid": "3745641804950828055",
+                    "size": "29470113480",
+                    "download": "12923134976"
                 },
                 "black-mesa-1-0": {
                     "gid": "8115579749856978618",
@@ -89,9 +89,9 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "3938853891899246600",
-                    "size": "349248645",
-                    "download": "63986624"
+                    "gid": "4588672532934012726",
+                    "size": "385985588",
+                    "download": "72618400"
                 },
                 "black-mesa-1-0": {
                     "gid": "7820192829475752661",
@@ -129,9 +129,9 @@
                     "download": "55010112"
                 },
                 "public-beta": {
-                    "gid": "1445902336050570394",
+                    "gid": "4588672532934012726",
                     "size": "385985588",
-                    "download": "72618672"
+                    "download": "72618400"
                 }
             },
             "decryptionkey": "1141f7df13dcc852bac94bbe7a7d684903dbb97ef068228782c62ac4f8adae23"
@@ -147,9 +147,9 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "1630764614312718941",
-                    "size": "213311477",
-                    "download": "69933504"
+                    "gid": "8196368488078724424",
+                    "size": "219258341",
+                    "download": "71857536"
                 },
                 "black-mesa-1-0": {
                     "gid": "3494859625544878799",
@@ -192,9 +192,9 @@
                     "download": "67780672"
                 },
                 "public-beta": {
-                    "gid": "1383364698465514632",
-                    "size": "219257893",
-                    "download": "71857200"
+                    "gid": "8196368488078724424",
+                    "size": "219258341",
+                    "download": "71857536"
                 }
             },
             "decryptionkey": "d7ead84613b380590a839d924354b02e5943f64d6d291045d209b2ba4f72f1c4"
@@ -261,8 +261,8 @@
         "baselanguages": "english",
         "branches": {
             "public": {
-                "buildid": "18526474",
-                "timeupdated": "1749605048"
+                "buildid": "19042901",
+                "timeupdated": "1751404593"
             },
             "black-mesa-1-0": {
                 "buildid": "4815922",
@@ -303,9 +303,9 @@
                 "timeupdated": "1731521234"
             },
             "public-beta": {
-                "buildid": "18861727",
+                "buildid": "19042901",
                 "description": "This branch is for our public beta.",
-                "timeupdated": "1749850463"
+                "timeupdated": "1751250629"
             }
         },
         "privatebranches": "1",
