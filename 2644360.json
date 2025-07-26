@@ -4,8 +4,8 @@
     "type": "Game",
     "schinese_name": "国王之墓",
     "isfreeapp": 0,
-    "update_time": "2025-06-06 15:41:36",
-    "change_number": 29412655,
+    "update_time": "2025-07-07 13:12:24",
+    "change_number": 29929987,
     "depot": {
         "baselanguages": "english",
         "2644361": {
@@ -28,7 +28,8 @@
                     "size": "1751175254",
                     "download": "218675440"
                 }
-            }
+            },
+            "decryptionkey": "a90e67d807aaf96a0577b49ac2e0edc64bc55caee8e81efa15452b54620bc9c7"
         },
         "branches": {
             "public": {
