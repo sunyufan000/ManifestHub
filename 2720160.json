@@ -4,8 +4,8 @@
     "type": "Demo",
     "schinese_name": "",
     "isfreeapp": 0,
-    "update_time": "2025-06-20 05:27:28",
-    "change_number": 29656375,
+    "update_time": "2025-07-15 12:57:37",
+    "change_number": 30067675,
     "depot": {
         "2103941": {
             "config": {
@@ -13,9 +13,9 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "2411006526754837343",
-                    "size": "5720693",
-                    "download": "1800352"
+                    "gid": "3561197888420407051",
+                    "size": "12675623",
+                    "download": "3648720"
                 }
             },
             "depotfromapp": "2103940",
@@ -27,9 +27,9 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "9212912902416948914",
-                    "size": "7569918",
-                    "download": "2263712"
+                    "gid": "1105280477885137881",
+                    "size": "7534377",
+                    "download": "2292576"
                 }
             },
             "depotfromapp": "2103940"
@@ -48,17 +48,17 @@
         "2720161": {
             "manifests": {
                 "public": {
-                    "gid": "4150143052349680454",
-                    "size": "76",
-                    "download": "128"
+                    "gid": "3480418578162540946",
+                    "size": "93",
+                    "download": "144"
                 }
             },
             "decryptionkey": "e876fdbf9c8395c228e2b2c1374e6e0aca5ca7ef5b48fe118643fed9f5c7d182"
         },
         "branches": {
             "public": {
-                "buildid": "18931445",
-                "timeupdated": "1750364477"
+                "buildid": "19228950",
+                "timeupdated": "1752580652"
             }
         }
     }
