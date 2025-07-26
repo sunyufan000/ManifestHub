@@ -4,10 +4,10 @@
     "type": "Game",
     "schinese_name": "地下蚁国 Empires of the Undergrowth",
     "isfreeapp": 0,
-    "update_time": "2025-06-07 08:45:13",
-    "change_number": 29423104,
+    "update_time": "2025-07-17 09:52:21",
+    "change_number": 30106480,
     "depot": {
-        "baselanguages": "english",
+        "baselanguages": "english,german,french,italian,koreana,spanish,schinese,tchinese,russian,japanese,polish,dutch,hungarian,czech,turkish,brazilian,ukrainian",
         "228988": {
             "config": {
                 "oslist": "windows"
