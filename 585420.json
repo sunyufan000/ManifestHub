@@ -4,10 +4,17 @@
     "type": "Game",
     "schinese_name": "机械制造者 Trailmakers",
     "isfreeapp": 0,
-    "update_time": "2025-06-21 02:13:35",
-    "change_number": 29673641,
+    "update_time": "2025-07-23 18:14:30",
+    "change_number": 30211370,
     "depot": {
         "228988": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "228989": {
             "config": {
                 "oslist": "windows"
             },
@@ -17,9 +24,9 @@
         "585421": {
             "manifests": {
                 "public": {
-                    "gid": "546801745687657072",
-                    "size": "7131883680",
-                    "download": "5907697696"
+                    "gid": "154668626204176156",
+                    "size": "7135223139",
+                    "download": "5910060736"
                 },
                 "expedition": {
                     "gid": "1401415892018513847",
@@ -27,9 +34,9 @@
                     "download": "1564907632"
                 },
                 "previous": {
-                    "gid": "4472423625208331844",
-                    "size": "6516708616",
-                    "download": "5439113600"
+                    "gid": "7232533683963582949",
+                    "size": "7135075278",
+                    "download": "5909998432"
                 }
             },
             "decryptionkey": "131cfc758986f58922fa998a0f28bda5abe20df30a8d51f9f1ff21a91e69d07e"
@@ -39,8 +46,8 @@
         "hasdepotsindlc": "1",
         "branches": {
             "public": {
-                "buildid": "18859522",
-                "timeupdated": "1750157796"
+                "buildid": "19092910",
+                "timeupdated": "1751546590"
             },
             "expedition": {
                 "buildid": "3350872",
@@ -48,9 +55,9 @@
                 "timeupdated": "1553591392"
             },
             "previous": {
-                "buildid": "18357415",
+                "buildid": "19080106",
                 "description": "Previous build",
-                "timeupdated": "1750157570"
+                "timeupdated": "1751546567"
             }
         },
         "privatebranches": "1",
