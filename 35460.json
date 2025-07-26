@@ -4,7 +4,7 @@
     "type": "Game",
     "schinese_name": "球",
     "isfreeapp": 0,
-    "update_time": "2025-05-25 07:56:38",
+    "update_time": "2025-06-23 14:13:51",
     "change_number": 29172292,
     "depot": {
         "35461": {
@@ -144,7 +144,7 @@
                 }
             },
             "dlcappid": "98004",
-            "decryptionkey": ""
+            "decryptionkey": "065c4353512e5b2688060dbb1d2934c6149b210c65230e1ccce7a7899ed1bd1c"
         },
         "overridescddb": "1",
         "baselanguages": "english,spanish,german,french,italian,russian,dutch,danish,swedish,polish",
