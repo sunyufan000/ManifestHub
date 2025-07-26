@@ -4,8 +4,8 @@
     "type": "Game",
     "schinese_name": "神佑释放",
     "isfreeapp": 1,
-    "update_time": "2025-06-20 14:06:33",
-    "change_number": 29662396,
+    "update_time": "2025-07-24 02:43:30",
+    "change_number": 30217982,
     "depot": {
         "baselanguages": "english,koreana,schinese,japanese",
         "hasdepotsindlc": "0",
@@ -40,9 +40,9 @@
         "1254121": {
             "manifests": {
                 "public": {
-                    "gid": "7958245692841894834",
-                    "size": "31421572261",
-                    "download": "30960313024"
+                    "gid": "2609482256162196435",
+                    "size": "32405712835",
+                    "download": "31874849328"
                 }
             },
             "decryptionkey": "d7c81a003fad8e4a9af6266d17bf4d24f5bbf9dc226128750e5f879aa96ed421"
@@ -68,8 +68,8 @@
         },
         "branches": {
             "public": {
-                "buildid": "18933930",
-                "timeupdated": "1750384727"
+                "buildid": "19337230",
+                "timeupdated": "1753321406"
             }
         },
         "privatebranches": "1"
