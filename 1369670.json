@@ -4,8 +4,8 @@
     "type": "Game",
     "schinese_name": "",
     "isfreeapp": 0,
-    "update_time": "2025-06-21 21:56:50",
-    "change_number": 29682338,
+    "update_time": "2025-07-22 18:07:48",
+    "change_number": 30190799,
     "depot": {
         "228988": {
             "config": {
@@ -29,9 +29,9 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "2387756181552268087",
-                    "size": "3360001361",
-                    "download": "2999038336"
+                    "gid": "1335548842501249754",
+                    "size": "3029805974",
+                    "download": "2646814176"
                 },
                 "temp-ue4-0.6.20": {
                     "gid": "8505833231573759861",
@@ -39,17 +39,17 @@
                     "download": "1358268288"
                 },
                 "test": {
-                    "gid": "5428658410248095392",
-                    "size": "3029961421",
-                    "download": "2648895312"
+                    "gid": "6146041876858020054",
+                    "size": "3029791126",
+                    "download": "2646912704"
                 }
             },
             "decryptionkey": "2997d5be0b53d13cde83335f41136a55c7198a843f319a2e9e3667ef228a1aed"
         },
         "branches": {
             "public": {
-                "buildid": "18502709",
-                "timeupdated": "1747492536"
+                "buildid": "19039960",
+                "timeupdated": "1751264353"
             },
             "temp-ue4-0.6.20": {
                 "buildid": "11900954",
@@ -57,9 +57,9 @@
                 "timeupdated": "1699583548"
             },
             "test": {
-                "buildid": "18949723",
+                "buildid": "19240550",
                 "description": "For tester who want to play next update before others\t",
-                "timeupdated": "1750510031"
+                "timeupdated": "1752663096"
             }
         },
         "privatebranches": "1"
