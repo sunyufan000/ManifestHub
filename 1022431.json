@@ -1,0 +1,28 @@
+{
+    "appid": 1022431,
+    "name": "DFF NT: Armaments IV, Noctis Lucis Caelum's 4th Weapon Set",
+    "type": "DLC",
+    "schinese_name": "",
+    "isfreeapp": 0,
+    "update_time": "2025-06-23 14:10:07",
+    "change_number": 26201212,
+    "depot": {
+        "1022431": {
+            "manifests": {
+                "public": {
+                    "gid": "6989796021194880329",
+                    "size": "0",
+                    "download": "0"
+                }
+            },
+            "dlcappid": "1022431",
+            "decryptionkey": "6a98f023178d022ac1ecef6e2fb0fed22961831f081582a7921283286359528a"
+        },
+        "branches": {
+            "public": {
+                "buildid": "3508003",
+                "timeupdated": "1548672364"
+            }
+        }
+    }
+}
