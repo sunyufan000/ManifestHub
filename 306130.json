@@ -4,8 +4,8 @@
     "type": "Game",
     "schinese_name": "《上古卷轴®OL》",
     "isfreeapp": 0,
-    "update_time": "2025-06-13 03:32:32",
-    "change_number": 29535512,
+    "update_time": "2025-07-10 14:27:40",
+    "change_number": 29988941,
     "depot": {
         "228983": {
             "config": {
@@ -38,17 +38,17 @@
         "306131": {
             "manifests": {
                 "public": {
-                    "gid": "6791252740595289156",
-                    "size": "148245584426",
-                    "download": "129600531552"
+                    "gid": "1009792512188999499",
+                    "size": "152598850450",
+                    "download": "133322989776"
                 }
             },
             "decryptionkey": "efe4e3dbd8640a7ad50003146af400ca0cfba95e16374e834ae08010ff8ec048"
         },
         "branches": {
             "public": {
-                "buildid": "17780256",
-                "timeupdated": "1742480318"
+                "buildid": "19147271",
+                "timeupdated": "1752154055"
             }
         },
         "privatebranches": "1"
