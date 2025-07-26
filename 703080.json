@@ -4,8 +4,8 @@
     "type": "Game",
     "schinese_name": "动物园之星",
     "isfreeapp": 0,
-    "update_time": "2025-06-20 05:33:07",
-    "change_number": 29657094,
+    "update_time": "2025-07-23 18:31:26",
+    "change_number": 30211694,
     "depot": {
         "228987": {
             "config": {
@@ -21,9 +21,9 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "4445662228123284922",
-                    "size": "21285190343",
-                    "download": "19244334672"
+                    "gid": "9166227121018179147",
+                    "size": "21911793498",
+                    "download": "19752752096"
                 }
             },
             "decryptionkey": "bc33ccdea0df8610185dab43ef1f141daecf265e379acb2feb58fde38212796c"
@@ -46,8 +46,8 @@
         "workshopdepot": "703080",
         "branches": {
             "public": {
-                "buildid": "18310607",
-                "timeupdated": "1746525588"
+                "buildid": "19133017",
+                "timeupdated": "1751968807"
             }
         },
         "privatebranches": "1",
