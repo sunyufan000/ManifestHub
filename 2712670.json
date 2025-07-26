@@ -4,8 +4,8 @@
     "type": "Game",
     "schinese_name": "鬼斧神通 Axe Ghost",
     "isfreeapp": 0,
-    "update_time": "2025-06-21 15:21:20",
-    "change_number": 29680125,
+    "update_time": "2025-07-22 12:30:52",
+    "change_number": 30184942,
     "depot": {
         "workshopdepot": "2712670",
         "2712671": {
@@ -15,9 +15,9 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "8480383550626421017",
-                    "size": "540620912",
-                    "download": "297635808"
+                    "gid": "2486545145695074602",
+                    "size": "540640816",
+                    "download": "297742512"
                 }
             },
             "decryptionkey": "20daa55583725d0ff619ab527eb9edb1aadd3a093cf52a51c8926db8b52e2146"
@@ -29,16 +29,16 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "6470634202947945442",
-                    "size": "612596776",
-                    "download": "296290896"
+                    "gid": "5414781660960312808",
+                    "size": "635738664",
+                    "download": "318711520"
                 }
             }
         },
         "branches": {
             "public": {
-                "buildid": "18948200",
-                "timeupdated": "1750490476"
+                "buildid": "19303972",
+                "timeupdated": "1753183846"
             }
         },
         "privatebranches": "1",
