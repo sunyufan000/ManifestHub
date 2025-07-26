@@ -4,8 +4,8 @@
     "type": "Game",
     "schinese_name": "剑星",
     "isfreeapp": 0,
-    "update_time": "2025-06-22 05:53:37",
-    "change_number": 29682946,
+    "update_time": "2025-07-22 22:18:05",
+    "change_number": 30194233,
     "depot": {
         "228989": {
             "config": {
@@ -25,9 +25,9 @@
         "3489701": {
             "manifests": {
                 "public": {
-                    "gid": "7754004540576155700",
-                    "size": "62199638455",
-                    "download": "58566333152"
+                    "gid": "4947667343661089824",
+                    "size": "62286173942",
+                    "download": "58662567152"
                 }
             },
             "decryptionkey": "2266ca31f6f2666ebe75906201e72f9398694030ff1c8214aacebcf74dc94ee3"
@@ -36,9 +36,9 @@
             "dlcappid": "3596180",
             "manifests": {
                 "public": {
-                    "gid": "1503840894945071344",
-                    "size": "267937838",
-                    "download": "266493216"
+                    "gid": "6319771942931301862",
+                    "size": "267941934",
+                    "download": "266481808"
                 }
             },
             "decryptionkey": "a55f79607c32a7e24a388464ddc3cfbc91b2dcee6691061bca3fb32d231ccb32"
@@ -47,7 +47,7 @@
             "dlcappid": "3596190",
             "manifests": {
                 "public": {
-                    "gid": "5582948561081405537",
+                    "gid": "3119456928663392571",
                     "size": "25546741",
                     "download": "25543072"
                 }
@@ -56,8 +56,8 @@
         },
         "branches": {
             "public": {
-                "buildid": "18887730",
-                "timeupdated": "1750240412"
+                "buildid": "19001071",
+                "timeupdated": "1751439588"
             }
         },
         "privatebranches": "1"
