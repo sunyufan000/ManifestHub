@@ -4,10 +4,24 @@
     "type": "Game",
     "schinese_name": "太空堡垒卡拉狄加僵局",
     "isfreeapp": 0,
-    "update_time": "2025-06-08 23:19:33",
-    "change_number": 29447166,
+    "update_time": "2025-07-17 09:21:27",
+    "change_number": 30105966,
     "depot": {
+        "228990": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
         "229005": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "229006": {
             "config": {
                 "oslist": "windows"
             },
