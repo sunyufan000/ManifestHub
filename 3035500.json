@@ -4,8 +4,8 @@
     "type": "Game",
     "schinese_name": "架空地图模拟器",
     "isfreeapp": 0,
-    "update_time": "2025-06-21 21:56:52",
-    "change_number": 29682369,
+    "update_time": "2025-07-14 16:13:28",
+    "change_number": 30051136,
     "depot": {
         "228989": {
             "config": {
@@ -17,14 +17,14 @@
         "3035501": {
             "manifests": {
                 "public": {
-                    "gid": "4054031015478542990",
-                    "size": "682736885",
-                    "download": "244314608"
+                    "gid": "7325476174006729086",
+                    "size": "682781983",
+                    "download": "245168400"
                 },
                 "public-beta": {
-                    "gid": "4054031015478542990",
-                    "size": "682736885",
-                    "download": "244314608"
+                    "gid": "7325476174006729086",
+                    "size": "682781983",
+                    "download": "245168400"
                 }
             },
             "decryptionkey": "94673b1ae3605b9caf7d167097a8ff459dde31b918ffd8d5c85f2187001485d4"
@@ -33,13 +33,13 @@
         "workshopdepot": "3035500",
         "branches": {
             "public": {
-                "buildid": "18949851",
-                "timeupdated": "1750510267"
+                "buildid": "19217845",
+                "timeupdated": "1752506003"
             },
             "public-beta": {
-                "buildid": "18949851",
+                "buildid": "19217845",
                 "description": "public 测试",
-                "timeupdated": "1750509608"
+                "timeupdated": "1752505392"
             }
         },
         "privatebranches": "1",
