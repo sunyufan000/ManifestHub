@@ -4,8 +4,8 @@
     "type": "Game",
     "schinese_name": "《猎人：荒野的召唤™》",
     "isfreeapp": 0,
-    "update_time": "2025-06-20 16:11:44",
-    "change_number": 29664089,
+    "update_time": "2025-07-23 16:44:22",
+    "change_number": 30209681,
     "depot": {
         "228988": {
             "config": {
@@ -22,9 +22,9 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "4750431550559912784",
-                    "size": "109142285851",
-                    "download": "54890302448"
+                    "gid": "7056211137777624643",
+                    "size": "109142285339",
+                    "download": "54890309872"
                 }
             },
             "decryptionkey": "c56059a25b086342342b536c815b9903ee3faa35b8358fe7556346fe60a9081e"
@@ -51,17 +51,17 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "7500265862153714695",
-                    "size": "2473812534",
-                    "download": "481555360"
+                    "gid": "5329894716788384611",
+                    "size": "2237186614",
+                    "download": "431217280"
                 }
             },
             "decryptionkey": ""
         },
         "branches": {
             "public": {
-                "buildid": "18808598",
-                "timeupdated": "1750150724"
+                "buildid": "18994214",
+                "timeupdated": "1751360375"
             }
         },
         "privatebranches": "1"
