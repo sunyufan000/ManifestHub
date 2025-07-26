@@ -4,9 +4,10 @@
     "type": "Game",
     "schinese_name": "噩梦边境 - Nightmare Frontier",
     "isfreeapp": 0,
-    "update_time": "2025-06-21 11:15:03",
-    "change_number": 29678717,
+    "update_time": "2025-07-24 00:42:22",
+    "change_number": 30216602,
     "depot": {
+        "baselanguages": "english,german,french,italian,koreana,spanish,schinese,tchinese,russian,japanese,polish,brazilian",
         "228988": {
             "config": {
                 "oslist": "windows"
@@ -42,18 +43,17 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "3406993634866507958",
-                    "size": "4083170617",
-                    "download": "3605747184"
+                    "gid": "4581232985657624090",
+                    "size": "3982003678",
+                    "download": "3503606176"
                 }
             },
             "decryptionkey": "71fe2b59778f12b80fe3fce38ec5ff55b881a9d809011afe73df2fdd8c3c5fec"
         },
-        "baselanguages": "english,german,french,italian,koreana,spanish,schinese,tchinese,russian,japanese,polish,brazilian",
         "branches": {
             "public": {
-                "buildid": "18888888",
-                "timeupdated": "1750115215"
+                "buildid": "19028006",
+                "timeupdated": "1751039422"
             }
         },
         "privatebranches": "1"
