@@ -4,8 +4,8 @@
     "type": "Game",
     "schinese_name": "迪士尼梦幻星谷",
     "isfreeapp": 0,
-    "update_time": "2025-06-21 21:53:48",
-    "change_number": 29681413,
+    "update_time": "2025-07-23 16:33:32",
+    "change_number": 30209473,
     "depot": {
         "hasdepotsindlc": "0",
         "228988": {
@@ -22,9 +22,9 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "3388468020585968511",
-                    "size": "18431587768",
-                    "download": "15759720208"
+                    "gid": "1222711193199999093",
+                    "size": "18844095115",
+                    "download": "16454432144"
                 }
             },
             "decryptionkey": "d99c609dc11544c08f0a832afd94357653d3f924cc683c27394cf548b1c3d161"
@@ -40,8 +40,8 @@
         },
         "branches": {
             "public": {
-                "buildid": "18797773",
-                "timeupdated": "1750251667"
+                "buildid": "19112785",
+                "timeupdated": "1752066008"
             }
         },
         "privatebranches": "1"
