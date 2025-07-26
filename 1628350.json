@@ -4,8 +4,8 @@
     "type": "Tool",
     "schinese_name": "",
     "isfreeapp": 0,
-    "update_time": "2025-05-29 01:51:57",
-    "change_number": 29242756,
+    "update_time": "2025-07-18 08:33:40",
+    "change_number": 30126564,
     "depot": {
         "1628351": {
             "config": {
@@ -15,37 +15,37 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "9188791429036937543",
-                    "size": "781520723",
-                    "download": "211474560"
-                },
-                "client_beta": {
                     "gid": "3360539860715021659",
                     "size": "781688419",
                     "download": "211538960"
                 },
+                "client_beta": {
+                    "gid": "7731303996202125063",
+                    "size": "781939780",
+                    "download": "216893552"
+                },
                 "previous_release": {
-                    "gid": "6387040487739928484",
-                    "size": "779905010",
-                    "download": "210937888"
+                    "gid": "9188791429036937543",
+                    "size": "781520723",
+                    "download": "211474560"
                 }
             },
             "decryptionkey": "34d2f12079df06725c158782f1ce1db27ba66c6dd9f5610a901fcc7dd5b9bcae"
         },
         "branches": {
             "public": {
-                "buildid": "18196166",
-                "timeupdated": "1748454690"
+                "buildid": "18646220",
+                "timeupdated": "1751296096"
             },
             "client_beta": {
-                "buildid": "18646220",
+                "buildid": "19052629",
                 "description": "use with Steam beta client",
-                "timeupdated": "1748454701"
+                "timeupdated": "1751296104"
             },
             "previous_release": {
-                "buildid": "17679755",
+                "buildid": "18196166",
                 "description": "previous release",
-                "timeupdated": "1748454655"
+                "timeupdated": "1751296042"
             }
         },
         "privatebranches": "1"
