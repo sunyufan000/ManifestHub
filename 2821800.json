@@ -4,8 +4,8 @@
     "type": "Game",
     "schinese_name": "钻核公司 (Drill Core)",
     "isfreeapp": 0,
-    "update_time": "2025-06-19 02:42:44",
-    "change_number": 29635200,
+    "update_time": "2025-07-22 17:29:21",
+    "change_number": 30190143,
     "depot": {
         "228989": {
             "config": {
@@ -24,11 +24,11 @@
         "2821801": {
             "manifests": {
                 "public": {
-                    "gid": "7278074067710628540",
-                    "size": "2288019769",
-                    "download": "1883995504"
+                    "gid": "4582807768142781750",
+                    "size": "3074087332",
+                    "download": "2520735056"
                 },
-                "testing": {
+                "earlyaccessv176": {
                     "gid": "7278074067710628540",
                     "size": "2288019769",
                     "download": "1883995504"
@@ -41,13 +41,13 @@
         },
         "branches": {
             "public": {
-                "buildid": "18685160",
-                "timeupdated": "1748688161"
+                "buildid": "19316420",
+                "timeupdated": "1753200870"
             },
-            "testing": {
+            "earlyaccessv176": {
                 "buildid": "18685160",
-                "description": "Public testing of a new version",
-                "timeupdated": "1748687913"
+                "description": "Early Access version of the game",
+                "timeupdated": "1752780460"
             }
         },
         "privatebranches": "1"
