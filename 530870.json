@@ -4,8 +4,8 @@
     "type": "Tool",
     "schinese_name": "",
     "isfreeapp": 0,
-    "update_time": "2025-06-19 09:20:13",
-    "change_number": 29640033,
+    "update_time": "2025-07-24 01:32:52",
+    "change_number": 30217193,
     "depot": {
         "1004": {
             "config": {
@@ -13,9 +13,9 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "7747775778018907449",
-                    "size": "46727128",
-                    "download": "14307024"
+                    "gid": "8904491048620934740",
+                    "size": "68697032",
+                    "download": "20552544"
                 }
             },
             "depotfromapp": "1007",
@@ -41,9 +41,9 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "7138471031118904166",
-                    "size": "78382436",
-                    "download": "21254752"
+                    "gid": "5587033981095108078",
+                    "size": "107476144",
+                    "download": "29272144"
                 }
             },
             "depotfromapp": "1007",
@@ -102,6 +102,11 @@
                     "gid": "98967298642520364",
                     "size": "8841902806",
                     "download": "3954029296"
+                },
+                "experimental": {
+                    "gid": "7268679597760527450",
+                    "size": "18439447871",
+                    "download": "11375498000"
                 }
             },
             "decryptionkey": "c54d338ba26d66063170bac5269c438ec026d6943bc068c084cc9ac192150170"
@@ -150,6 +155,11 @@
                 "buildid": "3799912",
                 "description": "Archive: Alpha 9",
                 "timeupdated": "1560769269"
+            },
+            "experimental": {
+                "buildid": "19303842",
+                "description": "Experimental branch",
+                "timeupdated": "1753180686"
             }
         },
         "privatebranches": "1"
