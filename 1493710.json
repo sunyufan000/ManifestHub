@@ -4,8 +4,8 @@
     "type": "Tool",
     "schinese_name": "",
     "isfreeapp": 0,
-    "update_time": "2025-06-21 21:56:42",
-    "change_number": 29682649,
+    "update_time": "2025-07-24 00:36:03",
+    "change_number": 30216548,
     "depot": {
         "1493711": {
             "config": {
@@ -15,14 +15,14 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "5750543010476353950",
-                    "size": "1391081609",
-                    "download": "330574464"
+                    "gid": "8758201243194835196",
+                    "size": "1391611706",
+                    "download": "362526608"
                 },
                 "bleeding-edge": {
-                    "gid": "1816842843572260003",
-                    "size": "1391226093",
-                    "download": "360411856"
+                    "gid": "4009706115460670851",
+                    "size": "1395588074",
+                    "download": "362641984"
                 },
                 "bleeding-edge-9.0": {
                     "gid": "2808953810619712121",
@@ -30,14 +30,14 @@
                     "download": "322972688"
                 },
                 "bleeding-edge-debug": {
-                    "gid": "6863330019731897635",
-                    "size": "5005799966",
-                    "download": "1087242720"
+                    "gid": "4264087348238650905",
+                    "size": "5022210118",
+                    "download": "1119034784"
                 },
                 "debug": {
-                    "gid": "7460339019418182675",
-                    "size": "5002457740",
-                    "download": "958893536"
+                    "gid": "2616728427506440466",
+                    "size": "5016586352",
+                    "download": "1113643840"
                 },
                 "experimental-9": {
                     "gid": "1437480922647224640",
@@ -54,13 +54,13 @@
         },
         "branches": {
             "public": {
-                "buildid": "18862074",
-                "timeupdated": "1749850869"
+                "buildid": "19186721",
+                "timeupdated": "1752266915"
             },
             "bleeding-edge": {
-                "buildid": "18950102",
+                "buildid": "19336186",
                 "description": "latest and untested dxvk, vkd3d-proton and wine changes; backup your prefixes before using",
-                "timeupdated": "1750512701"
+                "timeupdated": "1753313519"
             },
             "bleeding-edge-9.0": {
                 "buildid": "18283073",
@@ -68,14 +68,14 @@
                 "timeupdated": "1745965894"
             },
             "bleeding-edge-debug": {
-                "buildid": "18950116",
+                "buildid": "19336217",
                 "description": "as dangerous as regular bleeding-edge, just with debug symbols",
-                "timeupdated": "1750512903"
+                "timeupdated": "1753313760"
             },
             "debug": {
-                "buildid": "18862151",
+                "buildid": "19186754",
                 "description": "Unstripped",
-                "timeupdated": "1749850819"
+                "timeupdated": "1752266886"
             },
             "experimental-9": {
                 "buildid": "18226380",
