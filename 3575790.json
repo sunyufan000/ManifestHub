@@ -4,8 +4,8 @@
     "type": "Game",
     "schinese_name": "小花园",
     "isfreeapp": 0,
-    "update_time": "2025-06-20 18:18:59",
-    "change_number": 29666100,
+    "update_time": "2025-07-17 09:35:34",
+    "change_number": 30106207,
     "depot": {
         "3575791": {
             "config": {
@@ -13,9 +13,9 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "2995103036026373573",
-                    "size": "274871212",
-                    "download": "104969248"
+                    "gid": "7725453786595310316",
+                    "size": "283183862",
+                    "download": "107745744"
                 }
             },
             "decryptionkey": "55b761262020f9ffb1f0be2857c62895f48448d2d824d087e35ca9aff2bfa718"
@@ -27,16 +27,16 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "1175312421800168176",
-                    "size": "299613016",
-                    "download": "119074384"
+                    "gid": "1991557566184701687",
+                    "size": "389978698",
+                    "download": "136834288"
                 }
             }
         },
         "branches": {
             "public": {
-                "buildid": "18937280",
-                "timeupdated": "1750407714"
+                "buildid": "19135221",
+                "timeupdated": "1751909870"
             }
         }
     }
