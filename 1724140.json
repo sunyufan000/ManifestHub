@@ -4,8 +4,8 @@
     "type": "Game",
     "schinese_name": "",
     "isfreeapp": 0,
-    "update_time": "2025-05-19 00:12:23",
-    "change_number": 29050176,
+    "update_time": "2025-07-23 21:30:52",
+    "change_number": 30214269,
     "depot": {
         "baselanguages": "english,russian",
         "hasdepotsindlc": "1",
@@ -15,9 +15,9 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "7153396285008453538",
-                    "size": "225998493",
-                    "download": "198802064"
+                    "gid": "1813284594315373707",
+                    "size": "226017501",
+                    "download": "200783184"
                 },
                 "old_saves": {
                     "gid": "469267124739862505",
@@ -25,9 +25,9 @@
                     "download": "198112208"
                 },
                 "unstable": {
-                    "gid": "7153396285008453538",
-                    "size": "225998493",
-                    "download": "198802064"
+                    "gid": "1813284594315373707",
+                    "size": "226017501",
+                    "download": "200783184"
                 }
             },
             "decryptionkey": "1e4e8afa0f3ccdd424ab57c22d719aaef9f15414e01e2b0bd5978a1d375daf7a"
@@ -61,9 +61,9 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "271988941651963705",
-                    "size": "224236631",
-                    "download": "198078320"
+                    "gid": "4658655625768116204",
+                    "size": "224076787",
+                    "download": "199896448"
                 },
                 "old_saves": {
                     "gid": "6481891857120212428",
@@ -71,17 +71,17 @@
                     "download": "197406000"
                 },
                 "unstable": {
-                    "gid": "271988941651963705",
-                    "size": "224236631",
-                    "download": "198078320"
+                    "gid": "4658655625768116204",
+                    "size": "224076787",
+                    "download": "199896448"
                 }
             },
             "decryptionkey": "0cdb97bfd7aafe350e07c63f4259705b55d914492da72dd5df7d9c7db7a12c1d"
         },
         "branches": {
             "public": {
-                "buildid": "18291885",
-                "timeupdated": "1746537349"
+                "buildid": "19229827",
+                "timeupdated": "1752650393"
             },
             "old_saves": {
                 "buildid": "16567367",
@@ -89,9 +89,9 @@
                 "timeupdated": "1732803581"
             },
             "unstable": {
-                "buildid": "18291885",
+                "buildid": "19229827",
                 "description": "Unstable build",
-                "timeupdated": "1745999439"
+                "timeupdated": "1752582691"
             }
         },
         "privatebranches": "1"
