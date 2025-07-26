@@ -4,8 +4,8 @@
     "type": "Game",
     "schinese_name": "工业巨头 (Captain of Industry)",
     "isfreeapp": 0,
-    "update_time": "2025-06-22 06:39:08",
-    "change_number": 29686123,
+    "update_time": "2025-07-23 22:53:47",
+    "change_number": 30215378,
     "depot": {
         "1594321": {
             "config": {
@@ -14,14 +14,14 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "2749334823249874137",
-                    "size": "2913492149",
-                    "download": "2490292576"
+                    "gid": "3166734453949857378",
+                    "size": "2990328904",
+                    "download": "2570626400"
                 },
                 "experimental": {
-                    "gid": "4594264244833169659",
-                    "size": "2917173658",
-                    "download": "2496977184"
+                    "gid": "6962712130740955105",
+                    "size": "3036505025",
+                    "download": "2615472848"
                 },
                 "v0-7-4-legacy": {
                     "gid": "8808218029172147591",
@@ -69,14 +69,14 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "2789777027951536224",
-                    "size": "11555968",
-                    "download": "9738640"
+                    "gid": "1630681541187985989",
+                    "size": "11563544",
+                    "download": "10258224"
                 },
                 "experimental": {
-                    "gid": "4846431074679515520",
-                    "size": "11555968",
-                    "download": "9747744"
+                    "gid": "1164805585392092667",
+                    "size": "11563544",
+                    "download": "10258208"
                 },
                 "v0-7-4-legacy": {
                     "gid": "4900102823454635948",
@@ -103,13 +103,13 @@
         },
         "branches": {
             "public": {
-                "buildid": "18874685",
-                "timeupdated": "1750031436"
+                "buildid": "19110927",
+                "timeupdated": "1752467184"
             },
             "experimental": {
-                "buildid": "18933565",
+                "buildid": "19335253",
                 "description": "Testing of experimental features, not stable",
-                "timeupdated": "1750381724"
+                "timeupdated": "1753307624"
             },
             "v0-7-4-legacy": {
                 "buildid": "18711378",
