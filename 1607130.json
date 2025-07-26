@@ -4,8 +4,8 @@
     "type": "Game",
     "schinese_name": "欲望理论：第一季",
     "isfreeapp": 0,
-    "update_time": "2025-06-09 21:11:39",
-    "change_number": 29463049,
+    "update_time": "2025-07-18 07:49:14",
+    "change_number": 30125916,
     "depot": {
         "baselanguages": "english",
         "hasdepotsindlc": "0",
@@ -15,9 +15,9 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "1508619605351580171",
-                    "size": "6349661655",
-                    "download": "5836820288"
+                    "gid": "2278182849236490751",
+                    "size": "6353303184",
+                    "download": "5838011200"
                 }
             },
             "decryptionkey": "34a2e19836c47d58fea934474d66310da4b8c9cbaddee722d66827c7e1997e58"
@@ -35,8 +35,8 @@
         },
         "branches": {
             "public": {
-                "buildid": "14689375",
-                "timeupdated": "1718183451"
+                "buildid": "19270817",
+                "timeupdated": "1752821335"
             }
         },
         "privatebranches": "1"
