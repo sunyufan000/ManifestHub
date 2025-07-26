@@ -1,0 +1,32 @@
+{
+    "appid": 1084970,
+    "name": "Bridge Builder Racer",
+    "type": "Game",
+    "schinese_name": "",
+    "isfreeapp": 0,
+    "update_time": "2025-07-16 07:29:17",
+    "change_number": 30083333,
+    "depot": {
+        "1084971": {
+            "config": {
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "2239300832931897447",
+                    "size": "636483088",
+                    "download": "94338224"
+                }
+            },
+            "decryptionkey": "f6b789fa3fe550f6f593dea5b5117f6928e0bd6fdc18fd70439a1242e31a7da0"
+        },
+        "workshopdepot": "1084970",
+        "branches": {
+            "public": {
+                "buildid": "5115678",
+                "timeupdated": "1591198251"
+            }
+        },
+        "workshopdepotdecryptionkey": ""
+    }
+}
