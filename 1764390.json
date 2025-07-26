@@ -4,15 +4,15 @@
     "type": "Game",
     "schinese_name": "坏结局剧院",
     "isfreeapp": 0,
-    "update_time": "2025-06-21 06:38:52",
-    "change_number": 29676583,
+    "update_time": "2025-07-23 16:10:17",
+    "change_number": 30209041,
     "depot": {
         "1764391": {
             "manifests": {
                 "public": {
-                    "gid": "4182692859606110001",
-                    "size": "228362586",
-                    "download": "90029296"
+                    "gid": "2526077863681574764",
+                    "size": "245317065",
+                    "download": "108466160"
                 }
             },
             "decryptionkey": "0993d5a876d383965b130f6ed9816e7a52b383ba45da905ebc4c9c07e158aa69"
@@ -30,8 +30,8 @@
         },
         "branches": {
             "public": {
-                "buildid": "12981012",
-                "timeupdated": "1702752491"
+                "buildid": "19198872",
+                "timeupdated": "1752290383"
             }
         },
         "privatebranches": "1"
