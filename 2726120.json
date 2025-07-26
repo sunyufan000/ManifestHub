@@ -4,8 +4,8 @@
     "type": "Application",
     "schinese_name": "",
     "isfreeapp": 0,
-    "update_time": "2025-06-14 21:13:59",
-    "change_number": 29564961,
+    "update_time": "2025-07-19 20:52:21",
+    "change_number": 30149231,
     "depot": {
         "2726121": {
             "config": {
@@ -14,9 +14,9 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "1342796704345439543",
-                    "size": "405664284",
-                    "download": "137517488"
+                    "gid": "9180129019254030295",
+                    "size": "405675548",
+                    "download": "137520144"
                 },
                 "legacy": {
                     "gid": "2239886485197321464",
@@ -28,8 +28,8 @@
         },
         "branches": {
             "public": {
-                "buildid": "18692979",
-                "timeupdated": "1748791769"
+                "buildid": "19202590",
+                "timeupdated": "1752340141"
             },
             "legacy": {
                 "buildid": "16836464",
