@@ -4,8 +4,8 @@
     "type": "Application",
     "schinese_name": "",
     "isfreeapp": 0,
-    "update_time": "2025-06-16 04:49:45",
-    "change_number": 29577320,
+    "update_time": "2025-06-22 21:04:39",
+    "change_number": 29692973,
     "depot": {
         "451651": {
             "config": {
@@ -54,9 +54,9 @@
                     "download": "619062992"
                 },
                 "whirligig_early_access_latest_beta": {
-                    "gid": "4711470706251407278",
-                    "size": "1664097371",
-                    "download": "485102608"
+                    "gid": "4138414122452010696",
+                    "size": "1172646731",
+                    "download": "457083648"
                 },
                 "whirligig_v.5.051": {
                     "gid": "2752739825461690683",
@@ -67,11 +67,6 @@
                     "gid": "6315822272247976078",
                     "size": "1476378110",
                     "download": "459435632"
-                },
-                "whirligig_v5.261": {
-                    "gid": "6587845087509035764",
-                    "size": "1571229878",
-                    "download": "518769920"
                 },
                 "whirligig_v5.262": {
                     "gid": "7503416505796512078",
@@ -128,10 +123,10 @@
                     "size": "1598851766",
                     "download": "467442864"
                 },
-                "whirligig_v5.579": {
-                    "gid": "6565153384269344321",
-                    "size": "1197694527",
-                    "download": "461454144"
+                "whirligig_v5.58": {
+                    "gid": "4138414122452010696",
+                    "size": "1172646731",
+                    "download": "457083648"
                 }
             },
             "decryptionkey": "d4004d944433e442ddc31f82d48f81dcd729b18d5212ce394f2d3cf3e53eb623"
@@ -177,8 +172,8 @@
                 "timeupdated": "1704572176"
             },
             "whirligig_early_access_latest_beta": {
-                "buildid": "18465855",
-                "timeupdated": "1747252695"
+                "buildid": "18957485",
+                "timeupdated": "1750622480"
             },
             "whirligig_v.5.051": {
                 "buildid": "13166104",
@@ -189,11 +184,6 @@
                 "buildid": "14160365",
                 "description": "Default Release 04-2024",
                 "timeupdated": "1713968080"
-            },
-            "whirligig_v5.261": {
-                "buildid": "14578643",
-                "description": "Handtracking2",
-                "timeupdated": "1717362287"
             },
             "whirligig_v5.262": {
                 "buildid": "14992652",
@@ -250,10 +240,10 @@
                 "description": "Beta experimental",
                 "timeupdated": "1749062697"
             },
-            "whirligig_v5.579": {
-                "buildid": "18875552",
-                "description": "Updates",
-                "timeupdated": "1750020579"
+            "whirligig_v5.58": {
+                "buildid": "18957485",
+                "description": "Update and optimisation",
+                "timeupdated": "1750622674"
             }
         }
     }
