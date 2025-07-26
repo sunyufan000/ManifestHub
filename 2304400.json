@@ -4,7 +4,7 @@
     "type": "DLC",
     "schinese_name": "《The Sims™ 4 家有厨神》组合",
     "isfreeapp": 0,
-    "update_time": "2025-06-13 15:19:51",
+    "update_time": "2025-06-23 03:19:50",
     "change_number": 29543895,
     "depot": {
         "2304400": {
@@ -268,7 +268,7 @@
                 }
             },
             "dlcappid": "2304400",
-            "decryptionkey": ""
+            "decryptionkey": "5e76e89e6dc148d8e3578fc0a14450b2a81f631adfca8eec8085e9dd99093649"
         },
         "branches": {
             "public": {
