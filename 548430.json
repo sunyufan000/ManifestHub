@@ -4,8 +4,8 @@
     "type": "Game",
     "schinese_name": "深岩银河",
     "isfreeapp": 0,
-    "update_time": "2025-06-16 15:52:17",
-    "change_number": 29582659,
+    "update_time": "2025-07-14 07:09:10",
+    "change_number": 30043073,
     "depot": {
         "228986": {
             "config": {
@@ -29,9 +29,9 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "5384538231234591937",
-                    "size": "3669441500",
-                    "download": "3332717648"
+                    "gid": "4904187419468632284",
+                    "size": "3702440949",
+                    "download": "3372282400"
                 },
                 "drg_legacy": {
                     "gid": "7513045820411102447",
@@ -43,8 +43,8 @@
         },
         "branches": {
             "public": {
-                "buildid": "17601020",
-                "timeupdated": "1741683869"
+                "buildid": "19194154",
+                "timeupdated": "1752473331"
             },
             "drg_legacy": {
                 "buildid": "17690485",
