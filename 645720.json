@@ -4,8 +4,8 @@
     "type": "Game",
     "schinese_name": "星骑：亘古时空",
     "isfreeapp": 0,
-    "update_time": "2025-05-26 22:16:29",
-    "change_number": 29193091,
+    "update_time": "2025-07-18 10:22:10",
+    "change_number": 30128327,
     "depot": {
         "228990": {
             "config": {
@@ -24,17 +24,17 @@
         "645721": {
             "manifests": {
                 "public": {
-                    "gid": "353942324566287859",
-                    "size": "713818433",
-                    "download": "336914816"
+                    "gid": "1748714623614048388",
+                    "size": "734524099",
+                    "download": "353860768"
                 }
             },
             "decryptionkey": "54827cf650e82a19e135e28c367e2f5e860da988edb157c6b89b2bdc586f41ce"
         },
         "branches": {
             "public": {
-                "buildid": "13077199",
-                "timeupdated": "1704230440"
+                "buildid": "19271253",
+                "timeupdated": "1752830523"
             }
         },
         "privatebranches": "1"
