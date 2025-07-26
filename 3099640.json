@@ -4,9 +4,10 @@
     "type": "Game",
     "schinese_name": "网球天使EX",
     "isfreeapp": 0,
-    "update_time": "2025-06-16 18:32:47",
-    "change_number": 29585155,
+    "update_time": "2025-07-23 08:29:32",
+    "change_number": 30201374,
     "depot": {
+        "hasdepotsindlc": "1",
         "3099641": {
             "manifests": {
                 "public": {
