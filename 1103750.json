@@ -1,0 +1,28 @@
+{
+    "appid": 1103750,
+    "name": "DFF NT: Legatus of the XIIth,  Zenos yae Galvus's Extra Appearance",
+    "type": "DLC",
+    "schinese_name": "",
+    "isfreeapp": 0,
+    "update_time": "2025-06-23 14:10:37",
+    "change_number": 26201212,
+    "depot": {
+        "1103750": {
+            "manifests": {
+                "public": {
+                    "gid": "20485532456058957",
+                    "size": "0",
+                    "download": "0"
+                }
+            },
+            "dlcappid": "1103750",
+            "decryptionkey": "f30724dd9a18335e167f41aaa21bad8a222251f80a049d8858acd97ec7523a7b"
+        },
+        "branches": {
+            "public": {
+                "buildid": "3910096",
+                "timeupdated": "1560307547"
+            }
+        }
+    }
+}
