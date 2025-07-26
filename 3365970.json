@@ -1,0 +1,43 @@
+{
+    "appid": 3365970,
+    "name": "愛情終點",
+    "type": "Game",
+    "schinese_name": "爱情终点",
+    "isfreeapp": 0,
+    "update_time": "2025-07-15 11:27:40",
+    "change_number": 30066218,
+    "depot": {
+        "3365971": {
+            "config": {
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "7469946436826474022",
+                    "size": "1007768358",
+                    "download": "780913776"
+                }
+            },
+            "decryptionkey": "f8dcc5588617b1ceea360dec0b567097e4994440f2d1b30312df77429fbb3951"
+        },
+        "3365972": {
+            "config": {
+                "oslist": "macos"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "7178882882299542909",
+                    "size": "1972754539",
+                    "download": "824750416"
+                }
+            }
+        },
+        "baselanguages": "tchinese",
+        "branches": {
+            "public": {
+                "buildid": "19228352",
+                "timeupdated": "1752575252"
+            }
+        }
+    }
+}
