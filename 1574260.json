@@ -4,8 +4,8 @@
     "type": "Game",
     "schinese_name": "我的友好邻居",
     "isfreeapp": 0,
-    "update_time": "2025-06-21 01:23:12",
-    "change_number": 29672948,
+    "update_time": "2025-07-22 01:12:03",
+    "change_number": 30176580,
     "depot": {
         "1574261": {
             "config": {
@@ -15,9 +15,9 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "4249755808293224394",
-                    "size": "12627957905",
-                    "download": "5418244624"
+                    "gid": "6952547313761338948",
+                    "size": "8981400296",
+                    "download": "7743443008"
                 }
             },
             "decryptionkey": "c0eae99422a76e3eaa5f34391a3ae06817cd2c712c876212c8da996dacec2baa"
@@ -30,8 +30,8 @@
         },
         "branches": {
             "public": {
-                "buildid": "12496268",
-                "timeupdated": "1697831045"
+                "buildid": "19304037",
+                "timeupdated": "1753143117"
             }
         },
         "privatebranches": "1"
