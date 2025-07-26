@@ -2,12 +2,12 @@
     "appid": 2901310,
     "name": "奇天烈相談ダイヤル",
     "type": "Game",
-    "schinese_name": "",
+    "schinese_name": "奇天烈咨询热线",
     "isfreeapp": 1,
-    "update_time": "2025-06-14 08:07:58",
-    "change_number": 29559847,
+    "update_time": "2025-07-18 18:38:09",
+    "change_number": 30136651,
     "depot": {
-        "baselanguages": "japanese",
+        "baselanguages": "schinese,japanese",
         "hasdepotsindlc": "1",
         "2901311": {
             "config": {
@@ -36,11 +36,26 @@
             },
             "decryptionkey": "6780327bddb50bd2c9e0857be3615a5ca6e78edb2eff610d1f1c5cbdb032850a"
         },
+        "2901313": {
+            "config": {
+                "language": "schinese",
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "4603508292673068355",
+                    "size": "503248948",
+                    "download": "372965648"
+                }
+            },
+            "decryptionkey": ""
+        },
         "branches": {
             "public": {
-                "buildid": "16545215",
-                "timeupdated": "1732665206"
+                "buildid": "19224926",
+                "timeupdated": "1752551998"
             }
-        }
+        },
+        "privatebranches": "1"
     }
 }
