@@ -4,8 +4,8 @@
     "type": "Game",
     "schinese_name": "",
     "isfreeapp": 0,
-    "update_time": "2025-06-20 20:17:55",
-    "change_number": 29667912,
+    "update_time": "2025-07-23 20:45:03",
+    "change_number": 30213695,
     "depot": {
         "228989": {
             "config": {
@@ -28,9 +28,9 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "296338148433097338",
-                    "size": "20985031707",
-                    "download": "16414893088"
+                    "gid": "1267107829693347556",
+                    "size": "20892562417",
+                    "download": "16291381968"
                 },
                 "local": {
                     "gid": "249051706036711052",
@@ -57,9 +57,9 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "2499077202823748546",
-                    "size": "42002627754",
-                    "download": "13808319232"
+                    "gid": "863764457215602017",
+                    "size": "41818268183",
+                    "download": "13721783296"
                 },
                 "legacy": {
                     "gid": "3069222738584094059",
@@ -101,8 +101,8 @@
         "workshopdepot": "1881200",
         "branches": {
             "public": {
-                "buildid": "18842539",
-                "timeupdated": "1749741595"
+                "buildid": "19261422",
+                "timeupdated": "1752764506"
             },
             "local": {
                 "buildid": "8140096",
