@@ -4,8 +4,8 @@
     "type": "Game",
     "schinese_name": "",
     "isfreeapp": 0,
-    "update_time": "2025-06-11 22:30:26",
-    "change_number": 29502976,
+    "update_time": "2025-07-06 10:52:45",
+    "change_number": 29917426,
     "depot": {
         "228988": {
             "config": {
@@ -28,27 +28,27 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "5338805561586304097",
-                    "size": "7232593737",
-                    "download": "3449895440"
+                    "gid": "1824617746554686568",
+                    "size": "7372478255",
+                    "download": "3501013344"
                 },
                 "experimental": {
-                    "gid": "5338805561586304097",
-                    "size": "7232593737",
-                    "download": "3449895440"
+                    "gid": "1824617746554686568",
+                    "size": "7372478255",
+                    "download": "3501013344"
                 }
             },
             "decryptionkey": "a0aa9e37a7784bae2d3a3876a7cb1436bc3abac26d566c9101f29d7daf6900f9"
         },
         "branches": {
             "public": {
-                "buildid": "18822056",
-                "timeupdated": "1749631219"
+                "buildid": "19122280",
+                "timeupdated": "1751795545"
             },
             "experimental": {
-                "buildid": "18822056",
+                "buildid": "19122280",
                 "description": "Experimental version is for those wanting to get access to updates before they are released. These could be extreeeeemely broken.",
-                "timeupdated": "1749631231"
+                "timeupdated": "1751795560"
             }
         },
         "privatebranches": "1"
