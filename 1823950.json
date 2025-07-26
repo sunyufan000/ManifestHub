@@ -4,8 +4,8 @@
     "type": "Game",
     "schinese_name": "肋萨拉：顶峰王国 | Laysara: Summit Kingdom",
     "isfreeapp": 0,
-    "update_time": "2025-06-13 23:05:54",
-    "change_number": 29529206,
+    "update_time": "2025-07-21 17:33:05",
+    "change_number": 30170509,
     "depot": {
         "228989": {
             "config": {
@@ -27,17 +27,17 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "8734082520730210612",
-                    "size": "3918816021",
-                    "download": "3746120352"
+                    "gid": "494910025381506100",
+                    "size": "4052732738",
+                    "download": "3885827552"
                 }
             },
             "decryptionkey": "3416cb65c4840209c65ad9ba8f329819b3f5dfef7fac10cdfa40f94e4676c68b"
         },
         "branches": {
             "public": {
-                "buildid": "18837678",
-                "timeupdated": "1749735563"
+                "buildid": "19270739",
+                "timeupdated": "1752821055"
             }
         },
         "privatebranches": "1"
