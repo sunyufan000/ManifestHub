@@ -4,8 +4,8 @@
     "type": "Game",
     "schinese_name": "豆豆争霸",
     "isfreeapp": 0,
-    "update_time": "2025-06-21 11:14:19",
-    "change_number": 29678709,
+    "update_time": "2025-07-19 22:26:01",
+    "change_number": 30149753,
     "depot": {
         "765411": {
             "config": {
@@ -13,17 +13,17 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "7306461839912159866",
-                    "size": "1425075704",
-                    "download": "388955376"
+                    "gid": "7208621610426598339",
+                    "size": "1432574559",
+                    "download": "448719808"
                 }
             },
             "decryptionkey": "34f46b60e1d363714a7ca131730300636daa171b92978307ba8821dbddf9eafc"
         },
         "branches": {
             "public": {
-                "buildid": "16946206",
-                "timeupdated": "1736387604"
+                "buildid": "19287715",
+                "timeupdated": "1752960357"
             }
         }
     }
