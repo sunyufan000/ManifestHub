@@ -4,8 +4,8 @@
     "type": "Game",
     "schinese_name": "司辰之书",
     "isfreeapp": 0,
-    "update_time": "2025-06-17 15:16:44",
-    "change_number": 29602639,
+    "update_time": "2025-07-19 21:18:33",
+    "change_number": 30149369,
     "depot": {
         "hasdepotsindlc": "1",
         "1028311": {
@@ -75,6 +75,6 @@
             }
         },
         "privatebranches": "1",
-        "workshopdepotdecryptionkey": ""
+        "workshopdepotdecryptionkey": "02ab8407e9ae23fc4d32176abd88d9a2e4677798275cc9ccf2ffbd412a0eac35"
     }
 }
