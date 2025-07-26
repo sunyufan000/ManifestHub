@@ -4,8 +4,8 @@
     "type": "Game",
     "schinese_name": "战地模拟器",
     "isfreeapp": 0,
-    "update_time": "2025-05-28 22:07:24",
-    "change_number": 29237784,
+    "update_time": "2025-07-08 17:37:23",
+    "change_number": 29953322,
     "depot": {
         "636481": {
             "config": {
@@ -29,9 +29,9 @@
                     "download": "525250880"
                 },
                 "beta": {
-                    "gid": "8434877574239051339",
-                    "size": "2109762612",
-                    "download": "718428128"
+                    "gid": "9131345132740740001",
+                    "size": "2111802775",
+                    "download": "718738032"
                 },
                 "legacy-ea29": {
                     "gid": "5594148554274595620",
@@ -44,9 +44,9 @@
                     "download": "675134656"
                 },
                 "test": {
-                    "gid": "4291716625039195879",
-                    "size": "2109757956",
-                    "download": "718431200"
+                    "gid": "6619317255363221665",
+                    "size": "2111788883",
+                    "download": "718738816"
                 }
             },
             "decryptionkey": "85a0ec71b9f6fb33c36056ce85f0937f8465b590f8cacb1d7eef63d2d9a0061c"
@@ -73,9 +73,9 @@
                     "download": "523409520"
                 },
                 "beta": {
-                    "gid": "7719245342954443722",
-                    "size": "2102350126",
-                    "download": "716616176"
+                    "gid": "3627455631971809955",
+                    "size": "2104384319",
+                    "download": "716925104"
                 },
                 "legacy-ea29": {
                     "gid": "6046542363243417937",
@@ -88,9 +88,9 @@
                     "download": "673324448"
                 },
                 "test": {
-                    "gid": "3667252745895443910",
-                    "size": "2102345462",
-                    "download": "716618864"
+                    "gid": "3345365155286138208",
+                    "size": "2104370435",
+                    "download": "716924608"
                 }
             },
             "decryptionkey": "cabf23d189b4c72001daad4116232b4edacf160742f8dcbc63a39cd935d1e220"
@@ -116,9 +116,9 @@
                     "download": "529690736"
                 },
                 "beta": {
-                    "gid": "300906968056464441",
-                    "size": "2137306863",
-                    "download": "730590592"
+                    "gid": "8443324386801284499",
+                    "size": "2139351157",
+                    "download": "730897248"
                 },
                 "legacy-ea29": {
                     "gid": "1359403156121038595",
@@ -131,9 +131,9 @@
                     "download": "687308304"
                 },
                 "test": {
-                    "gid": "5744502649494180047",
-                    "size": "2137302207",
-                    "download": "730588480"
+                    "gid": "7111003410506831551",
+                    "size": "2139337265",
+                    "download": "730889184"
                 }
             },
             "decryptionkey": "a03e024cec8d0e31aaacd382005c4329f781587c1ddb2eb83248d5eca4488e37"
@@ -159,9 +159,9 @@
                     "download": "538656256"
                 },
                 "beta": {
-                    "gid": "760289158546693061",
-                    "size": "2187526208",
-                    "download": "737383616"
+                    "gid": "3678357382655634524",
+                    "size": "2189573309",
+                    "download": "737694976"
                 },
                 "legacy-ea29": {
                     "gid": "992388466436561328",
@@ -174,9 +174,9 @@
                     "download": "694108384"
                 },
                 "test": {
-                    "gid": "9072101196936307331",
-                    "size": "2187521552",
-                    "download": "737381296"
+                    "gid": "7701869029203381356",
+                    "size": "2189559417",
+                    "download": "737691488"
                 }
             },
             "decryptionkey": "4af2541c989f166ad952fdfcabb3968e30b9c76c86c684c65768f2dd3f6afeb7"
@@ -198,9 +198,9 @@
                 "timeupdated": "1695201173"
             },
             "beta": {
-                "buildid": "18643099",
+                "buildid": "19148815",
                 "description": "Latest builds, might be buggy!!!",
-                "timeupdated": "1748441236"
+                "timeupdated": "1751992637"
             },
             "legacy-ea29": {
                 "buildid": "14428568",
@@ -213,9 +213,9 @@
                 "timeupdated": "1741967488"
             },
             "test": {
-                "buildid": "18624128",
+                "buildid": "19133694",
                 "description": "Test builds, even buggier than beta branch! HOWWW",
-                "timeupdated": "1748344628"
+                "timeupdated": "1751901906"
             }
         },
         "privatebranches": "1",
