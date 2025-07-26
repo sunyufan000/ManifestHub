@@ -4,8 +4,8 @@
     "type": "Game",
     "schinese_name": "怪物对决自走棋",
     "isfreeapp": 0,
-    "update_time": "2025-06-20 15:22:38",
-    "change_number": 29663336,
+    "update_time": "2025-07-21 08:12:30",
+    "change_number": 30162154,
     "depot": {
         "228989": {
             "config": {
@@ -24,18 +24,19 @@
         "3141721": {
             "manifests": {
                 "public": {
-                    "gid": "8806900372440570852",
-                    "size": "595165132",
-                    "download": "415268096"
+                    "gid": "518594709124257748",
+                    "size": "623088172",
+                    "download": "431718880"
                 }
             },
             "decryptionkey": "faabc616950c55e2cd75e14bcf6f1dd39adfdfec8590082a77aeb3e9487c52ef"
         },
         "branches": {
             "public": {
-                "buildid": "18720182",
-                "timeupdated": "1748965684"
+                "buildid": "19276008",
+                "timeupdated": "1752848347"
             }
-        }
+        },
+        "privatebranches": "1"
     }
 }
