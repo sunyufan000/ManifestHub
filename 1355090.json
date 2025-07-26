@@ -4,8 +4,8 @@
     "type": "Game",
     "schinese_name": "异星铁路",
     "isfreeapp": 0,
-    "update_time": "2025-06-18 10:40:51",
-    "change_number": 29620550,
+    "update_time": "2025-07-02 06:07:42",
+    "change_number": 29854355,
     "depot": {
         "228988": {
             "config": {
@@ -34,14 +34,9 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "6052882875941484714",
-                    "size": "3993044926",
-                    "download": "3836555664"
-                },
-                "experimental": {
-                    "gid": "6052882875941484714",
-                    "size": "3993044926",
-                    "download": "3836555664"
+                    "gid": "3159717229137738868",
+                    "size": "4235983733",
+                    "download": "4078172752"
                 }
             },
             "decryptionkey": "daa3442e0de51069a1c33660f9b3a524a7d70f7fb852e47c4d158ecbb591aa6c"
@@ -55,11 +50,6 @@
                     "gid": "8852258941661286652",
                     "size": "4153145578",
                     "download": "3946106224"
-                },
-                "experimental": {
-                    "gid": "8852258941661286652",
-                    "size": "4153145578",
-                    "download": "3946106224"
                 }
             },
             "decryptionkey": "01d3f395cc14327d8054b54315d6cd4973827357a976f8295e4ae20c15d556d7"
@@ -67,13 +57,8 @@
         "workshopdepot": "1355090",
         "branches": {
             "public": {
-                "buildid": "15071073",
-                "timeupdated": "1721280235"
-            },
-            "experimental": {
-                "buildid": "15071073",
-                "description": "Test up coming updates before they release.",
-                "timeupdated": "1721280859"
+                "buildid": "19046822",
+                "timeupdated": "1751259885"
             }
         },
         "privatebranches": "1",
