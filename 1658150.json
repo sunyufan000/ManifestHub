@@ -4,8 +4,8 @@
     "type": "Game",
     "schinese_name": "月光石岛",
     "isfreeapp": 0,
-    "update_time": "2025-06-19 20:57:09",
-    "change_number": 29649609,
+    "update_time": "2025-07-17 04:13:25",
+    "change_number": 30102360,
     "depot": {
         "1658151": {
             "config": {
@@ -14,9 +14,9 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "2178106826775562221",
-                    "size": "412268539",
-                    "download": "240677120"
+                    "gid": "5415010352528911452",
+                    "size": "412458117",
+                    "download": "240838336"
                 }
             },
             "decryptionkey": "a0087e864bcd67b31d88085e60a8b344db7098cbe6d6730e9b6ebf40cb025e3f"
@@ -28,9 +28,9 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "4743537624713702071",
-                    "size": "728825909",
-                    "download": "305736720"
+                    "gid": "7484399891405669263",
+                    "size": "728873797",
+                    "download": "305792704"
                 }
             },
             "decryptionkey": "4df035403c83e43ffdd7162dd43b9a0238d8c76d3b4225c98981c268d1703671"
@@ -41,9 +41,9 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "171350236351990646",
-                    "size": "531043553",
-                    "download": "253372896"
+                    "gid": "3191098879585418391",
+                    "size": "531233130",
+                    "download": "253381600"
                 }
             },
             "decryptionkey": "7193a0c74850c092dc1d90624c45c4e50216a78a699658d64d5fff26e3c8d8f7"
@@ -75,8 +75,8 @@
         },
         "branches": {
             "public": {
-                "buildid": "18926768",
-                "timeupdated": "1750337824"
+                "buildid": "19254090",
+                "timeupdated": "1752722000"
             }
         },
         "privatebranches": "1"
