@@ -4,8 +4,8 @@
     "type": "Demo",
     "schinese_name": "",
     "isfreeapp": 0,
-    "update_time": "2025-05-31 20:24:29",
-    "change_number": 29301062,
+    "update_time": "2025-07-23 23:46:26",
+    "change_number": 30215994,
     "depot": {
         "228989": {
             "config": {
@@ -24,9 +24,9 @@
         "3313551": {
             "manifests": {
                 "public": {
-                    "gid": "1431630808734235879",
-                    "size": "4262513279",
-                    "download": "3903084496"
+                    "gid": "2939854281011399322",
+                    "size": "4272428045",
+                    "download": "3932000448"
                 },
                 "rc202501": {
                     "gid": "2400992334357512013",
@@ -53,6 +53,16 @@
                     "size": "4262513279",
                     "download": "3903084496"
                 },
+                "rc202506": {
+                    "gid": "7742161471909625198",
+                    "size": "4305428793",
+                    "download": "3945686560"
+                },
+                "rc202506-b": {
+                    "gid": "2939854281011399322",
+                    "size": "4272428045",
+                    "download": "3932000448"
+                },
                 "tokyo_game_dungeon_8": {
                     "gid": "8087647974384514116",
                     "size": "4262464390",
@@ -63,8 +73,8 @@
         },
         "branches": {
             "public": {
-                "buildid": "18685669",
-                "timeupdated": "1748694263"
+                "buildid": "19091002",
+                "timeupdated": "1751534917"
             },
             "rc202501": {
                 "buildid": "17275271",
@@ -90,6 +100,16 @@
                 "buildid": "18685669",
                 "description": "release candidate",
                 "timeupdated": "1748693987"
+            },
+            "rc202506": {
+                "buildid": "19051226",
+                "description": "release candidate",
+                "timeupdated": "1751289122"
+            },
+            "rc202506-b": {
+                "buildid": "19091002",
+                "description": "release candidate",
+                "timeupdated": "1751534184"
             },
             "tokyo_game_dungeon_8": {
                 "buildid": "18303964",
