@@ -4,20 +4,20 @@
     "type": "Game",
     "schinese_name": "超灵秘法社",
     "isfreeapp": 0,
-    "update_time": "2025-06-16 12:13:42",
-    "change_number": 29580485,
+    "update_time": "2025-07-22 21:16:37",
+    "change_number": 30193475,
     "depot": {
         "1270581": {
             "manifests": {
                 "public": {
-                    "gid": "2795361205002393453",
-                    "size": "5286777906",
-                    "download": "2327483904"
+                    "gid": "8295269660568642025",
+                    "size": "5295591395",
+                    "download": "2334957584"
                 },
                 "prerelease": {
-                    "gid": "2795361205002393453",
-                    "size": "5286777906",
-                    "download": "2327483904"
+                    "gid": "8295269660568642025",
+                    "size": "5295591395",
+                    "download": "2334957584"
                 }
             },
             "decryptionkey": "67890182f6c150a904481b542ff399526709e363f448cb001c6cb02fbf8cfe70"
@@ -25,13 +25,13 @@
         "workshopdepot": "1270580",
         "branches": {
             "public": {
-                "buildid": "18478368",
-                "timeupdated": "1747324727"
+                "buildid": "19319726",
+                "timeupdated": "1753215391"
             },
             "prerelease": {
-                "buildid": "18478368",
+                "buildid": "19319726",
                 "description": "Pre-release of updates for preview testing",
-                "timeupdated": "1747324689"
+                "timeupdated": "1753215352"
             }
         },
         "privatebranches": "1",
