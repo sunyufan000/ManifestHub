@@ -4,8 +4,8 @@
     "type": "Game",
     "schinese_name": "僵尸战争",
     "isfreeapp": 1,
-    "update_time": "2025-06-18 20:04:19",
-    "change_number": 29628298,
+    "update_time": "2025-07-11 10:29:19",
+    "change_number": 30007633,
     "depot": {
         "228985": {
             "config": {
@@ -32,17 +32,17 @@
         "555571": {
             "manifests": {
                 "public": {
-                    "gid": "1522095928588603669",
-                    "size": "19178256450",
-                    "download": "15876611264"
+                    "gid": "1109249911055172837",
+                    "size": "19295308130",
+                    "download": "15961583296"
                 }
             },
             "decryptionkey": "cf80eccdf3b528109382ec9cebbfb9405c7307577280aad71a97c3caaf40778c"
         },
         "branches": {
             "public": {
-                "buildid": "18911565",
-                "timeupdated": "1750248254"
+                "buildid": "19177811",
+                "timeupdated": "1752226153"
             }
         }
     }
