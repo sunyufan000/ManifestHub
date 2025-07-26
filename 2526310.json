@@ -4,8 +4,8 @@
     "type": "Game",
     "schinese_name": "熊视眈眈 (Out of Sight)",
     "isfreeapp": 0,
-    "update_time": "2025-06-19 16:58:19",
-    "change_number": 29646058,
+    "update_time": "2025-07-23 19:11:13",
+    "change_number": 30212352,
     "depot": {
         "228989": {
             "config": {
@@ -24,17 +24,17 @@
         "2526311": {
             "manifests": {
                 "public": {
-                    "gid": "3204214591235696377",
-                    "size": "5610111582",
-                    "download": "4688295312"
+                    "gid": "1249240611657929242",
+                    "size": "5163933438",
+                    "download": "4256672624"
                 }
             },
             "decryptionkey": "4d96d2024ac336424c26d995e45c7d983e97f71552e8d67e3d794e182b21fc57"
         },
         "branches": {
             "public": {
-                "buildid": "18899033",
-                "timeupdated": "1750323494"
+                "buildid": "19145137",
+                "timeupdated": "1751979503"
             }
         },
         "privatebranches": "1"
