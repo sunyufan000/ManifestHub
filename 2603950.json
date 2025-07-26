@@ -4,8 +4,8 @@
     "type": "Application",
     "schinese_name": "",
     "isfreeapp": 0,
-    "update_time": "2025-05-24 02:17:30",
-    "change_number": 29156398,
+    "update_time": "2025-07-21 08:23:59",
+    "change_number": 30162299,
     "depot": {
         "228981": {
             "config": {
@@ -64,9 +64,9 @@
                     "download": "131901728"
                 },
                 "test": {
-                    "gid": "7341219896294815572",
-                    "size": "384132798",
-                    "download": "131901728"
+                    "gid": "5695802355105534742",
+                    "size": "390085989",
+                    "download": "134234096"
                 }
             },
             "decryptionkey": "765846738d01f077fbdf07fb70bb651f6887dd178ac8bb19c7b6aaa7b9a14baa"
@@ -78,9 +78,9 @@
                 "timeupdated": "1733822315"
             },
             "test": {
-                "buildid": "16691471",
+                "buildid": "19296735",
                 "description": "test",
-                "timeupdated": "1733822140"
+                "timeupdated": "1753082636"
             }
         },
         "privatebranches": "1",
