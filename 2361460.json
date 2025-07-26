@@ -4,8 +4,8 @@
     "type": "Game",
     "schinese_name": "玩具郡 Toy Shire",
     "isfreeapp": 0,
-    "update_time": "2025-06-22 09:31:28",
-    "change_number": 29687014,
+    "update_time": "2025-07-19 01:20:25",
+    "change_number": 30141328,
     "depot": {
         "baselanguages": "english",
         "workshopdepot": "2361460",
@@ -15,9 +15,9 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "1135372946515040428",
-                    "size": "2517082860",
-                    "download": "878898112"
+                    "gid": "8921744988429599444",
+                    "size": "2784739094",
+                    "download": "1014660096"
                 }
             },
             "decryptionkey": "6c8e6c05dd18bd60d8e9b322876fe53dc50e732db4866fa8e68a214889ec8c0c"
@@ -28,9 +28,9 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "6397280604451421731",
-                    "size": "2630978985",
-                    "download": "936034704"
+                    "gid": "542306982199917607",
+                    "size": "2901443553",
+                    "download": "1080652768"
                 }
             },
             "decryptionkey": "b5f044777b7698b365c661654d708eb8f04351ff29a5973556af167a7f216f95"
@@ -41,17 +41,17 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "7609272555785320368",
-                    "size": "2529330113",
-                    "download": "883685008"
+                    "gid": "5768816974377788850",
+                    "size": "2828394310",
+                    "download": "1034379616"
                 }
             },
             "decryptionkey": "6948de64a4d934ecc33de930d8d33e15d4d95d51710819f457500b09a67ab4f4"
         },
         "branches": {
             "public": {
-                "buildid": "17724283",
-                "timeupdated": "1741952137"
+                "buildid": "19009234",
+                "timeupdated": "1750956365"
             }
         },
         "privatebranches": "1",
