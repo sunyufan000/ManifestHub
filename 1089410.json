@@ -1,0 +1,28 @@
+{
+    "appid": 1089410,
+    "name": "Depression The Game Music DLC",
+    "type": "DLC",
+    "schinese_name": "",
+    "isfreeapp": 0,
+    "update_time": "2025-06-23 12:13:49",
+    "change_number": 26201212,
+    "depot": {
+        "1089410": {
+            "manifests": {
+                "public": {
+                    "gid": "2143669404523330324",
+                    "size": "457211691",
+                    "download": "446194064"
+                }
+            },
+            "dlcappid": "1089410",
+            "decryptionkey": "7f61e4030f06b7f60bc9aba4e251dbd052bdd51f36e7600fbcb64817c8fb0b2e"
+        },
+        "branches": {
+            "public": {
+                "buildid": "3838334",
+                "timeupdated": "1558306931"
+            }
+        }
+    }
+}
