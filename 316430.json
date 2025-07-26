@@ -4,8 +4,8 @@
     "type": "Game",
     "schinese_name": "",
     "isfreeapp": 0,
-    "update_time": "2025-05-29 02:46:44",
-    "change_number": 29243722,
+    "update_time": "2025-06-26 20:07:52",
+    "change_number": 29772114,
     "depot": {
         "baselanguages": "",
         "workshopdepot": "316430",
@@ -412,7 +412,7 @@
                     "download": "3526096"
                 }
             },
-            "decryptionkey": ""
+            "decryptionkey": "155c5d72b76b2f6647fd42d9e1b69a01701c496f1b6d41ecb2fe7a8355e5c837"
         },
         "334817": {
             "dlcappid": "333400",
@@ -451,7 +451,7 @@
                     "download": "77566656"
                 }
             },
-            "decryptionkey": ""
+            "decryptionkey": "88592443d46c0ee41efb72d290232113ddbaf4bd989cb97b821b3e8af2d78e48"
         },
         "334819": {
             "dlcappid": "333400",
@@ -560,7 +560,7 @@
                     "download": "313014672"
                 }
             },
-            "decryptionkey": ""
+            "decryptionkey": "ff2a85503c07a0f38b561d7e9b7e1c1f7912f5dcfa147bc834aa924ade0ff2f2"
         },
         "340646": {
             "dlcappid": "340610",
@@ -764,7 +764,7 @@
                     "download": "93412448"
                 }
             },
-            "decryptionkey": ""
+            "decryptionkey": "8e31881b42250fc1ed9a0c872ab2253f48fb00c9d4558820e9068ce1bde0962c"
         },
         "341998": {
             "dlcappid": "340620",
