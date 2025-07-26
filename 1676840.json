@@ -4,8 +4,8 @@
     "type": "Game",
     "schinese_name": "为了吾王II / For The King II",
     "isfreeapp": 0,
-    "update_time": "2025-06-20 07:10:05",
-    "change_number": 29658129,
+    "update_time": "2025-07-23 23:11:46",
+    "change_number": 30215582,
     "depot": {
         "1676841": {
             "config": {
@@ -14,9 +14,9 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "3520571924344116418",
-                    "size": "7299199963",
-                    "download": "6050559488"
+                    "gid": "5243743043680471603",
+                    "size": "7323998491",
+                    "download": "6188476448"
                 }
             },
             "decryptionkey": "9e9bc5c19be892894290e7c750d0e94ab08b89d76dcf20f675df2bf99bd19b58"
@@ -33,8 +33,8 @@
         },
         "branches": {
             "public": {
-                "buildid": "18433683",
-                "timeupdated": "1747238561"
+                "buildid": "19266450",
+                "timeupdated": "1753200340"
             }
         },
         "privatebranches": "1"
