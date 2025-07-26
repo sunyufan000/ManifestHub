@@ -4,8 +4,8 @@
     "type": "Game",
     "schinese_name": "末日电涌 Rogue Voltage",
     "isfreeapp": 0,
-    "update_time": "2025-05-31 07:26:52",
-    "change_number": 29288857,
+    "update_time": "2025-06-26 19:54:00",
+    "change_number": 29769887,
     "depot": {
         "hasdepotsindlc": "1",
         "1494561": {
@@ -14,9 +14,9 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "2556757262411448094",
-                    "size": "314416366",
-                    "download": "220356832"
+                    "gid": "4494064250958584011",
+                    "size": "949966614",
+                    "download": "234300512"
                 },
                 "icebiome": {
                     "gid": "8010098460878046736",
@@ -32,9 +32,9 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "5905859429751952396",
-                    "size": "592839398",
-                    "download": "450679120"
+                    "gid": "7216056474779108635",
+                    "size": "992101788",
+                    "download": "235624912"
                 },
                 "icebiome": {
                     "gid": "7109977405863113130",
@@ -46,8 +46,8 @@
         },
         "branches": {
             "public": {
-                "buildid": "18677060",
-                "timeupdated": "1748623450"
+                "buildid": "19014681",
+                "timeupdated": "1750957630"
             },
             "icebiome": {
                 "buildid": "18209801",
