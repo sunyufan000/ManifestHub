@@ -4,12 +4,12 @@
     "type": "Game",
     "schinese_name": "灵魂面甲(Soulmask)",
     "isfreeapp": 0,
-    "update_time": "2025-06-20 11:47:50",
-    "change_number": 29660975,
+    "update_time": "2025-07-23 08:47:00",
+    "change_number": 30201634,
     "depot": {
         "baselanguages": "english,german,french,koreana,spanish,schinese,tchinese,russian,japanese,portuguese",
         "workshopdepot": "2646460",
-        "hasdepotsindlc": "0",
+        "hasdepotsindlc": "1",
         "228989": {
             "config": {
                 "oslist": "windows"
@@ -39,11 +39,14 @@
             "sharedinstall": "1"
         },
         "2646461": {
+            "config": {
+                "realm": "steamglobal"
+            },
             "manifests": {
                 "public": {
-                    "gid": "5647278441257467417",
-                    "size": "11027114586",
-                    "download": "10677481472"
+                    "gid": "4799391451692148856",
+                    "size": "11031188914",
+                    "download": "10681069648"
                 }
             },
             "decryptionkey": "b888b7fdf975bfc80d87df6beb2c5d56ada854d2adb6537fce281905a5d74d2a"
@@ -51,10 +54,16 @@
         "3336600": {
             "dlcappid": "3336600"
         },
+        "2646462": {
+            "config": {
+                "realm": "steamchina"
+            },
+            "manifests": {}
+        },
         "branches": {
             "public": {
-                "buildid": "18922961",
-                "timeupdated": "1750316659"
+                "buildid": "19255686",
+                "timeupdated": "1752735685"
             }
         },
         "privatebranches": "1",
