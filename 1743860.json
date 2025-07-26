@@ -4,8 +4,8 @@
     "type": "Beta",
     "schinese_name": "",
     "isfreeapp": 0,
-    "update_time": "2025-06-17 04:00:30",
-    "change_number": 29592556,
+    "update_time": "2025-07-22 22:32:11",
+    "change_number": 30194417,
     "depot": {
         "228989": {
             "config": {
@@ -22,14 +22,9 @@
                     "download": "8942600976"
                 },
                 "next": {
-                    "gid": "8109423603384138785",
-                    "size": "27289364132",
-                    "download": "8942600976"
-                },
-                "previous": {
-                    "gid": "867420282898065837",
-                    "size": "27209797787",
-                    "download": "8960755728"
+                    "gid": "916140469982823631",
+                    "size": "27294670851",
+                    "download": "8991538400"
                 }
             },
             "decryptionkey": "29f330cdba1b817386bdf00566e7fcc4e1dcb4cee55f8cf812b2ac57a9c0985b"
@@ -40,14 +35,9 @@
                 "timeupdated": "1750069371"
             },
             "next": {
-                "buildid": "18859758",
+                "buildid": "19263357",
                 "description": "Public next update branch (unstable for testing)",
-                "timeupdated": "1750069292"
-            },
-            "previous": {
-                "buildid": "18146445",
-                "description": "Public previous update branch",
-                "timeupdated": "1750069313"
+                "timeupdated": "1752840114"
             }
         },
         "privatebranches": "1"
