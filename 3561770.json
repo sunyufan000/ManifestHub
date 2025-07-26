@@ -4,8 +4,8 @@
     "type": "Game",
     "schinese_name": "黄金之岛",
     "isfreeapp": 0,
-    "update_time": "2025-06-13 18:22:24",
-    "change_number": 29547126,
+    "update_time": "2025-07-21 05:52:04",
+    "change_number": 30160913,
     "depot": {
         "baselanguages": "japanese",
         "228989": {
@@ -30,17 +30,17 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "8391453223902964237",
-                    "size": "1853234305",
-                    "download": "1420140624"
+                    "gid": "3083865944663930741",
+                    "size": "1853243383",
+                    "download": "1420102576"
                 }
             },
             "decryptionkey": "7e348a4267151d68fa1b4bd51cab9d743124e9865d4dcb6f78728d5e40c14992"
         },
         "branches": {
             "public": {
-                "buildid": "18835798",
-                "timeupdated": "1749810139"
+                "buildid": "19022078",
+                "timeupdated": "1751021495"
             }
         },
         "privatebranches": "1"
