@@ -4,8 +4,8 @@
     "type": "Game",
     "schinese_name": "模拟大逃杀",
     "isfreeapp": 1,
-    "update_time": "2025-06-19 14:49:38",
-    "change_number": 29643504,
+    "update_time": "2025-06-23 18:40:21",
+    "change_number": 29703040,
     "depot": {
         "baselanguages": "english,german,french,koreana,spanish,schinese,russian,japanese",
         "884661": {
@@ -14,9 +14,9 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "4983717446865218818",
-                    "size": "13190572435",
-                    "download": "12162879600"
+                    "gid": "8771683656972644203",
+                    "size": "13190572418",
+                    "download": "12162879568"
                 },
                 "release_candidate": {
                     "gid": "4259288222639976352",
@@ -51,8 +51,8 @@
         },
         "branches": {
             "public": {
-                "buildid": "18922950",
-                "timeupdated": "1750315774"
+                "buildid": "18964562",
+                "timeupdated": "1750679771"
             },
             "release_candidate": {
                 "buildid": "18627134",
