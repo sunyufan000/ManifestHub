@@ -4,8 +4,8 @@
     "type": "Game",
     "schinese_name": "神椿市协奏中。",
     "isfreeapp": 0,
-    "update_time": "2025-06-13 01:29:26",
-    "change_number": 29532061,
+    "update_time": "2025-07-23 10:37:13",
+    "change_number": 30203417,
     "depot": {
         "baselanguages": "english,koreana,schinese,tchinese,japanese",
         "2581051": {
@@ -15,17 +15,17 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "7743146452502051707",
-                    "size": "13594503860",
-                    "download": "12719665168"
+                    "gid": "4024406895722164797",
+                    "size": "13594503889",
+                    "download": "12719665104"
                 }
             },
             "decryptionkey": "72c4e9e40b3dd0b48fb2712bf570f6390358e03f8bd98d8e8bed1a5f7bec4f2c"
         },
         "branches": {
             "public": {
-                "buildid": "18514708",
-                "timeupdated": "1748440953"
+                "buildid": "18655888",
+                "timeupdated": "1751588532"
             }
         },
         "privatebranches": "1"
