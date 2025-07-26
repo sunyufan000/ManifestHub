@@ -4,8 +4,8 @@
     "type": "Tool",
     "schinese_name": "幻兽帕鲁 专用服务器",
     "isfreeapp": 0,
-    "update_time": "2025-06-22 07:19:33",
-    "change_number": 29686361,
+    "update_time": "2025-07-24 00:06:56",
+    "change_number": 30216246,
     "depot": {
         "1004": {
             "config": {
@@ -13,9 +13,9 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "7747775778018907449",
-                    "size": "46727128",
-                    "download": "14307024"
+                    "gid": "8904491048620934740",
+                    "size": "68697032",
+                    "download": "20552544"
                 }
             },
             "depotfromapp": "1007",
@@ -41,9 +41,9 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "7138471031118904166",
-                    "size": "78382436",
-                    "download": "21254752"
+                    "gid": "5587033981095108078",
+                    "size": "107476144",
+                    "download": "29272144"
                 }
             },
             "depotfromapp": "1007",
@@ -63,9 +63,9 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "2573322753738176689",
-                    "size": "3935949150",
-                    "download": "3155445984"
+                    "gid": "4650062077624719188",
+                    "size": "4152723227",
+                    "download": "3341157728"
                 }
             },
             "decryptionkey": "9e838b6ba46638923d3d573c4ba1b97b79528f588b5b6c6f2faf7f7579132465"
@@ -77,17 +77,17 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "7828355383304947",
-                    "size": "3542758809",
-                    "download": "3050757296"
+                    "gid": "827371074969047862",
+                    "size": "3724264402",
+                    "download": "3233202864"
                 }
             },
             "decryptionkey": "3c46f4155a00e0a67ea99ef11b77266cc2fb0e8abea3bf024ee3da7f3c868bfe"
         },
         "branches": {
             "public": {
-                "buildid": "18291249",
-                "timeupdated": "1746684139"
+                "buildid": "19134685",
+                "timeupdated": "1752116615"
             }
         },
         "privatebranches": "1"
