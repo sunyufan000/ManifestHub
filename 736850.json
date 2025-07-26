@@ -1,0 +1,103 @@
+{
+    "appid": 736850,
+    "name": "We. The Revolution",
+    "type": "Game",
+    "schinese_name": "我们，革命",
+    "isfreeapp": 0,
+    "update_time": "2025-06-26 06:27:06",
+    "change_number": 29755801,
+    "depot": {
+        "baselanguages": "english",
+        "736851": {
+            "config": {
+                "oslist": "windows",
+                "osarch": "32"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "2202063030886574983",
+                    "size": "3039313514",
+                    "download": "1288564528"
+                }
+            },
+            "decryptionkey": "0de41bf99e7e34c61bf925e6b27c0b53b11b3f93730ff75ca8fd74efd7121666"
+        },
+        "736852": {
+            "config": {
+                "oslist": "windows",
+                "osarch": "64"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "1662990913527739407",
+                    "size": "3054347982",
+                    "download": "1292613488"
+                }
+            },
+            "decryptionkey": "cdfb78e09e0ca4151152528220feb11da1aed75640c5ccb1247992371d7cfae3"
+        },
+        "736853": {
+            "config": {
+                "oslist": "macos"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "2208552827943976255",
+                    "size": "3084426818",
+                    "download": "1298240528"
+                }
+            },
+            "decryptionkey": "986815f6f2f247ecd0c4d8ee819d3df034884897384ab0845c2c30fbd41a00b5"
+        },
+        "736854": {
+            "config": {
+                "oslist": "linux"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "309823602534642423",
+                    "size": "3085982369",
+                    "download": "1305658864"
+                }
+            },
+            "decryptionkey": "78c7362cd13da066c6e33be093391639ba7fb8e641ae9047fdecc8583769c8a7"
+        },
+        "736855": {
+            "manifests": {
+                "public": {
+                    "gid": "5076411597627812440",
+                    "size": "3133826750",
+                    "download": "742236032"
+                }
+            },
+            "decryptionkey": ""
+        },
+        "736856": {
+            "manifests": {
+                "public": {
+                    "gid": "3598811136568459101",
+                    "size": "780262466",
+                    "download": "673893296"
+                }
+            },
+            "decryptionkey": "57b19abc6459976b89dfd2da16569521914121fa8b62d1196b0e5ca6026ca327"
+        },
+        "736857": {
+            "manifests": {
+                "public": {
+                    "gid": "9217378873272217563",
+                    "size": "3046786793",
+                    "download": "1278204976"
+                }
+            },
+            "decryptionkey": ""
+        },
+        "branches": {
+            "public": {
+                "buildid": "4125139",
+                "timeupdated": "1566375611"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
