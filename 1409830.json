@@ -4,8 +4,8 @@
     "type": "Game",
     "schinese_name": "英灵殿之子 Sons of Valhalla",
     "isfreeapp": 0,
-    "update_time": "2025-06-07 08:45:13",
-    "change_number": 29423113,
+    "update_time": "2025-07-23 20:02:22",
+    "change_number": 30213060,
     "depot": {
         "1409831": {
             "manifests": {
@@ -28,7 +28,7 @@
             },
             "decryptionkey": "105670d6ae4ee8bef9a12fc84b72280df3ed478bbab6fb355fbe5750e391a808"
         },
-        "baselanguages": "english",
+        "baselanguages": "english,german,french,italian,koreana,spanish,schinese,tchinese,russian,thai,japanese,polish,hungarian,czech,turkish,brazilian,ukrainian",
         "branches": {
             "public": {
                 "buildid": "14342302",
