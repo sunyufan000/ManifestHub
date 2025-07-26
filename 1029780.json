@@ -2,10 +2,10 @@
     "appid": 1029780,
     "name": "Going Medieval",
     "type": "Game",
-    "schinese_name": "Going Medieval ( 走向中世纪 )",
+    "schinese_name": "Going Medieval ( 前往中世纪 )",
     "isfreeapp": 0,
-    "update_time": "2025-06-20 18:49:01",
-    "change_number": 29666596,
+    "update_time": "2025-07-18 16:12:12",
+    "change_number": 30134261,
     "depot": {
         "1029781": {
             "config": {
@@ -14,14 +14,14 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "7140307942638816854",
-                    "size": "649545912",
-                    "download": "379236320"
+                    "gid": "8996706251891365993",
+                    "size": "651181083",
+                    "download": "397452432"
                 },
                 "experimental": {
-                    "gid": "6265660124594420937",
-                    "size": "689652276",
-                    "download": "393038560"
+                    "gid": "7091088031101957609",
+                    "size": "721975567",
+                    "download": "430260736"
                 },
                 "save-migration": {
                     "gid": "6798494777981999312",
@@ -39,13 +39,13 @@
         "workshopdepot": "1029780",
         "branches": {
             "public": {
-                "buildid": "18562576",
-                "timeupdated": "1747985815"
+                "buildid": "19233322",
+                "timeupdated": "1752658710"
             },
             "experimental": {
-                "buildid": "18908536",
+                "buildid": "19276479",
                 "description": "Home of future updates",
-                "timeupdated": "1750241593"
+                "timeupdated": "1752851527"
             },
             "save-migration": {
                 "buildid": "14598622",
