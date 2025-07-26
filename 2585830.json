@@ -4,9 +4,10 @@
     "type": "Game",
     "schinese_name": "达愿福神社",
     "isfreeapp": 0,
-    "update_time": "2025-06-21 03:41:25",
-    "change_number": 29674713,
+    "update_time": "2025-07-23 19:43:55",
+    "change_number": 30212825,
     "depot": {
+        "hasdepotsindlc": "0",
         "228989": {
             "config": {
                 "oslist": "windows"
@@ -30,6 +31,10 @@
                 }
             },
             "decryptionkey": "144bcb22da1983f95426c7e279453e0971d647bddbcc702a96257d602a2a2856"
+        },
+        "3899690": {
+            "dlcappid": "3899690",
+            "manifests": {}
         },
         "branches": {
             "public": {
