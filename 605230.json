@@ -4,8 +4,8 @@
     "type": "Game",
     "schinese_name": "",
     "isfreeapp": 0,
-    "update_time": "2025-06-22 05:55:28",
-    "change_number": 29683442,
+    "update_time": "2025-07-16 02:08:02",
+    "change_number": 30079835,
     "depot": {
         "605231": {
             "config": {
@@ -14,9 +14,9 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "8904154779025222310",
-                    "size": "715505398",
-                    "download": "73316576"
+                    "gid": "7382523395324311552",
+                    "size": "715773846",
+                    "download": "74531600"
                 }
             },
             "decryptionkey": "f8ce15232e8c5ded9644310c1a9df571c731568b45e089110442ce8ad6d435f5"
@@ -27,9 +27,9 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "396894843655965137",
-                    "size": "715472835",
-                    "download": "73451632"
+                    "gid": "4166105911643487939",
+                    "size": "747174473",
+                    "download": "83978928"
                 }
             }
         },
@@ -39,9 +39,9 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "8647835421651672009",
-                    "size": "712942380",
-                    "download": "70990016"
+                    "gid": "4184620259356401680",
+                    "size": "713089974",
+                    "download": "72115536"
                 }
             },
             "decryptionkey": "f50a69e9be40cc9bbc05a268eb0cc249c012ccd10ea9b0d28603fddd0e61b805"
@@ -53,9 +53,9 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "1757267051807479940",
-                    "size": "704165411",
-                    "download": "69991760"
+                    "gid": "4527439632835402567",
+                    "size": "704378563",
+                    "download": "71188752"
                 }
             },
             "decryptionkey": ""
@@ -63,8 +63,8 @@
         "workshopdepot": "605230",
         "branches": {
             "public": {
-                "buildid": "18849107",
-                "timeupdated": "1749778816"
+                "buildid": "19237657",
+                "timeupdated": "1752627582"
             }
         },
         "privatebranches": "1",
