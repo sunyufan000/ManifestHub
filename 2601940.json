@@ -4,15 +4,15 @@
     "type": "Game",
     "schinese_name": "",
     "isfreeapp": 0,
-    "update_time": "2025-05-30 15:17:26",
-    "change_number": 29278036,
+    "update_time": "2025-07-18 22:39:11",
+    "change_number": 30139790,
     "depot": {
         "2601941": {
             "manifests": {
                 "public": {
-                    "gid": "5887342726274980458",
-                    "size": "953450653",
-                    "download": "415601488"
+                    "gid": "5606814634518098791",
+                    "size": "961285738",
+                    "download": "416528752"
                 },
                 "version-1.0.04": {
                     "gid": "6220287243711747397",
@@ -73,14 +73,19 @@
                     "gid": "3215399830279822135",
                     "size": "960982100",
                     "download": "411392208"
+                },
+                "version-1.02.02": {
+                    "gid": "5887342726274980458",
+                    "size": "953450653",
+                    "download": "415601488"
                 }
             },
             "decryptionkey": "abb367feaf3ec1d399531e980035a787956e55842fdc3bf1edde4bd385aacdfe"
         },
         "branches": {
             "public": {
-                "buildid": "18584276",
-                "timeupdated": "1748016910"
+                "buildid": "19278609",
+                "timeupdated": "1752874745"
             },
             "version-1.0.04": {
                 "buildid": "15960872",
@@ -141,6 +146,11 @@
                 "buildid": "18032278",
                 "description": "Old version",
                 "timeupdated": "1748016878"
+            },
+            "version-1.02.02": {
+                "buildid": "18584276",
+                "description": "Old version",
+                "timeupdated": "1752874710"
             }
         },
         "privatebranches": "1"
