@@ -1,0 +1,38 @@
+{
+    "appid": 1028930,
+    "name": "It Moves",
+    "type": "Game",
+    "schinese_name": "",
+    "isfreeapp": 1,
+    "update_time": "2025-07-23 02:13:29",
+    "change_number": 30197120,
+    "depot": {
+        "228982": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "baselanguages": "english",
+        "1028931": {
+            "config": {
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "7783833171338595774",
+                    "size": "295939210",
+                    "download": "176964304"
+                }
+            },
+            "decryptionkey": "a065abc64f9398af187eab0939c4cb116e6d9f0b5da9d3fc6fcaf2999a3c9186"
+        },
+        "branches": {
+            "public": {
+                "buildid": "4914285",
+                "timeupdated": "1587222237"
+            }
+        }
+    }
+}
