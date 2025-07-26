@@ -4,8 +4,8 @@
     "type": "Game",
     "schinese_name": "",
     "isfreeapp": 0,
-    "update_time": "2025-06-22 10:39:01",
-    "change_number": 29687321,
+    "update_time": "2025-07-15 16:35:38",
+    "change_number": 30071484,
     "depot": {
         "baselanguages": "english",
         "workshopdepot": "473770",
@@ -41,9 +41,9 @@
                     "download": "1888679632"
                 },
                 "development": {
-                    "gid": "2069437992496169360",
-                    "size": "3321153551",
-                    "download": "1888754880"
+                    "gid": "7485297946420466169",
+                    "size": "3321460072",
+                    "download": "1891484128"
                 }
             },
             "decryptionkey": "71af2036c0ca4d22db4835aa09ab4c787c858a885a575eb47aa8a252f49287d0"
@@ -94,9 +94,9 @@
                     "download": "1849971440"
                 },
                 "development": {
-                    "gid": "2926715351754726836",
-                    "size": "3278183772",
-                    "download": "1850063216"
+                    "gid": "6674161275487654635",
+                    "size": "3278490277",
+                    "download": "1855708800"
                 }
             },
             "decryptionkey": "de088ed37d45bb860a3addb118fe151c3a731b363663acd192eaa7e2c2974df3"
@@ -131,9 +131,9 @@
                     "download": "1856063344"
                 },
                 "development": {
-                    "gid": "7961086528308872647",
-                    "size": "3267196559",
-                    "download": "1856140768"
+                    "gid": "4804498796715599782",
+                    "size": "3267503576",
+                    "download": "1861925168"
                 }
             },
             "decryptionkey": "f3c370d407ce764c9627b27a60d837b8e52e38c6d6a7a9320971c75edce84ec0"
@@ -237,9 +237,9 @@
                 "timeupdated": "1746637186"
             },
             "development": {
-                "buildid": "18930402",
+                "buildid": "19231999",
                 "description": "In-development builds of the game.",
-                "timeupdated": "1750356778"
+                "timeupdated": "1752593730"
             }
         },
         "privatebranches": "1",
