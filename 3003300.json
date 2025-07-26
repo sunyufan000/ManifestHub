@@ -4,8 +4,8 @@
     "type": "Game",
     "schinese_name": "战盟桌面精灵",
     "isfreeapp": 0,
-    "update_time": "2025-06-20 18:38:55",
-    "change_number": 29666433,
+    "update_time": "2025-07-18 02:14:08",
+    "change_number": 30122124,
     "depot": {
         "baselanguages": "english,schinese,tchinese",
         "workshopdepot": "3003300",
@@ -44,9 +44,9 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "6960290408710868147",
-                    "size": "1203255357",
-                    "download": "1068482960"
+                    "gid": "2422999640894622059",
+                    "size": "1203450644",
+                    "download": "1068945584"
                 }
             },
             "decryptionkey": "325e733ae4a99b056ba9313f067dd0c882e5dbed87974e0367e6446c2f876f24"
@@ -56,8 +56,8 @@
         },
         "branches": {
             "public": {
-                "buildid": "18935531",
-                "timeupdated": "1750403558"
+                "buildid": "19115431",
+                "timeupdated": "1751692132"
             }
         },
         "privatebranches": "1",
