@@ -4,8 +4,8 @@
     "type": "Game",
     "schinese_name": "巴吉尼亚战记",
     "isfreeapp": 0,
-    "update_time": "2025-06-13 08:07:52",
-    "change_number": 29539170,
+    "update_time": "2025-07-22 11:55:27",
+    "change_number": 30184392,
     "depot": {
         "2659871": {
             "config": {
@@ -28,9 +28,9 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "4796844611003205903",
-                    "size": "394989830",
-                    "download": "365323840"
+                    "gid": "9201169348032786684",
+                    "size": "401521645",
+                    "download": "368143760"
                 }
             },
             "decryptionkey": ""
@@ -52,8 +52,8 @@
         "baselanguages": "english,schinese,japanese",
         "branches": {
             "public": {
-                "buildid": "16832747",
-                "timeupdated": "1734933511"
+                "buildid": "19313561",
+                "timeupdated": "1753181723"
             }
         }
     }
