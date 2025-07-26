@@ -1,0 +1,27 @@
+{
+    "appid": 1074630,
+    "name": "Call Of Unity",
+    "type": "Game",
+    "schinese_name": "",
+    "isfreeapp": 0,
+    "update_time": "2025-06-27 12:15:51",
+    "change_number": 29785436,
+    "depot": {
+        "1074631": {
+            "manifests": {
+                "public": {
+                    "gid": "6281103804262111819",
+                    "size": "477222732",
+                    "download": "134783040"
+                }
+            },
+            "decryptionkey": "a7c690551bebb6d3e5837ea479e3baca647dd23bc04eb068eb2d6e48b43442a1"
+        },
+        "branches": {
+            "public": {
+                "buildid": "3770113",
+                "timeupdated": "1556235317"
+            }
+        }
+    }
+}
