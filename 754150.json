@@ -4,8 +4,8 @@
     "type": "Game",
     "schinese_name": "",
     "isfreeapp": 0,
-    "update_time": "2025-06-18 11:11:35",
-    "change_number": 29620899,
+    "update_time": "2025-07-19 08:55:52",
+    "change_number": 30144288,
     "depot": {
         "754151": {
             "config": {
@@ -13,9 +13,9 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "3709330640149290796",
-                    "size": "1685213379",
-                    "download": "694644864"
+                    "gid": "2818192594877068745",
+                    "size": "1663768716",
+                    "download": "772183136"
                 },
                 "rolling_line_1x": {
                     "gid": "2580503137338381975",
@@ -33,9 +33,9 @@
                     "download": "673907008"
                 },
                 "testing": {
-                    "gid": "3709330640149290796",
-                    "size": "1685213379",
-                    "download": "694644864"
+                    "gid": "2818192594877068745",
+                    "size": "1663768716",
+                    "download": "772183136"
                 }
             },
             "decryptionkey": "ad04c94991815777be39a3c6261cdd6935c1c1cebb3a87006759ec3dce5edc7e"
@@ -43,8 +43,8 @@
         "workshopdepot": "754150",
         "branches": {
             "public": {
-                "buildid": "18888967",
-                "timeupdated": "1750111943"
+                "buildid": "19284032",
+                "timeupdated": "1752911749"
             },
             "rolling_line_1x": {
                 "buildid": "14063262",
@@ -62,9 +62,9 @@
                 "timeupdated": "1675919663"
             },
             "testing": {
-                "buildid": "18888967",
+                "buildid": "19284032",
                 "description": "Update testing branch",
-                "timeupdated": "1750111137"
+                "timeupdated": "1752911709"
             }
         },
         "privatebranches": "1",
