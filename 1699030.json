@@ -4,8 +4,8 @@
     "type": "Game",
     "schinese_name": "",
     "isfreeapp": 0,
-    "update_time": "2025-06-19 10:04:17",
-    "change_number": 29640466,
+    "update_time": "2025-07-15 00:27:04",
+    "change_number": 30057929,
     "depot": {
         "1699032": {
             "config": {
@@ -14,9 +14,9 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "241940221932859311",
-                    "size": "430251603",
-                    "download": "149056656"
+                    "gid": "7213744347417712073",
+                    "size": "430251579",
+                    "download": "149240944"
                 }
             },
             "decryptionkey": "7bf0686231995b98b5ecd0a658cb5b2b0736d3007032876365edfbd60d9bda61"
@@ -27,9 +27,9 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "6716148980262050075",
-                    "size": "454658799",
-                    "download": "156804384"
+                    "gid": "807442633205260585",
+                    "size": "454659287",
+                    "download": "156987600"
                 }
             }
         },
@@ -39,9 +39,9 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "2316585740811468517",
-                    "size": "430180539",
-                    "download": "147559792"
+                    "gid": "654323484515890917",
+                    "size": "430180515",
+                    "download": "147727360"
                 }
             }
         },
@@ -52,17 +52,17 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "3927163405257800589",
-                    "size": "421668431",
-                    "download": "146421024"
+                    "gid": "1103968010257911267",
+                    "size": "421668407",
+                    "download": "146584576"
                 }
             },
             "decryptionkey": ""
         },
         "branches": {
             "public": {
-                "buildid": "18905569",
-                "timeupdated": "1750298653"
+                "buildid": "19222527",
+                "timeupdated": "1752534841"
             }
         }
     }
