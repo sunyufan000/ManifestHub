@@ -4,8 +4,8 @@
     "type": "Game",
     "schinese_name": "",
     "isfreeapp": 0,
-    "update_time": "2025-06-09 07:19:05",
-    "change_number": 29451928,
+    "update_time": "2025-07-14 22:12:52",
+    "change_number": 30056467,
     "depot": {
         "742011": {
             "config": {
@@ -32,7 +32,7 @@
                     "download": "205939680"
                 }
             },
-            "decryptionkey": ""
+            "decryptionkey": "7edbb41362ed85e8ed4dfb2f8b6bee4f6562fa207f97efdc40013426ad3fe011"
         },
         "742021": {
             "dlcappid": "742021",
@@ -74,7 +74,7 @@
                     "download": "174647776"
                 }
             },
-            "decryptionkey": ""
+            "decryptionkey": "51a3cbe2fdad5bb6389bb21409138fceb61f80ef208683366eb1b4a8855fd5b1"
         },
         "742012": {
             "config": {
@@ -86,7 +86,8 @@
                     "size": "773827055",
                     "download": "241594416"
                 }
-            }
+            },
+            "decryptionkey": "68f41afecc117abdfcdf01db502a30bc67e5d8f1dee020eb1d6f06f305b94726"
         },
         "742013": {
             "dlcappid": "742020",
@@ -99,7 +100,8 @@
                     "size": "672646358",
                     "download": "221710096"
                 }
-            }
+            },
+            "decryptionkey": "6b50c50d18e0d1c185c6a9fa1ac60e65affff7758bbf50dfd3885bc532c90407"
         },
         "742014": {
             "dlcappid": "749230",
@@ -112,7 +114,8 @@
                     "size": "613990216",
                     "download": "187905648"
                 }
-            }
+            },
+            "decryptionkey": "6178af97cee46c6e91350a018c253fb39e4c3c615ade0eb49d146673e825c0b2"
         },
         "742016": {
             "config": {
@@ -124,7 +127,8 @@
                     "size": "816073839",
                     "download": "258649104"
                 }
-            }
+            },
+            "decryptionkey": "a5a011dc6c4243c5b811573e6587a53f7b65d6b501d959823d24b18fa68471c5"
         },
         "742017": {
             "dlcappid": "742020",
@@ -137,7 +141,8 @@
                     "size": "677037807",
                     "download": "225549056"
                 }
-            }
+            },
+            "decryptionkey": "d27b976e720cd5bb61e16f2ec64f49c805245c8e1923724dee9fda7ba9c7b62d"
         },
         "742018": {
             "dlcappid": "749230",
@@ -150,7 +155,8 @@
                     "size": "618381685",
                     "download": "191740480"
                 }
-            }
+            },
+            "decryptionkey": "16f0efbea0a69158b4f606fec2b0b596ec6254a154610c6f8a8f905abd91723f"
         },
         "branches": {
             "public": {
