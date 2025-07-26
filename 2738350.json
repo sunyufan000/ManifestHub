@@ -4,7 +4,7 @@
     "type": "DLC",
     "schinese_name": "The Sims™ 4 怀旧都市套件包",
     "isfreeapp": 0,
-    "update_time": "2025-05-31 16:24:34",
+    "update_time": "2025-06-23 03:19:54",
     "change_number": 29299152,
     "depot": {
         "2738350": {
@@ -58,7 +58,7 @@
                 }
             },
             "dlcappid": "2738350",
-            "decryptionkey": ""
+            "decryptionkey": "c7b035e8fd491c77d7cceb41217ef7c178a9967b4185e0977b5ffa67d6f2c78b"
         },
         "2738354": {
             "config": {
