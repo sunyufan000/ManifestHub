@@ -4,8 +4,8 @@
     "type": "Demo",
     "schinese_name": "",
     "isfreeapp": 0,
-    "update_time": "2025-06-02 08:20:04",
-    "change_number": 29313109,
+    "update_time": "2025-07-05 17:03:03",
+    "change_number": 29911616,
     "depot": {
         "baselanguages": "english,italian,koreana,schinese,russian,brazilian,latam,indonesian",
         "2887001": {
@@ -14,9 +14,9 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "1084219012471712045",
-                    "size": "603444623",
-                    "download": "128040080"
+                    "gid": "9155699770996608151",
+                    "size": "594827196",
+                    "download": "123846896"
                 }
             }
         },
@@ -27,9 +27,9 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "4536028073022836336",
-                    "size": "603444623",
-                    "download": "128011952"
+                    "gid": "2974120788691667217",
+                    "size": "594827196",
+                    "download": "123811024"
                 }
             },
             "depotfromapp": "2522160",
@@ -37,8 +37,8 @@
         },
         "branches": {
             "public": {
-                "buildid": "18693594",
-                "timeupdated": "1748799465"
+                "buildid": "19118247",
+                "timeupdated": "1751731376"
             }
         }
     }
