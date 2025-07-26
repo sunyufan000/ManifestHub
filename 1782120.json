@@ -4,8 +4,8 @@
     "type": "Game",
     "schinese_name": "零希沃特",
     "isfreeapp": 0,
-    "update_time": "2025-06-20 22:37:21",
-    "change_number": 29670208,
+    "update_time": "2025-07-22 12:15:01",
+    "change_number": 30184702,
     "depot": {
         "1782121": {
             "config": {
@@ -13,14 +13,19 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "7802134088271010595",
-                    "size": "528183077",
-                    "download": "273916928"
+                    "gid": "3253529535601488743",
+                    "size": "528200382",
+                    "download": "274860496"
                 },
                 "legacy": {
                     "gid": "2620672129137811620",
                     "size": "329597268",
                     "download": "183542208"
+                },
+                "public-beta": {
+                    "gid": "525072920089824326",
+                    "size": "528232453",
+                    "download": "274872576"
                 }
             },
             "decryptionkey": "0bc5588f4c3b046a032c9a572cad93842f26607606bbfa76dbf4468046feabec"
@@ -28,16 +33,21 @@
         "workshopdepot": "1782120",
         "branches": {
             "public": {
-                "buildid": "18518189",
-                "timeupdated": "1747662677"
+                "buildid": "19061939",
+                "timeupdated": "1751389730"
             },
             "legacy": {
                 "buildid": "15528948",
                 "description": "Build 0.52.7",
                 "timeupdated": "1729690791"
+            },
+            "public-beta": {
+                "buildid": "19313774",
+                "description": "1.12.7",
+                "timeupdated": "1753182895"
             }
         },
         "privatebranches": "1",
-        "workshopdepotdecryptionkey": ""
+        "workshopdepotdecryptionkey": "859081face538d716778d1af6b2128c2fee9768e71487407cdc393f4be7f969c"
     }
 }
