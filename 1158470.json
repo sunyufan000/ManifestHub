@@ -4,8 +4,8 @@
     "type": "Game",
     "schinese_name": "",
     "isfreeapp": 0,
-    "update_time": "2025-05-30 07:17:11",
-    "change_number": 29272047,
+    "update_time": "2025-07-09 16:05:52",
+    "change_number": 29970715,
     "depot": {
         "workshopdepot": "1158470",
         "1158471": {
@@ -14,9 +14,9 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "7628154274869558902",
-                    "size": "90222214",
-                    "download": "30896384"
+                    "gid": "8987552941515224739",
+                    "size": "91292287",
+                    "download": "31526960"
                 },
                 "1.8.0": {
                     "gid": "1270809316951150745",
@@ -29,9 +29,9 @@
                     "download": "26457520"
                 },
                 "preview": {
-                    "gid": "7628154274869558902",
-                    "size": "90222214",
-                    "download": "30896384"
+                    "gid": "8987552941515224739",
+                    "size": "91292287",
+                    "download": "31526960"
                 }
             },
             "decryptionkey": "e40e50eecc497833f93b4bfb0bc45de97143f9af1c4c7296c42b740b68f28045"
@@ -43,9 +43,9 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "1372250673657930912",
-                    "size": "133014497",
-                    "download": "31456640"
+                    "gid": "667957012117954116",
+                    "size": "134084570",
+                    "download": "32189584"
                 },
                 "1.8.0": {
                     "gid": "54202064696119654",
@@ -58,17 +58,17 @@
                     "download": "27408656"
                 },
                 "preview": {
-                    "gid": "1372250673657930912",
-                    "size": "133014497",
-                    "download": "31456640"
+                    "gid": "667957012117954116",
+                    "size": "134084570",
+                    "download": "32189584"
                 }
             },
             "decryptionkey": "0293a64f04f0b19d85e6de75640f3db5d4c9cfc9b26cb07a0205dbfcae45f40a"
         },
         "branches": {
             "public": {
-                "buildid": "18350742",
-                "timeupdated": "1746475930"
+                "buildid": "19162389",
+                "timeupdated": "1752073547"
             },
             "1.8.0": {
                 "buildid": "8682667",
@@ -81,9 +81,9 @@
                 "timeupdated": "1717260564"
             },
             "preview": {
-                "buildid": "18350742",
+                "buildid": "19162389",
                 "description": "Upcoming releases",
-                "timeupdated": "1746475516"
+                "timeupdated": "1752073519"
             }
         },
         "workshopdepotdecryptionkey": "6d0de43aec849f2216eed8970f3b9cdf53773f6f762a5d6371ddb45beede1084"
