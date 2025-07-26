@@ -4,8 +4,8 @@
     "type": "Game",
     "schinese_name": "噩梦出口",
     "isfreeapp": 0,
-    "update_time": "2025-06-22 08:14:59",
-    "change_number": 29686618,
+    "update_time": "2025-07-23 09:10:49",
+    "change_number": 30202005,
     "depot": {
         "3169331": {
             "config": {
@@ -14,9 +14,9 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "7436983385925661174",
-                    "size": "4631657235",
-                    "download": "1641763472"
+                    "gid": "876028205813944083",
+                    "size": "4633989811",
+                    "download": "1642716848"
                 }
             },
             "decryptionkey": "e03083ac205170373f7c17df2a1bde065b8ed378385d3d24bbeab357a6f32d8c"
@@ -28,9 +28,9 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "5267850882406308492",
-                    "size": "4711135038",
-                    "download": "1659556000"
+                    "gid": "907374776242315818",
+                    "size": "4712061062",
+                    "download": "1660076512"
                 }
             }
         },
@@ -41,16 +41,16 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "1371623364061900556",
-                    "size": "4824605416",
-                    "download": "1709157424"
+                    "gid": "9150939074588520623",
+                    "size": "4826936036",
+                    "download": "1710103072"
                 }
             }
         },
         "branches": {
             "public": {
-                "buildid": "18953965",
-                "timeupdated": "1750568546"
+                "buildid": "18975876",
+                "timeupdated": "1750743909"
             }
         }
     }
