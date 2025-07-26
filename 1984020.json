@@ -4,17 +4,17 @@
     "type": "Game",
     "schinese_name": "",
     "isfreeapp": 0,
-    "update_time": "2025-06-07 08:47:22",
-    "change_number": 29424602,
+    "update_time": "2025-06-26 01:58:40",
+    "change_number": 29726993,
     "depot": {
         "baselanguages": "english,french,japanese",
         "workshopdepot": "1984020",
         "1984021": {
             "manifests": {
                 "public": {
-                    "gid": "3106965219182042410",
-                    "size": "1659028191",
-                    "download": "889197904"
+                    "gid": "7383262683735646880",
+                    "size": "1659349719",
+                    "download": "889458592"
                 },
                 "battle-warp-bug": {
                     "gid": "3846618076835830125",
@@ -36,8 +36,8 @@
         },
         "branches": {
             "public": {
-                "buildid": "18718192",
-                "timeupdated": "1748957070"
+                "buildid": "18983546",
+                "timeupdated": "1750783613"
             },
             "battle-warp-bug": {
                 "buildid": "17625721",
