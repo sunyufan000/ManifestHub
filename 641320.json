@@ -4,8 +4,8 @@
     "type": "Game",
     "schinese_name": "料理模拟器",
     "isfreeapp": 0,
-    "update_time": "2025-06-20 06:39:15",
-    "change_number": 29657789,
+    "update_time": "2025-07-23 12:22:05",
+    "change_number": 30205222,
     "depot": {
         "hasdepotsindlc": "1",
         "228987": {
@@ -36,9 +36,9 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "3639301448497818994",
-                    "size": "4989147623",
-                    "download": "3688060992"
+                    "gid": "8982011818030782137",
+                    "size": "4900499696",
+                    "download": "3693052176"
                 },
                 "poltergeist": {
                     "gid": "972027167869808479",
@@ -76,9 +76,9 @@
             "dlcappid": "1168680",
             "manifests": {
                 "public": {
-                    "gid": "347761223487009202",
-                    "size": "236984621",
-                    "download": "200985216"
+                    "gid": "956847961207213930",
+                    "size": "232997852",
+                    "download": "197441712"
                 },
                 "poltergeist": {
                     "gid": "3863902362290471050",
@@ -95,9 +95,9 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "2476063887797830870",
-                    "size": "1969427887",
-                    "download": "1784756912"
+                    "gid": "1385426478081922273",
+                    "size": "1956368678",
+                    "download": "1772480592"
                 },
                 "poltergeist": {
                     "gid": "8407915883947809875",
@@ -122,9 +122,9 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "600724369139386072",
-                    "size": "1701581059",
-                    "download": "1489433200"
+                    "gid": "667068340846775070",
+                    "size": "1748161359",
+                    "download": "1530445936"
                 },
                 "poltergeist": {
                     "gid": "1980294947058981427",
@@ -142,9 +142,9 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "1542758776259499290",
-                    "size": "2313537409",
-                    "download": "2095390496"
+                    "gid": "161694091980028467",
+                    "size": "2291616802",
+                    "download": "2075436656"
                 },
                 "poltergeist": {
                     "gid": "6715647609153354260",
@@ -177,9 +177,9 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "2525481501523708022",
-                    "size": "2714795647",
-                    "download": "2256438736"
+                    "gid": "4697742040605692953",
+                    "size": "2703019341",
+                    "download": "2246082448"
                 }
             },
             "decryptionkey": "2f18b51f4778cff77849ba20d5641847ce0ee6d1695ca634a6ba22af6482b01d"
@@ -190,12 +190,19 @@
                 "oslist": "windows",
                 "realm": "steamglobal"
             },
-            "manifests": {}
+            "manifests": {
+                "public": {
+                    "gid": "9214758569865772018",
+                    "size": "134821190",
+                    "download": "118262944"
+                }
+            },
+            "decryptionkey": ""
         },
         "branches": {
             "public": {
-                "buildid": "18656518",
-                "timeupdated": "1748512361"
+                "buildid": "19160480",
+                "timeupdated": "1752064535"
             },
             "poltergeist": {
                 "buildid": "7921875",
