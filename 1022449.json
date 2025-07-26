@@ -1,0 +1,28 @@
+{
+    "appid": 1022449,
+    "name": "DFF NT: Sephiroth Starter Pack",
+    "type": "DLC",
+    "schinese_name": "",
+    "isfreeapp": 0,
+    "update_time": "2025-06-23 14:10:12",
+    "change_number": 26201212,
+    "depot": {
+        "1022449": {
+            "manifests": {
+                "public": {
+                    "gid": "8938751677616569117",
+                    "size": "0",
+                    "download": "0"
+                }
+            },
+            "dlcappid": "1022449",
+            "decryptionkey": "d51ecfcfc99a3ecafcde78cf4150bd39c8b8c9e681dc8bc564d9c4996617b1e3"
+        },
+        "branches": {
+            "public": {
+                "buildid": "3508031",
+                "timeupdated": "1548672135"
+            }
+        }
+    }
+}
