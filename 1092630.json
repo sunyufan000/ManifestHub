@@ -4,8 +4,8 @@
     "type": "Game",
     "schinese_name": "",
     "isfreeapp": 0,
-    "update_time": "2025-06-04 16:06:29",
-    "change_number": 29366431,
+    "update_time": "2025-07-06 17:10:45",
+    "change_number": 29919718,
     "depot": {
         "1092632": {
             "config": {
@@ -50,7 +50,8 @@
                     "size": "218471072",
                     "download": "92869184"
                 }
-            }
+            },
+            "decryptionkey": "d39265cb34556230eff34f053893a0f2971588c51da507c34f4ebacf5056fe25"
         },
         "2698210": {
             "dlcappid": "2698210",
