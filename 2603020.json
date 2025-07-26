@@ -4,8 +4,8 @@
     "type": "Game",
     "schinese_name": "万神之城 Citadelum",
     "isfreeapp": 0,
-    "update_time": "2025-06-18 14:22:29",
-    "change_number": 29622877,
+    "update_time": "2025-07-22 13:26:35",
+    "change_number": 30185788,
     "depot": {
         "228989": {
             "config": {
@@ -24,9 +24,9 @@
         "2603021": {
             "manifests": {
                 "public": {
-                    "gid": "2393005047267312735",
-                    "size": "4277009162",
-                    "download": "1332796528"
+                    "gid": "8285399500456585998",
+                    "size": "5392358425",
+                    "download": "1582687088"
                 }
             },
             "decryptionkey": "7524dec83e20cc12831a547d7fec9d1b84f8541f334acf468d7e044f132d6e09"
@@ -34,8 +34,8 @@
         "workshopdepot": "2603020",
         "branches": {
             "public": {
-                "buildid": "18400305",
-                "timeupdated": "1746784783"
+                "buildid": "19175793",
+                "timeupdated": "1752152024"
             }
         },
         "privatebranches": "1",
