@@ -4,11 +4,16 @@
     "type": "Game",
     "schinese_name": "刺客信条：兄弟会",
     "isfreeapp": 0,
-    "update_time": "2025-06-19 06:38:49",
-    "change_number": 29638333,
+    "update_time": "2025-07-07 16:44:06",
+    "change_number": 29933227,
     "depot": {
-        "overridescddb": "1",
-        "baselanguages": "english,german,french,italian,koreana,spanish,schinese,tchinese,portuguese,polish,danish,dutch,norwegian,swedish",
+        "228981": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
         "228982": {
             "config": {
                 "oslist": "windows"
@@ -23,6 +28,8 @@
             "depotfromapp": "228980",
             "sharedinstall": "1"
         },
+        "overridescddb": "1",
+        "baselanguages": "english,german,french,italian,koreana,spanish,schinese,tchinese,portuguese,polish,danish,dutch,norwegian,swedish",
         "48193": {
             "config": {
                 "oslist": "macos"
@@ -135,9 +142,9 @@
         "1716751": {
             "manifests": {
                 "public": {
-                    "gid": "7692967814764193714",
-                    "size": "631944",
-                    "download": "515248"
+                    "gid": "818295193716041715",
+                    "size": "632424",
+                    "download": "551504"
                 }
             },
             "depotfromapp": "1716750",
