@@ -4,8 +4,8 @@
     "type": "Game",
     "schinese_name": "",
     "isfreeapp": 0,
-    "update_time": "2025-06-19 02:38:20",
-    "change_number": 29635134,
+    "update_time": "2025-07-23 12:10:37",
+    "change_number": 30205059,
     "depot": {
         "228988": {
             "config": {
@@ -28,14 +28,14 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "7392681964540948335",
-                    "size": "5384283108",
-                    "download": "585529136"
+                    "gid": "6104313422817175356",
+                    "size": "6020049358",
+                    "download": "752666064"
                 },
                 "beta": {
-                    "gid": "7392681964540948335",
-                    "size": "5384283108",
-                    "download": "585529136"
+                    "gid": "6104313422817175356",
+                    "size": "6020049358",
+                    "download": "752666064"
                 }
             },
             "decryptionkey": "b4b077327c865e84c8ff3a5df3db9164977fc05a5fe3af164e0c3789a4f18ce0"
@@ -46,16 +46,17 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "4796795222126866587",
-                    "size": "5409797951",
-                    "download": "650704944"
+                    "gid": "4079601277075583674",
+                    "size": "6045573994",
+                    "download": "814654176"
                 },
                 "beta": {
-                    "gid": "4796795222126866587",
-                    "size": "5409797951",
-                    "download": "650704944"
+                    "gid": "4079601277075583674",
+                    "size": "6045573994",
+                    "download": "814654176"
                 }
-            }
+            },
+            "decryptionkey": "fb2ac1cd5e82b472834b8dfc030f716345cd3284549a1ac4471f7f4524dbda80"
         },
         "3400933": {
             "config": {
@@ -76,13 +77,13 @@
         },
         "branches": {
             "public": {
-                "buildid": "18885365",
-                "timeupdated": "1750095237"
+                "buildid": "19204110",
+                "timeupdated": "1752404775"
             },
             "beta": {
-                "buildid": "18885365",
+                "buildid": "19204110",
                 "description": "latest but not stable",
-                "timeupdated": "1750095262"
+                "timeupdated": "1752404703"
             }
         },
         "privatebranches": "1"
