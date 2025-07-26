@@ -4,8 +4,8 @@
     "type": "Game",
     "schinese_name": "银河模拟器",
     "isfreeapp": 0,
-    "update_time": "2025-06-19 12:18:52",
-    "change_number": 29642025,
+    "update_time": "2025-07-09 06:04:03",
+    "change_number": 29962096,
     "depot": {
         "baselanguages": "english,german,french,italian,koreana,spanish,schinese,tchinese,russian,thai,japanese,portuguese,polish,danish,dutch,finnish,norwegian,swedish,hungarian,czech,romanian,turkish,arabic,brazilian,bulgarian,greek,ukrainian,latam,vietnamese,indonesian",
         "3313931": {
@@ -14,9 +14,9 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "5000324503505905368",
-                    "size": "8929681930",
-                    "download": "4378370880"
+                    "gid": "6962282110990834877",
+                    "size": "8920511963",
+                    "download": "4376397312"
                 }
             },
             "decryptionkey": "077a42431cae38d8a3183231cc33b6a95e9705edaae950d11928baabb6beb0cd"
@@ -35,8 +35,8 @@
         },
         "branches": {
             "public": {
-                "buildid": "18921745",
-                "timeupdated": "1750306726"
+                "buildid": "19155603",
+                "timeupdated": "1752037439"
             }
         }
     }
