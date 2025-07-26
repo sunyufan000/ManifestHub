@@ -1,0 +1,27 @@
+{
+    "appid": 1122870,
+    "name": "Mini Wars",
+    "type": "Game",
+    "schinese_name": "",
+    "isfreeapp": 0,
+    "update_time": "2025-07-06 09:10:49",
+    "change_number": 29916832,
+    "depot": {
+        "1122871": {
+            "manifests": {
+                "public": {
+                    "gid": "2822349595620145268",
+                    "size": "2438982107",
+                    "download": "875806320"
+                }
+            },
+            "decryptionkey": "d802ad3783aede25cd309e0a4586bf07aae917b250f07b0c33d6dedefbccfe05"
+        },
+        "branches": {
+            "public": {
+                "buildid": "5884749",
+                "timeupdated": "1606377992"
+            }
+        }
+    }
+}
