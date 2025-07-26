@@ -2,10 +2,10 @@
     "appid": 1804010,
     "name": "Labyrinth Of The Demon King",
     "type": "Game",
-    "schinese_name": "",
+    "schinese_name": "魔王的迷宫",
     "isfreeapp": 0,
-    "update_time": "2025-06-20 22:38:54",
-    "change_number": 29670227,
+    "update_time": "2025-07-15 07:09:50",
+    "change_number": 30062220,
     "depot": {
         "228989": {
             "config": {
@@ -24,17 +24,17 @@
         "1804011": {
             "manifests": {
                 "public": {
-                    "gid": "2614841324276711835",
-                    "size": "3911928293",
-                    "download": "2343847152"
+                    "gid": "7097910159406653501",
+                    "size": "4010327045",
+                    "download": "2405120928"
                 }
             },
             "decryptionkey": "9e2dda820fdffc53cc3820a3315777e79e7ce3789f88843cea754bca4b09a897"
         },
         "branches": {
             "public": {
-                "buildid": "18477521",
-                "timeupdated": "1747762240"
+                "buildid": "18967207",
+                "timeupdated": "1751749683"
             }
         },
         "privatebranches": "1"
