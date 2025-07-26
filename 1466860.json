@@ -4,8 +4,8 @@
     "type": "Game",
     "schinese_name": "帝国时代4：周年纪念版",
     "isfreeapp": 0,
-    "update_time": "2025-06-22 08:17:50",
-    "change_number": 29686630,
+    "update_time": "2025-07-22 17:10:36",
+    "change_number": 30189803,
     "depot": {
         "baselanguages": "english,german,french,italian,koreana,spanish,schinese,tchinese,russian,japanese,portuguese,polish,danish,dutch,finnish,norwegian,swedish,hungarian,czech,turkish,brazilian,greek,latam,vietnamese",
         "228988": {
@@ -18,14 +18,14 @@
         "1466861": {
             "manifests": {
                 "public": {
-                    "gid": "3927554668606200914",
-                    "size": "35686050554",
-                    "download": "29237272928"
+                    "gid": "2401589128625858962",
+                    "size": "35699149332",
+                    "download": "29096770320"
                 },
                 "previous_live": {
-                    "gid": "3660895483654482496",
-                    "size": "35685866540",
-                    "download": "29221965152"
+                    "gid": "875672865492017354",
+                    "size": "35693712908",
+                    "download": "29230063136"
                 }
             },
             "decryptionkey": "3e9a11fa63f3e2e44b67e70f2333c54bb22330f4af7030669958a23b66e5569f"
@@ -449,12 +449,12 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "755431912528671787",
+                    "gid": "3963339306366927662",
                     "size": "13077921035",
                     "download": "13255048512"
                 },
                 "previous_live": {
-                    "gid": "755431912528671787",
+                    "gid": "3963339306366927662",
                     "size": "13077921035",
                     "download": "13255048512"
                 }
@@ -675,12 +675,12 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "5014261807512283428",
+                    "gid": "9185693221020033766",
                     "size": "7056952072",
                     "download": "7148909104"
                 },
                 "previous_live": {
-                    "gid": "5014261807512283428",
+                    "gid": "9185693221020033766",
                     "size": "7056952072",
                     "download": "7148909104"
                 }
@@ -982,13 +982,13 @@
         },
         "branches": {
             "public": {
-                "buildid": "18307019",
-                "timeupdated": "1747152536"
+                "buildid": "19245677",
+                "timeupdated": "1753200632"
             },
             "previous_live": {
-                "buildid": "18134679",
+                "buildid": "18804118",
                 "description": "Archive of previous live build",
-                "timeupdated": "1747151481"
+                "timeupdated": "1753199496"
             }
         },
         "privatebranches": "1",
