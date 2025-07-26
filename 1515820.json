@@ -4,8 +4,8 @@
     "type": "Game",
     "schinese_name": "梦魔之枪",
     "isfreeapp": 0,
-    "update_time": "2025-06-02 23:09:09",
-    "change_number": 29321423,
+    "update_time": "2025-07-17 03:07:43",
+    "change_number": 30101575,
     "depot": {
         "baselanguages": "english,schinese,japanese",
         "1515821": {
@@ -45,7 +45,7 @@
                     "download": "210385280"
                 }
             },
-            "decryptionkey": ""
+            "decryptionkey": "a1537d2d08bba0fb999da158435ce59342e4dd200769b8dbb91cdd6b34c9d103"
         },
         "branches": {
             "public": {
