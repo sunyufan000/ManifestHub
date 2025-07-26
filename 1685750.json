@@ -4,8 +4,8 @@
     "type": "Game",
     "schinese_name": "Capcom复古格斗游戏收藏集",
     "isfreeapp": 0,
-    "update_time": "2025-06-13 13:59:38",
-    "change_number": 29542868,
+    "update_time": "2025-07-16 01:13:32",
+    "change_number": 30079204,
     "depot": {
         "baselanguages": "english,german,french,italian,koreana,spanish,schinese,tchinese,russian,japanese,polish,arabic,brazilian,latam",
         "hasdepotsindlc": "1",
@@ -19,9 +19,9 @@
         "1685751": {
             "manifests": {
                 "public": {
-                    "gid": "8262259513027347714",
-                    "size": "3680876007",
-                    "download": "3610720816"
+                    "gid": "3080144429769418038",
+                    "size": "3683051828",
+                    "download": "3612272960"
                 }
             },
             "decryptionkey": "99b30d263e887d2abba22ead550f7f903db7a4647b9a57b3c5d072e82bb41c55"
@@ -42,8 +42,8 @@
         },
         "branches": {
             "public": {
-                "buildid": "11402381",
-                "timeupdated": "1688970103"
+                "buildid": "18400000",
+                "timeupdated": "1752195415"
             }
         },
         "privatebranches": "1",
