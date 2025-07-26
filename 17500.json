@@ -4,9 +4,14 @@
     "type": "Game",
     "schinese_name": "",
     "isfreeapp": 1,
-    "update_time": "2025-06-22 05:55:45",
-    "change_number": 29685081,
+    "update_time": "2025-07-21 22:18:28",
+    "change_number": 30174675,
     "depot": {
+        "overridescddb": "1",
+        "markdlcdepots": "1",
+        "workshopdepot": "17500",
+        "baselanguages": "english,french,spanish,schinese,russian",
+        "hasdepotsindlc": "0",
         "228983": {
             "config": {
                 "oslist": "windows"
@@ -35,16 +40,8 @@
             "depotfromapp": "228980",
             "sharedinstall": "1"
         },
-        "overridescddb": "1",
-        "markdlcdepots": "1",
-        "workshopdepot": "17500",
-        "baselanguages": "english,french,spanish,schinese,russian",
-        "hasdepotsindlc": "0",
         "17501": {
             "systemdefined": "1",
-            "config": {
-                "language": ""
-            },
             "manifests": {
                 "public": {
                     "gid": "8620378020263083056",
@@ -66,8 +63,7 @@
         },
         "17502": {
             "config": {
-                "oslist": "windows",
-                "language": ""
+                "oslist": "windows"
             },
             "manifests": {
                 "public": {
@@ -90,8 +86,7 @@
         },
         "17503": {
             "config": {
-                "oslist": "linux",
-                "language": ""
+                "oslist": "linux"
             },
             "manifests": {
                 "public": {
@@ -113,9 +108,6 @@
             "decryptionkey": "4618a11332ecdf8017de0bad75897125e1d1e33b9570448e34d7a073257c7331"
         },
         "17504": {
-            "config": {
-                "language": ""
-            },
             "manifests": {
                 "public": {
                     "gid": "8179793741942415476",
