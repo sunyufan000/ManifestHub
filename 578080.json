@@ -4,8 +4,8 @@
     "type": "Game",
     "schinese_name": "绝地求生",
     "isfreeapp": 1,
-    "update_time": "2025-06-18 10:00:53",
-    "change_number": 29620105,
+    "update_time": "2025-07-23 01:01:13",
+    "change_number": 30196278,
     "depot": {
         "depotdeltapatches": "1",
         "baselanguages": "english",
@@ -40,9 +40,9 @@
         "578081": {
             "manifests": {
                 "public": {
-                    "gid": "4621027561436542460",
-                    "size": "42480846765",
-                    "download": "41328977744"
+                    "gid": "7750314602543861464",
+                    "size": "43721892885",
+                    "download": "42473815648"
                 }
             },
             "decryptionkey": "74eea6f9f5b0c0deea249bea435370fe734f552a55e1aca5b09ff4f3990ad53e"
@@ -50,17 +50,17 @@
         "578082": {
             "manifests": {
                 "public": {
-                    "gid": "1220245421877417180",
-                    "size": "646763498",
-                    "download": "341864352"
+                    "gid": "6641854067269037270",
+                    "size": "658543051",
+                    "download": "358291232"
                 }
             },
             "decryptionkey": "6cbd9e8da0339346aeaafb966fd6a173ee898929b9ba4349550c5489234dbac7"
         },
         "branches": {
             "public": {
-                "buildid": "18892190",
-                "timeupdated": "1750212048"
+                "buildid": "19309166",
+                "timeupdated": "1753228868"
             }
         },
         "privatebranches": "1"
