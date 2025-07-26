@@ -4,8 +4,8 @@
     "type": "Game",
     "schinese_name": "深空梦里人2：逐星之旅",
     "isfreeapp": 0,
-    "update_time": "2025-06-22 08:18:17",
-    "change_number": 29686634,
+    "update_time": "2025-07-23 07:24:28",
+    "change_number": 30200530,
     "depot": {
         "2442462": {
             "config": {
@@ -53,7 +53,7 @@
                     "download": "1386304"
                 }
             },
-            "decryptionkey": ""
+            "decryptionkey": "1645c0cd93753caf1aff609bee4f1c4b2794060cb6d8b8e640c6767a24f333df"
         },
         "branches": {
             "public": {
