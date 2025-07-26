@@ -4,8 +4,8 @@
     "type": "Game",
     "schinese_name": "",
     "isfreeapp": 0,
-    "update_time": "2025-06-20 20:45:53",
-    "change_number": 29668280,
+    "update_time": "2025-06-25 12:52:55",
+    "change_number": 29740926,
     "depot": {
         "228989": {
             "config": {
@@ -24,27 +24,27 @@
         "1646851": {
             "manifests": {
                 "public": {
-                    "gid": "3330868245672906487",
-                    "size": "13908672720",
-                    "download": "13196185024"
+                    "gid": "1924699020852297024",
+                    "size": "13913085032",
+                    "download": "13202035680"
                 },
                 "developer": {
-                    "gid": "3472722164202304433",
-                    "size": "13909668550",
-                    "download": "13198915504"
+                    "gid": "1924699020852297024",
+                    "size": "13913085032",
+                    "download": "13202035680"
                 }
             },
             "decryptionkey": "ddb6bc7f65029e83bfb22da6f5f0f2cdc1a8889992ea53a1e1f9626657148ed1"
         },
         "branches": {
             "public": {
-                "buildid": "18671403",
-                "timeupdated": "1748616262"
+                "buildid": "18991914",
+                "timeupdated": "1750852370"
             },
             "developer": {
-                "buildid": "18940209",
+                "buildid": "18991914",
                 "description": "Developer Build with log to detect crashes",
-                "timeupdated": "1750423546"
+                "timeupdated": "1750840906"
             }
         },
         "privatebranches": "1"
