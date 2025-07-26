@@ -4,7 +4,7 @@
     "type": "Game",
     "schinese_name": "战锤40K：末日之战",
     "isfreeapp": 0,
-    "update_time": "2025-05-20 19:13:58",
+    "update_time": "2025-06-23 14:41:59",
     "change_number": 29080438,
     "depot": {
         "228990": {
@@ -37,7 +37,8 @@
                     "size": "1212852462",
                     "download": "972882176"
                 }
-            }
+            },
+            "decryptionkey": "b5bb1887c9ac92f1effbce4ca2c636dc9c084f52df3f781b2e52463dfd4af9b9"
         },
         "348760": {
             "dlcappid": "348760",
