@@ -4,8 +4,8 @@
     "type": "Game",
     "schinese_name": "星际殖民地",
     "isfreeapp": 0,
-    "update_time": "2025-06-07 15:05:37",
-    "change_number": 29432479,
+    "update_time": "2025-07-22 02:18:06",
+    "change_number": 30177292,
     "depot": {
         "228989": {
             "config": {
@@ -25,17 +25,17 @@
         "1614551": {
             "manifests": {
                 "public": {
-                    "gid": "8076998104728085056",
-                    "size": "3690347510",
-                    "download": "3541784784"
+                    "gid": "3329074312543930906",
+                    "size": "3693407147",
+                    "download": "3552272496"
                 }
             },
             "decryptionkey": "3371255cd228c41ba67c24f9d6c608715ab70e7f9b5c50d2eabe99e3b503d5e9"
         },
         "branches": {
             "public": {
-                "buildid": "18775757",
-                "timeupdated": "1749279931"
+                "buildid": "19218525",
+                "timeupdated": "1752512345"
             }
         },
         "privatebranches": "1",
