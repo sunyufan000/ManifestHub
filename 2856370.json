@@ -4,8 +4,8 @@
     "type": "Game",
     "schinese_name": "雾方福地 - Into the Emberlands",
     "isfreeapp": 0,
-    "update_time": "2025-06-19 03:18:17",
-    "change_number": 29635762,
+    "update_time": "2025-07-07 13:50:30",
+    "change_number": 29930483,
     "depot": {
         "228990": {
             "config": {
@@ -20,9 +20,9 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "7904993010738218887",
-                    "size": "524371257",
-                    "download": "179835328"
+                    "gid": "2545898332975241835",
+                    "size": "524461452",
+                    "download": "188614848"
                 }
             },
             "decryptionkey": "7185725005b8328347ffa0667156000e7d9e8efdd3271c663fc7b54cd2c67aa0"
@@ -40,8 +40,8 @@
         },
         "branches": {
             "public": {
-                "buildid": "17350230",
-                "timeupdated": "1739452859"
+                "buildid": "19131869",
+                "timeupdated": "1751892624"
             }
         },
         "privatebranches": "1"
