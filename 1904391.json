@@ -4,7 +4,7 @@
     "type": "DLC",
     "schinese_name": "The Sims™ 4 小小露营家套件包",
     "isfreeapp": 0,
-    "update_time": "2025-05-31 11:17:16",
+    "update_time": "2025-06-23 03:19:46",
     "change_number": 29296794,
     "depot": {
         "1904391": {
@@ -44,7 +44,7 @@
                 }
             },
             "dlcappid": "1904391",
-            "decryptionkey": ""
+            "decryptionkey": "ecdcf285a1ab309e79f0160cacb9506fa9420cf6f96d873ff3671eb27c544a5e"
         },
         "1985862": {
             "config": {
@@ -72,7 +72,7 @@
                 }
             },
             "dlcappid": "1904391",
-            "decryptionkey": ""
+            "decryptionkey": "771ece9937e6d06488d9cc021e87d0725531d9d0396d25968394860c1f267eec"
         },
         "1985864": {
             "config": {
