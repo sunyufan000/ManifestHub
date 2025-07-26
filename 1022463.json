@@ -1,0 +1,28 @@
+{
+    "appid": 1022463,
+    "name": "DFF NT: Kuja Starter Pack",
+    "type": "DLC",
+    "schinese_name": "",
+    "isfreeapp": 0,
+    "update_time": "2025-06-23 14:10:13",
+    "change_number": 26201212,
+    "depot": {
+        "1022463": {
+            "manifests": {
+                "public": {
+                    "gid": "8187470446042605792",
+                    "size": "0",
+                    "download": "0"
+                }
+            },
+            "dlcappid": "1022463",
+            "decryptionkey": "05ac5d4e76ef69df59596f11e782496e95623707d76b7482db477cfa1dfa0033"
+        },
+        "branches": {
+            "public": {
+                "buildid": "3508036",
+                "timeupdated": "1548672096"
+            }
+        }
+    }
+}
