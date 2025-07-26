@@ -4,8 +4,8 @@
     "type": "Game",
     "schinese_name": "侠盗猎车手：圣安地列斯 - 最终版",
     "isfreeapp": 0,
-    "update_time": "2025-06-11 00:53:26",
-    "change_number": 29490908,
+    "update_time": "2025-07-15 22:12:39",
+    "change_number": 30077229,
     "depot": {
         "228988": {
             "config": {
@@ -34,9 +34,9 @@
         "1899671": {
             "manifests": {
                 "public": {
-                    "gid": "4177720964978853031",
-                    "size": "230627596",
-                    "download": "187200304"
+                    "gid": "1313721849634300954",
+                    "size": "223812877",
+                    "download": "187185200"
                 }
             },
             "depotfromapp": "1899670",
