@@ -4,16 +4,16 @@
     "type": "Game",
     "schinese_name": "房产达人 2",
     "isfreeapp": 0,
-    "update_time": "2025-06-22 10:02:24",
-    "change_number": 29687167,
+    "update_time": "2025-07-24 01:39:55",
+    "change_number": 30217248,
     "depot": {
         "baselanguages": "english,german,french,italian,koreana,spanish,schinese,tchinese,russian,japanese,portuguese,polish,dutch,norwegian,turkish,brazilian,ukrainian,latam",
         "1190971": {
             "manifests": {
                 "public": {
-                    "gid": "4874032129941428029",
-                    "size": "9911367245",
-                    "download": "8444820416"
+                    "gid": "9077091668481121453",
+                    "size": "13678844367",
+                    "download": "12243998096"
                 }
             },
             "decryptionkey": "a6202777d416dcf4d2f36cc5f7a69f90cca6e1bfbde6e27eaa4e97e86c7d3196"
@@ -34,8 +34,8 @@
         },
         "branches": {
             "public": {
-                "buildid": "18783168",
-                "timeupdated": "1749371971"
+                "buildid": "19241854",
+                "timeupdated": "1752768159"
             }
         },
         "privatebranches": "1"
