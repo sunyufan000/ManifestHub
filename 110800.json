@@ -4,8 +4,8 @@
     "type": "Game",
     "schinese_name": "黑色洛城",
     "isfreeapp": 0,
-    "update_time": "2025-06-11 00:53:26",
-    "change_number": 29490908,
+    "update_time": "2025-07-15 23:04:44",
+    "change_number": 30077894,
     "depot": {
         "overridescddb": "1",
         "110802": {
@@ -47,9 +47,9 @@
         "1899671": {
             "manifests": {
                 "public": {
-                    "gid": "4177720964978853031",
-                    "size": "230627596",
-                    "download": "187200304"
+                    "gid": "1313721849634300954",
+                    "size": "223812877",
+                    "download": "187185200"
                 }
             },
             "depotfromapp": "1899670",
