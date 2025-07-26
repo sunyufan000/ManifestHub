@@ -4,8 +4,8 @@
     "type": "Game",
     "schinese_name": "石油大亨",
     "isfreeapp": 0,
-    "update_time": "2025-06-21 16:25:41",
-    "change_number": 29588388,
+    "update_time": "2025-07-18 07:47:27",
+    "change_number": 30125886,
     "depot": {
         "228990": {
             "config": {
@@ -45,9 +45,9 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "3580455041055581354",
-                    "size": "1917854259",
-                    "download": "180022784"
+                    "gid": "2286441314048220410",
+                    "size": "1889283979",
+                    "download": "180107968"
                 },
                 "old_campaign_compatible": {
                     "gid": "2930759533100733229",
@@ -73,9 +73,9 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "6696569955949601546",
-                    "size": "2008766699",
-                    "download": "186526432"
+                    "gid": "7914660986575820966",
+                    "size": "1980196419",
+                    "download": "187128000"
                 },
                 "old_campaign_compatible": {
                     "gid": "6133352096809706594",
@@ -101,9 +101,9 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "6311826704115770889",
-                    "size": "1935237241",
-                    "download": "184259104"
+                    "gid": "7156024269728039852",
+                    "size": "1906668464",
+                    "download": "184971312"
                 },
                 "old_campaign_compatible": {
                     "gid": "8771767955149127286",
@@ -152,8 +152,8 @@
         "hasdepotsindlc": "0",
         "branches": {
             "public": {
-                "buildid": "18883444",
-                "timeupdated": "1750081703"
+                "buildid": "19270738",
+                "timeupdated": "1752821243"
             },
             "old_campaign_compatible": {
                 "buildid": "5090105",
