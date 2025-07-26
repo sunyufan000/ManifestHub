@@ -4,8 +4,8 @@
     "type": "Game",
     "schinese_name": "",
     "isfreeapp": 0,
-    "update_time": "2025-06-17 17:57:39",
-    "change_number": 29605323,
+    "update_time": "2025-07-17 01:22:43",
+    "change_number": 30100367,
     "depot": {
         "2659901": {
             "config": {
@@ -13,14 +13,14 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "8917734084865351097",
-                    "size": "413680942",
-                    "download": "206097120"
+                    "gid": "5609987804839283920",
+                    "size": "416230354",
+                    "download": "208427264"
                 },
                 "destabilized": {
-                    "gid": "8886185410039083552",
-                    "size": "416230277",
-                    "download": "208427200"
+                    "gid": "5609987804839283920",
+                    "size": "416230354",
+                    "download": "208427264"
                 }
             },
             "decryptionkey": "948b537e16b1f7f17071329983f2d3d57c5cde71d1a8a34e50dafc71afc03ae7"
@@ -32,14 +32,14 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "889356196460942532",
-                    "size": "545904106",
-                    "download": "246957728"
+                    "gid": "808152674728785092",
+                    "size": "548458403",
+                    "download": "250019280"
                 },
                 "destabilized": {
-                    "gid": "1578265930989621311",
-                    "size": "548458086",
-                    "download": "250019136"
+                    "gid": "808152674728785092",
+                    "size": "548458403",
+                    "download": "250019280"
                 }
             },
             "decryptionkey": "fca91fc5be04e1634c30f493a61926d74a97cfadd1d5f8cb9c64bcecdfba11a6"
@@ -51,9 +51,9 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "6677622184788109019",
-                    "size": "156186858",
-                    "download": "158226832"
+                    "gid": "7847818130457582289",
+                    "size": "392227681",
+                    "download": "194905008"
                 },
                 "destabilized": {
                     "gid": "7847818130457582289",
@@ -64,13 +64,13 @@
         },
         "branches": {
             "public": {
-                "buildid": "17240262",
-                "timeupdated": "1738686539"
+                "buildid": "19003260",
+                "timeupdated": "1750899406"
             },
             "destabilized": {
-                "buildid": "18895339",
+                "buildid": "19003260",
                 "description": "Public testing",
-                "timeupdated": "1750154253"
+                "timeupdated": "1750898773"
             }
         },
         "privatebranches": "1"
