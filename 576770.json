@@ -4,8 +4,8 @@
     "type": "Game",
     "schinese_name": "低魔时代",
     "isfreeapp": 0,
-    "update_time": "2025-06-09 11:21:26",
-    "change_number": 29454239,
+    "update_time": "2025-07-12 02:06:16",
+    "change_number": 30022150,
     "depot": {
         "228985": {
             "config": {
@@ -24,9 +24,9 @@
         "576771": {
             "manifests": {
                 "public": {
-                    "gid": "2668575903956895383",
-                    "size": "273829634",
-                    "download": "208668864"
+                    "gid": "7613545125462123890",
+                    "size": "274982578",
+                    "download": "209603376"
                 },
                 "0.90.11": {
                     "gid": "2131522076516396352",
@@ -69,8 +69,8 @@
         "workshopdepot": "576770",
         "branches": {
             "public": {
-                "buildid": "18789212",
-                "timeupdated": "1749439248"
+                "buildid": "19153895",
+                "timeupdated": "1752282369"
             },
             "0.90.11": {
                 "buildid": "3252537",
