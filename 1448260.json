@@ -1,0 +1,36 @@
+{
+    "appid": 1448260,
+    "name": "下一站江湖Ⅰ",
+    "type": "Game",
+    "schinese_name": "下一站江湖Ⅰ",
+    "isfreeapp": 0,
+    "update_time": "2025-06-29 18:14:52",
+    "change_number": 29811722,
+    "depot": {
+        "hasdepotsindlc": "1",
+        "1448261": {
+            "config": {
+                "language": "schinese",
+                "oslist": "windows",
+                "osarch": "64"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "135361911872699682",
+                    "size": "2448339095",
+                    "download": "2120686784"
+                }
+            },
+            "decryptionkey": "b4295e0b6f610a626f4c1db5161b5a374132551ae49e394755c2914c5dfa2ccf"
+        },
+        "baselanguages": "schinese",
+        "branches": {
+            "public": {
+                "buildid": "8292432",
+                "timeupdated": "1646129067"
+            }
+        },
+        "privatebranches": "1"
+    },
+    "access_token": 12289483508780788031
+}
