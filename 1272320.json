@@ -4,16 +4,16 @@
     "type": "Game",
     "schinese_name": "要战便战",
     "isfreeapp": 0,
-    "update_time": "2025-06-21 06:38:51",
-    "change_number": 29676583,
+    "update_time": "2025-07-23 20:21:00",
+    "change_number": 30213356,
     "depot": {
         "hasdepotsindlc": "0",
         "1272321": {
             "manifests": {
                 "public": {
-                    "gid": "260105539661521371",
-                    "size": "11357116077",
-                    "download": "4625294864"
+                    "gid": "2642999492365536203",
+                    "size": "11324810560",
+                    "download": "4647362880"
                 }
             },
             "decryptionkey": "679b29b2f179a1a412570aecff5f975e3722b084a18733f963832690fcfd6005"
@@ -32,11 +32,11 @@
         "workshopdepot": "1272320",
         "branches": {
             "public": {
-                "buildid": "18448703",
-                "timeupdated": "1747160226"
+                "buildid": "19174851",
+                "timeupdated": "1752156546"
             }
         },
         "privatebranches": "1",
-        "workshopdepotdecryptionkey": ""
+        "workshopdepotdecryptionkey": "a6e1d14489efd06ce2c35a50e97f75a2c94eabec03dcc91536e1266ee2b1d8ce"
     }
 }
