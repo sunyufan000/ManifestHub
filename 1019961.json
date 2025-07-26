@@ -1,0 +1,31 @@
+{
+    "appid": 1019961,
+    "name": "DYNASTY WARRIORS 9: Lu Xun \"Knight Costume\" / 陸遜「騎士風コスチューム」",
+    "type": "DLC",
+    "schinese_name": "",
+    "isfreeapp": 0,
+    "update_time": "2025-06-23 13:40:52",
+    "change_number": 26201212,
+    "depot": {
+        "1019961": {
+            "config": {
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "5643406372631409145",
+                    "size": "47118952",
+                    "download": "47086736"
+                }
+            },
+            "dlcappid": "1019961",
+            "decryptionkey": "e79dffed0c941b1267b1534a9edaf27876cb25ef2fdc92db2a8d8527ddfa2b22"
+        },
+        "branches": {
+            "public": {
+                "buildid": "3511257",
+                "timeupdated": "1550109826"
+            }
+        }
+    }
+}
