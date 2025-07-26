@@ -4,8 +4,8 @@
     "type": "Game",
     "schinese_name": "三角洲行动 ",
     "isfreeapp": 1,
-    "update_time": "2025-06-22 10:19:53",
-    "change_number": 29687241,
+    "update_time": "2025-07-24 00:10:25",
+    "change_number": 30216272,
     "depot": {
         "hasdepotsindlc": "1",
         "baselanguages": "",
@@ -50,9 +50,9 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "8174531500465390847",
-                    "size": "94746519938",
-                    "download": "89379062720"
+                    "gid": "2445527065481303529",
+                    "size": "101897314284",
+                    "download": "96846254832"
                 }
             },
             "decryptionkey": "91450364d55cea454aaa08b61911d1029ff00e9490f0a9f59b155148a474d290"
@@ -63,17 +63,17 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "6660803524613724130",
-                    "size": "93342961191",
-                    "download": "89002174656"
+                    "gid": "3359296736138731130",
+                    "size": "100473631238",
+                    "download": "95698128384"
                 }
             },
             "decryptionkey": ""
         },
         "branches": {
             "public": {
-                "buildid": "18764697",
-                "timeupdated": "1749206428"
+                "buildid": "19268756",
+                "timeupdated": "1752805245"
             }
         },
         "privatebranches": "1"
