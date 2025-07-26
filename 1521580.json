@@ -4,8 +4,8 @@
     "type": "Game",
     "schinese_name": "",
     "isfreeapp": 0,
-    "update_time": "2025-06-03 22:21:26",
-    "change_number": 29350198,
+    "update_time": "2025-07-03 16:49:26",
+    "change_number": 29881896,
     "depot": {
         "228988": {
             "config": {
@@ -27,9 +27,9 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "6668173684121805962",
-                    "size": "9682234577",
-                    "download": "1563328992"
+                    "gid": "1145582201987699199",
+                    "size": "9712315545",
+                    "download": "1610521136"
                 },
                 "raytracing-test": {
                     "gid": "1675624913230179514",
@@ -37,9 +37,9 @@
                     "download": "312851360"
                 },
                 "beta": {
-                    "gid": "2587907868992773467",
-                    "size": "9683061661",
-                    "download": "1563296160"
+                    "gid": "1145582201987699199",
+                    "size": "9712315545",
+                    "download": "1610521136"
                 },
                 "debug": {
                     "gid": "3887763586450822472",
@@ -80,8 +80,8 @@
         "workshopdepot": "1521580",
         "branches": {
             "public": {
-                "buildid": "18013487",
-                "timeupdated": "1744041063"
+                "buildid": "19096066",
+                "timeupdated": "1751557760"
             },
             "raytracing-test": {
                 "buildid": "7255059",
@@ -89,9 +89,9 @@
                 "timeupdated": "1629983385"
             },
             "beta": {
-                "buildid": "18719057",
+                "buildid": "19096066",
                 "description": "beta",
-                "timeupdated": "1748960481"
+                "timeupdated": "1751557650"
             },
             "debug": {
                 "buildid": "16646163",
