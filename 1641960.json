@@ -4,8 +4,8 @@
     "type": "Game",
     "schinese_name": "永恒天空",
     "isfreeapp": 0,
-    "update_time": "2025-06-22 09:31:25",
-    "change_number": 29687012,
+    "update_time": "2025-07-23 23:33:31",
+    "change_number": 30215856,
     "depot": {
         "baselanguages": "english",
         "hasdepotsindlc": "0",
@@ -29,9 +29,14 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "2852931160418501265",
-                    "size": "21744266711",
-                    "download": "8433908752"
+                    "gid": "7563645180545913235",
+                    "size": "21553500313",
+                    "download": "8508569536"
+                },
+                "beta_flight": {
+                    "gid": "6025741273930508998",
+                    "size": "21757219459",
+                    "download": "8543563088"
                 },
                 "legacy": {
                     "gid": "2491595022991922376",
@@ -44,8 +49,13 @@
         "1641961": {},
         "branches": {
             "public": {
-                "buildid": "18659384",
-                "timeupdated": "1748866513"
+                "buildid": "19314796",
+                "timeupdated": "1753262776"
+            },
+            "beta_flight": {
+                "buildid": "19223649",
+                "description": "Public test beta for an even earlier access to future game updates",
+                "timeupdated": "1752582981"
             },
             "legacy": {
                 "buildid": "15740077",
