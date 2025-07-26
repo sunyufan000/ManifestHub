@@ -4,8 +4,8 @@
     "type": "Application",
     "schinese_name": "",
     "isfreeapp": 1,
-    "update_time": "2025-06-22 05:54:01",
-    "change_number": 29683070,
+    "update_time": "2025-07-11 21:45:23",
+    "change_number": 30019651,
     "depot": {
         "workshopdepot": "1325860",
         "228988": {
@@ -223,6 +223,7 @@
             },
             "decryptionkey": "3a79a1e27e8a6e7133075fa19dafb01e35011fdff0a70fee9fc4a4d9152bc7f1"
         },
+        "hasdepotsindlc": "1",
         "branches": {
             "public": {
                 "buildid": "18804418",
