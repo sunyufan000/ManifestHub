@@ -4,8 +4,8 @@
     "type": "Game",
     "schinese_name": "幽灵行动：荒野",
     "isfreeapp": 0,
-    "update_time": "2025-06-12 17:06:08",
-    "change_number": 29524701,
+    "update_time": "2025-07-04 23:44:26",
+    "change_number": 29905306,
     "depot": {
         "baselanguages": "english",
         "228984": {
@@ -414,9 +414,9 @@
         "1716751": {
             "manifests": {
                 "public": {
-                    "gid": "7692967814764193714",
-                    "size": "631944",
-                    "download": "515248"
+                    "gid": "818295193716041715",
+                    "size": "632424",
+                    "download": "551504"
                 }
             },
             "depotfromapp": "1716750",
