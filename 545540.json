@@ -4,7 +4,7 @@
     "type": "Game",
     "schinese_name": "德科医生的传染疯病",
     "isfreeapp": 0,
-    "update_time": "2025-06-16 08:04:42",
+    "update_time": "2025-06-23 10:46:22",
     "change_number": 29578617,
     "depot": {
         "545541": {},
@@ -211,7 +211,7 @@
                     "download": "84422624"
                 }
             },
-            "decryptionkey": ""
+            "decryptionkey": "48d4bc653255776cd900b79468bb09017950db95dbdc970a0c798d1866a2d214"
         },
         "545545": {
             "config": {
