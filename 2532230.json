@@ -4,8 +4,8 @@
     "type": "Game",
     "schinese_name": "",
     "isfreeapp": 1,
-    "update_time": "2025-06-14 05:11:11",
-    "change_number": 29557858,
+    "update_time": "2025-07-23 20:31:44",
+    "change_number": 30213495,
     "depot": {
         "228989": {
             "config": {
@@ -28,10 +28,15 @@
                     "size": "8882024246",
                     "download": "8664164992"
                 },
+                "nexus": {
+                    "gid": "134955476204879535",
+                    "size": "9051464187",
+                    "download": "8681020016"
+                },
                 "scp-323-1": {
-                    "gid": "7626640757725689674",
-                    "size": "8889388150",
-                    "download": "8670319504"
+                    "gid": "2773862673077761210",
+                    "size": "9082408603",
+                    "download": "8712500512"
                 }
             },
             "decryptionkey": "ed8840516504223867f00904e73079c0779dd9df4c463b2cba9b23c5c803105b"
@@ -41,10 +46,15 @@
                 "buildid": "18296475",
                 "timeupdated": "1746049246"
             },
+            "nexus": {
+                "buildid": "19333187",
+                "description": "nexus map wip",
+                "timeupdated": "1753299101"
+            },
             "scp-323-1": {
-                "buildid": "18861841",
+                "buildid": "19201889",
                 "description": "scp-323-1 prerelease",
-                "timeupdated": "1749849066"
+                "timeupdated": "1752332453"
             }
         },
         "privatebranches": "1"
