@@ -4,8 +4,8 @@
     "type": "Beta",
     "schinese_name": "",
     "isfreeapp": 0,
-    "update_time": "2025-06-19 02:55:56",
-    "change_number": 29635400,
+    "update_time": "2025-07-18 06:44:22",
+    "change_number": 30125080,
     "depot": {
         "baselanguages": "english,german,french,italian,koreana,spanish,schinese,tchinese,russian,thai,japanese,portuguese,polish,danish,dutch,finnish,norwegian,swedish,hungarian,czech,romanian,turkish,arabic,brazilian,bulgarian,greek,ukrainian,latam,vietnamese",
         "228989": {
@@ -23,9 +23,9 @@
                     "download": "2021048736"
                 },
                 "0.10.0-pre": {
-                    "gid": "5867443214998326190",
-                    "size": "4004181624",
-                    "download": "1827433280"
+                    "gid": "6156428515879016908",
+                    "size": "4072806569",
+                    "download": "1887486192"
                 }
             },
             "decryptionkey": "efefa2a23c0112e13a7cd3198cd6120833afacadc276fda80874af59c1af0504"
@@ -41,9 +41,9 @@
                     "download": "110663840"
                 },
                 "0.10.0-pre": {
-                    "gid": "5377153936484427238",
-                    "size": "365972627",
-                    "download": "109074496"
+                    "gid": "334027228369468430",
+                    "size": "366348947",
+                    "download": "122430576"
                 }
             },
             "decryptionkey": "08d634f951ebc26371df13ec1e57280541c63f9818fefe7e4f82784d57a2d830"
@@ -59,9 +59,9 @@
                     "download": "220675088"
                 },
                 "0.10.0-pre": {
-                    "gid": "6952018040949666415",
-                    "size": "864122540",
-                    "download": "223974192"
+                    "gid": "4463665998927242029",
+                    "size": "870932328",
+                    "download": "243206000"
                 }
             }
         },
@@ -71,11 +71,10 @@
                 "timeupdated": "1735606624"
             },
             "0.10.0-pre": {
-                "buildid": "18916579",
+                "buildid": "19270190",
                 "description": "Prerelease 0.10.0 things",
-                "timeupdated": "1750272952"
+                "timeupdated": "1752817459"
             }
-        },
-        "privatebranches": "1"
+        }
     }
 }
