@@ -4,8 +4,8 @@
     "type": "Game",
     "schinese_name": "忍者神龟：破碎命运",
     "isfreeapp": 0,
-    "update_time": "2025-06-22 06:18:15",
-    "change_number": 29686018,
+    "update_time": "2025-07-24 00:26:19",
+    "change_number": 30216438,
     "depot": {
         "baselanguages": "english,german,french,italian,koreana,schinese,tchinese,russian,japanese,dutch,turkish,arabic,brazilian,latam",
         "228988": {
@@ -18,9 +18,9 @@
         "2996041": {
             "manifests": {
                 "public": {
-                    "gid": "1442858181103322009",
-                    "size": "4045392293",
-                    "download": "1559225648"
+                    "gid": "4266532081604388589",
+                    "size": "3411945087",
+                    "download": "1378516016"
                 },
                 "local": {
                     "gid": "4337140281606553610",
@@ -43,8 +43,8 @@
         },
         "branches": {
             "public": {
-                "buildid": "18645073",
-                "timeupdated": "1748452711"
+                "buildid": "19131273",
+                "timeupdated": "1751902490"
             },
             "local": {
                 "buildid": "15018156",
