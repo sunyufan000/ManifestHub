@@ -4,7 +4,7 @@
     "type": "Game",
     "schinese_name": "",
     "isfreeapp": 0,
-    "update_time": "2025-05-28 21:22:37",
+    "update_time": "2025-06-23 13:45:17",
     "change_number": 29236770,
     "depot": {
         "645361": {
@@ -26,7 +26,7 @@
                 }
             },
             "dlcappid": "918410",
-            "decryptionkey": ""
+            "decryptionkey": "bb6265fbc0c8abdb2400f45e81f52a9f617e5bd58e36adc473c94199e299a5f4"
         },
         "branches": {
             "public": {
