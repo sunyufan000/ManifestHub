@@ -4,8 +4,8 @@
     "type": "Game",
     "schinese_name": "Cosmoteer: 星舰设计师",
     "isfreeapp": 0,
-    "update_time": "2025-06-20 05:32:32",
-    "change_number": 29656817,
+    "update_time": "2025-07-24 02:43:35",
+    "change_number": 30217984,
     "depot": {
         "228989": {
             "config": {
@@ -68,9 +68,9 @@
                     "download": "1270150016"
                 },
                 "unstable": {
-                    "gid": "5766635915334634129",
-                    "size": "1317702192",
-                    "download": "1277669840"
+                    "gid": "1852211482243703132",
+                    "size": "1394838527",
+                    "download": "1351553280"
                 }
             },
             "decryptionkey": "c7c1275eba141988dcc75746510071b5a1b826a01cf6c0f974b03f07d89652d4"
@@ -122,9 +122,9 @@
                     "download": "57646624"
                 },
                 "unstable": {
-                    "gid": "6047139145712231359",
-                    "size": "190708447",
-                    "download": "57669152"
+                    "gid": "4102271071301854365",
+                    "size": "193132021",
+                    "download": "69358256"
                 }
             },
             "decryptionkey": "e15c9b74effae3f79409f360b71bf5b110cc1561e23ce2515459dee9e4569cf4"
@@ -176,9 +176,9 @@
                     "download": "63980240"
                 },
                 "unstable": {
-                    "gid": "8448064040364019213",
-                    "size": "205816412",
-                    "download": "63981312"
+                    "gid": "7466547929508270305",
+                    "size": "208395546",
+                    "download": "75847680"
                 }
             },
             "decryptionkey": "957e695d970db86795eea257e7b86217684794eaeabba1ac8ba96167dc412bfe"
@@ -226,9 +226,9 @@
                 "timeupdated": "1746997329"
             },
             "unstable": {
-                "buildid": "18408408",
+                "buildid": "19337237",
                 "description": "Bleeding-edge updates; possibly very buggy!",
-                "timeupdated": "1746997348"
+                "timeupdated": "1753321407"
             }
         },
         "privatebranches": "1",
