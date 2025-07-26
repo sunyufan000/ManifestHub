@@ -1,0 +1,64 @@
+{
+    "appid": 1056690,
+    "name": "Drink More Glurp",
+    "type": "Game",
+    "schinese_name": "",
+    "isfreeapp": 0,
+    "update_time": "2025-07-12 02:11:16",
+    "change_number": 30022198,
+    "depot": {
+        "workshopdepot": "1056690",
+        "1056691": {
+            "config": {
+                "oslist": "windows",
+                "osarch": "64",
+                "language": ""
+            },
+            "manifests": {
+                "public": {
+                    "gid": "6433008927477087373",
+                    "size": "216796256",
+                    "download": "135786336"
+                }
+            },
+            "decryptionkey": "1f9981aaa7daa4018070b6713c0d0dcac106705301af0f9410b72b8c8c729106"
+        },
+        "1056692": {
+            "config": {
+                "oslist": "macos",
+                "osarch": "64",
+                "language": ""
+            },
+            "manifests": {
+                "public": {
+                    "gid": "1097090455748454350",
+                    "size": "236798106",
+                    "download": "149322512"
+                }
+            },
+            "decryptionkey": "8dc90c0803467004fa877725104d942353f6753245070b42594fb8ee4d9ff127"
+        },
+        "1056693": {
+            "config": {
+                "oslist": "linux",
+                "osarch": "64",
+                "language": ""
+            },
+            "manifests": {
+                "public": {
+                    "gid": "8358627657738891936",
+                    "size": "217153630",
+                    "download": "136170496"
+                }
+            },
+            "decryptionkey": "5af022c95f537febb2f9b0add6b65b114ce03214c0eed7bf8aeb647959f1eed1"
+        },
+        "branches": {
+            "public": {
+                "buildid": "7810758",
+                "timeupdated": "1638447283"
+            }
+        },
+        "workshopdepotdecryptionkey": ""
+    }
+}
