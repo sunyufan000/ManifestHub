@@ -4,8 +4,8 @@
     "type": "Game",
     "schinese_name": "伏魔行者",
     "isfreeapp": 0,
-    "update_time": "2025-06-19 15:49:08",
-    "change_number": 29644889,
+    "update_time": "2025-07-17 16:36:41",
+    "change_number": 30113951,
     "depot": {
         "hasdepotsindlc": "1",
         "228989": {
@@ -25,17 +25,17 @@
         "1911941": {
             "manifests": {
                 "public": {
-                    "gid": "6946514739343315388",
-                    "size": "2404502009",
-                    "download": "1345365040"
+                    "gid": "921521928815335374",
+                    "size": "2405793945",
+                    "download": "1356525872"
                 }
             },
             "decryptionkey": "47af141dd232750fa872debb725881a41b05cb4124f59feea60ca89d344ae839"
         },
         "branches": {
             "public": {
-                "buildid": "18878046",
-                "timeupdated": "1750302715"
+                "buildid": "19169122",
+                "timeupdated": "1752121765"
             }
         },
         "privatebranches": "1"
