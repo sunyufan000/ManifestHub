@@ -4,8 +4,8 @@
     "type": "Game",
     "schinese_name": "城市巴士经理",
     "isfreeapp": 0,
-    "update_time": "2025-06-14 01:17:02",
-    "change_number": 29554451,
+    "update_time": "2025-07-23 14:35:47",
+    "change_number": 30207304,
     "depot": {
         "hasdepotsindlc": "1",
         "1364212": {
@@ -19,9 +19,9 @@
                     "download": "1592865696"
                 },
                 "beta": {
-                    "gid": "1857281912899643078",
-                    "size": "3923310563",
-                    "download": "1592865696"
+                    "gid": "4273715952282641881",
+                    "size": "7028540795",
+                    "download": "3641559904"
                 }
             },
             "decryptionkey": "e0d499227945f83fa2e9654ea918bc00d4e33990786e4eb6b16a3abefd1f2263"
@@ -37,9 +37,9 @@
                     "download": "1584218128"
                 },
                 "beta": {
-                    "gid": "8126239253086192449",
-                    "size": "3913635116",
-                    "download": "1584218128"
+                    "gid": "3447252109338646489",
+                    "size": "6961442006",
+                    "download": "3599939520"
                 }
             },
             "decryptionkey": "3748007409a9ce4382259fe6320aff7ea846f18eba5a9c4a9ec7bab1a6864761"
@@ -51,9 +51,9 @@
                 "timeupdated": "1739942961"
             },
             "beta": {
-                "buildid": "17403283",
+                "buildid": "19318030",
                 "description": "Beta-Branch",
-                "timeupdated": "1739862205"
+                "timeupdated": "1753204897"
             }
         },
         "privatebranches": "1",
