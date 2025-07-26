@@ -4,8 +4,8 @@
     "type": "Game",
     "schinese_name": "不同的星球",
     "isfreeapp": 0,
-    "update_time": "2025-06-17 03:59:53",
-    "change_number": 29591560,
+    "update_time": "2025-07-12 01:12:52",
+    "change_number": 30021677,
     "depot": {
         "3126151": {
             "config": {
@@ -13,9 +13,9 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "1760587720603023094",
-                    "size": "564625200",
-                    "download": "303840032"
+                    "gid": "9013749672785789647",
+                    "size": "578851636",
+                    "download": "307783072"
                 }
             },
             "decryptionkey": "a1229d225c3d9ff8b5910f0c023a48eddb981d3d45ea1bd4b13c9d63868c9950"
@@ -26,17 +26,17 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "4454668454133829863",
-                    "size": "557879739",
-                    "download": "301769696"
+                    "gid": "1526418918099612742",
+                    "size": "572099907",
+                    "download": "305728464"
                 }
             }
         },
         "hasdepotsindlc": "0",
         "branches": {
             "public": {
-                "buildid": "18564143",
-                "timeupdated": "1747966396"
+                "buildid": "19011406",
+                "timeupdated": "1750944306"
             }
         }
     }
