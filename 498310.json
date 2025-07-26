@@ -4,8 +4,8 @@
     "type": "Application",
     "schinese_name": "",
     "isfreeapp": 0,
-    "update_time": "2025-06-22 09:26:16",
-    "change_number": 29686984,
+    "update_time": "2025-07-16 22:15:21",
+    "change_number": 30097782,
     "depot": {
         "498311": {
             "config": {
@@ -13,9 +13,9 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "4602850765490739806",
-                    "size": "243992916",
-                    "download": "161763872"
+                    "gid": "4619080051676291553",
+                    "size": "337663188",
+                    "download": "237370176"
                 }
             },
             "decryptionkey": "7a7cef133a9018c2d9044e059fb39c240d4cf4c15fb531ec899168c02ad869b8"
@@ -26,9 +26,9 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "6687030967127450812",
-                    "size": "477692395",
-                    "download": "261107600"
+                    "gid": "355098461122807979",
+                    "size": "519331307",
+                    "download": "271282176"
                 }
             },
             "decryptionkey": "e3f1c82e8c8760b393df1ab50bf63c91e7bac75e719816d845a491cd3cfa8784"
@@ -67,9 +67,9 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "8756064838687863156",
-                    "size": "816459325",
-                    "download": "446594784"
+                    "gid": "8467664375539216541",
+                    "size": "910129597",
+                    "download": "502817104"
                 }
             }
         },
@@ -103,8 +103,8 @@
         "workshopdepot": "498310",
         "branches": {
             "public": {
-                "buildid": "18421986",
-                "timeupdated": "1746995096"
+                "buildid": "19208662",
+                "timeupdated": "1752432578"
             }
         },
         "privatebranches": "1",
