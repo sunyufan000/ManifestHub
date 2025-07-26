@@ -4,8 +4,8 @@
     "type": "Game",
     "schinese_name": "",
     "isfreeapp": 0,
-    "update_time": "2025-06-18 06:22:31",
-    "change_number": 29616724,
+    "update_time": "2025-07-08 22:02:17",
+    "change_number": 29956980,
     "depot": {
         "2505571": {
             "config": {
@@ -13,11 +13,16 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "1042121333414325435",
-                    "size": "78342443",
-                    "download": "71628096"
+                    "gid": "3994447922419396839",
+                    "size": "78187733",
+                    "download": "71481008"
                 },
                 "beta": {
+                    "gid": "3994447922419396839",
+                    "size": "78187733",
+                    "download": "71481008"
+                },
+                "macexperiment": {
                     "gid": "1042121333414325435",
                     "size": "78342443",
                     "download": "71628096"
@@ -36,14 +41,19 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "1664494302915057685",
-                    "size": "86498000",
-                    "download": "74545040"
+                    "gid": "9079831582634507180",
+                    "size": "86333082",
+                    "download": "74408240"
                 },
                 "beta": {
-                    "gid": "1664494302915057685",
-                    "size": "86498000",
-                    "download": "74545040"
+                    "gid": "9079831582634507180",
+                    "size": "86333082",
+                    "download": "74408240"
+                },
+                "macexperiment": {
+                    "gid": "6115327551788790633",
+                    "size": "82821756",
+                    "download": "71899776"
                 },
                 "oldversion": {
                     "gid": "1615725709000866081",
@@ -55,13 +65,18 @@
         },
         "branches": {
             "public": {
-                "buildid": "18708783",
-                "timeupdated": "1749145163"
+                "buildid": "19099246",
+                "timeupdated": "1752008533"
             },
             "beta": {
-                "buildid": "18708783",
+                "buildid": "19099246",
                 "description": "Early Early Access (for testing new Early Access builds)",
-                "timeupdated": "1748902271"
+                "timeupdated": "1751577138"
+            },
+            "macexperiment": {
+                "buildid": "19118468",
+                "description": "Experimental Version 0.6.9a for older MacOS",
+                "timeupdated": "1751734584"
             },
             "oldversion": {
                 "buildid": "18268308",
