@@ -4,8 +4,8 @@
     "type": "Game",
     "schinese_name": "你的继妹",
     "isfreeapp": 0,
-    "update_time": "2025-06-20 22:23:10",
-    "change_number": 29669919,
+    "update_time": "2025-07-15 06:32:37",
+    "change_number": 30061823,
     "depot": {
         "3615361": {
             "manifests": {
@@ -24,6 +24,6 @@
                 "timeupdated": "1746877930"
             }
         },
-        "workshopdepotdecryptionkey": ""
+        "workshopdepotdecryptionkey": "e0bf8510d56d1965ea1b5b3c212cade337fb68a7baefbf4c48cb7d63e4ae2a24"
     }
 }
