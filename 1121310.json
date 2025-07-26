@@ -4,8 +4,8 @@
     "type": "Game",
     "schinese_name": "",
     "isfreeapp": 1,
-    "update_time": "2025-06-21 10:47:03",
-    "change_number": 29678525,
+    "update_time": "2025-07-20 17:51:28",
+    "change_number": 30156050,
     "depot": {
         "baselanguages": "english",
         "hasdepotsindlc": "0",
@@ -22,7 +22,7 @@
                     "download": "409760608"
                 },
                 "public_beta": {
-                    "gid": "7078543700027070349",
+                    "gid": "2643961189237215938",
                     "size": "962515311",
                     "download": "413579376"
                 }
@@ -367,9 +367,9 @@
                 "timeupdated": "1748396976"
             },
             "public_beta": {
-                "buildid": "18947079",
+                "buildid": "19001448",
                 "description": "ViRo Public Beta Test",
-                "timeupdated": "1750474019"
+                "timeupdated": "1750886516"
             }
         },
         "privatebranches": "1",
