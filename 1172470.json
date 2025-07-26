@@ -4,8 +4,8 @@
     "type": "Game",
     "schinese_name": "Apex 英雄",
     "isfreeapp": 1,
-    "update_time": "2025-06-21 03:51:14",
-    "change_number": 29674822,
+    "update_time": "2025-07-24 03:08:01",
+    "change_number": 30218276,
     "depot": {
         "228988": {
             "config": {
@@ -23,9 +23,9 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "8461153444719245466",
-                    "size": "85377134918",
-                    "download": "83886222656"
+                    "gid": "469617104106164088",
+                    "size": "87276928581",
+                    "download": "85770175600"
                 }
             },
             "decryptionkey": "07aa3be059db58b5721e17cb3e8c90e03a1905aff70010a5f797a2f993516984"
@@ -38,9 +38,9 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "8912097363571842606",
-                    "size": "3433955293",
-                    "download": "3302512256"
+                    "gid": "393899991361668893",
+                    "size": "3435835981",
+                    "download": "3304201248"
                 }
             },
             "decryptionkey": "2d8c2248b6a32f060a98833b794bfe1389f8013990e15270fd37d5f6afb919ec"
@@ -53,9 +53,9 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "5414546843530441044",
-                    "size": "3796753725",
-                    "download": "3672942816"
+                    "gid": "5930075198361523634",
+                    "size": "3798704349",
+                    "download": "3674734256"
                 }
             },
             "decryptionkey": "6a56a233dd8485b7ff6e653cbad3936a1bc6b401e23c3cfa2344f1af820bed37"
@@ -68,9 +68,9 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "6475869608006589699",
-                    "size": "3971154845",
-                    "download": "3827716096"
+                    "gid": "2806857792508437357",
+                    "size": "3973326621",
+                    "download": "3829765120"
                 }
             },
             "decryptionkey": "62fd173e23d67c4f6ca3f00eb389a16caf7d02997a61bc022876410e1396cfab"
@@ -83,9 +83,9 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "4851264956923749894",
-                    "size": "3930438173",
-                    "download": "3808435632"
+                    "gid": "7746984685070587149",
+                    "size": "3932492365",
+                    "download": "3810309936"
                 }
             },
             "decryptionkey": "1cc5c1dfd724bccf46f21245f637b41ce56dc94e6d87f13cadfa0bb1b4642eb2"
@@ -98,9 +98,9 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "4209922673991067459",
-                    "size": "3738136557",
-                    "download": "3600854288"
+                    "gid": "364208813517994032",
+                    "size": "3740167501",
+                    "download": "3602672448"
                 }
             },
             "decryptionkey": "2c7bc15467491f509af58c3865003c3e841699d902300953fb76310f0c582460"
@@ -113,9 +113,9 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "5755061307946183606",
-                    "size": "3515326381",
-                    "download": "3401801728"
+                    "gid": "2539780949182513312",
+                    "size": "3517432893",
+                    "download": "3403753472"
                 }
             },
             "decryptionkey": "850186824241bbe7e4fcb22cf90f3225591834496905d2946d45d1d8e4210dbc"
@@ -128,9 +128,9 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "9192383506000027363",
-                    "size": "3975551101",
-                    "download": "3840982416"
+                    "gid": "3585267662393640935",
+                    "size": "3977929597",
+                    "download": "3843204176"
                 }
             },
             "decryptionkey": "a08e1070c2beb20e95f9339404827e903df22cdbf0b91b17ce3990c110e8313c"
@@ -143,9 +143,9 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "8939466109139109068",
-                    "size": "3927174413",
-                    "download": "3801313040"
+                    "gid": "5968195379751818513",
+                    "size": "3930035981",
+                    "download": "3804004064"
                 }
             },
             "decryptionkey": "35edf936f063125939e06eaaa66ab4b6be58dc79af9c8aab5bde08c942a303cb"
@@ -158,9 +158,9 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "2493422401651647940",
-                    "size": "3986373517",
-                    "download": "3852520992"
+                    "gid": "2790639573262280020",
+                    "size": "3988400925",
+                    "download": "3854430096"
                 }
             },
             "decryptionkey": "70fc46e692a1da85e402ead6bfce0fc11831de7b9597a24ec40cff53b0c698d7"
@@ -174,8 +174,8 @@
         },
         "branches": {
             "public": {
-                "buildid": "18755990",
-                "timeupdated": "1749488336"
+                "buildid": "19184978",
+                "timeupdated": "1752771613"
             }
         },
         "privatebranches": "1"
