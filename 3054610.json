@@ -4,8 +4,8 @@
     "type": "Game",
     "schinese_name": "神器行者: 重生",
     "isfreeapp": 0,
-    "update_time": "2025-06-21 08:37:34",
-    "change_number": 29677580,
+    "update_time": "2025-07-13 14:12:49",
+    "change_number": 30035688,
     "depot": {
         "baselanguages": "english,german,french,koreana,spanish,schinese,tchinese,russian,japanese,portuguese,polish,brazilian,latam",
         "3054611": {
@@ -69,7 +69,7 @@
                     "download": "80"
                 }
             },
-            "decryptionkey": ""
+            "decryptionkey": "e08c9bbc0e974916bb27cdf56513e2631392ac93bdd01dfa8e9a1816ddc1f5ca"
         },
         "3534930": {
             "dlcappid": "3534930",
