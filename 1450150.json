@@ -4,19 +4,12 @@
     "type": "Game",
     "schinese_name": "",
     "isfreeapp": 1,
-    "update_time": "2025-06-10 03:09:39",
-    "change_number": 29471523,
+    "update_time": "2025-07-05 19:00:22",
+    "change_number": 29912387,
     "depot": {
         "baselanguages": "russian",
         "hasdepotsindlc": "1",
         "workshopdepot": "1450150",
-        "229007": {
-            "config": {
-                "oslist": "windows"
-            },
-            "depotfromapp": "228980",
-            "sharedinstall": "1"
-        },
         "1450151": {
             "manifests": {
                 "public": {
