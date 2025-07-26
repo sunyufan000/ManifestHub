@@ -4,8 +4,8 @@
     "type": "Game",
     "schinese_name": "",
     "isfreeapp": 0,
-    "update_time": "2025-06-14 01:16:05",
-    "change_number": 29554420,
+    "update_time": "2025-07-16 02:00:43",
+    "change_number": 30079740,
     "depot": {
         "baselanguages": "japanese",
         "hasdepotsindlc": "0",
@@ -41,6 +41,12 @@
                 "oslist": "macos"
             },
             "manifests": {}
+        },
+        "3106343": {
+            "config": {
+                "language": "japanese",
+                "oslist": "linux"
+            }
         },
         "branches": {
             "public": {
