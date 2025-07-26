@@ -4,8 +4,8 @@
     "type": "Game",
     "schinese_name": "斯盖尔仪式",
     "isfreeapp": 0,
-    "update_time": "2025-06-13 05:14:49",
-    "change_number": 29537050,
+    "update_time": "2025-07-24 00:11:12",
+    "change_number": 30216285,
     "depot": {
         "1492071": {
             "config": {
@@ -14,14 +14,14 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "4031207410429134789",
-                    "size": "20367729922",
-                    "download": "9678175408"
+                    "gid": "914623042759335275",
+                    "size": "20384913349",
+                    "download": "9719889920"
                 },
                 "publictest": {
-                    "gid": "4031207410429134789",
-                    "size": "20367729922",
-                    "download": "9678175408"
+                    "gid": "914623042759335275",
+                    "size": "20384913349",
+                    "download": "9719889920"
                 }
             },
             "decryptionkey": "89d465584a0a654f8213c804ff69c907155ed9ba69bbe5084776845eea29f048"
@@ -48,13 +48,13 @@
         },
         "branches": {
             "public": {
-                "buildid": "18493709",
-                "timeupdated": "1747412079"
+                "buildid": "19200487",
+                "timeupdated": "1752313428"
             },
             "publictest": {
-                "buildid": "18493709",
+                "buildid": "19200487",
                 "description": "Public Test",
-                "timeupdated": "1747410883"
+                "timeupdated": "1752312994"
             }
         },
         "privatebranches": "1"
