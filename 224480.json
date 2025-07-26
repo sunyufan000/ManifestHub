@@ -4,8 +4,8 @@
     "type": "Game",
     "schinese_name": "章鱼奶爸：致命捕捉",
     "isfreeapp": 0,
-    "update_time": "2025-06-03 03:58:50",
-    "change_number": 29333813,
+    "update_time": "2025-07-15 15:28:02",
+    "change_number": 30070348,
     "depot": {
         "228990": {
             "config": {
@@ -70,16 +70,6 @@
                 }
             },
             "decryptionkey": "7d5fa7d187fa069a17bc3b7759270c4f1e6b8c1409a0bc26f47089d49f02df63"
-        },
-        "296170": {
-            "manifests": {
-                "public": {
-                    "gid": "1366459023872831277",
-                    "size": "177019043",
-                    "download": "176164016"
-                }
-            },
-            "decryptionkey": "28354c9b84b75dfd88b68705a69e7f3c4aad351080e1b068747996b253e77159"
         },
         "branches": {
             "public": {
