@@ -4,8 +4,8 @@
     "type": "Game",
     "schinese_name": "僵尸火车",
     "isfreeapp": 0,
-    "update_time": "2025-06-21 02:33:39",
-    "change_number": 29673937,
+    "update_time": "2025-06-30 18:45:01",
+    "change_number": 29827539,
     "depot": {
         "1262461": {
             "config": {
@@ -14,9 +14,9 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "7868372374189835579",
-                    "size": "24096542393",
-                    "download": "10424394736"
+                    "gid": "8360005369124192913",
+                    "size": "24074763577",
+                    "download": "10415074304"
                 },
                 "previous00": {
                     "gid": "9088732772066978607",
@@ -108,8 +108,8 @@
         },
         "branches": {
             "public": {
-                "buildid": "18943717",
-                "timeupdated": "1750444415"
+                "buildid": "19053843",
+                "timeupdated": "1751305495"
             },
             "previous00": {
                 "buildid": "4818700",
