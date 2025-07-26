@@ -1,0 +1,28 @@
+{
+    "appid": 1076580,
+    "name": "Visual Novel Maker - COSMIC MUSIC DLC PACK",
+    "type": "DLC",
+    "schinese_name": "",
+    "isfreeapp": 1,
+    "update_time": "2025-06-23 12:35:12",
+    "change_number": 26201212,
+    "depot": {
+        "1076580": {
+            "manifests": {
+                "public": {
+                    "gid": "2104976943516128232",
+                    "size": "196481879",
+                    "download": "198374656"
+                }
+            },
+            "dlcappid": "1076580",
+            "decryptionkey": "99e55e27d7f9f46e140d5d8129048c4ef1fb721e22f52b358be15e1aee791738"
+        },
+        "branches": {
+            "public": {
+                "buildid": "3816921",
+                "timeupdated": "1557710748"
+            }
+        }
+    }
+}
