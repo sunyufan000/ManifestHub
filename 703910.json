@@ -4,8 +4,8 @@
     "type": "Game",
     "schinese_name": "",
     "isfreeapp": 1,
-    "update_time": "2025-06-18 21:15:01",
-    "change_number": 29629434,
+    "update_time": "2025-07-21 16:04:11",
+    "change_number": 30169100,
     "depot": {
         "703911": {
             "manifests": {
@@ -15,9 +15,9 @@
                     "download": "1659193424"
                 },
                 "stable": {
-                    "gid": "563257730111814095",
-                    "size": "2922810027",
-                    "download": "1713247552"
+                    "gid": "2455646589508500345",
+                    "size": "3142039436",
+                    "download": "1745951216"
                 },
                 "staging": {
                     "gid": "4767379879169394344",
@@ -25,9 +25,14 @@
                     "download": "1659193424"
                 },
                 "trunk": {
-                    "gid": "3218948134559391880",
-                    "size": "2922796819",
-                    "download": "1713234608"
+                    "gid": "2455646589508500345",
+                    "size": "3142039436",
+                    "download": "1745951216"
+                },
+                "unity6upgradetest": {
+                    "gid": "900375283119167411",
+                    "size": "4783221841",
+                    "download": "3039140800"
                 }
             },
             "decryptionkey": "fb5d0fffff19a1d0c304f1d82ca67a5d9a4cdd53bf5c5a45fc0b4feae65beb85"
@@ -38,17 +43,22 @@
                 "timeupdated": "1748875682"
             },
             "stable": {
-                "buildid": "18890946",
-                "timeupdated": "1750252496"
+                "buildid": "19163315",
+                "timeupdated": "1753110247"
             },
             "staging": {
                 "buildid": "18629932",
                 "timeupdated": "1748437619"
             },
             "trunk": {
-                "buildid": "18905669",
+                "buildid": "19163315",
                 "description": "(dev)",
-                "timeupdated": "1750252488"
+                "timeupdated": "1752083417"
+            },
+            "unity6upgradetest": {
+                "buildid": "18998934",
+                "description": "tests",
+                "timeupdated": "1750873519"
             }
         },
         "privatebranches": "1"
