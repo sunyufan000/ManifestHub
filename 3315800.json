@@ -4,8 +4,8 @@
     "type": "Game",
     "schinese_name": "蜜糖陷阱：失忆症",
     "isfreeapp": 0,
-    "update_time": "2025-06-13 20:16:25",
-    "change_number": 29549158,
+    "update_time": "2025-06-28 16:16:06",
+    "change_number": 29802914,
     "depot": {
         "baselanguages": "english,french,schinese,tchinese,japanese",
         "3315804": {
@@ -81,7 +81,7 @@
                     "download": "774735504"
                 }
             },
-            "decryptionkey": ""
+            "decryptionkey": "44b5c74be4124b3fb03545c13e930f576f79555e0a49dcfea5eaf76e0c76a522"
         },
         "branches": {
             "public": {
