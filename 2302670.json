@@ -4,8 +4,8 @@
     "type": "Game",
     "schinese_name": "重返越南",
     "isfreeapp": 0,
-    "update_time": "2025-06-20 05:28:21",
-    "change_number": 29654214,
+    "update_time": "2025-07-19 15:24:24",
+    "change_number": 30146994,
     "depot": {
         "228988": {
             "config": {
@@ -31,9 +31,9 @@
         "2302671": {
             "manifests": {
                 "public": {
-                    "gid": "4002386136626574711",
-                    "size": "5319649683",
-                    "download": "3847105008"
+                    "gid": "1530190551378175429",
+                    "size": "5544091660",
+                    "download": "4338820544"
                 }
             },
             "decryptionkey": "43cd5065e5cd157ce5400ea4c54f98eb92631ff3a9146515f810232cbaa8952a"
@@ -41,8 +41,8 @@
         "baselanguages": "english,schinese",
         "branches": {
             "public": {
-                "buildid": "18412118",
-                "timeupdated": "1746854823"
+                "buildid": "19285864",
+                "timeupdated": "1752935060"
             }
         }
     }
