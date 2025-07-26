@@ -4,8 +4,8 @@
     "type": "Game",
     "schinese_name": "祇：女神之路",
     "isfreeapp": 0,
-    "update_time": "2025-06-17 11:54:32",
-    "change_number": 29547278,
+    "update_time": "2025-07-11 03:02:49",
+    "change_number": 30001688,
     "depot": {
         "baselanguages": "english,german,french,italian,koreana,spanish,schinese,tchinese,russian,japanese,arabic,brazilian,latam",
         "228988": {
@@ -18,9 +18,9 @@
         "2510711": {
             "manifests": {
                 "public": {
-                    "gid": "5362283314660077007",
-                    "size": "22293110917",
-                    "download": "17873771328"
+                    "gid": "7638697768564054606",
+                    "size": "23708821973",
+                    "download": "18234958960"
                 }
             },
             "decryptionkey": "0442261b453491b8ff8a733d5e971bcff7a9ac403c434f7ff65852c56a63701a"
@@ -28,9 +28,9 @@
         "2510712": {
             "manifests": {
                 "public": {
-                    "gid": "8255570945675890139",
-                    "size": "2157437688",
-                    "download": "1801263232"
+                    "gid": "6647577562051882113",
+                    "size": "370039725",
+                    "download": "234495248"
                 }
             },
             "decryptionkey": "dff8a57d0e0c043f126fab74bfc97bf9b19a598fee37b6e831cfd76c607aba74"
@@ -70,8 +70,8 @@
         },
         "branches": {
             "public": {
-                "buildid": "18452876",
-                "timeupdated": "1749085217"
+                "buildid": "19024694",
+                "timeupdated": "1752195601"
             }
         },
         "privatebranches": "1"
