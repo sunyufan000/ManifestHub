@@ -4,8 +4,8 @@
     "type": "Game",
     "schinese_name": "传染病",
     "isfreeapp": 0,
-    "update_time": "2025-06-14 11:55:30",
-    "change_number": 29561593,
+    "update_time": "2025-07-22 19:40:04",
+    "change_number": 30192279,
     "depot": {
         "228985": {
             "config": {
@@ -41,14 +41,14 @@
             "systemdefined": "1",
             "manifests": {
                 "public": {
-                    "gid": "5234521217144833986",
-                    "size": "152211910",
-                    "download": "56327344"
+                    "gid": "8138351524978135988",
+                    "size": "154617848",
+                    "download": "56983504"
                 },
                 "upcoming": {
-                    "gid": "6719858287556706012",
-                    "size": "154613358",
-                    "download": "56522832"
+                    "gid": "2212011860250796769",
+                    "size": "154618360",
+                    "download": "59716112"
                 }
             },
             "decryptionkey": "9634d3738964c481192d594ce8d7f9a419a244256b490377943a7bffc8b0ea19"
@@ -56,14 +56,14 @@
         "238432": {
             "manifests": {
                 "public": {
-                    "gid": "3394153034084604630",
-                    "size": "15966115583",
-                    "download": "4681559936"
+                    "gid": "734467531229201094",
+                    "size": "16618893394",
+                    "download": "4855244336"
                 },
                 "upcoming": {
-                    "gid": "1648135269660958656",
-                    "size": "16613618282",
-                    "download": "4836900944"
+                    "gid": "138439929892300287",
+                    "size": "16618929121",
+                    "download": "4855310448"
                 }
             },
             "decryptionkey": "f00f954df6fbd23bb1489bbbc205d4aaa14cd59e86be36568a009ffec817fc26"
@@ -72,27 +72,27 @@
             "dlcappid": "2733030",
             "manifests": {
                 "public": {
-                    "gid": "718209926835744991",
-                    "size": "314801345",
-                    "download": "295345888"
+                    "gid": "4448884372860925412",
+                    "size": "314803877",
+                    "download": "295346480"
                 },
                 "upcoming": {
-                    "gid": "718209926835744991",
-                    "size": "314801345",
-                    "download": "295345888"
+                    "gid": "4448884372860925412",
+                    "size": "314803877",
+                    "download": "295346480"
                 }
             },
             "decryptionkey": "e66920b6c71eeae9b09000478cfa408aaf4bcf7ac73d62acb75ed60896d227d7"
         },
         "branches": {
             "public": {
-                "buildid": "18037796",
-                "timeupdated": "1744187129"
+                "buildid": "19256026",
+                "timeupdated": "1752861648"
             },
             "upcoming": {
-                "buildid": "18864153",
+                "buildid": "19305418",
                 "description": "Upcoming Build",
-                "timeupdated": "1749872151"
+                "timeupdated": "1753209597"
             }
         },
         "privatebranches": "1",
