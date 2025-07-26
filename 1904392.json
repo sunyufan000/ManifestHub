@@ -4,7 +4,7 @@
     "type": "DLC",
     "schinese_name": "《The Sims™ 4 成长路上》资料片",
     "isfreeapp": 0,
-    "update_time": "2025-06-20 23:16:27",
+    "update_time": "2025-06-23 03:19:46",
     "change_number": 29670904,
     "depot": {
         "1904392": {
@@ -44,7 +44,7 @@
                 }
             },
             "dlcappid": "1904392",
-            "decryptionkey": ""
+            "decryptionkey": "198ac53b99c5e62996f48ee9de53bc6a820a086f569ddcbab4e8d49bb74b007f"
         },
         "2112482": {
             "config": {
@@ -100,7 +100,7 @@
                 }
             },
             "dlcappid": "1904392",
-            "decryptionkey": ""
+            "decryptionkey": "a2c64d288bdeb3db95a29072bf397469bd5ef3e2d0b38515e7ebd02cf0ef3eff"
         },
         "2112486": {
             "config": {
