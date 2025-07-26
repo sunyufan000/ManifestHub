@@ -4,8 +4,8 @@
     "type": "Game",
     "schinese_name": "一起开火车2：汽笛重鸣",
     "isfreeapp": 0,
-    "update_time": "2025-06-20 05:26:39",
-    "change_number": 29653073,
+    "update_time": "2025-07-23 14:25:13",
+    "change_number": 30207119,
     "depot": {
         "baselanguages": "english,german,french,koreana,spanish,schinese,tchinese,russian,japanese,polish,brazilian,latam",
         "228989": {
@@ -28,9 +28,9 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "6523287397644915257",
-                    "size": "596658713",
-                    "download": "445529552"
+                    "gid": "3906013416838796342",
+                    "size": "596723433",
+                    "download": "454990528"
                 },
                 "community-cup-japan": {
                     "gid": "9157307307623154147",
@@ -38,14 +38,14 @@
                     "download": "314083616"
                 },
                 "experimental": {
-                    "gid": "43139170175657940",
-                    "size": "669188603",
-                    "download": "465577568"
+                    "gid": "8943035981909699381",
+                    "size": "597237620",
+                    "download": "455516400"
                 },
                 "last-default": {
-                    "gid": "8413523087908285615",
-                    "size": "567414527",
-                    "download": "416243888"
+                    "gid": "5858875495114512591",
+                    "size": "599593938",
+                    "download": "453976880"
                 },
                 "update1": {
                     "gid": "7100771164020763605",
@@ -56,6 +56,11 @@
                     "gid": "4610484088443080318",
                     "size": "559701446",
                     "download": "410732944"
+                },
+                "update4": {
+                    "gid": "5858875495114512591",
+                    "size": "599593938",
+                    "download": "453976880"
                 }
             },
             "decryptionkey": "924f04bf42410b224830a5cbe6e5fe8ed52b2cac3a5fc909505918bbbc2670c7"
@@ -67,9 +72,9 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "8451832374789272852",
-                    "size": "598257712",
-                    "download": "394396848"
+                    "gid": "8572620264641970155",
+                    "size": "593927760",
+                    "download": "404419312"
                 },
                 "community-cup-japan": {
                     "gid": "298633845571471003",
@@ -77,14 +82,14 @@
                     "download": "270367168"
                 },
                 "experimental": {
-                    "gid": "2260256240686866691",
-                    "size": "599501344",
-                    "download": "394666368"
+                    "gid": "1938283351430383798",
+                    "size": "593863440",
+                    "download": "404358336"
                 },
                 "last-default": {
-                    "gid": "52507849432916701",
-                    "size": "570049982",
-                    "download": "371932256"
+                    "gid": "6768796290051091783",
+                    "size": "599548400",
+                    "download": "404726128"
                 },
                 "update1": {
                     "gid": "5184908605937259281",
@@ -95,6 +100,11 @@
                     "gid": "9179172666149704046",
                     "size": "566776927",
                     "download": "366092832"
+                },
+                "update4": {
+                    "gid": "6768796290051091783",
+                    "size": "599548400",
+                    "download": "404726128"
                 }
             },
             "decryptionkey": "879213df7df2f8d81ca40e1598d934533921f4f74471a53394c8f611bdeec23b"
@@ -126,14 +136,19 @@
                     "gid": "6791668633663136818",
                     "size": "340245525",
                     "download": "341584416"
+                },
+                "update4": {
+                    "gid": "6791668633663136818",
+                    "size": "340245525",
+                    "download": "341584416"
                 }
             },
             "decryptionkey": "677987212f50458d0f106db2ca80b57787838ed4128669ed85322d2923aa79b0"
         },
         "branches": {
             "public": {
-                "buildid": "18719745",
-                "timeupdated": "1748968592"
+                "buildid": "19329495",
+                "timeupdated": "1753277107"
             },
             "community-cup-japan": {
                 "buildid": "16644570",
@@ -141,14 +156,14 @@
                 "timeupdated": "1733409422"
             },
             "experimental": {
-                "buildid": "18748730",
+                "buildid": "19307228",
                 "description": "Test new features early on!",
-                "timeupdated": "1749119330"
+                "timeupdated": "1753138815"
             },
             "last-default": {
-                "buildid": "18135183",
+                "buildid": "19217828",
                 "description": "Last stable (legacy)",
-                "timeupdated": "1747318478"
+                "timeupdated": "1753203249"
             },
             "update1": {
                 "buildid": "17171471",
@@ -159,6 +174,11 @@
                 "buildid": "17485059",
                 "description": "Update #2: Cartridge Update",
                 "timeupdated": "1741982588"
+            },
+            "update4": {
+                "buildid": "19217828",
+                "description": "Labyrinth and fixes!",
+                "timeupdated": "1753191051"
             }
         },
         "privatebranches": "1"
