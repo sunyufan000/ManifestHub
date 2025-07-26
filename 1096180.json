@@ -1,0 +1,123 @@
+{
+    "appid": 1096180,
+    "name": "Ato",
+    "type": "Game",
+    "schinese_name": "",
+    "isfreeapp": 0,
+    "update_time": "2025-07-18 05:13:42",
+    "change_number": 30124244,
+    "depot": {
+        "228988": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "hasdepotsindlc": "0",
+        "1096181": {
+            "config": {
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "698800678494560253",
+                    "size": "344757219",
+                    "download": "220598624"
+                },
+                "speedrun_1.0.8": {
+                    "gid": "679378721803166644",
+                    "size": "345038574",
+                    "download": "224073904"
+                },
+                "speedrun_1.1.8": {
+                    "gid": "5974475745638960070",
+                    "size": "349697824",
+                    "download": "220839424"
+                },
+                "windows_beta": {
+                    "gid": "698800678494560253",
+                    "size": "344757219",
+                    "download": "220598624"
+                }
+            },
+            "decryptionkey": "9670f6d77938fdcf6039ed9da61a13aa2d23512f5cb215094aa7a52876899695"
+        },
+        "1096182": {
+            "config": {
+                "oslist": "linux"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "7492644743898969585",
+                    "size": "347949357",
+                    "download": "223585360"
+                },
+                "speedrun_1.0.8": {
+                    "gid": "6699091282375613085",
+                    "size": "345629520",
+                    "download": "224350448"
+                },
+                "speedrun_1.1.8": {
+                    "gid": "4083409366305211679",
+                    "size": "347650717",
+                    "download": "220279056"
+                },
+                "windows_beta": {
+                    "gid": "7492644743898969585",
+                    "size": "347949357",
+                    "download": "223585360"
+                }
+            }
+        },
+        "1096183": {
+            "config": {
+                "oslist": "macos"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "9102781374750612492",
+                    "size": "405167916",
+                    "download": "255173248"
+                },
+                "speedrun_1.0.8": {
+                    "gid": "3584376467273006893",
+                    "size": "408382123",
+                    "download": "235320208"
+                },
+                "speedrun_1.1.8": {
+                    "gid": "7791860103925517123",
+                    "size": "404459111",
+                    "download": "231294176"
+                },
+                "windows_beta": {
+                    "gid": "9102781374750612492",
+                    "size": "405167916",
+                    "download": "255173248"
+                }
+            }
+        },
+        "branches": {
+            "public": {
+                "buildid": "19269641",
+                "timeupdated": "1752812016"
+            },
+            "speedrun_1.0.8": {
+                "buildid": "7801744",
+                "description": "Ato v1.0.8.0. For speedrunning All Glitches category",
+                "timeupdated": "1647807264"
+            },
+            "speedrun_1.1.8": {
+                "buildid": "14567782",
+                "description": "Ato v1.1.8. For speedrunning Boss Rush All Glitches categories",
+                "timeupdated": "1717358502"
+            },
+            "windows_beta": {
+                "buildid": "19269641",
+                "description": "Beta for Windows builds.",
+                "timeupdated": "1752811845"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
