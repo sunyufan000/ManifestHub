@@ -4,8 +4,8 @@
     "type": "DLC",
     "schinese_name": "《The Sims™ 4 秘密圣所》套件包",
     "isfreeapp": 0,
-    "update_time": "2025-06-03 02:27:40",
-    "change_number": 29332361,
+    "update_time": "2025-06-30 22:54:24",
+    "change_number": 29830774,
     "depot": {
         "2815450": {
             "manifests": {
@@ -30,7 +30,7 @@
                 }
             },
             "dlcappid": "2815450",
-            "decryptionkey": ""
+            "decryptionkey": "b74461932eaf4a25b28901d93fa13e75b38418b6ee4a741d5f8434ecf6e538e6"
         },
         "2815452": {
             "config": {
@@ -128,7 +128,7 @@
                 }
             },
             "dlcappid": "2815450",
-            "decryptionkey": ""
+            "decryptionkey": "4ab051d7451846d45510a8ede1b8987a61f2c7f9397e3b4e418ac73f502d4046"
         },
         "2815459": {
             "config": {
