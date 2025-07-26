@@ -4,8 +4,8 @@
     "type": "Game",
     "schinese_name": "飞机上的僵尸",
     "isfreeapp": 0,
-    "update_time": "2025-06-19 08:13:52",
-    "change_number": 29639370,
+    "update_time": "2025-07-16 12:50:33",
+    "change_number": 30088431,
     "depot": {
         "baselanguages": "english",
         "297451": {
@@ -118,7 +118,7 @@
                     "download": "655501120"
                 }
             },
-            "decryptionkey": ""
+            "decryptionkey": "e9224c0a53fac0e0423748bc18a51f83f3c4449532a97b03407a5e86493d05ba"
         },
         "297459": {
             "config": {
