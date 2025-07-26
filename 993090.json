@@ -4,8 +4,8 @@
     "type": "Application",
     "schinese_name": "",
     "isfreeapp": 0,
-    "update_time": "2025-06-20 06:39:15",
-    "change_number": 29657789,
+    "update_time": "2025-07-22 02:18:30",
+    "change_number": 30177298,
     "depot": {
         "228989": {
             "config": {
@@ -24,14 +24,14 @@
         "993091": {
             "manifests": {
                 "public": {
-                    "gid": "2222626553372093171",
-                    "size": "180883337",
-                    "download": "56258672"
+                    "gid": "4951421682175406512",
+                    "size": "180918760",
+                    "download": "56369280"
                 },
                 "beta": {
-                    "gid": "2222626553372093171",
-                    "size": "180883337",
-                    "download": "56258672"
+                    "gid": "4951421682175406512",
+                    "size": "180918760",
+                    "download": "56369280"
                 },
                 "legacy_3.1": {
                     "gid": "9191341654061558981",
@@ -84,13 +84,13 @@
         "hasdepotsindlc": "0",
         "branches": {
             "public": {
-                "buildid": "18827209",
-                "timeupdated": "1749655375"
+                "buildid": "19219484",
+                "timeupdated": "1752514593"
             },
             "beta": {
-                "buildid": "18827209",
+                "buildid": "19219484",
                 "description": "beta",
-                "timeupdated": "1749655311"
+                "timeupdated": "1752514532"
             },
             "legacy_3.1": {
                 "buildid": "17646233",
@@ -139,5 +139,6 @@
             }
         },
         "privatebranches": "1"
-    }
+    },
+    "access_token": 6308073361085917231
 }
