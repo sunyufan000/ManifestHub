@@ -4,8 +4,8 @@
     "type": "Demo",
     "schinese_name": "",
     "isfreeapp": 0,
-    "update_time": "2025-06-20 23:53:23",
-    "change_number": 29671457,
+    "update_time": "2025-07-24 02:07:18",
+    "change_number": 30217584,
     "depot": {
         "baselanguages": "english,german,french,italian,koreana,spanish,schinese,russian,thai,japanese,portuguese",
         "228989": {
@@ -25,9 +25,9 @@
         "2064871": {
             "manifests": {
                 "public": {
-                    "gid": "961916916795437771",
-                    "size": "25784991437",
-                    "download": "21732401088"
+                    "gid": "477405316916749967",
+                    "size": "24510174039",
+                    "download": "20435232528"
                 }
             },
             "depotfromapp": "2064870",
