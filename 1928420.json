@@ -4,8 +4,8 @@
     "type": "Game",
     "schinese_name": "远光84",
     "isfreeapp": 1,
-    "update_time": "2025-06-13 18:11:49",
-    "change_number": 29546952,
+    "update_time": "2025-07-19 21:18:06",
+    "change_number": 30149362,
     "depot": {
         "228988": {
             "config": {
@@ -28,17 +28,17 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "6143462997360398830",
-                    "size": "16737612167",
-                    "download": "15927897600"
+                    "gid": "2537571453520599546",
+                    "size": "16777590145",
+                    "download": "15949246384"
                 }
             },
             "decryptionkey": "1b831225fde5b44f7f354180183f732b4feb59c016faa3362e792bf9d455b294"
         },
         "branches": {
             "public": {
-                "buildid": "18024299",
-                "timeupdated": "1744273391"
+                "buildid": "18963929",
+                "timeupdated": "1751873616"
             }
         },
         "privatebranches": "1"
