@@ -4,23 +4,23 @@
     "type": "Game",
     "schinese_name": "宝石战争",
     "isfreeapp": 1,
-    "update_time": "2025-06-20 18:30:57",
-    "change_number": 29666292,
+    "update_time": "2025-07-23 22:28:38",
+    "change_number": 30215081,
     "depot": {
         "329111": {
             "manifests": {
                 "public": {
-                    "gid": "1298937341909716392",
-                    "size": "2245084942",
-                    "download": "1737487536"
+                    "gid": "464930229608596571",
+                    "size": "2268011803",
+                    "download": "1759368480"
                 }
             },
             "decryptionkey": "00ad10835c36c87d116ee78834db505059dd67dd9b463bead9e6694f1158d950"
         },
         "branches": {
             "public": {
-                "buildid": "18403170",
-                "timeupdated": "1747699713"
+                "buildid": "18992083",
+                "timeupdated": "1752624111"
             }
         },
         "privatebranches": "1"
