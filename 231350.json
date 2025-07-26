@@ -4,8 +4,8 @@
     "type": "Demo",
     "schinese_name": "",
     "isfreeapp": 0,
-    "update_time": "2025-06-19 14:35:19",
-    "change_number": 29643349,
+    "update_time": "2025-06-25 10:47:00",
+    "change_number": 29738949,
     "depot": {
         "overridescddb": "1",
         "hasdepotsindlc": "0",
@@ -171,7 +171,8 @@
                     "download": "17423024"
                 }
             },
-            "depotfromapp": "223850"
+            "depotfromapp": "223850",
+            "decryptionkey": "300dd5b8d611c9c32c245106d9b3536c2662a9904bf26457b5c456ed3a8cb52a"
         },
         "223855": {
             "config": {
@@ -198,7 +199,8 @@
                     "download": "137059904"
                 }
             },
-            "depotfromapp": "223850"
+            "depotfromapp": "223850",
+            "decryptionkey": "5cf5b12f619d1e15213bcc636dafdf59b35a8391e13c5f69be47b6803f6c375e"
         },
         "223862": {
             "config": {
@@ -211,7 +213,8 @@
                     "download": "254130016"
                 }
             },
-            "depotfromapp": "223850"
+            "depotfromapp": "223850",
+            "decryptionkey": "97be9f16311756a713ef1ccb4ed6474c80414f4825d9f467c3a26c6b45be2707"
         },
         "branches": {
             "public": {
