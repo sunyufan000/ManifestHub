@@ -4,8 +4,8 @@
     "type": "Game",
     "schinese_name": "异星开拓者 - 太空基地建造",
     "isfreeapp": 0,
-    "update_time": "2025-06-17 11:12:58",
-    "change_number": 29600039,
+    "update_time": "2025-07-22 14:01:09",
+    "change_number": 30186364,
     "depot": {
         "2628571": {
             "config": {
@@ -40,7 +40,8 @@
                     "size": "1171962859",
                     "download": "433951280"
                 }
-            }
+            },
+            "decryptionkey": "b88d7a78dfe127bd0964901f250dc5ecd00a06a81c4b96ee3068197625076d06"
         },
         "2628573": {
             "config": {
@@ -57,7 +58,8 @@
                     "size": "1154037231",
                     "download": "429116672"
                 }
-            }
+            },
+            "decryptionkey": "13d84019b3ef433647851bf73205b2c86e07ac2a16685ae0f974a8067ce0b14c"
         },
         "baselanguages": "english,german,french,italian,koreana,spanish,schinese,tchinese,russian,thai,japanese,portuguese,polish,danish,dutch,finnish,norwegian,swedish,hungarian,czech,romanian,turkish,arabic,brazilian,bulgarian,greek,ukrainian,latam,vietnamese,indonesian",
         "branches": {
