@@ -4,8 +4,8 @@
     "type": "Tool",
     "schinese_name": "",
     "isfreeapp": 0,
-    "update_time": "2025-06-14 05:17:40",
-    "change_number": 29557949,
+    "update_time": "2025-07-23 19:36:54",
+    "change_number": 30212673,
     "depot": {
         "1004": {
             "config": {
@@ -13,9 +13,9 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "7747775778018907449",
-                    "size": "46727128",
-                    "download": "14307024"
+                    "gid": "8904491048620934740",
+                    "size": "68697032",
+                    "download": "20552544"
                 }
             },
             "depotfromapp": "1007",
@@ -41,9 +41,9 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "7138471031118904166",
-                    "size": "78382436",
-                    "download": "21254752"
+                    "gid": "5587033981095108078",
+                    "size": "107476144",
+                    "download": "29272144"
                 }
             },
             "depotfromapp": "1007",
@@ -62,14 +62,14 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "7798040021687463786",
-                    "size": "31027189",
-                    "download": "7168032"
-                },
-                "bleeding-edge": {
                     "gid": "6042617175261954299",
                     "size": "36072949",
                     "download": "7964240"
+                },
+                "bleeding-edge": {
+                    "gid": "7906133856552785600",
+                    "size": "35671029",
+                    "download": "9177504"
                 }
             },
             "decryptionkey": ""
@@ -80,27 +80,27 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "8197971509960366054",
-                    "size": "36551628",
-                    "download": "8651840"
-                },
-                "bleeding-edge": {
                     "gid": "6464580276091552180",
                     "size": "36894916",
                     "download": "8745568"
+                },
+                "bleeding-edge": {
+                    "gid": "6253288226113883941",
+                    "size": "39123292",
+                    "download": "11399552"
                 }
             }
         },
         "workshopdepot": "1936830",
         "branches": {
             "public": {
-                "buildid": "18645569",
-                "timeupdated": "1748459538"
+                "buildid": "18861974",
+                "timeupdated": "1750677025"
             },
             "bleeding-edge": {
-                "buildid": "18861974",
+                "buildid": "19319434",
                 "description": "Constant and unstable updates",
-                "timeupdated": "1749849454"
+                "timeupdated": "1753212222"
             }
         },
         "workshopdepotdecryptionkey": ""
