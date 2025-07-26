@@ -4,8 +4,8 @@
     "type": "Game",
     "schinese_name": "",
     "isfreeapp": 0,
-    "update_time": "2025-05-22 03:11:15",
-    "change_number": 29111460,
+    "update_time": "2025-07-05 03:11:01",
+    "change_number": 29906667,
     "depot": {
         "baselanguages": "english,german,french,italian,koreana,spanish",
         "hasdepotsindlc": "1",
@@ -122,14 +122,14 @@
                     "download": "636660080"
                 },
                 "beta": {
-                    "gid": "2022532413141925249",
-                    "size": "1339392554",
-                    "download": "893688864"
+                    "gid": "740693271847678532",
+                    "size": "1339395438",
+                    "download": "893701264"
                 },
                 "sixty-four-bits": {
-                    "gid": "5713591192385636200",
-                    "size": "1336341963",
-                    "download": "891922416"
+                    "gid": "346970145769955296",
+                    "size": "1336342543",
+                    "download": "891934064"
                 }
             },
             "decryptionkey": "dea5b83b8197ddc910cb22c7caabd8b124dff09a0516762f976cc7ec99eee9d6"
@@ -250,14 +250,14 @@
                     "download": "2637424"
                 },
                 "beta": {
-                    "gid": "5668601452034570490",
-                    "size": "9905462",
-                    "download": "3150656"
+                    "gid": "1357108057720486368",
+                    "size": "9024822",
+                    "download": "2879024"
                 },
                 "sixty-four-bits": {
-                    "gid": "2703677967933081294",
-                    "size": "10766704",
-                    "download": "3367968"
+                    "gid": "742368869999385767",
+                    "size": "10770800",
+                    "download": "3368560"
                 }
             },
             "decryptionkey": "d5a6de2e69675220b9bdb081135da3d4e06e4efb72404a4fad3ca37a1d910ed7"
@@ -378,14 +378,14 @@
                     "download": "8248736"
                 },
                 "beta": {
-                    "gid": "5455861035915235173",
-                    "size": "30289975",
-                    "download": "7308480"
+                    "gid": "6961441175126779828",
+                    "size": "29888555",
+                    "download": "7217344"
                 },
                 "sixty-four-bits": {
-                    "gid": "356611632509817071",
-                    "size": "24992644",
-                    "download": "6256064"
+                    "gid": "1918854403541198234",
+                    "size": "24292212",
+                    "download": "6134080"
                 }
             },
             "decryptionkey": "39e070dd710b3a38878212f7d24f4cdbb9e306d3ba3c5e89ae041964de3007db"
@@ -506,14 +506,14 @@
                     "download": "3076832"
                 },
                 "beta": {
-                    "gid": "7064322173164669217",
-                    "size": "12429706",
-                    "download": "3713056"
+                    "gid": "5348248627230790621",
+                    "size": "12265798",
+                    "download": "3673856"
                 },
                 "sixty-four-bits": {
-                    "gid": "1476310619409506791",
-                    "size": "13057882",
-                    "download": "3782864"
+                    "gid": "6231668716213030177",
+                    "size": "12878046",
+                    "download": "3721696"
                 }
             },
             "decryptionkey": "b7995ae7a569efd3c2d0a781fc0c71abfc80765ad7ded4d2efd20b8e0ae4b073"
@@ -630,17 +630,17 @@
                 "timeupdated": "1685210854"
             },
             "beta": {
-                "buildid": "17974089",
+                "buildid": "19055689",
                 "description": "Future Sphinx version",
-                "timeupdated": "1743705363"
+                "timeupdated": "1751313653"
             },
             "sixty-four-bits": {
-                "buildid": "17974389",
+                "buildid": "19055026",
                 "description": "Early 64-bit EngineX testing",
-                "timeupdated": "1743748968"
+                "timeupdated": "1751310297"
             }
         },
         "privatebranches": "1",
-        "workshopdepotdecryptionkey": ""
+        "workshopdepotdecryptionkey": "da2425f331bf420e13743524b75de1165adf430fde0b09d4200174d00e006e21"
     }
 }
