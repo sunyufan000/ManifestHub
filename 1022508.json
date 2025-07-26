@@ -1,0 +1,28 @@
+{
+    "appid": 1022508,
+    "name": "DFF NT: Kingly Raiment Appearance Set for Noctis Lucis Caelum",
+    "type": "DLC",
+    "schinese_name": "",
+    "isfreeapp": 0,
+    "update_time": "2025-06-23 14:10:25",
+    "change_number": 26201212,
+    "depot": {
+        "1022508": {
+            "manifests": {
+                "public": {
+                    "gid": "5135795090478262400",
+                    "size": "0",
+                    "download": "0"
+                }
+            },
+            "dlcappid": "1022508",
+            "decryptionkey": "3e8aff1949eb046656707a9463e0fd6581732a4398c94202b315355aecc9a228"
+        },
+        "branches": {
+            "public": {
+                "buildid": "3508085",
+                "timeupdated": "1548671535"
+            }
+        }
+    }
+}
