@@ -4,8 +4,8 @@
     "type": "Tool",
     "schinese_name": "《Rift of the NecroDancer》关卡编辑器",
     "isfreeapp": 1,
-    "update_time": "2025-06-20 05:29:25",
-    "change_number": 29654992,
+    "update_time": "2025-07-01 11:08:21",
+    "change_number": 29840355,
     "depot": {
         "3154921": {
             "manifests": {
@@ -15,9 +15,9 @@
                     "download": "84430512"
                 },
                 "testing": {
-                    "gid": "3817476540281289256",
-                    "size": "120571628",
-                    "download": "84430512"
+                    "gid": "5453357263623864459",
+                    "size": "120589006",
+                    "download": "84430672"
                 }
             },
             "decryptionkey": "ef480d4ca2f80936cd47dc6c2867274444253ca06a0a09c460c341f9de2b0022"
@@ -38,9 +38,9 @@
                 "timeupdated": "1748984261"
             },
             "testing": {
-                "buildid": "18714747",
+                "buildid": "19062845",
                 "description": "Testing new versions of the level editor",
-                "timeupdated": "1748940329"
+                "timeupdated": "1751364493"
             }
         },
         "privatebranches": "1"
