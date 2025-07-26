@@ -4,8 +4,8 @@
     "type": "Game",
     "schinese_name": "Tank Force: 在线射击游戏",
     "isfreeapp": 1,
-    "update_time": "2025-06-20 10:43:38",
-    "change_number": 29660376,
+    "update_time": "2025-07-23 10:40:54",
+    "change_number": 30203475,
     "depot": {
         "604501": {
             "config": {
@@ -13,9 +13,9 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "7373868536959199235",
-                    "size": "2625266137",
-                    "download": "2243418176"
+                    "gid": "2740668861523128749",
+                    "size": "3014182668",
+                    "download": "2573872592"
                 }
             },
             "decryptionkey": "b7bfe61769975b917f1db863dd2e5669a543a1ec43a8d1ae6a0087696813873b"
@@ -26,9 +26,9 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "4030225456512168152",
-                    "size": "3197189049",
-                    "download": "2554605632"
+                    "gid": "7412356036402575517",
+                    "size": "3600712625",
+                    "download": "2878463264"
                 }
             },
             "decryptionkey": "85111708909853ef07d816a29616844d7cc743d2a4231094f9b0b3565be841ba"
@@ -39,17 +39,17 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "3893308670332839929",
-                    "size": "2803902887",
-                    "download": "2294015344"
+                    "gid": "4980098981183837667",
+                    "size": "3184358749",
+                    "download": "2598647312"
                 }
             },
             "decryptionkey": "3dff6413bb80f2643a7b2158cc7059cc0c5e710994226b9f451ad83b2ac80ef4"
         },
         "branches": {
             "public": {
-                "buildid": "17937764",
-                "timeupdated": "1743506639"
+                "buildid": "19258616",
+                "timeupdated": "1752826265"
             }
         },
         "privatebranches": "1"
