@@ -4,8 +4,8 @@
     "type": "Game",
     "schinese_name": "星河战队：灭绝",
     "isfreeapp": 0,
-    "update_time": "2025-06-21 21:58:23",
-    "change_number": 29682770,
+    "update_time": "2025-07-23 22:12:00",
+    "change_number": 30214858,
     "depot": {
         "228989": {
             "config": {
@@ -24,17 +24,17 @@
         "1268751": {
             "manifests": {
                 "public": {
-                    "gid": "8692650480024502914",
-                    "size": "9507572189",
-                    "download": "8937514496"
+                    "gid": "3620997405468249364",
+                    "size": "10292147383",
+                    "download": "9670392688"
                 }
             },
             "decryptionkey": "4c9adfd6fcc55cac391befdc3c63c0bd233339efd4b1d755bbf24f3170ed86e8"
         },
         "branches": {
             "public": {
-                "buildid": "18366772",
-                "timeupdated": "1746723425"
+                "buildid": "18844290",
+                "timeupdated": "1750697965"
             }
         },
         "privatebranches": "1"
