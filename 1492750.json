@@ -4,8 +4,8 @@
     "type": "Game",
     "schinese_name": "",
     "isfreeapp": 0,
-    "update_time": "2025-06-21 01:36:18",
-    "change_number": 29673110,
+    "update_time": "2025-07-24 02:26:39",
+    "change_number": 30217793,
     "depot": {
         "1492751": {
             "config": {
@@ -18,9 +18,9 @@
                     "download": "216567264"
                 },
                 "beta": {
-                    "gid": "4855992789982921083",
-                    "size": "932265568",
-                    "download": "235668752"
+                    "gid": "3376418558164293308",
+                    "size": "950568308",
+                    "download": "248196768"
                 }
             },
             "decryptionkey": "bec9d83ee7ca87f8a0d47e15c7fc384a1a80435462e1bef7480e88a158460372"
@@ -36,9 +36,9 @@
                     "download": "224429632"
                 },
                 "beta": {
-                    "gid": "3123756391051547601",
-                    "size": "964310388",
-                    "download": "243748880"
+                    "gid": "5144357251798497096",
+                    "size": "975266124",
+                    "download": "256238800"
                 }
             }
         },
@@ -53,9 +53,9 @@
                     "download": "215230944"
                 },
                 "beta": {
-                    "gid": "1697233933077538433",
-                    "size": "932560537",
-                    "download": "234381872"
+                    "gid": "3090751632350677146",
+                    "size": "950728449",
+                    "download": "246791232"
                 }
             }
         },
@@ -66,9 +66,9 @@
                 "timeupdated": "1747520368"
             },
             "beta": {
-                "buildid": "18941172",
+                "buildid": "19337128",
                 "description": "Maria beta",
-                "timeupdated": "1750429055"
+                "timeupdated": "1753320386"
             }
         },
         "privatebranches": "1"
