@@ -4,8 +4,8 @@
     "type": "Game",
     "schinese_name": "星战前夜",
     "isfreeapp": 1,
-    "update_time": "2025-06-20 05:27:07",
-    "change_number": 29653270,
+    "update_time": "2025-07-18 04:18:10",
+    "change_number": 30123654,
     "depot": {
         "228986": {
             "config": {
@@ -28,9 +28,9 @@
             "systemdefined": "1",
             "manifests": {
                 "public": {
-                    "gid": "1332417755248564012",
-                    "size": "601221955",
-                    "download": "226270976"
+                    "gid": "8003397821411375768",
+                    "size": "604657462",
+                    "download": "226866320"
                 }
             },
             "decryptionkey": "5c1802653b1a7b773e0611da0582add68784999ecc329ad20da788fe6825339f"
@@ -42,9 +42,9 @@
             "systemdefined": "1",
             "manifests": {
                 "public": {
-                    "gid": "8658128146665151732",
-                    "size": "399534728",
-                    "download": "163824592"
+                    "gid": "7495919990595790698",
+                    "size": "401541818",
+                    "download": "164180576"
                 }
             },
             "decryptionkey": "c566ea8e7e68fe163d7758b78b008c027d90bd8d74760589f03048805054cae8"
@@ -52,8 +52,8 @@
         "overridescddb": "1",
         "branches": {
             "public": {
-                "buildid": "18624183",
-                "timeupdated": "1748353042"
+                "buildid": "19080319",
+                "timeupdated": "1751465313"
             }
         },
         "privatebranches": "1"
