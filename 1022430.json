@@ -1,0 +1,28 @@
+{
+    "appid": 1022430,
+    "name": "DFF NT: Shire Crook, Y'shtola's 4th Weapon",
+    "type": "DLC",
+    "schinese_name": "",
+    "isfreeapp": 0,
+    "update_time": "2025-06-23 14:10:07",
+    "change_number": 26201212,
+    "depot": {
+        "1022430": {
+            "manifests": {
+                "public": {
+                    "gid": "7517169881166702451",
+                    "size": "0",
+                    "download": "0"
+                }
+            },
+            "dlcappid": "1022430",
+            "decryptionkey": "2ff8bf0e570f1c404c8fae4717ef04c87004c4f22d9d8c238d6054b9bb012872"
+        },
+        "branches": {
+            "public": {
+                "buildid": "3508002",
+                "timeupdated": "1548672374"
+            }
+        }
+    }
+}
