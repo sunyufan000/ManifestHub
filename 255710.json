@@ -4,8 +4,8 @@
     "type": "Game",
     "schinese_name": "城市：天际线",
     "isfreeapp": 0,
-    "update_time": "2025-06-19 18:34:59",
-    "change_number": 29647609,
+    "update_time": "2025-07-18 09:08:01",
+    "change_number": 30127149,
     "depot": {
         "overridescddb": "1",
         "workshopdepot": "255710",
@@ -1393,6 +1393,27 @@
         },
         "3731530": {
             "dlcappid": "3731530"
+        },
+        "3843397": {
+            "dlcappid": "3731530",
+            "config": {
+                "oslist": "windows"
+            },
+            "manifests": {}
+        },
+        "3843398": {
+            "dlcappid": "3731530",
+            "config": {
+                "oslist": "macos"
+            },
+            "manifests": {}
+        },
+        "3843399": {
+            "dlcappid": "3731530",
+            "config": {
+                "oslist": "linux"
+            },
+            "manifests": {}
         },
         "branches": {
             "public": {
