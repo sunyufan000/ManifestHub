@@ -4,8 +4,8 @@
     "type": "Application",
     "schinese_name": "",
     "isfreeapp": 1,
-    "update_time": "2025-06-18 23:41:41",
-    "change_number": 29632143,
+    "update_time": "2025-06-27 12:57:38",
+    "change_number": 29786131,
     "depot": {
         "hasdepotsindlc": "1",
         "2218561": {
@@ -20,9 +20,9 @@
                     "download": "60768128"
                 },
                 "beta-2.0": {
-                    "gid": "8707389143295696550",
-                    "size": "198488878",
-                    "download": "65257872"
+                    "gid": "5528047077105260253",
+                    "size": "198874888",
+                    "download": "68134080"
                 },
                 "development": {
                     "gid": "4609603136518859181",
@@ -63,9 +63,9 @@
             },
             "manifests": {
                 "beta-2.0": {
-                    "gid": "2428287823545871034",
-                    "size": "253818713",
-                    "download": "83135680"
+                    "gid": "8001573414795617994",
+                    "size": "253474516",
+                    "download": "85419584"
                 }
             },
             "decryptionkey": "99659169871c42d74ff58d37e8708634fec963d589c5b87cdc0a765f4818d5ca"
@@ -76,9 +76,9 @@
                 "timeupdated": "1716372665"
             },
             "beta-2.0": {
-                "buildid": "18914539",
+                "buildid": "19025773",
                 "description": "Open beta of PixiEditor 2.0",
-                "timeupdated": "1750261296"
+                "timeupdated": "1751025451"
             },
             "development": {
                 "buildid": "14452960",
