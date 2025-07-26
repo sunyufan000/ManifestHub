@@ -4,8 +4,8 @@
     "type": "Game",
     "schinese_name": "植物大战僵尸™: 和睦小镇保卫战",
     "isfreeapp": 0,
-    "update_time": "2025-06-12 08:04:35",
-    "change_number": 29517892,
+    "update_time": "2025-07-20 21:18:26",
+    "change_number": 30157570,
     "depot": {
         "baselanguages": "english,german,french,italian,koreana,spanish,schinese,tchinese,russian,japanese,polish,dutch,arabic,brazilian,latam",
         "228988": {
@@ -230,9 +230,9 @@
         "3340991": {
             "manifests": {
                 "public": {
-                    "gid": "4706744716523911097",
-                    "size": "234648127",
-                    "download": "234136240"
+                    "gid": "1318423300601359782",
+                    "size": "235231375",
+                    "download": "234719568"
                 }
             },
             "depotfromapp": "3340990",
