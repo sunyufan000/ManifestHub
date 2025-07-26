@@ -4,8 +4,8 @@
     "type": "Game",
     "schinese_name": "",
     "isfreeapp": 0,
-    "update_time": "2025-06-02 23:20:07",
-    "change_number": 29328403,
+    "update_time": "2025-06-23 20:15:59",
+    "change_number": 29709925,
     "depot": {
         "baselanguages": "english",
         "370131": {
@@ -14,9 +14,9 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "6154404373396747427",
-                    "size": "565413069",
-                    "download": "189696592"
+                    "gid": "1918542545965030942",
+                    "size": "535468917",
+                    "download": "183144304"
                 },
                 "lion_quest_1.0": {
                     "gid": "5260051484278330029",
@@ -32,9 +32,9 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "1570156000786350282",
-                    "size": "545515936",
-                    "download": "182378256"
+                    "gid": "8237561028178834943",
+                    "size": "515539018",
+                    "download": "175837392"
                 },
                 "lion_quest_1.0": {
                     "gid": "2823289864255657295",
@@ -51,9 +51,9 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "3697282396694491003",
-                    "size": "535648383",
-                    "download": "179379264"
+                    "gid": "454477040482265530",
+                    "size": "505676665",
+                    "download": "172827136"
                 },
                 "lion_quest_1.0": {
                     "gid": "7315214418664837975",
@@ -70,9 +70,9 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "7180443641206363132",
-                    "size": "537529142",
-                    "download": "179874160"
+                    "gid": "3552608931595967715",
+                    "size": "518045456",
+                    "download": "176495760"
                 },
                 "lion_quest_1.0": {
                     "gid": "1343060671352304259",
@@ -85,8 +85,8 @@
         "hasdepotsindlc": "0",
         "branches": {
             "public": {
-                "buildid": "18703503",
-                "timeupdated": "1748876639"
+                "buildid": "18969194",
+                "timeupdated": "1750706153"
             },
             "lion_quest_1.0": {
                 "buildid": "1221940",
