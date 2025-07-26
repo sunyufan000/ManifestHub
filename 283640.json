@@ -4,8 +4,8 @@
     "type": "Game",
     "schinese_name": "盐与避难所",
     "isfreeapp": 0,
-    "update_time": "2025-06-20 05:25:42",
-    "change_number": 29652388,
+    "update_time": "2025-07-01 16:31:52",
+    "change_number": 29845238,
     "depot": {
         "overridescddb": "1",
         "workshopdepot": "283640",
@@ -28,9 +28,9 @@
                     "download": "506211024"
                 },
                 "preview": {
-                    "gid": "4112330656386057966",
-                    "size": "1254197127",
-                    "download": "504969504"
+                    "gid": "2024955831594891712",
+                    "size": "1254197248",
+                    "download": "504969904"
                 },
                 "sdl3": {
                     "gid": "5222196185854023299",
@@ -182,9 +182,9 @@
                 "timeupdated": "1735919695"
             },
             "preview": {
-                "buildid": "18928799",
+                "buildid": "19067254",
                 "description": "preview build",
-                "timeupdated": "1750347468"
+                "timeupdated": "1751383906"
             },
             "sdl3": {
                 "buildid": "17081479",
