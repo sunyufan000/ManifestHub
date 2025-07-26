@@ -4,8 +4,8 @@
     "type": "Application",
     "schinese_name": "",
     "isfreeapp": 0,
-    "update_time": "2025-06-02 23:16:25",
-    "change_number": 29323936,
+    "update_time": "2025-07-22 21:43:05",
+    "change_number": 30193794,
     "depot": {
         "workshopdepot": "2479000",
         "228989": {
@@ -18,17 +18,17 @@
         "2479001": {
             "manifests": {
                 "public": {
-                    "gid": "2959108067683133858",
-                    "size": "80909109",
-                    "download": "26588256"
+                    "gid": "6429320794903314615",
+                    "size": "81040006",
+                    "download": "27112000"
                 }
             },
             "decryptionkey": "f99f8b999e8d4e38a3d473f98e8a2e82918be24e42e446735bd2f89be509fe80"
         },
         "branches": {
             "public": {
-                "buildid": "18701008",
-                "timeupdated": "1748863415"
+                "buildid": "18955520",
+                "timeupdated": "1750595592"
             }
         },
         "privatebranches": "1",
