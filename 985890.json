@@ -4,8 +4,8 @@
     "type": "Game",
     "schinese_name": "怒之铁拳4",
     "isfreeapp": 0,
-    "update_time": "2025-06-14 04:34:46",
-    "change_number": 29557048,
+    "update_time": "2025-07-02 13:21:18",
+    "change_number": 29860089,
     "depot": {
         "baselanguages": "english",
         "228986": {
@@ -30,6 +30,11 @@
                     "gid": "6777735580915182205",
                     "size": "5027907359",
                     "download": "4846128672"
+                },
+                "sdl3": {
+                    "gid": "2054277672393565786",
+                    "size": "5027498827",
+                    "download": "4846074224"
                 }
             },
             "decryptionkey": "334d196369a500638de8a9a02c66424ef3b3a519c858d3699911fdeb53deba76"
@@ -44,6 +49,11 @@
                     "gid": "3854442273198102502",
                     "size": "6559153521",
                     "download": "6223411248"
+                },
+                "sdl3": {
+                    "gid": "863127146601434437",
+                    "size": "6561519077",
+                    "download": "6223664272"
                 }
             },
             "decryptionkey": "c1c833c8664eecb7d7d21a056367ce7349b84f6fa25e160498bb581c6728e938"
@@ -55,6 +65,11 @@
             },
             "manifests": {
                 "public": {
+                    "gid": "7379902906825171084",
+                    "size": "6568740619",
+                    "download": "6225916384"
+                },
+                "sdl3": {
                     "gid": "7379902906825171084",
                     "size": "6568740619",
                     "download": "6225916384"
@@ -70,6 +85,11 @@
             "backup": {
                 "buildid": "5116965",
                 "timeupdated": "1595004017"
+            },
+            "sdl3": {
+                "buildid": "17081472",
+                "description": " for sdl3 linux builds",
+                "timeupdated": "1737485066"
             }
         },
         "privatebranches": "1"
