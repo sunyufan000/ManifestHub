@@ -4,17 +4,17 @@
     "type": "Game",
     "schinese_name": "职场幻想",
     "isfreeapp": 0,
-    "update_time": "2025-06-21 14:04:40",
-    "change_number": 29679709,
+    "update_time": "2025-07-23 20:14:57",
+    "change_number": 30213258,
     "depot": {
         "baselanguages": "english,schinese,tchinese,japanese",
         "hasdepotsindlc": "1",
         "2544721": {
             "manifests": {
                 "public": {
-                    "gid": "4077858839277643938",
-                    "size": "5077306997",
-                    "download": "1784476992"
+                    "gid": "2221037705025236469",
+                    "size": "5056396829",
+                    "download": "1871340064"
                 },
                 "local": {
                     "gid": "2034326933689085098",
@@ -26,8 +26,8 @@
         },
         "branches": {
             "public": {
-                "buildid": "18836006",
-                "timeupdated": "1749724656"
+                "buildid": "19104314",
+                "timeupdated": "1751621915"
             },
             "local": {
                 "buildid": "18936741",
