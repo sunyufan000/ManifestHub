@@ -4,8 +4,8 @@
     "type": "Game",
     "schinese_name": "细胞分裂6：黑名单",
     "isfreeapp": 0,
-    "update_time": "2025-06-12 17:06:03",
-    "change_number": 29524701,
+    "update_time": "2025-06-24 14:21:09",
+    "change_number": 29718826,
     "depot": {
         "overridescddb": "1",
         "baselanguages": "english,german,french,italian,spanish,tchinese,russian,japanese,polish,danish,dutch,norwegian,swedish,hungarian,czech,brazilian",
@@ -281,9 +281,9 @@
         "1716751": {
             "manifests": {
                 "public": {
-                    "gid": "7692967814764193714",
-                    "size": "631944",
-                    "download": "515248"
+                    "gid": "818295193716041715",
+                    "size": "632424",
+                    "download": "551504"
                 }
             },
             "depotfromapp": "1716750",
