@@ -4,8 +4,8 @@
     "type": "Game",
     "schinese_name": "东方华彩乱战2",
     "isfreeapp": 0,
-    "update_time": "2025-06-03 00:23:49",
-    "change_number": 29330045,
+    "update_time": "2025-06-30 09:37:58",
+    "change_number": 29818884,
     "depot": {
         "baselanguages": "schinese",
         "hasdepotsindlc": "1",
@@ -16,9 +16,9 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "6615104563798211054",
-                    "size": "3612004892",
-                    "download": "848087568"
+                    "gid": "7521414184969004983",
+                    "size": "3605770583",
+                    "download": "847971984"
                 }
             },
             "decryptionkey": "796684235fc827b4adc323e242f17b48188d165c8d9cc352582aa47011b7a4a7"
@@ -69,8 +69,8 @@
         },
         "branches": {
             "public": {
-                "buildid": "7856472",
-                "timeupdated": "1639072941"
+                "buildid": "10582892",
+                "timeupdated": "1751272673"
             }
         },
         "privatebranches": "1"
