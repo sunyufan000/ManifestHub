@@ -4,8 +4,8 @@
     "type": "Game",
     "schinese_name": "流放之路",
     "isfreeapp": 1,
-    "update_time": "2025-06-19 08:27:44",
-    "change_number": 29639510,
+    "update_time": "2025-07-23 02:06:14",
+    "change_number": 30197037,
     "depot": {
         "depotdeltapatches": "1",
         "overridescddb": "1",
@@ -23,9 +23,9 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "7077061352588733183",
-                    "size": "51835776276",
-                    "download": "51126962272"
+                    "gid": "2294337720749147576",
+                    "size": "52104093045",
+                    "download": "51393825072"
                 },
                 "local": {
                     "gid": "5835722125312717334",
@@ -42,9 +42,9 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "4616803383851369803",
-                    "size": "235728816",
-                    "download": "107341536"
+                    "gid": "9002919531652055700",
+                    "size": "236059568",
+                    "download": "111173728"
                 }
             },
             "decryptionkey": "d48bb40c224da3beff055dce713045517e9786f9503d6bc4910a32b29f5b7aa7"
@@ -56,17 +56,17 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "2274668062720138582",
-                    "size": "90223342",
-                    "download": "25982352"
+                    "gid": "9000529176672781634",
+                    "size": "90668062",
+                    "download": "30363200"
                 }
             },
             "decryptionkey": "b9ae6523b9469329a2647f1c754f994b3381b188105ca5accefda3df6a2e6fc2"
         },
         "branches": {
             "public": {
-                "buildid": "18919729",
-                "timeupdated": "1750292857"
+                "buildid": "19309674",
+                "timeupdated": "1753232771"
             },
             "local": {
                 "buildid": "120055",
