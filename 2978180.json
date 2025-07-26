@@ -4,8 +4,8 @@
     "type": "Game",
     "schinese_name": "",
     "isfreeapp": 0,
-    "update_time": "2025-06-08 22:25:00",
-    "change_number": 29446702,
+    "update_time": "2025-07-18 10:37:31",
+    "change_number": 30128529,
     "depot": {
         "2978182": {
             "config": {
@@ -13,9 +13,9 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "8511768623591671180",
-                    "size": "486751915",
-                    "download": "308798432"
+                    "gid": "8778474563563300224",
+                    "size": "835850161",
+                    "download": "610690880"
                 },
                 "1.16.15": {
                     "gid": "7326514968955157808",
@@ -91,6 +91,16 @@
                     "gid": "3721605444242207940",
                     "size": "456878243",
                     "download": "272240768"
+                },
+                "2.0.0": {
+                    "gid": "8322638198270461513",
+                    "size": "836412978",
+                    "download": "612938432"
+                },
+                "2.1.0": {
+                    "gid": "8778474563563300224",
+                    "size": "835850161",
+                    "download": "610690880"
                 }
             },
             "decryptionkey": "d6bea2a0a1765210588d094e276e30ae626646e06aff410a036627892aeb5ceb"
@@ -100,10 +110,11 @@
                 "oslist": "macos"
             }
         },
+        "baselanguages": "english,german,french,italian,koreana,spanish,schinese,tchinese,russian,thai,japanese,portuguese,polish,danish,dutch,finnish,norwegian,swedish,hungarian,czech,romanian,turkish,arabic,brazilian,bulgarian,greek,ukrainian,latam,vietnamese,indonesian",
         "branches": {
             "public": {
-                "buildid": "18722369",
-                "timeupdated": "1748976585"
+                "buildid": "19232801",
+                "timeupdated": "1752829101"
             },
             "1.16.15": {
                 "buildid": "17915862",
@@ -127,7 +138,7 @@
             },
             "1.19.3": {
                 "buildid": "18722369",
-                "description": "Release 1.19.3 (preview)",
+                "description": "Release 1.19.3",
                 "timeupdated": "1748974672"
             },
             "1.6.0": {
@@ -179,6 +190,16 @@
                 "buildid": "17683526",
                 "description": "Release 1.6.9",
                 "timeupdated": "1741727630"
+            },
+            "2.0.0": {
+                "buildid": "19037324",
+                "description": "Release 2.0.0",
+                "timeupdated": "1751119668"
+            },
+            "2.1.0": {
+                "buildid": "19232801",
+                "description": "2.1.0 (preview)",
+                "timeupdated": "1752597597"
             }
         },
         "privatebranches": "1"
