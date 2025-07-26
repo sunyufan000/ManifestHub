@@ -1,0 +1,28 @@
+{
+    "appid": 1089231,
+    "name": "Rocksmith® 2014 Edition – Remastered – The Notetrackers - Bass - Easy Pull-off Exercise 2",
+    "type": "DLC",
+    "schinese_name": "",
+    "isfreeapp": 0,
+    "update_time": "2025-06-23 14:09:02",
+    "change_number": 26551766,
+    "depot": {
+        "1089231": {
+            "manifests": {
+                "public": {
+                    "gid": "685072615030352524",
+                    "size": "8851590",
+                    "download": "5421200"
+                }
+            },
+            "dlcappid": "1089231",
+            "decryptionkey": "e757fb81524c9678ac28f8851acf45fe562434b60f860703cedc1e457cbccd24"
+        },
+        "branches": {
+            "public": {
+                "buildid": "4109986",
+                "timeupdated": "1565908750"
+            }
+        }
+    }
+}
