@@ -4,8 +4,8 @@
     "type": "Game",
     "schinese_name": "节奏魔女 舞动的骷髅",
     "isfreeapp": 0,
-    "update_time": "2025-06-19 09:18:28",
-    "change_number": 29640012,
+    "update_time": "2025-07-14 14:37:12",
+    "change_number": 30049521,
     "depot": {
         "baselanguages": "english,schinese,tchinese,japanese",
         "hasdepotsindlc": "0",
@@ -15,9 +15,9 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "5245546915572706260",
-                    "size": "821621899",
-                    "download": "269178288"
+                    "gid": "7798906288489089896",
+                    "size": "830312518",
+                    "download": "271110048"
                 }
             },
             "decryptionkey": "0eb91817f38b08e589a0c5a2cc41747e56ec3804b017b5337079a93380ab6872"
@@ -29,16 +29,16 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "4337937148784307696",
-                    "size": "927233347",
-                    "download": "310648944"
+                    "gid": "5297341024538267284",
+                    "size": "934387226",
+                    "download": "311187024"
                 }
             }
         },
         "branches": {
             "public": {
-                "buildid": "18651086",
-                "timeupdated": "1748479571"
+                "buildid": "19212111",
+                "timeupdated": "1752500225"
             }
         },
         "privatebranches": "1"
