@@ -1,0 +1,28 @@
+{
+    "appid": 1022462,
+    "name": "DFF NT: Zidane Tribal Starter Pack",
+    "type": "DLC",
+    "schinese_name": "",
+    "isfreeapp": 0,
+    "update_time": "2025-06-23 14:10:13",
+    "change_number": 26201212,
+    "depot": {
+        "1022462": {
+            "manifests": {
+                "public": {
+                    "gid": "2407289987155448083",
+                    "size": "0",
+                    "download": "0"
+                }
+            },
+            "dlcappid": "1022462",
+            "decryptionkey": "fb231ef569b6dd8d8dfac8f1bd0abc140781bad3211ad7e050962f76d35c14b8"
+        },
+        "branches": {
+            "public": {
+                "buildid": "3508035",
+                "timeupdated": "1548672107"
+            }
+        }
+    }
+}
