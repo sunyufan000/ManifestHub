@@ -4,8 +4,8 @@
     "type": "Game",
     "schinese_name": "",
     "isfreeapp": 0,
-    "update_time": "2025-06-15 08:54:33",
-    "change_number": 29570234,
+    "update_time": "2025-07-01 11:54:01",
+    "change_number": 29841037,
     "depot": {
         "856491": {
             "config": {
@@ -30,7 +30,8 @@
                     "size": "100952172",
                     "download": "28576464"
                 }
-            }
+            },
+            "decryptionkey": "c81fb371fc7da01c87bcfafcc7c0eb8d0429c8228918d54be6db04d9e0b44acd"
         },
         "856493": {
             "config": {
@@ -42,7 +43,8 @@
                     "size": "96205299",
                     "download": "28591120"
                 }
-            }
+            },
+            "decryptionkey": "ddecfbb733aba7c6ef90455b2122637afae55fab968d10545854eee321952e78"
         },
         "branches": {
             "public": {
