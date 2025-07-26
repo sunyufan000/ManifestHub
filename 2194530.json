@@ -4,10 +4,11 @@
     "type": "Game",
     "schinese_name": "犹格索托斯的庭院",
     "isfreeapp": 0,
-    "update_time": "2025-06-10 17:38:29",
-    "change_number": 29483049,
+    "update_time": "2025-07-15 05:59:28",
+    "change_number": 30061452,
     "depot": {
         "baselanguages": "english,schinese",
+        "hasdepotsindlc": "1",
         "2194531": {
             "manifests": {
                 "public": {
@@ -27,7 +28,9 @@
                 "optionaldlc": "2699860"
             }
         },
-        "hasdepotsindlc": "1",
+        "2194533": {
+            "manifests": {}
+        },
         "branches": {
             "public": {
                 "buildid": "16579146",
