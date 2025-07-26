@@ -4,8 +4,8 @@
     "type": "Game",
     "schinese_name": "少年的终结",
     "isfreeapp": 0,
-    "update_time": "2025-06-06 19:56:48",
-    "change_number": 29417330,
+    "update_time": "2025-07-18 12:57:30",
+    "change_number": 30130809,
     "depot": {
         "baselanguages": "english,koreana,schinese,japanese",
         "hasdepotsindlc": "1",
@@ -17,9 +17,9 @@
                     "download": "904822496"
                 },
                 "public-beta": {
-                    "gid": "2783882877562576907",
-                    "size": "1310108975",
-                    "download": "931741552"
+                    "gid": "2678489538773284688",
+                    "size": "1331500962",
+                    "download": "946484528"
                 }
             },
             "decryptionkey": "feaae982c0d913479fa740be39d5956d7e1efe8cb99b3a8e0b906382f7d40918"
@@ -33,9 +33,9 @@
                 "timeupdated": "1744977658"
             },
             "public-beta": {
-                "buildid": "18754531",
+                "buildid": "19269656",
                 "description": "public beta branch",
-                "timeupdated": "1749210979"
+                "timeupdated": "1752839821"
             }
         },
         "privatebranches": "1"
