@@ -4,8 +4,8 @@
     "type": "Game",
     "schinese_name": "",
     "isfreeapp": 0,
-    "update_time": "2025-06-21 05:16:34",
-    "change_number": 29675786,
+    "update_time": "2025-07-04 20:27:04",
+    "change_number": 29903410,
     "depot": {
         "228983": {
             "config": {
@@ -57,9 +57,9 @@
                     "download": "7193807632"
                 },
                 "public_testing": {
-                    "gid": "2887145749574498606",
-                    "size": "9284994535",
-                    "download": "7492738784"
+                    "gid": "5524346441086559718",
+                    "size": "9461086804",
+                    "download": "7718720896"
                 }
             },
             "decryptionkey": "b329217cf9acf1faa28049bc399d5209cb8fd1c89f43c06c88bed59e19e3ca4e"
@@ -68,12 +68,12 @@
         "branches": {
             "public": {
                 "buildid": "18723416",
-                "timeupdated": "1748980029"
+                "timeupdated": "1751657219"
             },
             "public_testing": {
-                "buildid": "18875717",
+                "buildid": "19054588",
                 "description": "This branch is for players who want to try features in development and or testing state This might contain a lot of bugs",
-                "timeupdated": "1750023053"
+                "timeupdated": "1751437255"
             }
         },
         "privatebranches": "1",
