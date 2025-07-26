@@ -4,15 +4,15 @@
     "type": "Game",
     "schinese_name": "爆乳海賊王",
     "isfreeapp": 0,
-    "update_time": "2025-05-31 12:24:25",
-    "change_number": 29297344,
+    "update_time": "2025-07-11 23:03:34",
+    "change_number": 30020439,
     "depot": {
         "1897821": {
             "manifests": {
                 "public": {
-                    "gid": "3567606289333005290",
-                    "size": "1120837563",
-                    "download": "957104032"
+                    "gid": "1283532916810978834",
+                    "size": "1136674722",
+                    "download": "963617328"
                 }
             },
             "decryptionkey": "bbf8ed1eeec0491d3cface6765d59c0789c4b2c5d7d104135577d101890368c7"
@@ -31,8 +31,8 @@
         },
         "branches": {
             "public": {
-                "buildid": "8509407",
-                "timeupdated": "1649451428"
+                "buildid": "19097141",
+                "timeupdated": "1752271410"
             }
         },
         "privatebranches": "1"
