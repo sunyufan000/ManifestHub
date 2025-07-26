@@ -4,8 +4,8 @@
     "type": "Game",
     "schinese_name": "",
     "isfreeapp": 0,
-    "update_time": "2025-06-08 00:23:36",
-    "change_number": 29437232,
+    "update_time": "2025-07-20 12:47:01",
+    "change_number": 30154076,
     "depot": {
         "1491091": {
             "config": {
@@ -65,9 +65,9 @@
                 "timeupdated": "1703394176"
             },
             "beta": {
-                "buildid": "18294419",
+                "buildid": "19290919",
                 "description": "Beta",
-                "timeupdated": "1746010486"
+                "timeupdated": "1753012018"
             }
         }
     }
