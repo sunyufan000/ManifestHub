@@ -4,8 +4,8 @@
     "type": "Game",
     "schinese_name": "塔楼",
     "isfreeapp": 0,
-    "update_time": "2025-06-22 10:12:18",
-    "change_number": 29687207,
+    "update_time": "2025-07-23 06:45:49",
+    "change_number": 30200095,
     "depot": {
         "228989": {
             "config": {
@@ -44,14 +44,14 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "1740461055187709964",
-                    "size": "28049641161",
-                    "download": "27330708656"
+                    "gid": "6671463577567245244",
+                    "size": "28053456652",
+                    "download": "27334620160"
                 },
                 "beta": {
-                    "gid": "1740461055187709964",
-                    "size": "28049641161",
-                    "download": "27330708656"
+                    "gid": "6671463577567245244",
+                    "size": "28053456652",
+                    "download": "27334620160"
                 }
             },
             "decryptionkey": "be1149768a298865cf712fe8c1bb9ca533b6a528f7fb6c7fca4a3bd92b835223"
@@ -59,13 +59,13 @@
         "hasdepotsindlc": "1",
         "branches": {
             "public": {
-                "buildid": "18940599",
-                "timeupdated": "1750462316"
+                "buildid": "19309812",
+                "timeupdated": "1753219427"
             },
             "beta": {
-                "buildid": "18940599",
+                "buildid": "19309812",
                 "description": "Public Beta",
-                "timeupdated": "1750453392"
+                "timeupdated": "1753216189"
             }
         },
         "privatebranches": "1",
