@@ -4,8 +4,8 @@
     "type": "Game",
     "schinese_name": "尖叫声",
     "isfreeapp": 0,
-    "update_time": "2025-06-06 12:58:29",
-    "change_number": 29410562,
+    "update_time": "2025-07-17 00:18:11",
+    "change_number": 30099469,
     "depot": {
         "3181301": {
             "config": {
@@ -46,7 +46,7 @@
                     "download": "869666624"
                 }
             },
-            "decryptionkey": ""
+            "decryptionkey": "12f5c3cc2835940710f2043d39aa338274e69326dd06e169b823ba06a429606f"
         },
         "3322460": {
             "dlcappid": "3322460",
@@ -60,7 +60,7 @@
                     "download": "20452928"
                 }
             },
-            "decryptionkey": ""
+            "decryptionkey": "1294d86a2a16f7a374806c267d3229284d8b2488fc59440def9c6581997a6578"
         },
         "3407120": {
             "dlcappid": "3407120",
