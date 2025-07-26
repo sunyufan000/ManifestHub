@@ -1,70 +1,13 @@
 {
     "appid": 850000,
-    "name": "Noel the Mortal Fate S1-7",
+    "name": "Noel the Mortal Fate Complete Edition",
     "type": "Game",
-    "schinese_name": "被虐的诺艾尔 S1-7",
+    "schinese_name": "被虐的诺艾尔 Complete Edition",
     "isfreeapp": 0,
-    "update_time": "2025-06-03 08:52:22",
-    "change_number": 29337685,
+    "update_time": "2025-07-24 02:06:16",
+    "change_number": 30217571,
     "depot": {
         "baselanguages": "english,schinese,japanese",
-        "850002": {
-            "config": {
-                "language": "japanese",
-                "oslist": "windows"
-            },
-            "manifests": {
-                "public": {
-                    "gid": "2311461021680893761",
-                    "size": "1237891760",
-                    "download": "298927312"
-                },
-                "alpha": {
-                    "gid": "4926037606077352201",
-                    "size": "663959768",
-                    "download": "242827008"
-                }
-            },
-            "decryptionkey": "f7ce9ce160db258e38da87a4e2acddebe02f594dd82f07bb6e35d5c346bcd0f5"
-        },
-        "850003": {
-            "config": {
-                "language": "english",
-                "oslist": "windows"
-            },
-            "manifests": {
-                "public": {
-                    "gid": "3327806346525997183",
-                    "size": "1879524081",
-                    "download": "345831600"
-                },
-                "alpha": {
-                    "gid": "416910555073439264",
-                    "size": "549395398",
-                    "download": "166133376"
-                }
-            },
-            "decryptionkey": "a00033af2039e7e4f5ef0cb91ca51c452e9feeb6aa143b195374634f457e2c68"
-        },
-        "850004": {
-            "config": {
-                "language": "schinese",
-                "oslist": "windows"
-            },
-            "manifests": {
-                "public": {
-                    "gid": "2025565772474524367",
-                    "size": "1968660576",
-                    "download": "350961936"
-                },
-                "alpha": {
-                    "gid": "4321394420507577296",
-                    "size": "540076860",
-                    "download": "163376384"
-                }
-            },
-            "decryptionkey": "ac03d037f58bbccdf81b466a297dae6ecb82f6a90df80201b5de75213917ad14"
-        },
         "850001": {},
         "850005": {
             "dlcappid": "931670",
@@ -349,7 +292,7 @@
                     "download": "226244928"
                 }
             },
-            "decryptionkey": ""
+            "decryptionkey": "be2322c626b72fc0f588135ff667dcc65ea4b5dac9c65f51ca168f6321c4fa41"
         },
         "2473442": {
             "dlcappid": "2473440",
@@ -394,7 +337,7 @@
                     "download": "199062704"
                 }
             },
-            "decryptionkey": ""
+            "decryptionkey": "f3882c090b89ac3be9954218302833a114aef00494745ef036c3a6255e607dbc"
         },
         "2476122": {
             "dlcappid": "2476120",
@@ -426,10 +369,67 @@
             },
             "decryptionkey": "3dc40091950ab541a5c0c29267413afde61f4111d10743096a7b104a5dced94a"
         },
+        "850002": {
+            "config": {
+                "language": "japanese",
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "7576140579901946538",
+                    "size": "4744398247",
+                    "download": "1390629248"
+                },
+                "alpha": {
+                    "gid": "4926037606077352201",
+                    "size": "663959768",
+                    "download": "242827008"
+                }
+            },
+            "decryptionkey": "f7ce9ce160db258e38da87a4e2acddebe02f594dd82f07bb6e35d5c346bcd0f5"
+        },
+        "850003": {
+            "config": {
+                "language": "english",
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "1465119078637659051",
+                    "size": "4810395949",
+                    "download": "1389797296"
+                },
+                "alpha": {
+                    "gid": "416910555073439264",
+                    "size": "549395398",
+                    "download": "166133376"
+                }
+            },
+            "decryptionkey": "a00033af2039e7e4f5ef0cb91ca51c452e9feeb6aa143b195374634f457e2c68"
+        },
+        "850004": {
+            "config": {
+                "language": "schinese",
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "58773905305999132",
+                    "size": "5002449680",
+                    "download": "1463174704"
+                },
+                "alpha": {
+                    "gid": "4321394420507577296",
+                    "size": "540076860",
+                    "download": "163376384"
+                }
+            },
+            "decryptionkey": "ac03d037f58bbccdf81b466a297dae6ecb82f6a90df80201b5de75213917ad14"
+        },
         "branches": {
             "public": {
-                "buildid": "13213203",
-                "timeupdated": "1705622980"
+                "buildid": "19170450",
+                "timeupdated": "1752124495"
             },
             "alpha": {
                 "buildid": "2753094",
