@@ -4,8 +4,8 @@
     "type": "Game",
     "schinese_name": "侠盗猎车手：罪恶都市 - 最终版",
     "isfreeapp": 0,
-    "update_time": "2025-06-20 22:38:53",
-    "change_number": 29670227,
+    "update_time": "2025-07-18 08:18:12",
+    "change_number": 30126315,
     "depot": {
         "228988": {
             "config": {
@@ -34,9 +34,9 @@
         "1899671": {
             "manifests": {
                 "public": {
-                    "gid": "4177720964978853031",
-                    "size": "230627596",
-                    "download": "187200304"
+                    "gid": "1313721849634300954",
+                    "size": "223812877",
+                    "download": "187185200"
                 }
             },
             "depotfromapp": "1899670",
