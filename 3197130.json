@@ -4,7 +4,7 @@
     "type": "DLC",
     "schinese_name": "The Sims™ 4 甜蜜睡衣派对套件包",
     "isfreeapp": 0,
-    "update_time": "2025-05-31 07:27:29",
+    "update_time": "2025-06-23 03:19:59",
     "change_number": 29289681,
     "depot": {
         "3197130": {
@@ -30,7 +30,7 @@
                 }
             },
             "dlcappid": "3197130",
-            "decryptionkey": ""
+            "decryptionkey": "74c2305a9421a0e6f1c044f58f26256c28b3bdd5bfdaa6dfb0afddbe4fa32e36"
         },
         "3197132": {
             "config": {
