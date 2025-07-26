@@ -4,8 +4,8 @@
     "type": "Game",
     "schinese_name": "王国：两位君主",
     "isfreeapp": 0,
-    "update_time": "2025-06-18 23:59:24",
-    "change_number": 29632450,
+    "update_time": "2025-07-24 04:11:38",
+    "change_number": 30218995,
     "depot": {
         "baselanguages": "english",
         "hasdepotsindlc": "0",
@@ -22,9 +22,9 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "1112541163438666133",
-                    "size": "2344766266",
-                    "download": "1357376736"
+                    "gid": "3161061016134672988",
+                    "size": "2354797149",
+                    "download": "1357659120"
                 }
             },
             "decryptionkey": "5aae8ca5c454854bdf1b25248fe5f3c01a97c983489767c17930cc8a02156ac3"
@@ -35,9 +35,9 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "892925607752570730",
-                    "size": "2478893451",
-                    "download": "1379961824"
+                    "gid": "1282176972241264473",
+                    "size": "2487479758",
+                    "download": "1380077264"
                 }
             },
             "decryptionkey": "17174ac183441ce4785eb189f7a80fc0fd9a202494cad02f1ddf4bc3d87aade4"
@@ -48,9 +48,9 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "6057569188202146328",
-                    "size": "2384463726",
-                    "download": "1355687696"
+                    "gid": "4566154827935506379",
+                    "size": "2394426437",
+                    "download": "1355963488"
                 }
             },
             "decryptionkey": "88068941a333be0784b8fd4fe2c414237610909671e189f3068177fc84e0352e"
@@ -59,7 +59,7 @@
             "dlcappid": "988810",
             "manifests": {
                 "public": {
-                    "gid": "8241827559384344351",
+                    "gid": "1333726444267560544",
                     "size": "2243072013",
                     "download": "2146356112"
                 }
@@ -71,8 +71,8 @@
         },
         "branches": {
             "public": {
-                "buildid": "18099191",
-                "timeupdated": "1744635042"
+                "buildid": "18978833",
+                "timeupdated": "1750768302"
             }
         },
         "privatebranches": "1"
