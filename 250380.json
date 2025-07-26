@@ -4,8 +4,8 @@
     "type": "Game",
     "schinese_name": "夜半敲门声",
     "isfreeapp": 0,
-    "update_time": "2025-06-13 03:16:45",
-    "change_number": 29535307,
+    "update_time": "2025-06-26 08:07:47",
+    "change_number": 29757132,
     "depot": {
         "overridescddb": "1",
         "markdlcdepots": "1",
@@ -59,7 +59,8 @@
                     "size": "530485266",
                     "download": "0"
                 }
-            }
+            },
+            "decryptionkey": "37ccfec7384f9102bf5c8fc518f9e69d92423d33351fd64cff96f5b42c5e7e1a"
         },
         "250383": {
             "config": {
@@ -77,7 +78,8 @@
                     "size": "521418100",
                     "download": "0"
                 }
-            }
+            },
+            "decryptionkey": "b0ee4151376f8878c7bd01097505a809de168d3ff24f6ab9d4a433290068fd65"
         },
         "268000": {
             "manifests": {
