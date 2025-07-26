@@ -4,33 +4,33 @@
     "type": "Game",
     "schinese_name": "第一人称网球：真实网球模拟器 ",
     "isfreeapp": 0,
-    "update_time": "2025-06-17 16:54:21",
-    "change_number": 29604255,
+    "update_time": "2025-07-04 23:10:30",
+    "change_number": 29905042,
     "depot": {
         "baselanguages": "english",
         "454141": {
             "manifests": {
                 "public": {
-                    "gid": "1408434576802250455",
-                    "size": "923985201",
-                    "download": "610669088"
+                    "gid": "3913911817469726246",
+                    "size": "923984744",
+                    "download": "610608656"
                 },
                 "beta": {
-                    "gid": "1408434576802250455",
-                    "size": "923985201",
-                    "download": "610669088"
+                    "gid": "3913911817469726246",
+                    "size": "923984744",
+                    "download": "610608656"
                 }
             },
             "decryptionkey": "36ddbbe95bb85acdf0afd2249b28a3cc5adb2e7ef04796591ab4ca74f9e6a1ca"
         },
         "branches": {
             "public": {
-                "buildid": "18894382",
-                "timeupdated": "1750149077"
+                "buildid": "18963101",
+                "timeupdated": "1750672668"
             },
             "beta": {
-                "buildid": "18894382",
-                "timeupdated": "1750149093"
+                "buildid": "18963101",
+                "timeupdated": "1750672681"
             }
         }
     }
