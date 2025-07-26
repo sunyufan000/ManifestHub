@@ -4,8 +4,8 @@
     "type": "Game",
     "schinese_name": "Asleep 沉睡 - Ato 1",
     "isfreeapp": 0,
-    "update_time": "2025-06-20 09:40:24",
-    "change_number": 29659617,
+    "update_time": "2025-06-27 03:29:56",
+    "change_number": 29778179,
     "depot": {
         "baselanguages": "brazilian",
         "1583852": {
@@ -15,9 +15,9 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "6069843529874797395",
-                    "size": "993670533",
-                    "download": "770526720"
+                    "gid": "8175202852942409079",
+                    "size": "993655048",
+                    "download": "770835056"
                 }
             },
             "decryptionkey": "c3d2f13f2463f0ef3889b720b716ab78839f096f9caaf35bd36eac0562f88c3f"
@@ -29,9 +29,9 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "8329397984400418211",
-                    "size": "992553621",
-                    "download": "767584912"
+                    "gid": "6304408435204833095",
+                    "size": "992552141",
+                    "download": "768050000"
                 }
             }
         },
@@ -42,7 +42,7 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "2503045485283069110",
+                    "gid": "5167627242923199435",
                     "size": "1013919606",
                     "download": "773928928"
                 }
@@ -56,9 +56,9 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "3773205853778844805",
-                    "size": "245915077",
-                    "download": "232493616"
+                    "gid": "9033914824326726714",
+                    "size": "245905973",
+                    "download": "232453616"
                 }
             },
             "decryptionkey": "59baf9e0611e162dc8928d5280982627850e32c84289b7cd252ca2ea3427371b"
@@ -71,9 +71,9 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "6658774064683510379",
-                    "size": "245897229",
-                    "download": "232580032"
+                    "gid": "3636818658845439169",
+                    "size": "245895541",
+                    "download": "232582128"
                 }
             }
         },
@@ -85,16 +85,16 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "3441760191547614284",
-                    "size": "245884771",
-                    "download": "232697536"
+                    "gid": "567129788028847536",
+                    "size": "245884972",
+                    "download": "232705184"
                 }
             }
         },
         "branches": {
             "public": {
-                "buildid": "18933919",
-                "timeupdated": "1750383601"
+                "buildid": "19020034",
+                "timeupdated": "1750991230"
             }
         },
         "privatebranches": "1"
