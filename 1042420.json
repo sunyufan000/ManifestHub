@@ -4,8 +4,8 @@
     "type": "Tool",
     "schinese_name": "",
     "isfreeapp": 0,
-    "update_time": "2025-06-04 02:42:27",
-    "change_number": 29355489,
+    "update_time": "2025-07-17 12:59:54",
+    "change_number": 30109848,
     "depot": {
         "228985": {
             "config": {
@@ -31,9 +31,9 @@
         "1042421": {
             "manifests": {
                 "public": {
-                    "gid": "3171616148225064156",
-                    "size": "3619397849",
-                    "download": "1270806336"
+                    "gid": "6357980573811781558",
+                    "size": "3619424295",
+                    "download": "1271746896"
                 }
             },
             "decryptionkey": "f4596b432b405afdbbb09e42aa7bd3f96ae6494881a0cea19d23b7b35e74ee77"
@@ -45,9 +45,9 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "736292231641181481",
-                    "size": "80665536",
-                    "download": "23729360"
+                    "gid": "7050149766291313296",
+                    "size": "80669632",
+                    "download": "26071728"
                 }
             },
             "decryptionkey": "c12b4ec6ef456e1185dbc6ff68429ddd09837bd4bf5f14927952833fb7f2f7f8"
@@ -59,9 +59,9 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "2348389602679440581",
-                    "size": "42037184",
-                    "download": "13200784"
+                    "gid": "3538746250653654474",
+                    "size": "42036736",
+                    "download": "14344736"
                 }
             },
             "decryptionkey": "19bd5536221757549f30bf24e346ee7c68529e3554522c6d12d45e102a6f61bc"
@@ -78,8 +78,8 @@
         },
         "branches": {
             "public": {
-                "buildid": "18722080",
-                "timeupdated": "1748976112"
+                "buildid": "19247622",
+                "timeupdated": "1752753590"
             }
         },
         "privatebranches": "1"
