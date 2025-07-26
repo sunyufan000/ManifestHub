@@ -4,8 +4,8 @@
     "type": "Game",
     "schinese_name": "",
     "isfreeapp": 0,
-    "update_time": "2025-06-04 00:52:01",
-    "change_number": 29353188,
+    "update_time": "2025-07-09 18:25:50",
+    "change_number": 29973011,
     "depot": {
         "baselanguages": "english,russian",
         "228985": {
@@ -36,9 +36,9 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "7354300664926275874",
-                    "size": "760199169",
-                    "download": "277835936"
+                    "gid": "7064590600691464994",
+                    "size": "760220193",
+                    "download": "277842032"
                 }
             },
             "decryptionkey": "0a8c63cf8f6ef4362ac2362f65112fbed8144ff3da306aeba2d1b6be025f8f9e"
@@ -50,9 +50,9 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "7747829790608205019",
-                    "size": "756205198",
-                    "download": "276577792"
+                    "gid": "5509242225176545462",
+                    "size": "756226734",
+                    "download": "276584464"
                 }
             },
             "decryptionkey": "60d625c43304bf69e07a081549475b4857190bb3b878035c21a5b1f4819474bc"
@@ -63,11 +63,12 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "6476930512219741420",
-                    "size": "760609123",
-                    "download": "277830288"
+                    "gid": "7114152537246529517",
+                    "size": "760630659",
+                    "download": "277836128"
                 }
-            }
+            },
+            "decryptionkey": "b635c41783e9241b1f975e4b4b9d4c8704d6aa48fae0da30f3be12f64a3ed1e6"
         },
         "950744": {
             "config": {
@@ -75,11 +76,12 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "6766036953387866311",
-                    "size": "837984715",
-                    "download": "302638736"
+                    "gid": "4195259765145853982",
+                    "size": "838005739",
+                    "download": "302644944"
                 }
-            }
+            },
+            "decryptionkey": "41d902fabf94fd432a2500f5b4d44f1b84148a9e43f21d51bd071b1ae8cb5c18"
         },
         "1841880": {
             "dlcappid": "1841880",
@@ -160,8 +162,8 @@
         },
         "branches": {
             "public": {
-                "buildid": "18721184",
-                "timeupdated": "1748969512"
+                "buildid": "19164088",
+                "timeupdated": "1752081943"
             }
         }
     }
