@@ -4,16 +4,16 @@
     "type": "Game",
     "schinese_name": "",
     "isfreeapp": 1,
-    "update_time": "2025-06-13 01:35:29",
-    "change_number": 29530088,
+    "update_time": "2025-07-23 16:28:08",
+    "change_number": 30209377,
     "depot": {
         "baselanguages": "english,german,french,italian,koreana,spanish,schinese,tchinese,russian,thai,japanese,portuguese,polish,danish,dutch,finnish,norwegian,swedish,hungarian,czech,romanian,turkish,arabic,brazilian,bulgarian,greek,ukrainian,latam,vietnamese,indonesian",
         "351031": {
             "manifests": {
                 "public": {
-                    "gid": "5613440137007977764",
-                    "size": "146033513",
-                    "download": "127173536"
+                    "gid": "7553491578164685320",
+                    "size": "145300217",
+                    "download": "126434704"
                 }
             },
             "decryptionkey": "71ea1220002fb0f738ec75ffd9809ee0c67c81876fd51174875de24e34569708"
@@ -38,7 +38,7 @@
                     "download": "37557216"
                 }
             },
-            "decryptionkey": ""
+            "decryptionkey": "b3249bff059b9ed670cabd366e6b51b473eff4eb1e941fa209e0aee850a1b155"
         },
         "502841": {
             "dlcappid": "502841",
@@ -423,7 +423,7 @@
                     "download": "28603136"
                 }
             },
-            "decryptionkey": ""
+            "decryptionkey": "b07e1a25a0736552ba5e0be7d2c50da8dab1b27414b4fceb2b507adccefc733a"
         },
         "577402": {
             "dlcappid": "577402",
@@ -1620,9 +1620,9 @@
             "dlcappid": "1952658",
             "manifests": {
                 "public": {
-                    "gid": "6209934949783479557",
-                    "size": "2044953683",
-                    "download": "2046116976"
+                    "gid": "7726392400890399875",
+                    "size": "2050940633",
+                    "download": "2052122864"
                 }
             },
             "decryptionkey": "3006e8de3e4af9aa04a40610f185ce97c79ce3462d3469208bbe87fc8a982f71"
@@ -1792,10 +1792,18 @@
             },
             "decryptionkey": ""
         },
+        "3059880": {
+            "dlcappid": "3059880",
+            "manifests": {}
+        },
+        "3059890": {
+            "dlcappid": "3059890",
+            "manifests": {}
+        },
         "branches": {
             "public": {
-                "buildid": "18812565",
-                "timeupdated": "1749738140"
+                "buildid": "19065691",
+                "timeupdated": "1751376428"
             }
         },
         "privatebranches": "1"
