@@ -4,8 +4,8 @@
     "type": "Game",
     "schinese_name": "",
     "isfreeapp": 1,
-    "update_time": "2025-06-18 06:22:55",
-    "change_number": 29617080,
+    "update_time": "2025-07-22 08:15:37",
+    "change_number": 30180990,
     "depot": {
         "599391": {
             "config": {
@@ -33,9 +33,9 @@
                     "download": "419313696"
                 },
                 "1.19": {
-                    "gid": "1497898061104973515",
-                    "size": "617180382",
-                    "download": "507486416"
+                    "gid": "4164638259841821118",
+                    "size": "627018285",
+                    "download": "512256848"
                 }
             },
             "decryptionkey": "453a189f401660e3b4c3b3174b8c10c4aed809aebc76dc434a39d994bff63722"
@@ -66,9 +66,9 @@
                     "download": "6972560"
                 },
                 "1.19": {
-                    "gid": "5286913339185176795",
-                    "size": "41391705",
-                    "download": "8497280"
+                    "gid": "4047985964977047018",
+                    "size": "40664225",
+                    "download": "8348784"
                 }
             },
             "decryptionkey": "9a15757143d0d3edd42a4b686ac7252d8416dec2b88cdfe0820fa57bc9de685d"
@@ -99,9 +99,9 @@
                     "download": "37613040"
                 },
                 "1.19": {
-                    "gid": "111794170163939599",
-                    "size": "154871706",
-                    "download": "39082704"
+                    "gid": "7492309732357489748",
+                    "size": "153927902",
+                    "download": "38942944"
                 }
             },
             "decryptionkey": "33c5ef8f64bef9299cc1222e55860d99a99f4a15e166c328984318def3be4c55"
@@ -132,9 +132,9 @@
                     "download": "442409872"
                 },
                 "1.19": {
-                    "gid": "9125656296497875195",
-                    "size": "704112200",
-                    "download": "531036448"
+                    "gid": "6308252039007033369",
+                    "size": "713149975",
+                    "download": "541905632"
                 }
             },
             "decryptionkey": "ef1a3db3cdfa815d048da1edebeb778be0f9134f6a255234e183a340fe0e8177"
@@ -160,9 +160,9 @@
                 "timeupdated": "1708932476"
             },
             "1.19": {
-                "buildid": "18903587",
+                "buildid": "19311164",
                 "description": "Development release",
-                "timeupdated": "1750196175"
+                "timeupdated": "1753168531"
             }
         },
         "privatebranches": "1"
