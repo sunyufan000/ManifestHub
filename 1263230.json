@@ -4,8 +4,8 @@
     "type": "Game",
     "schinese_name": "烹饪伙伴「Cooking Companions」",
     "isfreeapp": 0,
-    "update_time": "2025-06-07 10:05:40",
-    "change_number": 29430306,
+    "update_time": "2025-06-27 20:08:06",
+    "change_number": 29793361,
     "depot": {
         "1263231": {
             "manifests": {
@@ -27,7 +27,8 @@
                     "size": "27886552",
                     "download": "8287008"
                 }
-            }
+            },
+            "decryptionkey": "b05950c0bd7744e895e335788604940b06db14bef8d96f0b35bc2e8334095352"
         },
         "baselanguages": "english,japanese,latam",
         "branches": {
