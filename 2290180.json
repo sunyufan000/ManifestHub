@@ -4,8 +4,8 @@
     "type": "Game",
     "schinese_name": "极限国度",
     "isfreeapp": 0,
-    "update_time": "2025-06-17 16:10:00",
-    "change_number": 29603528,
+    "update_time": "2025-07-09 08:44:08",
+    "change_number": 29963963,
     "depot": {
         "baselanguages": "english,german,french,italian,koreana,spanish,schinese,tchinese,russian,japanese,polish,brazilian",
         "228988": {
@@ -35,9 +35,9 @@
         "1716751": {
             "manifests": {
                 "public": {
-                    "gid": "7692967814764193714",
-                    "size": "631944",
-                    "download": "515248"
+                    "gid": "818295193716041715",
+                    "size": "632424",
+                    "download": "551504"
                 }
             },
             "depotfromapp": "1716750",
