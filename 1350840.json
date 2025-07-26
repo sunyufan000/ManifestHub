@@ -4,17 +4,17 @@
     "type": "Game",
     "schinese_name": "牧野之歌",
     "isfreeapp": 0,
-    "update_time": "2025-06-11 09:36:18",
-    "change_number": 29497645,
+    "update_time": "2025-06-25 03:28:58",
+    "change_number": 29733740,
     "depot": {
         "baselanguages": "schinese",
         "hasdepotsindlc": "1",
         "1350841": {
             "manifests": {
                 "public": {
-                    "gid": "4288778482996468414",
-                    "size": "2930786223",
-                    "download": "2458918960"
+                    "gid": "138891718422330668",
+                    "size": "2580624851",
+                    "download": "2229785680"
                 }
             },
             "decryptionkey": "e9d078024c3e02c79b8a6f7548eff51b462cbd1d3dd55d5a7aabf59e46989a7b"
@@ -25,9 +25,9 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "2069147131321965852",
-                    "size": "3014461988",
-                    "download": "2542976800"
+                    "gid": "2360607145598923580",
+                    "size": "3014434011",
+                    "download": "2542800256"
                 }
             },
             "decryptionkey": "0a2c59886252f78fc63bc69e789d52902ab1fc601f558652ab499d44a105aef6"
@@ -111,8 +111,8 @@
         },
         "branches": {
             "public": {
-                "buildid": "18745601",
-                "timeupdated": "1749106159"
+                "buildid": "18988843",
+                "timeupdated": "1750818532"
             }
         },
         "privatebranches": "1"
