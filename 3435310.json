@@ -4,8 +4,8 @@
     "type": "Game",
     "schinese_name": "龙之远征",
     "isfreeapp": 0,
-    "update_time": "2025-06-02 13:33:40",
-    "change_number": 29318530,
+    "update_time": "2025-06-28 13:06:31",
+    "change_number": 29801711,
     "depot": {
         "228989": {
             "config": {
@@ -24,17 +24,17 @@
         "3435311": {
             "manifests": {
                 "public": {
-                    "gid": "7231206503145531026",
-                    "size": "13376764828",
-                    "download": "12743279792"
+                    "gid": "6007619977609465573",
+                    "size": "13399548327",
+                    "download": "12762283872"
                 }
             },
             "decryptionkey": "e825760552b08c25f419765c009f342f938ceb92a03a5fede3339f57c58bd4d3"
         },
         "branches": {
             "public": {
-                "buildid": "18697587",
-                "timeupdated": "1748842413"
+                "buildid": "19036730",
+                "timeupdated": "1751112386"
             }
         }
     }
