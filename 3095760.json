@@ -4,8 +4,8 @@
     "type": "DLC",
     "schinese_name": "东方凋梦录 ~ Fading illusion - 地底之章",
     "isfreeapp": 0,
-    "update_time": "2025-06-01 17:42:18",
-    "change_number": 29309644,
+    "update_time": "2025-06-27 07:38:06",
+    "change_number": 29780903,
     "depot": {
         "3095760": {
             "config": {
@@ -14,9 +14,9 @@
             "dlcappid": "3095760",
             "manifests": {
                 "public": {
-                    "gid": "7578650450257738091",
-                    "size": "199807026",
-                    "download": "200827568"
+                    "gid": "1564826183591062109",
+                    "size": "199813964",
+                    "download": "200832224"
                 }
             },
             "decryptionkey": "610f737fd450ea00607451ac54e6c18fcd47a2b0feafbc0fbfe86d43ba140b36"
@@ -27,9 +27,9 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "8786863244242027092",
-                    "size": "199807026",
-                    "download": "200827568"
+                    "gid": "7029995631272686026",
+                    "size": "199813964",
+                    "download": "200832224"
                 }
             },
             "dlcappid": "3095760"
@@ -40,17 +40,17 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "4943109951489662735",
-                    "size": "199807026",
-                    "download": "200827568"
+                    "gid": "3728212398024768312",
+                    "size": "199813964",
+                    "download": "200832224"
                 }
             },
             "dlcappid": "3095760"
         },
         "branches": {
             "public": {
-                "buildid": "18691431",
-                "timeupdated": "1748770934"
+                "buildid": "19021987",
+                "timeupdated": "1751006282"
             }
         },
         "privatebranches": "1"
