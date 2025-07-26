@@ -4,7 +4,7 @@
     "type": "Game",
     "schinese_name": "意外事件",
     "isfreeapp": 0,
-    "update_time": "2025-06-04 18:23:11",
+    "update_time": "2025-06-23 12:42:59",
     "change_number": 29369093,
     "depot": {
         "hasdepotsindlc": "0",
@@ -31,7 +31,8 @@
                     "size": "1094719818",
                     "download": "907072944"
                 }
-            }
+            },
+            "decryptionkey": "125ba888b2602ffea37d3ee6123fcbf1da055d205339d6f4542d3f17caacddbd"
         },
         "501793": {
             "config": {
@@ -43,7 +44,8 @@
                     "size": "1083329977",
                     "download": "908311536"
                 }
-            }
+            },
+            "decryptionkey": "37cb3eb9db4d50542ff406e5300a10a67a8e3783ca175da0d1cd86e0ecc622ad"
         },
         "954820": {
             "dlcappid": "954820",
