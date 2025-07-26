@@ -4,8 +4,8 @@
     "type": "Game",
     "schinese_name": "探索的开端：威尼斯",
     "isfreeapp": 0,
-    "update_time": "2025-06-12 12:17:55",
-    "change_number": 29520817,
+    "update_time": "2025-06-23 18:49:54",
+    "change_number": 29708772,
     "depot": {
         "overridescddb": "1",
         "baselanguages": "english,french,spanish",
@@ -57,7 +57,7 @@
                     "download": "0"
                 }
             },
-            "decryptionkey": ""
+            "decryptionkey": "91f89c6bb71248195145ee87bb76d1901f89b4b686f5153b68a0e375eaf7fe51"
         },
         "33214": {
             "config": {
@@ -70,7 +70,7 @@
                     "download": "0"
                 }
             },
-            "decryptionkey": ""
+            "decryptionkey": "5b48ee28f51f9a6b5f9b5c209ea3e2ba7b4441b77e43435768924362ea8e27e4"
         },
         "branches": {
             "public": {
