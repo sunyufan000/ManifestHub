@@ -4,20 +4,20 @@
     "type": "Game",
     "schinese_name": "符文竞技场",
     "isfreeapp": 0,
-    "update_time": "2025-06-20 19:29:26",
-    "change_number": 29667181,
+    "update_time": "2025-07-23 10:59:28",
+    "change_number": 30203801,
     "depot": {
         "2360211": {
             "manifests": {
                 "public": {
-                    "gid": "8426988456483539161",
-                    "size": "10010906339",
-                    "download": "4267205728"
+                    "gid": "5654647281399181870",
+                    "size": "10315640704",
+                    "download": "4502972384"
                 },
                 "bugfix": {
-                    "gid": "6853717931252125380",
-                    "size": "10004955347",
-                    "download": "4264793344"
+                    "gid": "6457429977802286676",
+                    "size": "10315584604",
+                    "download": "4502921536"
                 },
                 "ea_2.9": {
                     "gid": "7903266548121640594",
@@ -29,13 +29,13 @@
         },
         "branches": {
             "public": {
-                "buildid": "18581452",
-                "timeupdated": "1748001810"
+                "buildid": "19273451",
+                "timeupdated": "1752836876"
             },
             "bugfix": {
-                "buildid": "18336041",
+                "buildid": "19189538",
                 "description": "DevBugFix",
-                "timeupdated": "1746333288"
+                "timeupdated": "1752231339"
             },
             "ea_2.9": {
                 "buildid": "18548306",
