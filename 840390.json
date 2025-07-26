@@ -4,7 +4,7 @@
     "type": "Game",
     "schinese_name": "星空基地",
     "isfreeapp": 0,
-    "update_time": "2025-06-13 21:15:55",
+    "update_time": "2025-06-23 11:14:02",
     "change_number": 29550237,
     "depot": {
         "baselanguages": "",
@@ -41,7 +41,8 @@
                     "size": "8485932481",
                     "download": "3162533616"
                 }
-            }
+            },
+            "decryptionkey": "d5deffe00f74caa1b5ef40cb8af090eafbc239ddf30977da5e0392899895f87c"
         },
         "840394": {
             "config": {
@@ -53,7 +54,8 @@
                     "size": "8283126904",
                     "download": "2908565088"
                 }
-            }
+            },
+            "decryptionkey": "cd6f5471aef1e92bf7a3ec6dbfdb78d26aa1027325e23714760183136a91e112"
         },
         "840395": {
             "config": {
@@ -89,7 +91,7 @@
                     "download": "258402080"
                 }
             },
-            "decryptionkey": ""
+            "decryptionkey": "2915b2067595c4f85c7304e59cb621c3fc56d629e7e7e4e8c79caaaaed4ccd5a"
         },
         "840398": {
             "manifests": {
@@ -112,7 +114,7 @@
                     "download": "312169360"
                 }
             },
-            "decryptionkey": ""
+            "decryptionkey": "617c08b2d047e02778d44875ba1ae85010403f742f0f778f1cbcd271018c005e"
         },
         "1407660": {
             "manifests": {
@@ -135,7 +137,7 @@
                     "download": "273848208"
                 }
             },
-            "decryptionkey": ""
+            "decryptionkey": "45bb9c4e5f5f0390a4c17b2efc7a596398561255365187089f411a97e211cb5f"
         },
         "1407662": {
             "manifests": {
@@ -158,7 +160,7 @@
                     "download": "181082224"
                 }
             },
-            "decryptionkey": ""
+            "decryptionkey": "9522ebc685391f6551933cf9bed8589228319c9c83021ef1d2803b238a8bd7d4"
         },
         "1407664": {
             "manifests": {
@@ -181,7 +183,7 @@
                     "download": "253116112"
                 }
             },
-            "decryptionkey": ""
+            "decryptionkey": "a4014be0b4d57204fd628f304c9c38074832fbc216f56d44037e28f4c894e53c"
         },
         "1407666": {
             "manifests": {
@@ -204,7 +206,7 @@
                     "download": "270386944"
                 }
             },
-            "decryptionkey": ""
+            "decryptionkey": "c85559ffeae6223d00814152da9254deac08449f01ee4272714090611b08b70d"
         },
         "1407668": {
             "manifests": {
@@ -227,7 +229,7 @@
                     "download": "222371552"
                 }
             },
-            "decryptionkey": ""
+            "decryptionkey": "485cf89f41dd56f262d7e4b3fbab3c47024f78d4e4f4f37177151efc17a32612"
         },
         "1407670": {
             "manifests": {
@@ -273,7 +275,7 @@
                     "download": "263284896"
                 }
             },
-            "decryptionkey": ""
+            "decryptionkey": "4fb8e34ccda7eb90b2f1f4e38c74d7f9dab23c1979b7eac94433505a05a5039e"
         },
         "1407674": {
             "manifests": {
@@ -296,7 +298,7 @@
                     "download": "263284896"
                 }
             },
-            "decryptionkey": ""
+            "decryptionkey": "428c2b7f2637fd47655e74de2f5b3109270a5a4b0c302d1f283f62e0b72c4f5a"
         },
         "1407676": {
             "manifests": {
@@ -359,7 +361,7 @@
                     "download": "338417776"
                 }
             },
-            "decryptionkey": ""
+            "decryptionkey": "8e031f5a07e3e9a9e5334319a7bd364c81e7a4eabe718e76ec9c478dadaca3d5"
         },
         "1407678": {
             "manifests": {
