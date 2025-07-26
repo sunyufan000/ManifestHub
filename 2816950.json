@@ -4,16 +4,16 @@
     "type": "Game",
     "schinese_name": "妖之乡",
     "isfreeapp": 0,
-    "update_time": "2025-06-20 18:47:08",
-    "change_number": 29666576,
+    "update_time": "2025-07-24 03:40:30",
+    "change_number": 30218608,
     "depot": {
         "baselanguages": "english,schinese,tchinese,japanese",
         "2816951": {
             "manifests": {
                 "public": {
-                    "gid": "5690818232043704042",
-                    "size": "10111070546",
-                    "download": "7338755920"
+                    "gid": "6318936047527291386",
+                    "size": "10113072606",
+                    "download": "7340514688"
                 }
             },
             "decryptionkey": "1821d0a58d878d0c38d0df188d51e486f885a0e63cb8c70d3a1ac4c7a9740bc1"
@@ -22,18 +22,18 @@
             "dlcappid": "3758970",
             "manifests": {
                 "public": {
-                    "gid": "5718089869895086831",
-                    "size": "26433522",
+                    "gid": "1866841793071194830",
+                    "size": "26433523",
                     "download": "18201376"
                 }
             },
-            "decryptionkey": ""
+            "decryptionkey": "ea38e9c3e11218bc90403f138721d51857c5dd96deb84496608aa1ebf7ef8ab7"
         },
         "hasdepotsindlc": "0",
         "branches": {
             "public": {
-                "buildid": "18938615",
-                "timeupdated": "1750416409"
+                "buildid": "19158475",
+                "timeupdated": "1752055315"
             }
         },
         "privatebranches": "1"
