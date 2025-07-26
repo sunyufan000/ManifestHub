@@ -4,8 +4,8 @@
     "type": "Game",
     "schinese_name": "时光之帽",
     "isfreeapp": 0,
-    "update_time": "2025-06-21 21:56:34",
-    "change_number": 29682159,
+    "update_time": "2025-07-20 17:07:45",
+    "change_number": 30155817,
     "depot": {
         "overridescddb": "1",
         "markdlcdepots": "1",
@@ -83,6 +83,11 @@
                     "size": "4168470546",
                     "download": "3155315936"
                 },
+                "debug": {
+                    "gid": "846300665266143972",
+                    "size": "4145176657",
+                    "download": "3140570736"
+                },
                 "experimental": {
                     "gid": "846300665266143972",
                     "size": "4145176657",
@@ -102,9 +107,9 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "1058673078674118754",
-                    "size": "7841773430",
-                    "download": "5711280576"
+                    "gid": "1612513832314941862",
+                    "size": "7845913079",
+                    "download": "5712471792"
                 },
                 "dlc2_may11": {
                     "gid": "242922671485761424",
@@ -126,10 +131,15 @@
                     "size": "4676454719",
                     "download": "3469826800"
                 },
+                "debug": {
+                    "gid": "7800696761268658323",
+                    "size": "1304477679",
+                    "download": "1030058704"
+                },
                 "experimental": {
-                    "gid": "2832367866878434468",
-                    "size": "7841771839",
-                    "download": "5711234320"
+                    "gid": "5274865442531675128",
+                    "size": "7845941504",
+                    "download": "5867703440"
                 },
                 "tcplink": {
                     "gid": "363046749924510332",
@@ -151,6 +161,11 @@
                     "download": "16011424"
                 },
                 "dlc2_may11": {
+                    "gid": "7643483086214635929",
+                    "size": "15953920",
+                    "download": "16011424"
+                },
+                "debug": {
                     "gid": "7643483086214635929",
                     "size": "15953920",
                     "download": "16011424"
@@ -179,6 +194,11 @@
                     "size": "1188582005",
                     "download": "993191904"
                 },
+                "debug": {
+                    "gid": "7029722951324909676",
+                    "size": "1188582005",
+                    "download": "993191904"
+                },
                 "experimental": {
                     "gid": "7029722951324909676",
                     "size": "1188582005",
@@ -194,8 +214,8 @@
         },
         "branches": {
             "public": {
-                "buildid": "18112335",
-                "timeupdated": "1744997009"
+                "buildid": "19098567",
+                "timeupdated": "1751639793"
             },
             "dlc2_may11": {
                 "buildid": "3814107",
@@ -217,10 +237,15 @@
                 "description": "RUINS SAVEDATA! SPEEDRUN ONLY!",
                 "timeupdated": "1508643141"
             },
+            "debug": {
+                "buildid": "19195927",
+                "description": "Used for debugging various user-issues. Has terrible performance",
+                "timeupdated": "1752264769"
+            },
             "experimental": {
-                "buildid": "18949766",
+                "buildid": "19291871",
                 "description": "Updates frequently, and might be unstable.",
-                "timeupdated": "1750508598"
+                "timeupdated": "1753027662"
             },
             "tcplink": {
                 "buildid": "15039951",
