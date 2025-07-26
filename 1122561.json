@@ -1,0 +1,28 @@
+{
+    "appid": 1122561,
+    "name": "Rocksmith® 2014 Edition – Remastered – The Notetrackers - Bass - Intermediate String Skipping Exercise 2",
+    "type": "DLC",
+    "schinese_name": "",
+    "isfreeapp": 0,
+    "update_time": "2025-06-23 14:09:11",
+    "change_number": 26551766,
+    "depot": {
+        "1122561": {
+            "manifests": {
+                "public": {
+                    "gid": "3874524228270829794",
+                    "size": "7372666",
+                    "download": "4691840"
+                }
+            },
+            "dlcappid": "1122561",
+            "decryptionkey": "87eb36a960d529f3bf6052e359ef856774ed416d2d5cf1ca722c5700c8b061ec"
+        },
+        "branches": {
+            "public": {
+                "buildid": "4174152",
+                "timeupdated": "1567801086"
+            }
+        }
+    }
+}
