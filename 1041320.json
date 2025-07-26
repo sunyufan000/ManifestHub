@@ -4,8 +4,8 @@
     "type": "Game",
     "schinese_name": "王国纪元：环太平洋正版联动",
     "isfreeapp": 1,
-    "update_time": "2025-06-14 13:15:38",
-    "change_number": 29562280,
+    "update_time": "2025-07-23 20:10:33",
+    "change_number": 30213180,
     "depot": {
         "228985": {
             "config": {
@@ -31,14 +31,14 @@
         "1041321": {
             "manifests": {
                 "public": {
-                    "gid": "8862716361977269986",
-                    "size": "2169938740",
-                    "download": "568490048"
+                    "gid": "8767046450499104763",
+                    "size": "2208598446",
+                    "download": "592067616"
                 },
                 "beta": {
-                    "gid": "8862716361977269986",
-                    "size": "2169938740",
-                    "download": "568490048"
+                    "gid": "8767046450499104763",
+                    "size": "2208598446",
+                    "download": "592067616"
                 },
                 "local": {
                     "gid": "8663262421093650754",
@@ -50,12 +50,12 @@
         },
         "branches": {
             "public": {
-                "buildid": "18618273",
-                "timeupdated": "1748326296"
+                "buildid": "19008450",
+                "timeupdated": "1751008329"
             },
             "beta": {
-                "buildid": "18618273",
-                "timeupdated": "1748309672"
+                "buildid": "19008450",
+                "timeupdated": "1750930462"
             },
             "local": {
                 "buildid": "3663578",
