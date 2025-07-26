@@ -4,8 +4,8 @@
     "type": "Game",
     "schinese_name": "Vault of the Void / 虚空穹牢",
     "isfreeapp": 0,
-    "update_time": "2025-06-21 08:22:50",
-    "change_number": 29677421,
+    "update_time": "2025-07-16 03:24:42",
+    "change_number": 30080681,
     "depot": {
         "1135811": {},
         "1135812": {
@@ -19,9 +19,9 @@
                     "download": "352427632"
                 },
                 "beta": {
-                    "gid": "6754984019105922896",
-                    "size": "557449543",
-                    "download": "352427632"
+                    "gid": "7196922549473293566",
+                    "size": "557451591",
+                    "download": "356687024"
                 },
                 "localisation": {
                     "gid": "6754984019105922896",
@@ -47,9 +47,9 @@
                     "download": "366524416"
                 },
                 "beta": {
-                    "gid": "6083665172107783919",
-                    "size": "612244880",
-                    "download": "366524416"
+                    "gid": "170963344392507175",
+                    "size": "612245340",
+                    "download": "373392432"
                 },
                 "localisation": {
                     "gid": "6083665172107783919",
@@ -97,8 +97,8 @@
                 "timeupdated": "1748627404"
             },
             "beta": {
-                "buildid": "18668376",
-                "timeupdated": "1748577373"
+                "buildid": "18960547",
+                "timeupdated": "1750656236"
             },
             "localisation": {
                 "buildid": "18668376",
