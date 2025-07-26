@@ -4,8 +4,8 @@
     "type": "Game",
     "schinese_name": "点老救世记 - dotAGE",
     "isfreeapp": 0,
-    "update_time": "2025-06-16 17:49:46",
-    "change_number": 29584400,
+    "update_time": "2025-07-10 16:19:07",
+    "change_number": 29991145,
     "depot": {
         "baselanguages": "english,italian",
         "638511": {
@@ -15,9 +15,9 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "6685362810221530265",
-                    "size": "517063916",
-                    "download": "272424816"
+                    "gid": "1206931215489067377",
+                    "size": "517094506",
+                    "download": "272441360"
                 },
                 "experimental": {
                     "gid": "1868307450098057037",
@@ -43,9 +43,9 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "8894761621287349198",
-                    "size": "593583308",
-                    "download": "289648528"
+                    "gid": "2205321891601541610",
+                    "size": "593589626",
+                    "download": "289647600"
                 },
                 "experimental": {
                     "gid": "8125391017634755999",
@@ -71,9 +71,9 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "7597218781012270382",
-                    "size": "583221390",
-                    "download": "279496784"
+                    "gid": "5727949569310787846",
+                    "size": "583249846",
+                    "download": "279510320"
                 },
                 "experimental": {
                     "gid": "5410414378861039215",
@@ -95,8 +95,8 @@
         },
         "branches": {
             "public": {
-                "buildid": "18880682",
-                "timeupdated": "1750067379"
+                "buildid": "19177680",
+                "timeupdated": "1752160741"
             },
             "experimental": {
                 "buildid": "18673573",
