@@ -4,8 +4,8 @@
     "type": "Game",
     "schinese_name": "姐姐大人同居中。～唯奈浓情蜜意的全肯定～",
     "isfreeapp": 0,
-    "update_time": "2025-06-20 11:24:44",
-    "change_number": 29660798,
+    "update_time": "2025-07-17 01:17:53",
+    "change_number": 30100257,
     "depot": {
         "baselanguages": "english,schinese,tchinese,japanese",
         "hasdepotsindlc": "1",
@@ -75,7 +75,7 @@
             },
             "dlcappid": "3600610",
             "depotfromapp": "3600610",
-            "decryptionkey": ""
+            "decryptionkey": "dc3cff5ca1b4c550fa694aa1647297ae84c09a8c6b11d157c927f20cc33f0c7c"
         },
         "3600612": {
             "config": {
@@ -91,7 +91,7 @@
             },
             "dlcappid": "3600610",
             "depotfromapp": "3600610",
-            "decryptionkey": ""
+            "decryptionkey": "045c8b781f69a7cf36c963dd7c136c31cf6fe67865da37e4b164111f6a37e693"
         },
         "3600613": {
             "config": {
