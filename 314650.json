@@ -4,8 +4,8 @@
     "type": "Game",
     "schinese_name": "太空引擎",
     "isfreeapp": 0,
-    "update_time": "2025-06-17 03:59:37",
-    "change_number": 29591404,
+    "update_time": "2025-07-22 15:26:33",
+    "change_number": 30187855,
     "depot": {
         "baselanguages": "english,german,french,italian,koreana,spanish,schinese,tchinese,russian,japanese,portuguese,polish,dutch,finnish,norwegian,swedish,hungarian,czech,romanian,turkish,brazilian,bulgarian,ukrainian,latam",
         "workshopdepot": "314650",
@@ -27,9 +27,9 @@
         "314651": {
             "manifests": {
                 "public": {
-                    "gid": "482280486444214654",
-                    "size": "4278486312",
-                    "download": "4099111504"
+                    "gid": "6129813511643331530",
+                    "size": "4278561546",
+                    "download": "4099119056"
                 },
                 "0.990.39": {
                     "gid": "3142674547714852647",
@@ -47,9 +47,9 @@
                     "download": "4058786064"
                 },
                 "beta": {
-                    "gid": "7970510987461054610",
-                    "size": "4278488326",
-                    "download": "4099113584"
+                    "gid": "6129813511643331530",
+                    "size": "4278561546",
+                    "download": "4099119056"
                 }
             },
             "decryptionkey": "cd228cbe8e6b5001e21a62f5f2322b9cde46b13cc86662b09c7c6e27ccf11236"
@@ -461,8 +461,8 @@
         },
         "branches": {
             "public": {
-                "buildid": "18350334",
-                "timeupdated": "1747068339"
+                "buildid": "19191665",
+                "timeupdated": "1753194389"
             },
             "0.990.39": {
                 "buildid": "4531769",
@@ -480,9 +480,9 @@
                 "timeupdated": "1671185901"
             },
             "beta": {
-                "buildid": "18655983",
+                "buildid": "19191665",
                 "description": "public beta branch",
-                "timeupdated": "1750091283"
+                "timeupdated": "1752605771"
             }
         },
         "privatebranches": "1",
