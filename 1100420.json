@@ -4,7 +4,7 @@
     "type": "Game",
     "schinese_name": "",
     "isfreeapp": 0,
-    "update_time": "2025-06-20 06:39:15",
+    "update_time": "2025-06-23 09:52:32",
     "change_number": 29657789,
     "depot": {
         "228987": {
@@ -74,7 +74,7 @@
                     "download": "889600"
                 }
             },
-            "decryptionkey": ""
+            "decryptionkey": "f172d3dfcc9877af8d3f669f6092412eee4a1de39d1710e62605e56e5af1395b"
         },
         "1100424": {
             "config": {
@@ -92,7 +92,7 @@
                     "download": "882304"
                 }
             },
-            "decryptionkey": ""
+            "decryptionkey": "c925cc28e4349ef8dfe52281f2a6f65b83a165c88351dff90eab36a26bcb6a2b"
         },
         "1100425": {
             "config": {
@@ -110,7 +110,7 @@
                     "download": "1147152"
                 }
             },
-            "decryptionkey": ""
+            "decryptionkey": "722be4d0f62e4f225c870b09467ad8c28746e12eabff81a9c4a0a939effdabda"
         },
         "1100426": {
             "config": {
@@ -146,7 +146,7 @@
                     "download": "69968"
                 }
             },
-            "decryptionkey": ""
+            "decryptionkey": "a4b4ffe1c42517d935cb564902746dae03d36a0faa0b2be1c19158d0197ed7ad"
         },
         "1100428": {
             "config": {
@@ -182,7 +182,7 @@
                     "download": "87552"
                 }
             },
-            "decryptionkey": ""
+            "decryptionkey": "9afafa6b97682e56e646f5e3ea7ed22b5e7ba7a2363b042a9fbd5f9c11bd65ac"
         },
         "1191750": {
             "config": {
@@ -200,7 +200,7 @@
                     "download": "75552"
                 }
             },
-            "decryptionkey": ""
+            "decryptionkey": "a041282d99ce5a0186a459a36fcf9d0244add2e73b2d6e8da41dfd9b97b43568"
         },
         "1191751": {
             "config": {
@@ -218,7 +218,7 @@
                     "download": "81408"
                 }
             },
-            "decryptionkey": ""
+            "decryptionkey": "24d3ef3c90ce0f8a2754700eb715b0692546d0ef28068337406a99c4c2754104"
         },
         "1191752": {
             "config": {
@@ -236,7 +236,7 @@
                     "download": "92464"
                 }
             },
-            "decryptionkey": ""
+            "decryptionkey": "2795fcae0704c9cb8236e6ca3313bb0b8ff2a4f7c4d3c42e1514a5d7c646ab41"
         },
         "branches": {
             "public": {
