@@ -4,8 +4,8 @@
     "type": "Game",
     "schinese_name": "地牢守护者",
     "isfreeapp": 0,
-    "update_time": "2025-06-20 23:49:07",
-    "change_number": 29671394,
+    "update_time": "2025-07-23 13:21:05",
+    "change_number": 30206100,
     "depot": {
         "228982": {
             "config": {
@@ -57,14 +57,19 @@
             "systemdefined": "1",
             "manifests": {
                 "public": {
-                    "gid": "6805205347542815950",
-                    "size": "13051229091",
-                    "download": "9684777600"
+                    "gid": "3191199063986209305",
+                    "size": "13109131312",
+                    "download": "9729302624"
                 },
                 "redux": {
                     "gid": "5582431921275940842",
                     "size": "10867832885",
                     "download": "8001650352"
+                },
+                "warden_beta": {
+                    "gid": "1315298001837043766",
+                    "size": "13114150785",
+                    "download": "10059089904"
                 }
             },
             "decryptionkey": "13809c38aaacd4fc6cebccac1c55be5c391a624cedfbf8fc69d43bf78c542938"
@@ -81,6 +86,11 @@
                     "download": "0"
                 },
                 "redux": {
+                    "gid": "9070844342175698237",
+                    "size": "6319847478",
+                    "download": "0"
+                },
+                "warden_beta": {
                     "gid": "9070844342175698237",
                     "size": "6319847478",
                     "download": "0"
@@ -103,6 +113,11 @@
                     "gid": "5064099269139857800",
                     "size": "7729458213",
                     "download": "0"
+                },
+                "warden_beta": {
+                    "gid": "5064099269139857800",
+                    "size": "7729458213",
+                    "download": "0"
                 }
             }
         },
@@ -113,14 +128,19 @@
             "optional": "1",
             "manifests": {
                 "public": {
-                    "gid": "2925722003495108373",
-                    "size": "222963722",
-                    "download": "190129056"
+                    "gid": "3847992725708632593",
+                    "size": "222963676",
+                    "download": "190128224"
                 },
                 "redux": {
                     "gid": "2707513762208494929",
                     "size": "222514566",
                     "download": "189775040"
+                },
+                "warden_beta": {
+                    "gid": "781475487662404781",
+                    "size": "222719146",
+                    "download": "193177984"
                 }
             },
             "dlcappid": "204381",
@@ -133,14 +153,19 @@
             "optional": "1",
             "manifests": {
                 "public": {
-                    "gid": "290446228708099790",
-                    "size": "214287473",
-                    "download": "194669632"
+                    "gid": "2776673996172092376",
+                    "size": "214287460",
+                    "download": "194670160"
                 },
                 "redux": {
                     "gid": "5847514419531968124",
                     "size": "215084080",
                     "download": "195352112"
+                },
+                "warden_beta": {
+                    "gid": "4330631703705764038",
+                    "size": "214086025",
+                    "download": "197226704"
                 }
             },
             "dlcappid": "204382",
@@ -153,14 +178,19 @@
             "optional": "1",
             "manifests": {
                 "public": {
-                    "gid": "681296132418331713",
-                    "size": "253973151",
-                    "download": "235200464"
+                    "gid": "2430433714890630135",
+                    "size": "253973113",
+                    "download": "235201648"
                 },
                 "redux": {
                     "gid": "5949592193327736140",
                     "size": "253798137",
                     "download": "235045536"
+                },
+                "warden_beta": {
+                    "gid": "4969125409346820231",
+                    "size": "253973205",
+                    "download": "236697648"
                 }
             },
             "dlcappid": "204383",
@@ -181,10 +211,15 @@
                     "gid": "733678327698030634",
                     "size": "46",
                     "download": "0"
+                },
+                "warden_beta": {
+                    "gid": "733678327698030634",
+                    "size": "46",
+                    "download": "0"
                 }
             },
             "dlcappid": "202020",
-            "decryptionkey": ""
+            "decryptionkey": "c0587e35814cce6d09c4de6c355f22b9822add310595e967dabd07c2fe3c0645"
         },
         "202030": {
             "config": {
@@ -198,6 +233,11 @@
                     "download": "0"
                 },
                 "redux": {
+                    "gid": "3348906717373628147",
+                    "size": "44",
+                    "download": "0"
+                },
+                "warden_beta": {
                     "gid": "3348906717373628147",
                     "size": "44",
                     "download": "0"
@@ -221,6 +261,11 @@
                     "gid": "3169769732489683326",
                     "size": "41",
                     "download": "0"
+                },
+                "warden_beta": {
+                    "gid": "3169769732489683326",
+                    "size": "41",
+                    "download": "0"
                 }
             },
             "dlcappid": "202040",
@@ -241,10 +286,15 @@
                     "gid": "1447659790929140628",
                     "size": "40",
                     "download": "0"
+                },
+                "warden_beta": {
+                    "gid": "1447659790929140628",
+                    "size": "40",
+                    "download": "0"
                 }
             },
             "dlcappid": "202010",
-            "decryptionkey": ""
+            "decryptionkey": "76f7a385bda1b2817190f9285963bcf72ae5e6ac9fd57c3940b5e8b558b6e4f2"
         },
         "65811": {
             "config": {
@@ -258,6 +308,11 @@
                     "download": "0"
                 },
                 "redux": {
+                    "gid": "7100477968665683839",
+                    "size": "43",
+                    "download": "0"
+                },
+                "warden_beta": {
                     "gid": "7100477968665683839",
                     "size": "43",
                     "download": "0"
@@ -281,6 +336,11 @@
                     "gid": "9039071945796297350",
                     "size": "40",
                     "download": "0"
+                },
+                "warden_beta": {
+                    "gid": "9039071945796297350",
+                    "size": "40",
+                    "download": "0"
                 }
             },
             "dlcappid": "65810",
@@ -298,6 +358,11 @@
                     "download": "0"
                 },
                 "redux": {
+                    "gid": "8185307045877308030",
+                    "size": "1",
+                    "download": "0"
+                },
+                "warden_beta": {
                     "gid": "8185307045877308030",
                     "size": "1",
                     "download": "0"
@@ -320,6 +385,11 @@
                     "gid": "1692674904196575998",
                     "size": "0",
                     "download": "0"
+                },
+                "warden_beta": {
+                    "gid": "1692674904196575998",
+                    "size": "0",
+                    "download": "0"
                 }
             },
             "dlcappid": "214120",
@@ -331,14 +401,19 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "621055093024070375",
-                    "size": "280587121",
-                    "download": "259001824"
+                    "gid": "5200256367898073226",
+                    "size": "280577597",
+                    "download": "259006128"
                 },
                 "redux": {
                     "gid": "1439805651157582566",
                     "size": "278747412",
                     "download": "257940176"
+                },
+                "warden_beta": {
+                    "gid": "7748477320729563280",
+                    "size": "280478178",
+                    "download": "264461488"
                 }
             },
             "dlcappid": "204384",
@@ -346,13 +421,18 @@
         },
         "branches": {
             "public": {
-                "buildid": "18942013",
-                "timeupdated": "1750434541"
+                "buildid": "19126405",
+                "timeupdated": "1751851464"
             },
             "redux": {
                 "buildid": "17367987",
                 "description": "DD1 Redux Official",
                 "timeupdated": "1739543538"
+            },
+            "warden_beta": {
+                "buildid": "19328913",
+                "description": "Beta for Warden",
+                "timeupdated": "1753273260"
             }
         },
         "privatebranches": "1"
