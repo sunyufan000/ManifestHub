@@ -1,11 +1,11 @@
 {
     "appid": 2668910,
-    "name": "Real Shoot",
+    "name": "Bodycam Real Shoot",
     "type": "Game",
     "schinese_name": "Bodycam真实射击",
     "isfreeapp": 0,
-    "update_time": "2025-06-19 17:18:27",
-    "change_number": 29646395,
+    "update_time": "2025-07-21 09:22:04",
+    "change_number": 30162995,
     "depot": {
         "228989": {
             "config": {
@@ -32,17 +32,17 @@
         "2668911": {
             "manifests": {
                 "public": {
-                    "gid": "2095774462997318226",
-                    "size": "42203551418",
-                    "download": "41174614512"
+                    "gid": "3652528365843755711",
+                    "size": "52988864276",
+                    "download": "51556702864"
                 }
             },
             "decryptionkey": "7af8795092286b0e0325fdb4eb350b82637fac1049a3ca19ba2080364c75f4ce"
         },
         "branches": {
             "public": {
-                "buildid": "18640052",
-                "timeupdated": "1748428018"
+                "buildid": "19036455",
+                "timeupdated": "1751115333"
             }
         }
     }
