@@ -4,8 +4,8 @@
     "type": "Game",
     "schinese_name": "轮回修仙路",
     "isfreeapp": 0,
-    "update_time": "2025-05-19 00:15:55",
-    "change_number": 29050198,
+    "update_time": "2025-07-23 15:14:06",
+    "change_number": 30207982,
     "depot": {
         "baselanguages": "schinese",
         "1993151": {
@@ -14,9 +14,9 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "1189978044737376249",
-                    "size": "13195558973",
-                    "download": "6545749152"
+                    "gid": "999849445267071890",
+                    "size": "13159970468",
+                    "download": "6544183984"
                 }
             },
             "decryptionkey": "0e57a3fafa5a7d7c47c90af3af199cad54b348aa13cdc672d15017310f078cfd"
@@ -35,8 +35,8 @@
         "hasdepotsindlc": "1",
         "branches": {
             "public": {
-                "buildid": "14207846",
-                "timeupdated": "1715049902"
+                "buildid": "19095797",
+                "timeupdated": "1751595780"
             }
         },
         "privatebranches": "1"
