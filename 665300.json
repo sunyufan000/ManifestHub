@@ -4,8 +4,8 @@
     "type": "Application",
     "schinese_name": "",
     "isfreeapp": 0,
-    "update_time": "2025-06-01 03:58:11",
-    "change_number": 29304778,
+    "update_time": "2025-07-19 10:26:27",
+    "change_number": 30144880,
     "depot": {
         "228990": {
             "config": {
@@ -22,29 +22,14 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "1143782388612106964",
-                    "size": "222866598",
-                    "download": "50173776"
+                    "gid": "7977473417291090922",
+                    "size": "220060524",
+                    "download": "53407600"
                 },
                 "beta--3": {
-                    "gid": "3201019477895510266",
-                    "size": "171938376",
-                    "download": "38637952"
-                },
-                "mac-test": {
-                    "gid": "3043747292658598372",
-                    "size": "171920504",
-                    "download": "38636720"
-                },
-                "beta": {
-                    "gid": "6059604842891978131",
-                    "size": "171940496",
-                    "download": "38675488"
-                },
-                "beta--1": {
-                    "gid": "1143782388612106964",
-                    "size": "222866598",
-                    "download": "50173776"
+                    "gid": "7977473417291090922",
+                    "size": "220060524",
+                    "download": "53407600"
                 }
             },
             "decryptionkey": "3dcf4555a8f4a9b92f642d2de7e8b125fd06f8455d560852c4bedf7a808dc8c8"
@@ -55,56 +40,26 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "5220942638727347711",
-                    "size": "211214296",
-                    "download": "50987776"
+                    "gid": "9150578862436992085",
+                    "size": "243173781",
+                    "download": "63217840"
                 },
                 "beta--3": {
-                    "gid": "9028049044290640658",
-                    "size": "202532436",
-                    "download": "48171200"
-                },
-                "mac-test": {
-                    "gid": "1535433955090023870",
-                    "size": "202519172",
-                    "download": "48168768"
-                },
-                "beta": {
-                    "gid": "9028049044290640658",
-                    "size": "202532436",
-                    "download": "48171200"
-                },
-                "beta--1": {
-                    "gid": "5220942638727347711",
-                    "size": "211214296",
-                    "download": "50987776"
+                    "gid": "9150578862436992085",
+                    "size": "243173781",
+                    "download": "63217840"
                 }
             }
         },
         "branches": {
             "public": {
-                "buildid": "18687965",
-                "timeupdated": "1748721472"
+                "buildid": "19284487",
+                "timeupdated": "1752917158"
             },
             "beta--3": {
-                "buildid": "13906467",
+                "buildid": "19284487",
                 "description": "hotkeys",
-                "timeupdated": "1711876528"
-            },
-            "mac-test": {
-                "buildid": "12777908",
-                "description": "testing window mode mac",
-                "timeupdated": "1703117430"
-            },
-            "beta": {
-                "buildid": "14578021",
-                "description": "beta",
-                "timeupdated": "1723158208"
-            },
-            "beta--1": {
-                "buildid": "18687965",
-                "description": "beta1",
-                "timeupdated": "1748721484"
+                "timeupdated": "1752917169"
             }
         },
         "privatebranches": "1",
