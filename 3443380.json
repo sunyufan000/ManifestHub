@@ -4,8 +4,8 @@
     "type": "Game",
     "schinese_name": "金田一耕助系列 本阵杀人事件",
     "isfreeapp": 0,
-    "update_time": "2025-06-20 11:03:27",
-    "change_number": 29660609,
+    "update_time": "2025-07-12 09:13:54",
+    "change_number": 30025132,
     "depot": {
         "3443381": {
             "config": {
@@ -13,9 +13,9 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "746334064584770804",
-                    "size": "469692477",
-                    "download": "337152320"
+                    "gid": "9021455617044801122",
+                    "size": "490291035",
+                    "download": "356838960"
                 }
             }
         },
@@ -25,17 +25,17 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "2950569865300366193",
-                    "size": "486718962",
-                    "download": "347598800"
+                    "gid": "1518406471900870988",
+                    "size": "495515574",
+                    "download": "359455376"
                 }
             },
             "decryptionkey": "de7b0fe8809000585ebaf824046be2ff44fc260daed39762f26699d53c7e56d7"
         },
         "branches": {
             "public": {
-                "buildid": "18469884",
-                "timeupdated": "1747279556"
+                "buildid": "18989803",
+                "timeupdated": "1750824691"
             }
         }
     }
