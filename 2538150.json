@@ -4,8 +4,8 @@
     "type": "Application",
     "schinese_name": "",
     "isfreeapp": 1,
-    "update_time": "2025-06-22 06:00:15",
-    "change_number": 29685608,
+    "update_time": "2025-07-09 23:07:47",
+    "change_number": 29976722,
     "depot": {
         "baselanguages": "english,french,koreana,spanish,schinese,tchinese,japanese,dutch",
         "2538151": {
@@ -15,19 +15,19 @@
             },
             "manifests": {
                 "public": {
+                    "gid": "3954741263581136745",
+                    "size": "597727339",
+                    "download": "253514640"
+                },
+                "beta": {
+                    "gid": "4099152195186679313",
+                    "size": "643488875",
+                    "download": "265588528"
+                },
+                "legacy-1.14.7": {
                     "gid": "91231766501572664",
                     "size": "459279991",
                     "download": "199564128"
-                },
-                "beta": {
-                    "gid": "4246513653377831972",
-                    "size": "645725493",
-                    "download": "243488832"
-                },
-                "legacy-1.13.3": {
-                    "gid": "2335677658297485275",
-                    "size": "457963992",
-                    "download": "198183968"
                 }
             },
             "decryptionkey": "e5fb54cce8269ff85b3a693be95fee22cbcf1bbe18569eea9d2751c622340b3c"
@@ -39,37 +39,37 @@
             },
             "manifests": {
                 "public": {
+                    "gid": "3311640438865861674",
+                    "size": "597765482",
+                    "download": "253544496"
+                },
+                "beta": {
+                    "gid": "4421996206489978548",
+                    "size": "643527523",
+                    "download": "265594704"
+                },
+                "legacy-1.14.7": {
                     "gid": "7152343129490098540",
                     "size": "459313842",
                     "download": "199573520"
-                },
-                "beta": {
-                    "gid": "885373517568706591",
-                    "size": "645763636",
-                    "download": "243504672"
-                },
-                "legacy-1.13.3": {
-                    "gid": "5390980200451087096",
-                    "size": "457997843",
-                    "download": "198193040"
                 }
             },
             "decryptionkey": ""
         },
         "branches": {
             "public": {
-                "buildid": "16490038",
-                "timeupdated": "1732211718"
+                "buildid": "19165945",
+                "timeupdated": "1752098814"
             },
             "beta": {
-                "buildid": "18952205",
-                "description": "Pre-selected development builds for beta-testing",
-                "timeupdated": "1750539962"
+                "buildid": "19166162",
+                "description": "Pre-release version for testing purposes",
+                "timeupdated": "1752098861"
             },
-            "legacy-1.13.3": {
-                "buildid": "15022964",
+            "legacy-1.14.7": {
+                "buildid": "16490038",
                 "description": " Older (deprecated) version of OyasumiVR",
-                "timeupdated": "1727806952"
+                "timeupdated": "1750618779"
             }
         }
     }
