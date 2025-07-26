@@ -4,8 +4,8 @@
     "type": "Game",
     "schinese_name": "循环的夜 Night Loops",
     "isfreeapp": 0,
-    "update_time": "2025-06-03 19:28:15",
-    "change_number": 29341968,
+    "update_time": "2025-07-05 14:11:53",
+    "change_number": 29910441,
     "depot": {
         "1826061": {
             "config": {
@@ -13,14 +13,14 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "7346333709022637344",
+                    "gid": "7035790333440606485",
                     "size": "2358669987",
-                    "download": "356926000"
+                    "download": "357573328"
                 },
                 "beta": {
-                    "gid": "7346333709022637344",
+                    "gid": "7035790333440606485",
                     "size": "2358669987",
-                    "download": "356926000"
+                    "download": "357573328"
                 }
             },
             "decryptionkey": "5c6216e6e7b7b51aa14101258e48a6b94f16f701b1cb47276a767048f2c9517c"
@@ -31,27 +31,27 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "6838546578218977881",
+                    "gid": "7627797204856080651",
                     "size": "2334814800",
-                    "download": "349834352"
+                    "download": "350013920"
                 },
                 "beta": {
-                    "gid": "6838546578218977881",
+                    "gid": "7627797204856080651",
                     "size": "2334814800",
-                    "download": "349834352"
+                    "download": "350013920"
                 }
             },
             "decryptionkey": "1b0dc3617f519ce20896a30534d411af471bf3d2bc54dee71d17cb23f3b730ac"
         },
         "branches": {
             "public": {
-                "buildid": "18712284",
-                "timeupdated": "1748933471"
+                "buildid": "19112498",
+                "timeupdated": "1751660335"
             },
             "beta": {
-                "buildid": "18712284",
+                "buildid": "19112498",
                 "description": "For testing",
-                "timeupdated": "1748924869"
+                "timeupdated": "1751658550"
             }
         },
         "privatebranches": "1"
