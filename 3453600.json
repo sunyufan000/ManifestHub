@@ -4,8 +4,8 @@
     "type": "Game",
     "schinese_name": "超级跑车收藏模拟器",
     "isfreeapp": 0,
-    "update_time": "2025-06-20 21:43:42",
-    "change_number": 29669217,
+    "update_time": "2025-07-15 22:12:20",
+    "change_number": 30077218,
     "depot": {
         "3453601": {
             "config": {
@@ -14,17 +14,17 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "4576111510997943912",
-                    "size": "5834582900",
-                    "download": "1553496400"
+                    "gid": "8603735797846582712",
+                    "size": "5834539366",
+                    "download": "1553447232"
                 }
             },
             "decryptionkey": "ce8d6b5c4d99db4329aa5baa99ef1de9422793b7c659c2d8474c46aea1e95b8b"
         },
         "branches": {
             "public": {
-                "buildid": "18940802",
-                "timeupdated": "1750427016"
+                "buildid": "18966238",
+                "timeupdated": "1750688374"
             }
         },
         "privatebranches": "1"
