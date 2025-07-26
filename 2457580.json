@@ -4,8 +4,8 @@
     "type": "Game",
     "schinese_name": "螃蟹大战 2",
     "isfreeapp": 0,
-    "update_time": "2025-06-10 12:03:59",
-    "change_number": 29478340,
+    "update_time": "2025-07-24 03:31:23",
+    "change_number": 30218520,
     "depot": {
         "228989": {
             "config": {
@@ -17,37 +17,37 @@
         "2457581": {
             "manifests": {
                 "public": {
-                    "gid": "1391955867292794814",
-                    "size": "5018409951",
-                    "download": "4166453232"
+                    "gid": "1120352530948994442",
+                    "size": "5032504526",
+                    "download": "4241515984"
                 },
                 "highend_graphics": {
-                    "gid": "1391955867292794814",
-                    "size": "5018409951",
-                    "download": "4166453232"
+                    "gid": "1120352530948994442",
+                    "size": "5032504526",
+                    "download": "4241515984"
                 },
                 "lowend_graphics": {
-                    "gid": "5746475157054737293",
-                    "size": "5449332330",
-                    "download": "4493715184"
+                    "gid": "9218696060280755637",
+                    "size": "5223293963",
+                    "download": "4479635568"
                 }
             },
             "decryptionkey": "1682b6999e630f66c641d8d04a3693f90a6618dc6cfc1d52712bcc95a1c7ca25"
         },
         "branches": {
             "public": {
-                "buildid": "18804679",
-                "timeupdated": "1749528017"
+                "buildid": "19337549",
+                "timeupdated": "1753324089"
             },
             "highend_graphics": {
-                "buildid": "18804679",
+                "buildid": "19337549",
                 "description": "High Definition Render Pipeline Version",
-                "timeupdated": "1749527993"
+                "timeupdated": "1753324070"
             },
             "lowend_graphics": {
-                "buildid": "18804709",
+                "buildid": "19337640",
                 "description": "Universal Render Pipeline Version",
-                "timeupdated": "1749528234"
+                "timeupdated": "1753324280"
             }
         },
         "privatebranches": "1"
