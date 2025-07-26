@@ -4,8 +4,8 @@
     "type": "Game",
     "schinese_name": "咒语旅团",
     "isfreeapp": 0,
-    "update_time": "2025-06-20 16:32:56",
-    "change_number": 29664410,
+    "update_time": "2025-07-07 15:55:03",
+    "change_number": 29932308,
     "depot": {
         "2904001": {
             "config": {
@@ -13,9 +13,9 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "286690410523253896",
-                    "size": "3607537922",
-                    "download": "641563040"
+                    "gid": "7862405843757934183",
+                    "size": "2697644224",
+                    "download": "571776720"
                 }
             },
             "decryptionkey": "1cea3f47529b0e53e7add1f7e63dcdf14634adfde24faf952128ad1034ee90e8"
@@ -26,17 +26,17 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "2219386866637911380",
-                    "size": "4721866810",
-                    "download": "920871728"
+                    "gid": "5173833102161842258",
+                    "size": "2876275892",
+                    "download": "656780624"
                 }
             },
             "decryptionkey": "de0044598316af4e08b7d4552491ebb9a7e3ad4e36d1705fc82b0510f1c01acc"
         },
         "branches": {
             "public": {
-                "buildid": "18879314",
-                "timeupdated": "1750079825"
+                "buildid": "19081451",
+                "timeupdated": "1751470796"
             }
         },
         "privatebranches": "1"
