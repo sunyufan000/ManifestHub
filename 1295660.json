@@ -4,8 +4,8 @@
     "type": "Game",
     "schinese_name": "席德·梅尔的文明VII",
     "isfreeapp": 0,
-    "update_time": "2025-06-22 05:57:40",
-    "change_number": 29684287,
+    "update_time": "2025-07-24 03:36:10",
+    "change_number": 30218566,
     "depot": {
         "baselanguages": "english,german,french,italian,koreana,spanish,schinese,tchinese,russian,japanese,polish,brazilian",
         "1295661": {
@@ -14,24 +14,24 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "1576395116369347699",
-                    "size": "17877580405",
-                    "download": "14293011680"
+                    "gid": "3443115785256834029",
+                    "size": "17364627639",
+                    "download": "15048327600"
                 },
                 "console-compatible": {
-                    "gid": "1576395116369347699",
-                    "size": "17877580405",
-                    "download": "14293011680"
+                    "gid": "3443115785256834029",
+                    "size": "17364627639",
+                    "download": "15048327600"
                 },
                 "console-compatible-switch": {
-                    "gid": "1576395116369347699",
-                    "size": "17877580405",
-                    "download": "14293011680"
+                    "gid": "3443115785256834029",
+                    "size": "17364627639",
+                    "download": "15048327600"
                 },
                 "legacy": {
-                    "gid": "175896578843953349",
-                    "size": "20940020506",
-                    "download": "16840067232"
+                    "gid": "3378355690337473235",
+                    "size": "18041897948",
+                    "download": "14348447968"
                 }
             },
             "decryptionkey": "59cf929fe0be7af1bba7498247138b359bcc8141d6921f65f06f5d3c4e604430"
@@ -43,24 +43,24 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "4653113752366788609",
-                    "size": "1315732146",
-                    "download": "748044400"
+                    "gid": "8604623926511869991",
+                    "size": "1300385722",
+                    "download": "682933376"
                 },
                 "console-compatible": {
-                    "gid": "4653113752366788609",
-                    "size": "1315732146",
-                    "download": "748044400"
+                    "gid": "8604623926511869991",
+                    "size": "1300385722",
+                    "download": "682933376"
                 },
                 "console-compatible-switch": {
-                    "gid": "4653113752366788609",
-                    "size": "1315732146",
-                    "download": "748044400"
+                    "gid": "8604623926511869991",
+                    "size": "1300385722",
+                    "download": "682933376"
                 },
                 "legacy": {
-                    "gid": "7585015555046908055",
-                    "size": "1363201858",
-                    "download": "780576864"
+                    "gid": "3089740962936457689",
+                    "size": "1359606818",
+                    "download": "775100656"
                 }
             },
             "decryptionkey": "2d91bb0ac40f79f21d133921c8092cee1bbc5622c1e429d5d5e65a5543a440eb"
@@ -72,24 +72,24 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "6631986092746646419",
-                    "size": "25115904714",
-                    "download": "13678249456"
+                    "gid": "2879663200719946650",
+                    "size": "23939379388",
+                    "download": "14410915104"
                 },
                 "console-compatible": {
-                    "gid": "6631986092746646419",
-                    "size": "25115904714",
-                    "download": "13678249456"
+                    "gid": "2879663200719946650",
+                    "size": "23939379388",
+                    "download": "14410915104"
                 },
                 "console-compatible-switch": {
-                    "gid": "6631986092746646419",
-                    "size": "25115904714",
-                    "download": "13678249456"
+                    "gid": "2879663200719946650",
+                    "size": "23939379388",
+                    "download": "14410915104"
                 },
                 "legacy": {
-                    "gid": "3025249606721706475",
-                    "size": "29524541416",
-                    "download": "16061853232"
+                    "gid": "1691727260374007928",
+                    "size": "25304615695",
+                    "download": "13731983744"
                 }
             },
             "decryptionkey": "129446ed0c86a3cecf211aca2aca7c0ef0b14248fe2e7229afb79e90f2b07531"
@@ -106,24 +106,24 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "2182309891916054615",
-                    "size": "237672787",
-                    "download": "30894032"
+                    "gid": "5696017506834416946",
+                    "size": "246661015",
+                    "download": "36492672"
                 },
                 "console-compatible": {
-                    "gid": "2182309891916054615",
-                    "size": "237672787",
-                    "download": "30894032"
+                    "gid": "5696017506834416946",
+                    "size": "246661015",
+                    "download": "36492672"
                 },
                 "console-compatible-switch": {
-                    "gid": "2182309891916054615",
-                    "size": "237672787",
-                    "download": "30894032"
+                    "gid": "5696017506834416946",
+                    "size": "246661015",
+                    "download": "36492672"
                 },
                 "legacy": {
-                    "gid": "3879975619881742380",
-                    "size": "237110795",
-                    "download": "30689536"
+                    "gid": "5094993695202302390",
+                    "size": "240416627",
+                    "download": "30973504"
                 }
             },
             "decryptionkey": "ad00cf603a7538a190b6f7e523a9f9b1ff48759aacb39f2b35a70c5302fcef37"
@@ -135,24 +135,24 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "5024489532498279047",
-                    "size": "24672504075",
-                    "download": "13423618512"
+                    "gid": "6185944872203192343",
+                    "size": "23479540213",
+                    "download": "14143386480"
                 },
                 "console-compatible": {
-                    "gid": "5024489532498279047",
-                    "size": "24672504075",
-                    "download": "13423618512"
+                    "gid": "6185944872203192343",
+                    "size": "23479540213",
+                    "download": "14143386480"
                 },
                 "console-compatible-switch": {
-                    "gid": "5024489532498279047",
-                    "size": "24672504075",
-                    "download": "13423618512"
+                    "gid": "6185944872203192343",
+                    "size": "23479540213",
+                    "download": "14143386480"
                 },
                 "legacy": {
-                    "gid": "4785609980041134827",
-                    "size": "29081947149",
-                    "download": "15807459776"
+                    "gid": "8371532776778717617",
+                    "size": "24870930283",
+                    "download": "13489241168"
                 }
             },
             "decryptionkey": "68e1686bc8f5a23173a86f6a5c3fb61ae2714081bf956976f7f837a1f03a9779"
@@ -160,23 +160,23 @@
         "workshopdepot": "1295660",
         "branches": {
             "public": {
-                "buildid": "18681744",
-                "timeupdated": "1748887207"
+                "buildid": "19251277",
+                "timeupdated": "1753192706"
             },
             "console-compatible": {
-                "buildid": "18681744",
+                "buildid": "19251277",
                 "description": "Maintains compatibility to live PlayStation and Xbox builds but may be missing latest fixes and content.",
-                "timeupdated": "1748887937"
+                "timeupdated": "1753194925"
             },
             "console-compatible-switch": {
-                "buildid": "18681744",
+                "buildid": "19251277",
                 "description": "Maintains compatibility to the live Switch build but may be missing latest fixes and content.",
-                "timeupdated": "1748887967"
+                "timeupdated": "1753280478"
             },
             "legacy": {
-                "buildid": "18252135",
+                "buildid": "18900948",
                 "description": "The previous major release version's build.",
-                "timeupdated": "1747939449"
+                "timeupdated": "1753195071"
             }
         },
         "privatebranches": "1",
