@@ -4,8 +4,8 @@
     "type": "Tool",
     "schinese_name": "",
     "isfreeapp": 0,
-    "update_time": "2025-06-18 21:35:34",
-    "change_number": 29629791,
+    "update_time": "2025-07-23 19:35:08",
+    "change_number": 30212673,
     "depot": {
         "1004": {
             "config": {
@@ -13,9 +13,9 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "7747775778018907449",
-                    "size": "46727128",
-                    "download": "14307024"
+                    "gid": "8904491048620934740",
+                    "size": "68697032",
+                    "download": "20552544"
                 }
             },
             "depotfromapp": "1007",
@@ -41,9 +41,9 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "7138471031118904166",
-                    "size": "78382436",
-                    "download": "21254752"
+                    "gid": "5587033981095108078",
+                    "size": "107476144",
+                    "download": "29272144"
                 }
             },
             "depotfromapp": "1007",
@@ -59,27 +59,27 @@
         "582401": {
             "manifests": {
                 "public": {
-                    "gid": "8079011870862444452",
-                    "size": "2738950694",
-                    "download": "673677232"
+                    "gid": "8608704669633107143",
+                    "size": "2738974870",
+                    "download": "675274064"
                 },
                 "beta": {
-                    "gid": "4754626188450657352",
-                    "size": "2742579558",
-                    "download": "674648368"
+                    "gid": "5738225477125163127",
+                    "size": "2742568141",
+                    "download": "676600896"
                 }
             },
             "decryptionkey": "e8b47259be06a7ed76a9551ac6d424e292e4a5804f365602a07b3e91c34b5d6d"
         },
         "branches": {
             "public": {
-                "buildid": "18173258",
-                "timeupdated": "1745159632"
+                "buildid": "19316627",
+                "timeupdated": "1753198597"
             },
             "beta": {
-                "buildid": "18912949",
+                "buildid": "19317172",
                 "description": " Latest changes. Probably broken.",
-                "timeupdated": "1750253730"
+                "timeupdated": "1753200470"
             }
         }
     }
