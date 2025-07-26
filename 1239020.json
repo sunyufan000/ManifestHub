@@ -4,8 +4,8 @@
     "type": "Game",
     "schinese_name": "与你在一起BnB",
     "isfreeapp": 0,
-    "update_time": "2025-06-09 16:58:28",
-    "change_number": 29458407,
+    "update_time": "2025-07-21 18:44:38",
+    "change_number": 30171644,
     "depot": {
         "228988": {
             "config": {
@@ -32,11 +32,15 @@
             "decryptionkey": "82aede50519233eae836f4cdf8091356f7f4d10f51555c31cabf58c3d2c235ce"
         },
         "1239022": {},
+        "1239023": {
+            "manifests": {}
+        },
         "branches": {
             "public": {
                 "buildid": "8395070",
                 "timeupdated": "1647587458"
             }
-        }
+        },
+        "privatebranches": "1"
     }
 }
