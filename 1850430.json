@@ -4,8 +4,8 @@
     "type": "Tool",
     "schinese_name": "",
     "isfreeapp": 0,
-    "update_time": "2025-06-18 19:27:14",
-    "change_number": 29627711,
+    "update_time": "2025-07-23 19:36:48",
+    "change_number": 30212673,
     "depot": {
         "1004": {
             "config": {
@@ -13,9 +13,9 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "7747775778018907449",
-                    "size": "46727128",
-                    "download": "14307024"
+                    "gid": "8904491048620934740",
+                    "size": "68697032",
+                    "download": "20552544"
                 }
             },
             "depotfromapp": "1007",
@@ -41,9 +41,9 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "7138471031118904166",
-                    "size": "78382436",
-                    "download": "21254752"
+                    "gid": "5587033981095108078",
+                    "size": "107476144",
+                    "download": "29272144"
                 }
             },
             "depotfromapp": "1007",
@@ -56,16 +56,17 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "4658224699843734003",
-                    "size": "2123371024",
-                    "download": "642061744"
+                    "gid": "3500096151629886572",
+                    "size": "1938872452",
+                    "download": "544959936"
                 },
                 "survival": {
                     "gid": "3900322614525790544",
                     "size": "1971046446",
                     "download": "636179472"
                 }
-            }
+            },
+            "decryptionkey": "c06a7fa94a185e2e2074816022b98b4e2019606569da9729bc36b6159182f0ac"
         },
         "1850433": {
             "config": {
@@ -73,9 +74,9 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "4971365960295276339",
-                    "size": "2276660911",
-                    "download": "721402928"
+                    "gid": "2770944813532231005",
+                    "size": "2094110700",
+                    "download": "623848128"
                 },
                 "survival": {
                     "gid": "7087976497736667326",
@@ -83,12 +84,12 @@
                     "download": "717380224"
                 }
             },
-            "decryptionkey": ""
+            "decryptionkey": "a88d95c2b1b7ed26a27888d550fe31f9dce422569267a54e6053dce2076ea5e9"
         },
         "branches": {
             "public": {
-                "buildid": "18911231",
-                "timeupdated": "1750246029"
+                "buildid": "19143837",
+                "timeupdated": "1751968029"
             },
             "survival": {
                 "buildid": "15036568",
