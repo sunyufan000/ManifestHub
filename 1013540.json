@@ -4,8 +4,8 @@
     "type": "Game",
     "schinese_name": "",
     "isfreeapp": 0,
-    "update_time": "2025-06-15 04:42:58",
-    "change_number": 29568898,
+    "update_time": "2025-07-21 20:03:19",
+    "change_number": 30172842,
     "depot": {
         "228989": {
             "config": {
@@ -30,9 +30,9 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "2682679468959065714",
-                    "size": "1086048704",
-                    "download": "905827568"
+                    "gid": "8730585582994189406",
+                    "size": "3260730264",
+                    "download": "2871665472"
                 },
                 "0.17": {
                     "gid": "677206953069872939",
@@ -55,14 +55,14 @@
                     "download": "905827568"
                 },
                 "indev": {
+                    "gid": "8730585582994189406",
+                    "size": "3260730264",
+                    "download": "2871665472"
+                },
+                "stable_indev": {
                     "gid": "651010951603292496",
                     "size": "1778102926",
                     "download": "1371553728"
-                },
-                "stable_indev": {
-                    "gid": "6575715668708220055",
-                    "size": "1784855114",
-                    "download": "1378043008"
                 }
             },
             "decryptionkey": "68a9f5033442626ccd2c4329e03cc2e791781329e391cfc4890da9e2fb693efe"
@@ -73,9 +73,9 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "8775114450437325239",
-                    "size": "1648557389",
-                    "download": "1178035616"
+                    "gid": "437581052948324452",
+                    "size": "1928572200",
+                    "download": "1451812224"
                 },
                 "0.18.5": {
                     "gid": "8731855971500322329",
@@ -88,21 +88,22 @@
                     "download": "1178035616"
                 },
                 "indev": {
-                    "gid": "2682288879354166770",
-                    "size": "1863867158",
-                    "download": "1345138752"
+                    "gid": "437581052948324452",
+                    "size": "1928572200",
+                    "download": "1451812224"
                 },
                 "stable_indev": {
                     "gid": "2682288879354166770",
                     "size": "1863867158",
                     "download": "1345138752"
                 }
-            }
+            },
+            "decryptionkey": "0c7769601554b4246c58180146a6d6e22c478f5cc326de9fd4cf98bedbd192d0"
         },
         "branches": {
             "public": {
-                "buildid": "15000546",
-                "timeupdated": "1720697684"
+                "buildid": "19304012",
+                "timeupdated": "1753124596"
             },
             "0.17": {
                 "buildid": "4466712",
@@ -125,14 +126,14 @@
                 "timeupdated": "1744479641"
             },
             "indev": {
-                "buildid": "18869699",
+                "buildid": "19304012",
                 "description": "latest indev version",
-                "timeupdated": "1749933572"
+                "timeupdated": "1753124444"
             },
             "stable_indev": {
-                "buildid": "18600452",
+                "buildid": "18869699",
                 "description": "stable version of indev branch",
-                "timeupdated": "1749151871"
+                "timeupdated": "1751221529"
             }
         },
         "workshopdepotdecryptionkey": "e10a22adf37e9f2f228c6127b7052a76a5be87b046f4a97c56362a18a0c25445"
