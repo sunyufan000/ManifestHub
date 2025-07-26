@@ -4,8 +4,8 @@
     "type": "DLC",
     "schinese_name": "《The Sims™ 4 月影狼踪》扩充包",
     "isfreeapp": 0,
-    "update_time": "2025-06-09 06:23:58",
-    "change_number": 29451444,
+    "update_time": "2025-07-03 19:44:28",
+    "change_number": 29884457,
     "depot": {
         "1776780": {
             "manifests": {
@@ -72,7 +72,7 @@
                 }
             },
             "dlcappid": "1776780",
-            "decryptionkey": ""
+            "decryptionkey": "05c9ef8d532a2d29e8501228fb9ca6e136823883b147bd3ae9a7de13e5b9ac9e"
         },
         "1776785": {
             "config": {
