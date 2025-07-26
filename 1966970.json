@@ -4,7 +4,7 @@
     "type": "Game",
     "schinese_name": "未来侵蚀",
     "isfreeapp": 0,
-    "update_time": "2025-05-26 10:17:28",
+    "update_time": "2025-06-23 14:11:41",
     "change_number": 29183327,
     "depot": {
         "1966971": {
@@ -33,7 +33,7 @@
                     "download": "206630000"
                 }
             },
-            "decryptionkey": ""
+            "decryptionkey": "5de54b8c0a67c39b69722f90bea12aca75b41acff60562ba9925f12bfdda8af3"
         },
         "1966973": {
             "config": {
