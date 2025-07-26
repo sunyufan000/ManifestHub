@@ -4,8 +4,8 @@
     "type": "Game",
     "schinese_name": "",
     "isfreeapp": 0,
-    "update_time": "2025-06-21 16:47:12",
-    "change_number": 29680688,
+    "update_time": "2025-07-23 07:19:15",
+    "change_number": 30200473,
     "depot": {
         "2941661": {
             "config": {
@@ -13,14 +13,14 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "6420738755589846286",
-                    "size": "2265957857",
-                    "download": "648952208"
+                    "gid": "4015208334526833024",
+                    "size": "2268864815",
+                    "download": "649778864"
                 },
                 "experimental": {
-                    "gid": "3426550318515549727",
-                    "size": "2266791330",
-                    "download": "649117968"
+                    "gid": "7670875227914994387",
+                    "size": "2269673183",
+                    "download": "649917056"
                 }
             },
             "decryptionkey": "9e9c4a4cb9451b1e189a13b090d38f79707b0a150a3bf50a17cdd38aedfb85c5"
@@ -28,16 +28,16 @@
         "workshopdepot": "2941660",
         "branches": {
             "public": {
-                "buildid": "18948687",
-                "timeupdated": "1750495606"
+                "buildid": "19338947",
+                "timeupdated": "1753334771"
             },
             "experimental": {
-                "buildid": "18936632",
+                "buildid": "19324830",
                 "description": "experimental",
-                "timeupdated": "1750403768"
+                "timeupdated": "1753251551"
             }
         },
         "privatebranches": "1",
-        "workshopdepotdecryptionkey": ""
+        "workshopdepotdecryptionkey": "c2a21d269117085d7b1fe5b90eb69cb1b0cdd6a21aeb5099144274d882e1e383"
     }
 }
