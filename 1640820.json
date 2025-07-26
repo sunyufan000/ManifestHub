@@ -4,8 +4,8 @@
     "type": "Game",
     "schinese_name": "华夏山河",
     "isfreeapp": 0,
-    "update_time": "2025-06-22 10:16:48",
-    "change_number": 29687228,
+    "update_time": "2025-07-22 22:41:33",
+    "change_number": 30194505,
     "depot": {
         "228989": {
             "config": {
@@ -24,9 +24,9 @@
         "1640821": {
             "manifests": {
                 "public": {
-                    "gid": "119456162520934073",
-                    "size": "27938314685",
-                    "download": "12399201376"
+                    "gid": "618843688828427295",
+                    "size": "28155349848",
+                    "download": "12408319968"
                 }
             },
             "decryptionkey": "2de4c341c69a5caece120eed798bbd441bada826bdf8b1ea784ad8d1964397b9"
@@ -43,8 +43,8 @@
         },
         "branches": {
             "public": {
-                "buildid": "18930374",
-                "timeupdated": "1750356588"
+                "buildid": "19244605",
+                "timeupdated": "1752680874"
             }
         },
         "privatebranches": "1"
