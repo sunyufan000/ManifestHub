@@ -4,15 +4,15 @@
     "type": "Game",
     "schinese_name": "药剂工艺：炼金模拟器",
     "isfreeapp": 0,
-    "update_time": "2025-06-17 03:57:21",
-    "change_number": 29588900,
+    "update_time": "2025-07-14 17:06:38",
+    "change_number": 30051942,
     "depot": {
         "1210321": {
             "manifests": {
                 "public": {
-                    "gid": "5622286217395840893",
-                    "size": "2189962726",
-                    "download": "1177973536"
+                    "gid": "7634710488886089021",
+                    "size": "2190822824",
+                    "download": "1213505808"
                 },
                 "0.4.7": {
                     "gid": "7809428672321799106",
@@ -33,14 +33,19 @@
                     "gid": "1610030769643194993",
                     "size": "1692538316",
                     "download": "894005632"
+                },
+                "2.0.1.2": {
+                    "gid": "5622286217395840893",
+                    "size": "2189962726",
+                    "download": "1177973536"
                 }
             },
             "decryptionkey": "d8767749a4bd55e51cd4cc1c210399bbbcb0e728f7caab6cdcdabb84ed18d158"
         },
         "branches": {
             "public": {
-                "buildid": "16659612",
-                "timeupdated": "1733507158"
+                "buildid": "18969694",
+                "timeupdated": "1750955549"
             },
             "0.4.7": {
                 "buildid": "10051258",
@@ -61,6 +66,11 @@
                 "buildid": "12813362",
                 "description": "Full Release, Stable (1.1.0)",
                 "timeupdated": "1729119505"
+            },
+            "2.0.1.2": {
+                "buildid": "16659612",
+                "description": "Full Release, Stable (2.0.1.2)",
+                "timeupdated": "1750705933"
             }
         },
         "privatebranches": "1"
