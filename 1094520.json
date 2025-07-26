@@ -4,8 +4,8 @@
     "type": "Game",
     "schinese_name": "部落与弯刀",
     "isfreeapp": 0,
-    "update_time": "2025-06-17 21:19:11",
-    "change_number": 29607631,
+    "update_time": "2025-07-08 09:04:42",
+    "change_number": 29944805,
     "depot": {
         "baselanguages": "english,schinese",
         "workshopdepot": "1094520",
@@ -59,9 +59,9 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "1005005144409007481",
-                    "size": "3674046077",
-                    "download": "2208132272"
+                    "gid": "7281027922910533074",
+                    "size": "3675048645",
+                    "download": "2220279984"
                 },
                 "ver.1.0.44_old_version": {
                     "gid": "6120045210565598273",
@@ -82,9 +82,9 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "1566232692882423005",
-                    "size": "3674046077",
-                    "download": "2208109888"
+                    "gid": "5081312113069626695",
+                    "size": "3675048645",
+                    "download": "2220257600"
                 },
                 "ver.1.0.44_old_version": {
                     "gid": "7778875603807779040",
@@ -105,9 +105,9 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "5374380949248295780",
-                    "size": "3674046077",
-                    "download": "2208112608"
+                    "gid": "2548731907761734111",
+                    "size": "3675048645",
+                    "download": "2220260160"
                 },
                 "ver.1.0.44_old_version": {
                     "gid": "110142959708243568",
@@ -201,7 +201,7 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "8131825108794397174",
+                    "gid": "2431176345096880899",
                     "size": "3944856",
                     "download": "3186368"
                 },
@@ -220,8 +220,8 @@
         },
         "branches": {
             "public": {
-                "buildid": "17862311",
-                "timeupdated": "1743145572"
+                "buildid": "19095004",
+                "timeupdated": "1751961877"
             },
             "ver.1.0.44_old_version": {
                 "sc_schinese": "unity 2018.4.14",
