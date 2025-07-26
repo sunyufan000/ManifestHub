@@ -4,8 +4,8 @@
     "type": "Game",
     "schinese_name": "三国志汉末霸业",
     "isfreeapp": 0,
-    "update_time": "2025-06-10 09:49:10",
-    "change_number": 29476782,
+    "update_time": "2025-07-15 08:44:40",
+    "change_number": 30063495,
     "depot": {
         "baselanguages": "english,german,french,koreana,spanish,schinese,tchinese,russian,thai,japanese,portuguese,brazilian,latam,vietnamese",
         "hasdepotsindlc": "1",
@@ -95,9 +95,9 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "745824359299326345",
-                    "size": "3611488796",
-                    "download": "1117537120"
+                    "gid": "2061272678340076791",
+                    "size": "3615242592",
+                    "download": "1117777152"
                 },
                 "test": {
                     "gid": "1634678261806136573",
@@ -135,9 +135,9 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "1131201613195590360",
-                    "size": "3610051727",
-                    "download": "1117366704"
+                    "gid": "7718062996325764690",
+                    "size": "3615242592",
+                    "download": "1117779968"
                 },
                 "test": {
                     "gid": "7322417346979029126",
@@ -149,8 +149,8 @@
         },
         "branches": {
             "public": {
-                "buildid": "18803646",
-                "timeupdated": "1749520145"
+                "buildid": "19226651",
+                "timeupdated": "1752565475"
             },
             "test": {
                 "buildid": "12385017",
