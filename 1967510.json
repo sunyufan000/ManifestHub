@@ -4,8 +4,8 @@
     "type": "Game",
     "schinese_name": "轨道连结 - Railbound",
     "isfreeapp": 0,
-    "update_time": "2025-05-31 07:20:55",
-    "change_number": 29284923,
+    "update_time": "2025-07-23 22:13:28",
+    "change_number": 30214877,
     "depot": {
         "1967511": {
             "config": {
@@ -14,9 +14,9 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "968842894969231885",
-                    "size": "275103166",
-                    "download": "75480768"
+                    "gid": "4959834067135283499",
+                    "size": "275165382",
+                    "download": "76061520"
                 }
             },
             "decryptionkey": "1f47788a2e63ce7847ef2a3c02bfca10485668e72db9a6f8297a3950f63d7156"
@@ -27,9 +27,9 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "5240893551768437459",
-                    "size": "299696391",
-                    "download": "82603344"
+                    "gid": "7131918510153729873",
+                    "size": "299758607",
+                    "download": "83178112"
                 }
             },
             "decryptionkey": "c1cab097d099b75021e39ccbb4b6b24044e0ca2f93bfac4ada8fcf0434b68868"
@@ -41,9 +41,9 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "686491269961263904",
-                    "size": "267357438",
-                    "download": "72975728"
+                    "gid": "7213350858674588677",
+                    "size": "267419654",
+                    "download": "73561520"
                 }
             },
             "decryptionkey": "e32a4858287c88366c7e9ab05348ffc17350e637a7ea165bdcea9eeb323666c7"
@@ -51,8 +51,8 @@
         "workshopdepot": "1967510",
         "branches": {
             "public": {
-                "buildid": "18659458",
-                "timeupdated": "1748537890"
+                "buildid": "19173750",
+                "timeupdated": "1752175822"
             }
         },
         "privatebranches": "1",
