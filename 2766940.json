@@ -4,8 +4,8 @@
     "type": "Game",
     "schinese_name": "艾莱茵的冒险之旅",
     "isfreeapp": 0,
-    "update_time": "2025-05-31 07:23:25",
-    "change_number": 29284885,
+    "update_time": "2025-07-17 07:26:55",
+    "change_number": 30104327,
     "depot": {
         "2766941": {
             "config": {
@@ -47,7 +47,7 @@
                     "download": "1097224656"
                 }
             },
-            "decryptionkey": ""
+            "decryptionkey": "a58c0b21ccecaa79733257b88cb92c704318d1487bce989050b7f3adfcfae3cc"
         },
         "2766944": {
             "config": {
