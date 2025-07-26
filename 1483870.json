@@ -4,8 +4,8 @@
     "type": "Game",
     "schinese_name": "Draw & Guess - 你画我猜",
     "isfreeapp": 0,
-    "update_time": "2025-06-18 23:03:30",
-    "change_number": 29631456,
+    "update_time": "2025-07-01 13:14:22",
+    "change_number": 29842191,
     "depot": {
         "baselanguages": "english,german,french,italian,koreana,spanish,schinese,russian,japanese",
         "1483871": {
@@ -14,9 +14,9 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "7226746285558188434",
-                    "size": "852462997",
-                    "download": "546416160"
+                    "gid": "7875787135879155335",
+                    "size": "853324729",
+                    "download": "569797024"
                 }
             },
             "decryptionkey": "3e39df44a18dd1013bc7a6a9fcb645852308303acb9901fca0686753cd371508"
@@ -27,9 +27,9 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "3708999967314405376",
-                    "size": "877762188",
-                    "download": "542503152"
+                    "gid": "3874756353407861100",
+                    "size": "878888783",
+                    "download": "565850960"
                 }
             },
             "decryptionkey": "6b21827b939f59ad3d9eda1d3059d61b71712e7d456d0d3a97fbb37956ee87c6"
@@ -40,9 +40,9 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "962114200448446881",
-                    "size": "833653851",
-                    "download": "541581344"
+                    "gid": "8445468756880081379",
+                    "size": "834622222",
+                    "download": "564889008"
                 }
             },
             "decryptionkey": "42b18e61776276b0d3cd1bbb0ddde9c35284f6cdc57a88fd55c8f20cd3d78660"
@@ -50,8 +50,8 @@
         "workshopdepot": "1483870",
         "branches": {
             "public": {
-                "buildid": "18885569",
-                "timeupdated": "1750152597"
+                "buildid": "19064789",
+                "timeupdated": "1751372056"
             }
         },
         "privatebranches": "1",
