@@ -4,8 +4,8 @@
     "type": "Game",
     "schinese_name": "坍缩谜室",
     "isfreeapp": 0,
-    "update_time": "2025-06-21 21:53:27",
-    "change_number": 29681324,
+    "update_time": "2025-07-20 15:57:35",
+    "change_number": 30155308,
     "depot": {
         "baselanguages": "english,schinese",
         "3409431": {
@@ -14,9 +14,14 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "5939904990882324803",
-                    "size": "1257033649",
-                    "download": "488889440"
+                    "gid": "8295447926554277693",
+                    "size": "1257176289",
+                    "download": "488935584"
+                },
+                "refactortest": {
+                    "gid": "8463344923934747357",
+                    "size": "1260780066",
+                    "download": "490158096"
                 }
             },
             "decryptionkey": "c494d6f65215b469585359c787bd64298370697caba7c866ddddebe916e218d3"
@@ -29,8 +34,13 @@
         },
         "branches": {
             "public": {
-                "buildid": "18751285",
-                "timeupdated": "1749130753"
+                "buildid": "18842718",
+                "timeupdated": "1752065533"
+            },
+            "refactortest": {
+                "buildid": "19291675",
+                "description": "重构测试，欢迎大家来玩。群里提交bug即可",
+                "timeupdated": "1753023451"
             }
         },
         "privatebranches": "1"
