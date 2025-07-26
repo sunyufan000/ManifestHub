@@ -4,8 +4,8 @@
     "type": "Game",
     "schinese_name": "罪恶帝国",
     "isfreeapp": 0,
-    "update_time": "2025-06-19 03:05:23",
-    "change_number": 29635536,
+    "update_time": "2025-07-22 10:42:51",
+    "change_number": 30183292,
     "depot": {
         "baselanguages": "english",
         "hasdepotsindlc": "1",
@@ -27,6 +27,11 @@
                     "gid": "9195282442204871090",
                     "size": "11137326135",
                     "download": "5514984960"
+                },
+                "patch-test": {
+                    "gid": "3200488371269000779",
+                    "size": "11137538685",
+                    "download": "5514967072"
                 }
             },
             "decryptionkey": "988e498b3a45f65f1b3e32bf4e305c18ef7700c7af25dbfe5c78b39223888c58"
@@ -41,6 +46,11 @@
                     "gid": "2434352088147765244",
                     "size": "12208137436",
                     "download": "5639179232"
+                },
+                "patch-test": {
+                    "gid": "8630281921894071901",
+                    "size": "12229013792",
+                    "download": "5657540560"
                 }
             },
             "decryptionkey": "05b434ce35bcf5f4b81b307e3f2ce7d0a8d93c129ee88350d6ffaa84f923e6ea"
@@ -49,6 +59,11 @@
             "dlcappid": "1303311",
             "manifests": {
                 "public": {
+                    "gid": "5252471648051514011",
+                    "size": "383042",
+                    "download": "385504"
+                },
+                "patch-test": {
                     "gid": "5252471648051514011",
                     "size": "383042",
                     "download": "385504"
@@ -63,6 +78,11 @@
                     "gid": "7054644355146635704",
                     "size": "444318",
                     "download": "446736"
+                },
+                "patch-test": {
+                    "gid": "7054644355146635704",
+                    "size": "444318",
+                    "download": "446736"
                 }
             },
             "decryptionkey": "9633a67e6e12a297962003803c8d70e84b9816a07346554a9f7123b1835ddb14"
@@ -71,6 +91,11 @@
             "dlcappid": "1303310",
             "manifests": {
                 "public": {
+                    "gid": "1802411918330481105",
+                    "size": "362270",
+                    "download": "363936"
+                },
+                "patch-test": {
                     "gid": "1802411918330481105",
                     "size": "362270",
                     "download": "363936"
@@ -88,6 +113,11 @@
                     "gid": "6923544181056751226",
                     "size": "324593212",
                     "download": "188544064"
+                },
+                "patch-test": {
+                    "gid": "6923544181056751226",
+                    "size": "324593212",
+                    "download": "188544064"
                 }
             },
             "decryptionkey": "0e8f8bb6dd10c4410f9e42998de8f84e34c71e4ec0ae2cc7643825ad58ab8923"
@@ -99,6 +129,11 @@
             },
             "manifests": {
                 "public": {
+                    "gid": "156459741148196178",
+                    "size": "325106643",
+                    "download": "188724480"
+                },
+                "patch-test": {
                     "gid": "156459741148196178",
                     "size": "325106643",
                     "download": "188724480"
@@ -116,9 +151,14 @@
                     "gid": "7770526071714425653",
                     "size": "406201588",
                     "download": "253195552"
+                },
+                "patch-test": {
+                    "gid": "6114211654096258461",
+                    "size": "281713865",
+                    "download": "136747344"
                 }
             },
-            "decryptionkey": "28737F970742F243BAE04DFD66A213A81ECC8B960A8B50158ED75DA8461ED471"
+            "decryptionkey": "28737f970742f243bae04dfd66a213a81ecc8b960a8b50158ed75da8461ed471"
         },
         "1303316": {
             "dlcappid": "1303314",
@@ -130,13 +170,24 @@
                     "gid": "4225180495375995442",
                     "size": "406613090",
                     "download": "253291456"
+                },
+                "patch-test": {
+                    "gid": "4225180495375995442",
+                    "size": "406613090",
+                    "download": "253291456"
                 }
-            }
+            },
+            "decryptionkey": "62d3593a46c42d55846bde9ce560f6211cc22dfe76995113aae53a25b05aef85"
         },
         "branches": {
             "public": {
                 "buildid": "17828929",
                 "timeupdated": "1750258733"
+            },
+            "patch-test": {
+                "buildid": "19301495",
+                "description": "Public testing branch for upcoming patch",
+                "timeupdated": "1753110623"
             }
         },
         "privatebranches": "1",
