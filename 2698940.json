@@ -4,15 +4,15 @@
     "type": "Game",
     "schinese_name": "飙酷车神：轰鸣盛典",
     "isfreeapp": 0,
-    "update_time": "2025-06-18 06:22:56",
-    "change_number": 29617098,
+    "update_time": "2025-07-24 01:03:43",
+    "change_number": 30216829,
     "depot": {
         "2698941": {
             "manifests": {
                 "public": {
-                    "gid": "7163692487466211441",
-                    "size": "59807688270",
-                    "download": "55116835600"
+                    "gid": "6931954782824843628",
+                    "size": "65137283016",
+                    "download": "60266868656"
                 },
                 "local": {
                     "gid": "2915921679385542269",
@@ -25,9 +25,9 @@
         "1716751": {
             "manifests": {
                 "public": {
-                    "gid": "7692967814764193714",
-                    "size": "631944",
-                    "download": "515248"
+                    "gid": "818295193716041715",
+                    "size": "632424",
+                    "download": "551504"
                 }
             },
             "depotfromapp": "1716750",
@@ -36,8 +36,8 @@
         "baselanguages": "english,german,french,italian,koreana,spanish,schinese,tchinese,russian,japanese,polish,arabic,brazilian",
         "branches": {
             "public": {
-                "buildid": "17843335",
-                "timeupdated": "1743586312"
+                "buildid": "18903580",
+                "timeupdated": "1751444347"
             },
             "local": {
                 "buildid": "13269693",
