@@ -4,8 +4,8 @@
     "type": "DLC",
     "schinese_name": "",
     "isfreeapp": 1,
-    "update_time": "2025-06-13 16:07:05",
-    "change_number": 29544702,
+    "update_time": "2025-07-10 09:09:24",
+    "change_number": 29983781,
     "depot": {
         "1227452": {
             "config": {
@@ -20,9 +20,9 @@
                     "download": "249024"
                 },
                 "nightly": {
-                    "gid": "8338274012765932102",
+                    "gid": "4781477314901461272",
                     "size": "685457",
-                    "download": "249008"
+                    "download": "298544"
                 }
             },
             "decryptionkey": "a29e4b3b7823dfc51a03d86e848cad7dd53419ae73531796f2c57749f3342d5a"
@@ -73,9 +73,9 @@
                 "timeupdated": "1745845239"
             },
             "nightly": {
-                "buildid": "18852588",
+                "buildid": "19172166",
                 "description": "Nightly unstable builds",
-                "timeupdated": "1749802018"
+                "timeupdated": "1752134960"
             }
         },
         "privatebranches": "1",
