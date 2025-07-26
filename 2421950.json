@@ -4,8 +4,8 @@
     "type": "Game",
     "schinese_name": "The Guardian of Nature -自然守护者-",
     "isfreeapp": 0,
-    "update_time": "2025-06-20 23:20:49",
-    "change_number": 29670968,
+    "update_time": "2025-07-23 13:53:55",
+    "change_number": 30206639,
     "depot": {
         "2421951": {
             "config": {
@@ -13,9 +13,9 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "5015069698620210332",
-                    "size": "1181643544",
-                    "download": "935367584"
+                    "gid": "5814142609777856953",
+                    "size": "1181782552",
+                    "download": "941922384"
                 }
             }
         },
@@ -25,9 +25,9 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "5763481722943962792",
-                    "size": "1164811963",
-                    "download": "927965552"
+                    "gid": "6704163941787156361",
+                    "size": "1165012362",
+                    "download": "933257728"
                 }
             },
             "decryptionkey": "a2cab1c9036221ca91c6de141c95a5957f6b4c4582266fc29f1c2dfcf2217b27"
@@ -38,17 +38,17 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "4038178085166988039",
-                    "size": "1127519193",
-                    "download": "891340976"
+                    "gid": "2232359218725784349",
+                    "size": "1127707161",
+                    "download": "896007552"
                 }
             }
         },
         "baselanguages": "english,german,japanese",
         "branches": {
             "public": {
-                "buildid": "18929158",
-                "timeupdated": "1750408758"
+                "buildid": "19024650",
+                "timeupdated": "1751020767"
             }
         },
         "privatebranches": "1"
