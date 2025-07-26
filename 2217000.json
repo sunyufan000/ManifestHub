@@ -4,8 +4,8 @@
     "type": "Game",
     "schinese_name": "",
     "isfreeapp": 0,
-    "update_time": "2025-06-22 09:40:04",
-    "change_number": 29687057,
+    "update_time": "2025-07-24 03:12:25",
+    "change_number": 30218328,
     "depot": {
         "228983": {
             "config": {
@@ -45,14 +45,14 @@
         "2217001": {
             "manifests": {
                 "public": {
-                    "gid": "7075415493631814349",
-                    "size": "2914310045",
-                    "download": "2535382784"
+                    "gid": "8071940671303110343",
+                    "size": "3211323497",
+                    "download": "2822308016"
                 },
                 "previous_version": {
-                    "gid": "7856990631714401800",
-                    "size": "2914293053",
-                    "download": "2535246928"
+                    "gid": "5153762015442630123",
+                    "size": "3211327593",
+                    "download": "2822257808"
                 }
             },
             "decryptionkey": "43d69e105073277384193785bd85036890e6506f83ed959407df51df70e51922"
@@ -61,13 +61,13 @@
         "baselanguages": "english,german,french,spanish,japanese,brazilian,latam",
         "branches": {
             "public": {
-                "buildid": "18913637",
-                "timeupdated": "1750266353"
+                "buildid": "19300739",
+                "timeupdated": "1753119670"
             },
             "previous_version": {
-                "buildid": "18898467",
+                "buildid": "19262517",
                 "description": "The previously live version of the game. Use this to access invalid replays",
-                "timeupdated": "1750266318"
+                "timeupdated": "1753119722"
             }
         },
         "privatebranches": "1",
