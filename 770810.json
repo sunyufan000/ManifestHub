@@ -4,8 +4,8 @@
     "type": "Game",
     "schinese_name": "可口的披萨，美味的披萨",
     "isfreeapp": 0,
-    "update_time": "2025-06-10 08:11:23",
-    "change_number": 29475590,
+    "update_time": "2025-07-23 22:06:50",
+    "change_number": 30214786,
     "depot": {
         "hasdepotsindlc": "0",
         "baselanguages": "english",
@@ -43,9 +43,9 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "7621906494045918730",
-                    "size": "1648416693",
-                    "download": "1603208784"
+                    "gid": "2056323045740389967",
+                    "size": "1664612432",
+                    "download": "1619177904"
                 }
             },
             "decryptionkey": "53885f672671f1cab932380f2c152ea3409de15ce3eb9c52c9ac4b51c8d4c3c8"
@@ -56,9 +56,9 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "3286392012306947301",
-                    "size": "916466332",
-                    "download": "893016032"
+                    "gid": "7703420912306326322",
+                    "size": "933934757",
+                    "download": "910366256"
                 }
             },
             "decryptionkey": "a9613751b6df3094c478b8b20ecbc614e332e7b46b4e0d5bad2cffd8868963dc"
@@ -611,8 +611,8 @@
         },
         "branches": {
             "public": {
-                "buildid": "18801585",
-                "timeupdated": "1749514277"
+                "buildid": "19150820",
+                "timeupdated": "1752014715"
             }
         },
         "privatebranches": "1"
