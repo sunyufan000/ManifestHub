@@ -4,8 +4,8 @@
     "type": "Game",
     "schinese_name": "废土帝国：人类复兴",
     "isfreeapp": 0,
-    "update_time": "2025-06-05 17:35:30",
-    "change_number": 29389858,
+    "update_time": "2025-07-21 03:52:04",
+    "change_number": 30160150,
     "depot": {
         "1306771": {
             "config": {
@@ -13,9 +13,9 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "5812604649247442544",
-                    "size": "2116616861",
-                    "download": "978254816"
+                    "gid": "4216191614758211641",
+                    "size": "2125468749",
+                    "download": "1042911728"
                 },
                 "revival1.1.": {
                     "gid": "4645142007323226390",
@@ -27,8 +27,8 @@
         },
         "branches": {
             "public": {
-                "buildid": "18642375",
-                "timeupdated": "1748438680"
+                "buildid": "19275926",
+                "timeupdated": "1752857465"
             },
             "revival1.1.": {
                 "buildid": "15518723",
