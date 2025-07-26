@@ -4,8 +4,8 @@
     "type": "Tool",
     "schinese_name": "",
     "isfreeapp": 0,
-    "update_time": "2025-06-20 09:16:40",
-    "change_number": 29659347,
+    "update_time": "2025-07-23 19:37:35",
+    "change_number": 30212673,
     "depot": {
         "1004": {
             "config": {
@@ -13,9 +13,9 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "7747775778018907449",
-                    "size": "46727128",
-                    "download": "14307024"
+                    "gid": "8904491048620934740",
+                    "size": "68697032",
+                    "download": "20552544"
                 }
             },
             "depotfromapp": "1007",
@@ -41,9 +41,9 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "7138471031118904166",
-                    "size": "78382436",
-                    "download": "21254752"
+                    "gid": "5587033981095108078",
+                    "size": "107476144",
+                    "download": "29272144"
                 }
             },
             "depotfromapp": "1007",
@@ -65,9 +65,9 @@
                     "download": "1583919856"
                 },
                 "public-testing": {
-                    "gid": "932423421559481105",
-                    "size": "1948664089",
-                    "download": "1583608608"
+                    "gid": "1998689569918858480",
+                    "size": "2678314239",
+                    "download": "2302768960"
                 }
             }
         },
@@ -88,9 +88,9 @@
                     "download": "1618912320"
                 },
                 "public-testing": {
-                    "gid": "2487514915035927598",
-                    "size": "1888163953",
-                    "download": "1618440832"
+                    "gid": "5463635379057065049",
+                    "size": "2624344787",
+                    "download": "2337502176"
                 }
             },
             "decryptionkey": ""
@@ -106,9 +106,9 @@
                 "timeupdated": "1748743036"
             },
             "public-testing": {
-                "buildid": "18933578",
+                "buildid": "19210126",
                 "description": "Public access to the latest changes for dedicated servers",
-                "timeupdated": "1750381014"
+                "timeupdated": "1752452328"
             }
         },
         "privatebranches": "1"
