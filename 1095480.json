@@ -1,0 +1,70 @@
+{
+    "appid": 1095480,
+    "name": "Operation Valor",
+    "type": "Game",
+    "schinese_name": "",
+    "isfreeapp": 0,
+    "update_time": "2025-07-03 17:23:39",
+    "change_number": 29882435,
+    "depot": {
+        "hasdepotsindlc": "1",
+        "baselanguages": "",
+        "228989": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "229006": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "229007": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "1095481": {
+            "config": {
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "5173417372722667025",
+                    "size": "13454450413",
+                    "download": "4435935984"
+                },
+                "game-preview": {
+                    "gid": "2403906729290506736",
+                    "size": "11505686304",
+                    "download": "3817513984"
+                }
+            },
+            "decryptionkey": "8847d7bbdb5c3bdae67c0c3fe93d2d1c1c89ac7e1542d0febcaea7b5f5a80885"
+        },
+        "2634668": {
+            "dlcappid": "2634660",
+            "config": {
+                "language": "japanese"
+            }
+        },
+        "branches": {
+            "public": {
+                "buildid": "14881361",
+                "timeupdated": "1719684131"
+            },
+            "game-preview": {
+                "buildid": "19052512",
+                "description": "preview",
+                "timeupdated": "1751295315"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
