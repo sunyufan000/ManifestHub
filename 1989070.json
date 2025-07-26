@@ -4,8 +4,8 @@
     "type": "Game",
     "schinese_name": "奇星协力 (Synergy)",
     "isfreeapp": 0,
-    "update_time": "2025-06-21 00:30:14",
-    "change_number": 29672047,
+    "update_time": "2025-07-24 03:25:39",
+    "change_number": 30218455,
     "depot": {
         "1989071": {
             "config": {
@@ -14,9 +14,9 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "8618387234191415209",
-                    "size": "4133556205",
-                    "download": "896994256"
+                    "gid": "1104880374283518398",
+                    "size": "4159697668",
+                    "download": "924542016"
                 },
                 "release_0.4": {
                     "gid": "7466377835444119342",
@@ -52,9 +52,9 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "7487259905495538469",
-                    "size": "4164580966",
-                    "download": "901947328"
+                    "gid": "8333193594291518036",
+                    "size": "4190722661",
+                    "download": "929457056"
                 },
                 "release_0.4": {
                     "gid": "613889579733853346",
@@ -122,8 +122,8 @@
         },
         "branches": {
             "public": {
-                "buildid": "18623348",
-                "timeupdated": "1748360483"
+                "buildid": "19324390",
+                "timeupdated": "1753273995"
             },
             "release_0.4": {
                 "buildid": "16698853",
