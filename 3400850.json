@@ -4,8 +4,8 @@
     "type": "Demo",
     "schinese_name": "",
     "isfreeapp": 0,
-    "update_time": "2025-06-19 17:16:27",
-    "change_number": 29646359,
+    "update_time": "2025-07-16 17:38:00",
+    "change_number": 30093606,
     "depot": {
         "228989": {
             "config": {
@@ -24,6 +24,11 @@
         "3400851": {
             "manifests": {
                 "public": {
+                    "gid": "531487262055920098",
+                    "size": "2971046057",
+                    "download": "2288762560"
+                },
+                "demov1": {
                     "gid": "3462191982174944743",
                     "size": "2377678576",
                     "download": "2143909456"
@@ -36,10 +41,16 @@
             },
             "decryptionkey": "770e4695fac47f6f8f803be6ffcd3d2ed80dbe95b03197fade486a9dff1fbaf3"
         },
+        "baselanguages": "english,german,french,italian,koreana,spanish,schinese,russian,japanese,brazilian",
         "branches": {
             "public": {
+                "buildid": "19228530",
+                "timeupdated": "1752658350"
+            },
+            "demov1": {
                 "buildid": "17107410",
-                "timeupdated": "1737648502"
+                "description": "Demo version 1",
+                "timeupdated": "1752658219"
             },
             "prereleasedemo": {
                 "buildid": "16707352",
