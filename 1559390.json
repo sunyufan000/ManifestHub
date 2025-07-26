@@ -4,8 +4,8 @@
     "type": "Game",
     "schinese_name": "天命奇御二",
     "isfreeapp": 0,
-    "update_time": "2025-05-29 15:56:27",
-    "change_number": 29254910,
+    "update_time": "2025-06-26 01:45:36",
+    "change_number": 29752486,
     "depot": {
         "baselanguages": "schinese,tchinese",
         "hasdepotsindlc": "0",
@@ -26,12 +26,19 @@
             "config": {
                 "language": "english"
             },
-            "manifests": {}
+            "manifests": {
+                "public": {
+                    "gid": "1482936044453347422",
+                    "size": "3249614346",
+                    "download": "2393606736"
+                }
+            },
+            "decryptionkey": "693148890c6643aab10a950503afedb4711857adaf435845a469b64df26952de"
         },
         "branches": {
             "public": {
-                "buildid": "8970177",
-                "timeupdated": "1655951371"
+                "buildid": "18655320",
+                "timeupdated": "1750898730"
             }
         },
         "privatebranches": "1"
