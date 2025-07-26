@@ -1,0 +1,32 @@
+{
+    "appid": 1004210,
+    "name": "Pandamonia",
+    "type": "Game",
+    "schinese_name": "",
+    "isfreeapp": 0,
+    "update_time": "2025-07-08 18:12:00",
+    "change_number": 29953906,
+    "depot": {
+        "hasdepotsindlc": "0",
+        "baselanguages": "english",
+        "1004211": {
+            "config": {
+                "osarch": "64"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "5486854240299750285",
+                    "size": "4286000957",
+                    "download": "1350301456"
+                }
+            },
+            "decryptionkey": "5b9cf776fa9e6ab3b6985daca10fd0521cb7e7ab311786530e265e42ecc79b15"
+        },
+        "branches": {
+            "public": {
+                "buildid": "19078268",
+                "timeupdated": "1751994713"
+            }
+        }
+    }
+}
