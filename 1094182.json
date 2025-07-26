@@ -1,0 +1,31 @@
+{
+    "appid": 1094182,
+    "name": "DYNASTY WARRIORS 9: Zhong Hui \"Racing Suit Costume\" / 鍾会「レーシングスーツ風コスチューム」",
+    "type": "DLC",
+    "schinese_name": "",
+    "isfreeapp": 0,
+    "update_time": "2025-06-23 13:41:00",
+    "change_number": 26841947,
+    "depot": {
+        "1094182": {
+            "config": {
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "3020281144796797203",
+                    "size": "50915764",
+                    "download": "50956448"
+                }
+            },
+            "dlcappid": "1094182",
+            "decryptionkey": "d8f90f8c125dfb1d5670eaaf4fa62b053d4844f0027af6a40c414f1743538679"
+        },
+        "branches": {
+            "public": {
+                "buildid": "3907201",
+                "timeupdated": "1560243887"
+            }
+        }
+    }
+}
