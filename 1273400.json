@@ -4,8 +4,8 @@
     "type": "Game",
     "schinese_name": "建筑模拟器",
     "isfreeapp": 0,
-    "update_time": "2025-06-18 19:18:13",
-    "change_number": 29627575,
+    "update_time": "2025-07-08 13:56:29",
+    "change_number": 29949426,
     "depot": {
         "baselanguages": "english,german,french,italian,koreana,spanish,schinese,tchinese,russian,japanese,polish,dutch,turkish,brazilian",
         "hasdepotsindlc": "1",
@@ -19,9 +19,9 @@
         "1273401": {
             "manifests": {
                 "public": {
-                    "gid": "1184734075813114533",
-                    "size": "13437364297",
-                    "download": "10938960464"
+                    "gid": "3680529257743237412",
+                    "size": "13437273358",
+                    "download": "10957428096"
                 }
             },
             "decryptionkey": "7ac6b6d000ec93fdd41c708fdaa554b3b457d5e9c07bb1947f2d555502c12b28"
@@ -204,8 +204,8 @@
         },
         "branches": {
             "public": {
-                "buildid": "16588080",
-                "timeupdated": "1733317131"
+                "buildid": "19000565",
+                "timeupdated": "1751979382"
             }
         },
         "privatebranches": "1"
