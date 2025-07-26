@@ -4,8 +4,8 @@
     "type": "Game",
     "schinese_name": "星光勇士",
     "isfreeapp": 0,
-    "update_time": "2025-06-07 11:38:48",
-    "change_number": 29430983,
+    "update_time": "2025-07-22 16:22:24",
+    "change_number": 30188972,
     "depot": {
         "833361": {
             "config": {
@@ -13,17 +13,17 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "7598774834643526833",
-                    "size": "2037598174",
-                    "download": "665800496"
+                    "gid": "1516298313531097712",
+                    "size": "2483337266",
+                    "download": "812406032"
                 }
             },
             "decryptionkey": "18d5edd65605f06d3db636fe9ed1e93dd77c5f9e31cf42549b3621c6ed648e8e"
         },
         "branches": {
             "public": {
-                "buildid": "12725436",
-                "timeupdated": "1700175720"
+                "buildid": "19316493",
+                "timeupdated": "1753197739"
             }
         },
         "privatebranches": "1"
