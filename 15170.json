@@ -4,10 +4,9 @@
     "type": "Game",
     "schinese_name": "魔法门之英雄无敌5",
     "isfreeapp": 0,
-    "update_time": "2025-06-20 21:28:02",
-    "change_number": 29668959,
+    "update_time": "2025-07-21 22:41:02",
+    "change_number": 30174957,
     "depot": {
-        "overridescddb": "1",
         "228989": {
             "config": {
                 "oslist": "windows"
@@ -15,13 +14,21 @@
             "depotfromapp": "228980",
             "sharedinstall": "1"
         },
+        "229000": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "overridescddb": "1",
         "15171": {
             "systemdefined": "1",
             "manifests": {
                 "public": {
-                    "gid": "6305152594138570811",
-                    "size": "1395199679",
-                    "download": "0"
+                    "gid": "1406899445470675337",
+                    "size": "1383072804",
+                    "download": "1331122736"
                 }
             },
             "decryptionkey": "1a9f1e32152cbd8fe3bba033ea4e23961e5f7ad731190ffcaf82e2668912e33e"
@@ -95,17 +102,71 @@
             "config": {
                 "language": "polish"
             },
-            "manifests": {}
+            "manifests": {
+                "public": {
+                    "gid": "491398472189955630",
+                    "size": "1385576906",
+                    "download": "1354330160"
+                }
+            },
+            "decryptionkey": "98eacaf9b366aa5b41fcdb44e96bba8ea6c1caf208101846e16017c67efba83b"
         },
         "15178": {
             "config": {
                 "language": "russian"
             },
-            "manifests": {}
+            "manifests": {
+                "public": {
+                    "gid": "4531355185182807014",
+                    "size": "2151246301",
+                    "download": "1910476464"
+                }
+            },
+            "decryptionkey": "c9d435ea5915c4b208db6caa2ff95011895f89e2d214dd2da0e8e1a942ac56cc"
+        },
+        "15179": {
+            "config": {
+                "language": "czech"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "5188306694342781203",
+                    "size": "1370709829",
+                    "download": "1339424336"
+                }
+            },
+            "decryptionkey": "64006af48595f7fb6f56a28d81e4c46dd9893ff3528dc433f996efda1005eb30"
+        },
+        "3833480": {
+            "config": {
+                "language": "hungarian"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "1213853079542390330",
+                    "size": "1456875579",
+                    "download": "1410373568"
+                }
+            },
+            "decryptionkey": "402380215030ff521a52301efbac797c4389ca269ee74873ed1232a118bdf551"
+        },
+        "3833481": {
+            "config": {
+                "language": "schinese"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "1365191707479780834",
+                    "size": "470621159",
+                    "download": "454324400"
+                }
+            },
+            "decryptionkey": "72edcdd8ee3897d3ca7913f85703c0de37baa2a38cf13df8826129f0946aa008"
         },
         "branches": {
             "public": {
-                "buildid": "252096"
+                "buildid": "19081271",
+                "timeupdated": "1751641073"
             }
         },
         "privatebranches": "1"
