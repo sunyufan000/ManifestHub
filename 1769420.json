@@ -4,30 +4,30 @@
     "type": "Game",
     "schinese_name": "",
     "isfreeapp": 0,
-    "update_time": "2025-06-20 05:27:41",
-    "change_number": 29654150,
+    "update_time": "2025-07-14 20:57:59",
+    "change_number": 30055604,
     "depot": {
         "1769421": {
             "manifests": {
                 "public": {
-                    "gid": "7109428492618712151",
-                    "size": "1354517055",
-                    "download": "531354896"
+                    "gid": "898409887666592814",
+                    "size": "1354517663",
+                    "download": "531435120"
                 },
                 "development": {
-                    "gid": "1718909367896180632",
-                    "size": "1385862598",
-                    "download": "538547392"
+                    "gid": "645807405765282753",
+                    "size": "1385863566",
+                    "download": "538796096"
                 },
                 "experimental": {
-                    "gid": "7109428492618712151",
-                    "size": "1354517055",
-                    "download": "531354896"
+                    "gid": "898409887666592814",
+                    "size": "1354517663",
+                    "download": "531435120"
                 },
                 "experimental_development": {
-                    "gid": "1718909367896180632",
-                    "size": "1385862598",
-                    "download": "538547392"
+                    "gid": "645807405765282753",
+                    "size": "1385863566",
+                    "download": "538796096"
                 },
                 "retired_0_23": {
                     "gid": "8378217613132405165",
@@ -105,23 +105,23 @@
         "workshopdepot": "1769420",
         "branches": {
             "public": {
-                "buildid": "18929826",
-                "timeupdated": "1750353361"
+                "buildid": "19055398",
+                "timeupdated": "1751315872"
             },
             "development": {
-                "buildid": "18929599",
+                "buildid": "19055268",
                 "description": "Mod Development, Unstable",
-                "timeupdated": "1750353344"
+                "timeupdated": "1751315812"
             },
             "experimental": {
-                "buildid": "18929826",
+                "buildid": "19055398",
                 "description": "Try out the next update",
-                "timeupdated": "1750353337"
+                "timeupdated": "1751315821"
             },
             "experimental_development": {
-                "buildid": "18929599",
+                "buildid": "19055268",
                 "description": "Try out the next update, Mod Development, Unstable",
-                "timeupdated": "1750352010"
+                "timeupdated": "1751315805"
             },
             "retired_0_23": {
                 "buildid": "8152080",
