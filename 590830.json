@@ -4,8 +4,8 @@
     "type": "Game",
     "schinese_name": "",
     "isfreeapp": 1,
-    "update_time": "2025-06-22 05:57:34",
-    "change_number": 29684757,
+    "update_time": "2025-07-24 02:58:11",
+    "change_number": 30218144,
     "depot": {
         "228989": {
             "config": {
@@ -17,14 +17,19 @@
         "590831": {
             "manifests": {
                 "public": {
+                    "gid": "4229009100957947008",
+                    "size": "3173499137",
+                    "download": "2156869360"
+                },
+                "staging": {
+                    "gid": "5498345769551357619",
+                    "size": "3151856741",
+                    "download": "1956168272"
+                },
+                "2025-june": {
                     "gid": "2709879559233963582",
                     "size": "3054806103",
                     "download": "2073045568"
-                },
-                "staging": {
-                    "gid": "6689021270201567632",
-                    "size": "3079413065",
-                    "download": "2090736752"
                 },
                 "2025-may": {
                     "gid": "509227395305436162",
@@ -62,13 +67,18 @@
         "workshopdepot": "590830",
         "branches": {
             "public": {
-                "buildid": "18693487",
-                "timeupdated": "1748797621"
+                "buildid": "19107993",
+                "timeupdated": "1751631301"
             },
             "staging": {
-                "buildid": "18951642",
+                "buildid": "19337372",
                 "description": "Bleeding edge builds",
-                "timeupdated": "1750531478"
+                "timeupdated": "1753322287"
+            },
+            "2025-june": {
+                "buildid": "18693487",
+                "description": "June 2025",
+                "timeupdated": "1751382131"
             },
             "2025-may": {
                 "buildid": "18355793",
