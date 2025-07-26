@@ -4,8 +4,8 @@
     "type": "Game",
     "schinese_name": "《遗物猎人传说》",
     "isfreeapp": 0,
-    "update_time": "2025-06-19 05:02:28",
-    "change_number": 29637017,
+    "update_time": "2025-07-24 00:14:07",
+    "change_number": 30216321,
     "depot": {
         "baselanguages": "english,japanese,portuguese",
         "633081": {
@@ -14,9 +14,9 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "8005084664962887003",
-                    "size": "13055419618",
-                    "download": "10350506048"
+                    "gid": "1144994740571793022",
+                    "size": "13142546070",
+                    "download": "10534877120"
                 }
             },
             "decryptionkey": "021a43b634a029d8933d6ecdbe24136044a180bbcddc541b424ff8ade92610a4"
@@ -50,8 +50,8 @@
         },
         "branches": {
             "public": {
-                "buildid": "18494993",
-                "timeupdated": "1747417364"
+                "buildid": "19266605",
+                "timeupdated": "1752791684"
             }
         },
         "privatebranches": "1"
