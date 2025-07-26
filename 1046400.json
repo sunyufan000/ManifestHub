@@ -1,0 +1,59 @@
+{
+    "appid": 1046400,
+    "name": "Astalon: Tears of the Earth",
+    "type": "Game",
+    "schinese_name": "",
+    "isfreeapp": 0,
+    "update_time": "2025-07-21 18:44:37",
+    "change_number": 30171644,
+    "depot": {
+        "baselanguages": "english,german,french,koreana,spanish,schinese,tchinese,japanese,latam",
+        "hasdepotsindlc": "1",
+        "1046401": {
+            "config": {
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "7349311916268595656",
+                    "size": "560217104",
+                    "download": "176747968"
+                }
+            },
+            "decryptionkey": "88d23701c0154cf607d5f6cf3ee3d7f7c31138a55aa35807969c821f19647f55"
+        },
+        "1046402": {
+            "config": {
+                "oslist": "macos"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "770218144089589591",
+                    "size": "355554743",
+                    "download": "191348240"
+                }
+            },
+            "decryptionkey": "42f6560b6520b79f3707431f31f79ad95e670e28e3a916bd8c89676fa69accad"
+        },
+        "1046403": {
+            "config": {
+                "oslist": "linux"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "311702359801968876",
+                    "size": "354829304",
+                    "download": "188986816"
+                }
+            },
+            "decryptionkey": "cbf7ecba91080aa7941e12e15406d9c12aadac05227826de364c8ce66c5aa255"
+        },
+        "branches": {
+            "public": {
+                "buildid": "8151994",
+                "timeupdated": "1645993697"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
