@@ -4,8 +4,8 @@
     "type": "Game",
     "schinese_name": "没有怪物受到伤害的TD No Creeps Were Harmed TD",
     "isfreeapp": 0,
-    "update_time": "2025-05-26 21:17:39",
-    "change_number": 29191933,
+    "update_time": "2025-07-22 19:21:28",
+    "change_number": 30192025,
     "depot": {
         "1932261": {
             "config": {
@@ -14,9 +14,9 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "1110574440716825484",
-                    "size": "488171541",
-                    "download": "163585872"
+                    "gid": "8035858484604157685",
+                    "size": "488362613",
+                    "download": "166041712"
                 }
             },
             "decryptionkey": "1daf07e85729a2ee5b1426a9d40d412693012c8037426347cb979feb3dbecc91"
@@ -24,8 +24,8 @@
         "baselanguages": "english,german,french,schinese,tchinese,japanese",
         "branches": {
             "public": {
-                "buildid": "17324567",
-                "timeupdated": "1739293413"
+                "buildid": "19318817",
+                "timeupdated": "1753208459"
             }
         },
         "privatebranches": "1"
