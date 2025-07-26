@@ -4,8 +4,8 @@
     "type": "Game",
     "schinese_name": "魔法门10：传承",
     "isfreeapp": 0,
-    "update_time": "2025-06-16 02:14:28",
-    "change_number": 29576276,
+    "update_time": "2025-07-12 15:31:35",
+    "change_number": 30027938,
     "depot": {
         "overridescddb": "1",
         "baselanguages": "english,german,french,italian,spanish,russian,polish,hungarian,czech,romanian,brazilian",
@@ -50,9 +50,9 @@
         "1716751": {
             "manifests": {
                 "public": {
-                    "gid": "7692967814764193714",
-                    "size": "631944",
-                    "download": "515248"
+                    "gid": "818295193716041715",
+                    "size": "632424",
+                    "download": "551504"
                 }
             },
             "depotfromapp": "1716750",
