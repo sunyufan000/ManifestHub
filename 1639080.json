@@ -4,8 +4,8 @@
     "type": "Game",
     "schinese_name": "沙行者 (Sandwalkers)",
     "isfreeapp": 0,
-    "update_time": "2025-06-19 20:56:21",
-    "change_number": 29586196,
+    "update_time": "2025-07-04 16:11:41",
+    "change_number": 29900237,
     "depot": {
         "1639081": {
             "config": {
@@ -14,9 +14,9 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "8509161964059180929",
-                    "size": "1955444741",
-                    "download": "722920944"
+                    "gid": "8800275293715129284",
+                    "size": "1955505884",
+                    "download": "725235312"
                 }
             },
             "decryptionkey": "bcd3da063c1d570ea26c3100e5cfb754972c13e4b2a5a9f5b1c5b44b2b7d4b71"
@@ -28,9 +28,9 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "2390007731886269733",
-                    "size": "2063615646",
-                    "download": "742216032"
+                    "gid": "632039133239862274",
+                    "size": "2063670781",
+                    "download": "744402544"
                 }
             },
             "decryptionkey": "6e337aaad4d09643b639a7a475462aa5af07237cc303b89ba035f00a82c90b72"
@@ -42,17 +42,17 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "7282422713871287120",
-                    "size": "1929262138",
-                    "download": "720779008"
+                    "gid": "4507356120999799023",
+                    "size": "1929318485",
+                    "download": "722899680"
                 }
             },
             "decryptionkey": "717bcd1860e2cbbeb0ceba1839843d88100addfe1f61ddd52ab76fcae2bc4857"
         },
         "branches": {
             "public": {
-                "buildid": "18671654",
-                "timeupdated": "1748598466"
+                "buildid": "18997618",
+                "timeupdated": "1750867128"
             }
         },
         "privatebranches": "1"
