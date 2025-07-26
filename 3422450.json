@@ -4,8 +4,8 @@
     "type": "Game",
     "schinese_name": "迷途猫的灵魂碎片",
     "isfreeapp": 0,
-    "update_time": "2025-06-17 10:30:22",
-    "change_number": 29599577,
+    "update_time": "2025-07-19 16:53:00",
+    "change_number": 30147596,
     "depot": {
         "baselanguages": "english,schinese,tchinese",
         "hasdepotsindlc": "1",
@@ -16,9 +16,9 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "2496227423068076330",
-                    "size": "1900266678",
-                    "download": "755816720"
+                    "gid": "1255980592942900813",
+                    "size": "1908845326",
+                    "download": "763856112"
                 }
             },
             "decryptionkey": "bb50c3368640da453d133afbc069a9999808178f58a9f47936bf9fca42b41a6a"
@@ -29,9 +29,9 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "3486540818610564204",
-                    "size": "1924838199",
-                    "download": "763575312"
+                    "gid": "1851333238297331629",
+                    "size": "1933411599",
+                    "download": "771649696"
                 }
             }
         },
@@ -48,8 +48,8 @@
         },
         "branches": {
             "public": {
-                "buildid": "18036286",
-                "timeupdated": "1744178330"
+                "buildid": "19257681",
+                "timeupdated": "1752745589"
             }
         }
     }
