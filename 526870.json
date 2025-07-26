@@ -4,8 +4,8 @@
     "type": "Game",
     "schinese_name": "幸福工厂",
     "isfreeapp": 0,
-    "update_time": "2025-06-22 08:52:38",
-    "change_number": 29686805,
+    "update_time": "2025-07-24 02:06:52",
+    "change_number": 30217577,
     "depot": {
         "workshopdepot": "526870",
         "228988": {
@@ -21,14 +21,14 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "6932473507154312819",
-                    "size": "27249663435",
-                    "download": "12261919808"
+                    "gid": "4569623158540465987",
+                    "size": "27251898972",
+                    "download": "12876167840"
                 },
                 "experimental": {
-                    "gid": "6932473507154312819",
-                    "size": "27249663435",
-                    "download": "12261919808"
+                    "gid": "4569623158540465987",
+                    "size": "27251898972",
+                    "download": "12876167840"
                 }
             },
             "decryptionkey": "ae0ab673da3c9d0f444b1cd61fe8f2235d43e6c0401684a78f4fbdfc8f0d9bc1"
@@ -40,25 +40,25 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "8817913690039197826",
-                    "size": "13719531757",
-                    "download": "9477537424"
+                    "gid": "8634972838536698157",
+                    "size": "13719383384",
+                    "download": "9497629760"
                 },
                 "experimental": {
-                    "gid": "8817913690039197826",
-                    "size": "13719531757",
-                    "download": "9477537424"
+                    "gid": "8634972838536698157",
+                    "size": "13719383384",
+                    "download": "9497629760"
                 }
             }
         },
         "branches": {
             "public": {
-                "buildid": "18895707",
-                "timeupdated": "1750261527"
+                "buildid": "19234503",
+                "timeupdated": "1752768975"
             },
             "experimental": {
-                "buildid": "18895707",
-                "timeupdated": "1750261483"
+                "buildid": "19234503",
+                "timeupdated": "1752768961"
             }
         },
         "privatebranches": "1",
