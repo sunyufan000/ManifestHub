@@ -4,8 +4,8 @@
     "type": "Game",
     "schinese_name": "面容采集者 (FACEMINER) ",
     "isfreeapp": 0,
-    "update_time": "2025-06-15 00:25:38",
-    "change_number": 29567045,
+    "update_time": "2025-07-23 18:24:56",
+    "change_number": 30211598,
     "depot": {
         "2276982": {
             "config": {
@@ -13,9 +13,9 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "1281338959972031329",
-                    "size": "1296987942",
-                    "download": "1064119840"
+                    "gid": "2636697077208877032",
+                    "size": "863718820",
+                    "download": "683498304"
                 }
             },
             "decryptionkey": "4dd90c4b7502551d62833e2ab83711ef706d1560f598ad82008c60b894181ddd"
@@ -27,9 +27,9 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "3907872684847466498",
-                    "size": "1458376246",
-                    "download": "1109030000"
+                    "gid": "3830234332215750359",
+                    "size": "1025094828",
+                    "download": "728407952"
                 }
             }
         },
@@ -40,17 +40,17 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "7003664450473660338",
-                    "size": "1298948991",
-                    "download": "1058689984"
+                    "gid": "2494430767234846119",
+                    "size": "865698313",
+                    "download": "678069664"
                 }
             }
         },
-        "baselanguages": "english,german,schinese,russian,japanese,brazilian,latam",
+        "baselanguages": "english,german,french,schinese,russian,japanese,polish,brazilian,latam",
         "branches": {
             "public": {
-                "buildid": "18826260",
-                "timeupdated": "1749652008"
+                "buildid": "19244546",
+                "timeupdated": "1752670780"
             }
         }
     }
