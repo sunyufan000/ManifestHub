@@ -4,8 +4,8 @@
     "type": "Game",
     "schinese_name": "",
     "isfreeapp": 0,
-    "update_time": "2025-06-17 03:59:31",
-    "change_number": 29591335,
+    "update_time": "2025-07-16 20:17:34",
+    "change_number": 30096252,
     "depot": {
         "228989": {
             "config": {
@@ -21,19 +21,19 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "6520781283820070152",
-                    "size": "2611308126",
-                    "download": "1854885872"
+                    "gid": "5197715373458760645",
+                    "size": "2611351855",
+                    "download": "1860042960"
                 },
                 "alpha": {
-                    "gid": "6520781283820070152",
-                    "size": "2611308126",
-                    "download": "1854885872"
+                    "gid": "5197715373458760645",
+                    "size": "2611351855",
+                    "download": "1860042960"
                 },
                 "beta": {
-                    "gid": "6520781283820070152",
-                    "size": "2611308126",
-                    "download": "1854885872"
+                    "gid": "5197715373458760645",
+                    "size": "2611351855",
+                    "download": "1860042960"
                 },
                 "prev": {
                     "gid": "1372398506598827310",
@@ -72,18 +72,18 @@
         },
         "branches": {
             "public": {
-                "buildid": "18885519",
-                "timeupdated": "1750091054"
+                "buildid": "19249614",
+                "timeupdated": "1752693450"
             },
             "alpha": {
-                "buildid": "18885519",
+                "buildid": "19249614",
                 "description": "Too Early Versions",
-                "timeupdated": "1750090850"
+                "timeupdated": "1752692756"
             },
             "beta": {
-                "buildid": "18885519",
+                "buildid": "19249614",
                 "description": "Public Beta Versions",
-                "timeupdated": "1750090859"
+                "timeupdated": "1752692764"
             },
             "prev": {
                 "buildid": "17437927",
