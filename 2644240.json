@@ -4,16 +4,16 @@
     "type": "Game",
     "schinese_name": "魔神少女 Episode 4 传达的心意",
     "isfreeapp": 0,
-    "update_time": "2025-06-22 10:43:01",
-    "change_number": 29687336,
+    "update_time": "2025-07-22 08:00:12",
+    "change_number": 30180773,
     "depot": {
         "baselanguages": "english,koreana,schinese,russian,japanese",
         "2644241": {
             "manifests": {
                 "public": {
-                    "gid": "5536084858315965312",
-                    "size": "2172762619",
-                    "download": "1845186592"
+                    "gid": "6807566530348355829",
+                    "size": "2181373297",
+                    "download": "1853031296"
                 }
             },
             "decryptionkey": "91999ae2c1ae89c4233a5d729c91b1b27bab5a78666126dcc38bff12d5a659b9"
@@ -27,12 +27,23 @@
                     "download": "64"
                 }
             },
+            "decryptionkey": "158480c17cc03958516302415563269cee62e763a57251a4811720e7ea575a87"
+        },
+        "3864720": {
+            "dlcappid": "3864720",
+            "manifests": {
+                "public": {
+                    "gid": "4032492654193998743",
+                    "size": "3",
+                    "download": "64"
+                }
+            },
             "decryptionkey": ""
         },
         "branches": {
             "public": {
-                "buildid": "18953520",
-                "timeupdated": "1750560176"
+                "buildid": "19232562",
+                "timeupdated": "1752596668"
             }
         },
         "privatebranches": "1"
