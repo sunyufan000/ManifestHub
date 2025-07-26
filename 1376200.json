@@ -4,8 +4,8 @@
     "type": "Game",
     "schinese_name": "黑暗世界：因与果",
     "isfreeapp": 0,
-    "update_time": "2025-06-20 16:00:02",
-    "change_number": 29663897,
+    "update_time": "2025-06-27 17:53:13",
+    "change_number": 29791380,
     "depot": {
         "hasdepotsindlc": "1",
         "228989": {
@@ -35,17 +35,17 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "5458217380408983212",
-                    "size": "26883358298",
-                    "download": "25175142768"
+                    "gid": "7037339919441498050",
+                    "size": "26928537567",
+                    "download": "25259757328"
                 }
             },
             "decryptionkey": "1612a57180e8cc4027cf689881dbb2601228dee5240b7d697edaa51c164d953e"
         },
         "branches": {
             "public": {
-                "buildid": "18404146",
-                "timeupdated": "1747055386"
+                "buildid": "18936619",
+                "timeupdated": "1750941690"
             }
         },
         "privatebranches": "1"
