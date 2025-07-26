@@ -4,8 +4,8 @@
     "type": "Game",
     "schinese_name": "废土之王",
     "isfreeapp": 0,
-    "update_time": "2025-06-21 00:14:11",
-    "change_number": 29671774,
+    "update_time": "2025-07-23 13:27:58",
+    "change_number": 30206193,
     "depot": {
         "overridescddb": "1",
         "markdlcdepots": "1",
@@ -46,14 +46,14 @@
                     "download": "136426080"
                 },
                 "ntt_development": {
-                    "gid": "5705321240357900393",
-                    "size": "202857516",
-                    "download": "139998240"
+                    "gid": "3868112495976975231",
+                    "size": "202990621",
+                    "download": "144710432"
                 },
                 "openbeta_win64": {
-                    "gid": "1418630284803484192",
-                    "size": "202865342",
-                    "download": "139987936"
+                    "gid": "1383087825179916968",
+                    "size": "203012385",
+                    "download": "144754192"
                 },
                 "win7_temp_branch": {
                     "gid": "5590387298600388086",
@@ -197,14 +197,14 @@
                 "timeupdated": "1629068229"
             },
             "ntt_development": {
-                "buildid": "18942379",
+                "buildid": "19308071",
                 "description": "NTT test build",
-                "timeupdated": "1750436046"
+                "timeupdated": "1753145056"
             },
             "openbeta_win64": {
-                "buildid": "18926194",
-                "description": "Open Beta for 2023 Testing (quicker builds, Windows only)",
-                "timeupdated": "1750333518"
+                "buildid": "19328999",
+                "description": "Open Beta for 2025 Testing (quicker builds, Windows only)",
+                "timeupdated": "1753273674"
             },
             "win7_temp_branch": {
                 "buildid": "17912782",
