@@ -4,8 +4,8 @@
     "type": "Game",
     "schinese_name": "",
     "isfreeapp": 1,
-    "update_time": "2025-06-21 12:06:25",
-    "change_number": 29679030,
+    "update_time": "2025-07-18 08:43:48",
+    "change_number": 30126750,
     "depot": {
         "baselanguages": "english,japanese",
         "1546321": {
@@ -14,9 +14,9 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "4489116077244621013",
-                    "size": "248390591",
-                    "download": "63232448"
+                    "gid": "8880784237278597390",
+                    "size": "248190711",
+                    "download": "64112208"
                 }
             },
             "decryptionkey": "c3a9e89d1f4e4fb13ecf909ae7531955958791f279509eca727ed6200510c045"
@@ -27,9 +27,9 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "6654285741901914931",
-                    "size": "233620043",
-                    "download": "58912640"
+                    "gid": "8315573500182708",
+                    "size": "233419651",
+                    "download": "59794384"
                 }
             },
             "decryptionkey": "a8c5686b683b1a3881ed0cad672dbb423894303c6ce26ed5a1db6591e272bf63"
@@ -40,9 +40,9 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "9154700441761526755",
-                    "size": "240986522",
-                    "download": "60165952"
+                    "gid": "5167781028108364336",
+                    "size": "240786642",
+                    "download": "61062848"
                 }
             },
             "decryptionkey": "42c4edd12dea63044e5e0cc2919a0a097846d87c3c59d7554946539595fab6b3"
@@ -60,8 +60,8 @@
         },
         "branches": {
             "public": {
-                "buildid": "18782674",
-                "timeupdated": "1749608049"
+                "buildid": "19115012",
+                "timeupdated": "1752032678"
             }
         },
         "privatebranches": "1"
