@@ -4,8 +4,8 @@
     "type": "Game",
     "schinese_name": "",
     "isfreeapp": 0,
-    "update_time": "2025-06-10 21:09:33",
-    "change_number": 29486683,
+    "update_time": "2025-07-11 09:00:17",
+    "change_number": 30006116,
     "depot": {
         "228989": {
             "config": {
@@ -29,9 +29,9 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "2564638402790534959",
-                    "size": "5883433709",
-                    "download": "5184096672"
+                    "gid": "8719479902738474292",
+                    "size": "6443036046",
+                    "download": "5675253808"
                 },
                 "legacy": {
                     "gid": "6787191241507819406",
@@ -39,9 +39,14 @@
                     "download": "2375999488"
                 },
                 "buildtest": {
-                    "gid": "2564638402790534959",
-                    "size": "5883433709",
-                    "download": "5184096672"
+                    "gid": "8719479902738474292",
+                    "size": "6443036046",
+                    "download": "5675253808"
+                },
+                "buildtest_0.5.4.0_ue56": {
+                    "gid": "160691346900849916",
+                    "size": "6483588218",
+                    "download": "5672262176"
                 }
             },
             "decryptionkey": "c0d279495752c84a0904db347b03b01004415fc4e31a7664f0f9f4755102b56a"
@@ -53,9 +58,9 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "7478069603149568735",
-                    "size": "6176787029",
-                    "download": "4067892336"
+                    "gid": "3292558809699664215",
+                    "size": "6736069824",
+                    "download": "4665106640"
                 },
                 "legacy": {
                     "gid": "8855412788177870780",
@@ -63,26 +68,36 @@
                     "download": "2385261744"
                 },
                 "buildtest": {
-                    "gid": "7478069603149568735",
-                    "size": "6176787029",
-                    "download": "4067892336"
+                    "gid": "3292558809699664215",
+                    "size": "6736069824",
+                    "download": "4665106640"
+                },
+                "buildtest_0.5.4.0_ue56": {
+                    "gid": "2522090339795153900",
+                    "size": "7570214436",
+                    "download": "4904947584"
                 }
             },
             "decryptionkey": "1885c9965c99d8d841eae4379c7addfae49fe24f53f2177ddac623d6d19ebda1"
         },
         "branches": {
             "public": {
-                "buildid": "18810283",
-                "timeupdated": "1749560965"
+                "buildid": "19006883",
+                "timeupdated": "1750933608"
             },
             "legacy": {
                 "buildid": "8503300",
                 "timeupdated": "1650185500"
             },
             "buildtest": {
-                "buildid": "18810283",
+                "buildid": "19006883",
                 "description": "public developer build branch",
-                "timeupdated": "1749560932"
+                "timeupdated": "1750933579"
+            },
+            "buildtest_0.5.4.0_ue56": {
+                "buildid": "19187360",
+                "description": "Public test for Draconia 0.5.4.0 running with Unreal Engine 5.6",
+                "timeupdated": "1752220809"
             }
         },
         "privatebranches": "1"
