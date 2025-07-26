@@ -4,16 +4,16 @@
     "type": "Game",
     "schinese_name": "",
     "isfreeapp": 0,
-    "update_time": "2025-06-22 05:59:14",
-    "change_number": 29684933,
+    "update_time": "2025-07-23 20:36:27",
+    "change_number": 30213570,
     "depot": {
         "hasdepotsindlc": "1",
         "551621": {
             "manifests": {
                 "public": {
-                    "gid": "1224294068803943531",
-                    "size": "197000694",
-                    "download": "159186848"
+                    "gid": "5133206829831917606",
+                    "size": "197217486",
+                    "download": "159980832"
                 },
                 "legacy17": {
                     "gid": "5410150077758334434",
@@ -26,9 +26,9 @@
                     "download": "142291776"
                 },
                 "betafromnowon": {
-                    "gid": "1224294068803943531",
-                    "size": "197000694",
-                    "download": "159186848"
+                    "gid": "3292556668679097116",
+                    "size": "197339335",
+                    "download": "160034656"
                 },
                 "legacy18": {
                     "gid": "6144293929719760100",
@@ -40,8 +40,8 @@
         },
         "branches": {
             "public": {
-                "buildid": "18951748",
-                "timeupdated": "1750533264"
+                "buildid": "19197573",
+                "timeupdated": "1752276860"
             },
             "legacy17": {
                 "buildid": "10904696",
@@ -54,9 +54,9 @@
                 "timeupdated": "1606098480"
             },
             "betafromnowon": {
-                "buildid": "18951748",
+                "buildid": "19333941",
                 "description": "beta branch",
-                "timeupdated": "1750533235"
+                "timeupdated": "1753299383"
             },
             "legacy18": {
                 "buildid": "12583598",
