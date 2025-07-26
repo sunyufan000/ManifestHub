@@ -1,0 +1,28 @@
+{
+    "appid": 1978500,
+    "name": " Castle of Full Moon 月圆之堡",
+    "type": "Game",
+    "schinese_name": "",
+    "isfreeapp": 0,
+    "update_time": "2025-06-24 03:50:49",
+    "change_number": 27924129,
+    "depot": {
+        "1978501": {
+            "manifests": {
+                "public": {
+                    "gid": "5784107602589220533",
+                    "size": "650700084",
+                    "download": "513181648"
+                }
+            },
+            "decryptionkey": "ea1b6903cea4ce324b7c7749d8ec617250e46dfccd27d07e657254d9662af55a"
+        },
+        "baselanguages": "english,schinese",
+        "branches": {
+            "public": {
+                "buildid": "10280265",
+                "timeupdated": "1673239777"
+            }
+        }
+    }
+}
