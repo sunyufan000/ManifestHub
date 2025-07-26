@@ -4,8 +4,8 @@
     "type": "Game",
     "schinese_name": "",
     "isfreeapp": 1,
-    "update_time": "2025-06-19 15:16:30",
-    "change_number": 29644210,
+    "update_time": "2025-07-17 10:24:57",
+    "change_number": 30107024,
     "depot": {
         "overridescddb": "1",
         "baselanguages": "english,tchinese,japanese",
@@ -18,14 +18,14 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "7669756369227054768",
-                    "size": "8122339306",
-                    "download": "7421035104"
+                    "gid": "835666381746971344",
+                    "size": "8145500845",
+                    "download": "7457411456"
                 },
                 "32bit": {
-                    "gid": "8217192953434283826",
-                    "size": "8120637346",
-                    "download": "7420427520"
+                    "gid": "1975049816570527954",
+                    "size": "8143798885",
+                    "download": "7456803872"
                 }
             },
             "decryptionkey": "a12568f64bcefa130f2d60b9bca7f89b440dce8086d824a680627b01b5226852"
@@ -72,13 +72,13 @@
         },
         "branches": {
             "public": {
-                "buildid": "18922803",
-                "timeupdated": "1750317386"
+                "buildid": "19256664",
+                "timeupdated": "1752744294"
             },
             "32bit": {
-                "buildid": "18922805",
+                "buildid": "19256674",
                 "description": "onigiri 32bit",
-                "timeupdated": "1750317304"
+                "timeupdated": "1752744216"
             }
         },
         "privatebranches": "1"
