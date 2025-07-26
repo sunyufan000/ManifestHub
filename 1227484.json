@@ -4,8 +4,8 @@
     "type": "DLC",
     "schinese_name": "",
     "isfreeapp": 1,
-    "update_time": "2025-06-13 16:09:09",
-    "change_number": 29544742,
+    "update_time": "2025-07-10 09:11:20",
+    "change_number": 29983806,
     "depot": {
         "1227484": {
             "config": {
@@ -21,9 +21,9 @@
                     "download": "408512"
                 },
                 "nightly": {
-                    "gid": "8654724564848900585",
+                    "gid": "1756789732965573896",
                     "size": "1520448",
-                    "download": "408544"
+                    "download": "507840"
                 }
             },
             "decryptionkey": "de0ded72e2d2541d274e45f8dec050ee7407e9fb68de9cf8fadc2976dcfa28c9"
@@ -40,9 +40,9 @@
                     "download": "157616"
                 },
                 "nightly": {
-                    "gid": "8800307542655241071",
+                    "gid": "8972549987022825094",
                     "size": "596432",
-                    "download": "157616"
+                    "download": "197472"
                 }
             },
             "dlcappid": "1227484",
@@ -60,9 +60,9 @@
                     "download": "259184"
                 },
                 "nightly": {
-                    "gid": "8605227724319059077",
+                    "gid": "8531454388481912218",
                     "size": "1085128",
-                    "download": "259552"
+                    "download": "326896"
                 }
             },
             "dlcappid": "1227484",
@@ -74,9 +74,9 @@
                 "timeupdated": "1745845150"
             },
             "nightly": {
-                "buildid": "18852623",
+                "buildid": "19172186",
                 "description": " Nightly unstable builds",
-                "timeupdated": "1749802145"
+                "timeupdated": "1752135077"
             }
         },
         "privatebranches": "1",
