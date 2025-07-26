@@ -4,8 +4,8 @@
     "type": "Game",
     "schinese_name": "尘路之旅",
     "isfreeapp": 0,
-    "update_time": "2025-06-19 02:38:13",
-    "change_number": 29635134,
+    "update_time": "2025-07-20 13:18:23",
+    "change_number": 30154234,
     "depot": {
         "721181": {
             "config": {
@@ -14,9 +14,9 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "1365583883805851314",
-                    "size": "27001133762",
-                    "download": "10974659504"
+                    "gid": "6893702902958007394",
+                    "size": "27001171515",
+                    "download": "10974614128"
                 }
             },
             "decryptionkey": "23ceb1d86e5aca23fa961043b1f7c8453a6a0fbaea2d7e6731503dd5714ae14d"
@@ -26,12 +26,18 @@
                 "oslist": "macos",
                 "osarch": "64"
             },
-            "manifests": {}
+            "manifests": {
+                "public": {
+                    "gid": "1176017941844041282",
+                    "size": "27156573062",
+                    "download": "11010319472"
+                }
+            }
         },
         "branches": {
             "public": {
-                "buildid": "18736936",
-                "timeupdated": "1749053111"
+                "buildid": "19134004",
+                "timeupdated": "1751903404"
             }
         },
         "privatebranches": "1"
