@@ -4,8 +4,8 @@
     "type": "DLC",
     "schinese_name": "",
     "isfreeapp": 1,
-    "update_time": "2025-06-13 16:10:27",
-    "change_number": 29544772,
+    "update_time": "2025-07-10 09:12:30",
+    "change_number": 29983828,
     "depot": {
         "1227443": {
             "config": {
@@ -21,9 +21,9 @@
                     "download": "1559264"
                 },
                 "nightly": {
-                    "gid": "1834671475382769383",
-                    "size": "7061440",
-                    "download": "1559248"
+                    "gid": "5867094758554605581",
+                    "size": "7066048",
+                    "download": "1885696"
                 }
             },
             "decryptionkey": "2bdc314a3aeedb5f66601213a666466f34d9e6670d580364d1dead207177b92a"
@@ -41,9 +41,9 @@
                     "download": "1350768"
                 },
                 "nightly": {
-                    "gid": "1054672903408738169",
-                    "size": "9443837",
-                    "download": "1350768"
+                    "gid": "2685897624236888777",
+                    "size": "9453149",
+                    "download": "1645952"
                 }
             },
             "dlcappid": "1227443",
@@ -61,9 +61,9 @@
                     "download": "1917840"
                 },
                 "nightly": {
-                    "gid": "2694325964987068832",
-                    "size": "9581477",
-                    "download": "1917840"
+                    "gid": "6195226409543819837",
+                    "size": "9071141",
+                    "download": "2182560"
                 }
             },
             "dlcappid": "1227443",
@@ -75,9 +75,9 @@
                 "timeupdated": "1745845123"
             },
             "nightly": {
-                "buildid": "18852640",
+                "buildid": "19172199",
                 "description": "Nightly unstable builds",
-                "timeupdated": "1749802221"
+                "timeupdated": "1752135146"
             }
         },
         "privatebranches": "1",
