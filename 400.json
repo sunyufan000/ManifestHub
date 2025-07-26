@@ -4,8 +4,8 @@
     "type": "Game",
     "schinese_name": "传送门",
     "isfreeapp": 0,
-    "update_time": "2025-06-14 04:51:28",
-    "change_number": 29244793,
+    "update_time": "2025-06-27 15:37:15",
+    "change_number": 29789059,
     "depot": {
         "markdlcdepots": "1",
         "overridescddb": "1",
@@ -28,9 +28,9 @@
                     "download": "61846672"
                 },
                 "deck_test": {
-                    "gid": "7655374749121348667",
-                    "size": "163282082",
-                    "download": "64607136"
+                    "gid": "5794932327719644273",
+                    "size": "154323392",
+                    "download": "71471904"
                 }
             },
             "decryptionkey": "1d9699c90f13a7549a97e5935b9eb152502aa664ce6944a56573c5f9a5c6d2f1"
@@ -53,9 +53,9 @@
                     "download": "33666560"
                 },
                 "deck_test": {
-                    "gid": "8974907495363134881",
-                    "size": "109896571",
-                    "download": "33780816"
+                    "gid": "5248146335570274487",
+                    "size": "119082610",
+                    "download": "41974384"
                 }
             },
             "decryptionkey": "1349997dfe5e13cb91d43d7076e499e92da34710020fb4d3d58c385e5092c837"
@@ -78,9 +78,9 @@
                     "download": "49463856"
                 },
                 "deck_test": {
-                    "gid": "1961797017312074949",
-                    "size": "150226490",
-                    "download": "51396928"
+                    "gid": "1956889881386434464",
+                    "size": "138615734",
+                    "download": "55928992"
                 }
             },
             "decryptionkey": "552f270a24f114f8eb9ccaad3502d0f30f8950c67fcb62b2752f1ae5bd9eb2e1"
@@ -101,9 +101,9 @@
                     "download": "76108208"
                 },
                 "deck_test": {
-                    "gid": "453200351187428393",
+                    "gid": "3790265569705112952",
                     "size": "85905720",
-                    "download": "76108208"
+                    "download": "76111664"
                 }
             },
             "decryptionkey": "a727634c8c0d6f750077fb397fb5d4848b1a31f7cefcb0e3295bbbed05af1b6a"
@@ -124,9 +124,9 @@
                     "download": "103692368"
                 },
                 "deck_test": {
-                    "gid": "8904830885129684315",
+                    "gid": "8699907907391044385",
                     "size": "147473667",
-                    "download": "103692368"
+                    "download": "103712960"
                 }
             },
             "decryptionkey": "3bfe4846e06d664c531bb61e2f35737653d9099497522b38fd15a355acd5339c"
@@ -147,9 +147,9 @@
                     "download": "112107920"
                 },
                 "deck_test": {
-                    "gid": "8242589767738537927",
+                    "gid": "6707278933678585671",
                     "size": "146568277",
-                    "download": "112107920"
+                    "download": "112145024"
                 }
             },
             "decryptionkey": "e9eafe69caa4384a1b69193f12c7f4dbbe65a71a76e178b988260524b2a4c3ba"
@@ -170,9 +170,9 @@
                     "download": "114173696"
                 },
                 "deck_test": {
-                    "gid": "8794244784218856360",
+                    "gid": "1753697608462766279",
                     "size": "145521369",
-                    "download": "114173696"
+                    "download": "114180592"
                 }
             },
             "decryptionkey": "a6254ee5cef5797432b6ae404018d028c955596cbfa5ff3fece97a9cd6534d1b"
@@ -183,7 +183,7 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "2868509265614439096",
+                    "gid": "5466869569815608374",
                     "size": "3847178360",
                     "download": "2355896560"
                 },
@@ -193,9 +193,9 @@
                     "download": "2239632576"
                 },
                 "deck_test": {
-                    "gid": "2868509265614439096",
-                    "size": "3847178360",
-                    "download": "2355896560"
+                    "gid": "5129103634722163296",
+                    "size": "3629135648",
+                    "download": "2229675824"
                 }
             },
             "decryptionkey": "28cf5b133c63b6f5f1fab9d376b3ce35c7dd327505459288ae8d772a262c48f4"
@@ -230,7 +230,7 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "7637719145362875682",
+                    "gid": "3169084482272098670",
                     "size": "4183764392",
                     "download": "2522547296"
                 },
@@ -240,9 +240,9 @@
                     "download": "2406508704"
                 },
                 "deck_test": {
-                    "gid": "7637719145362875682",
-                    "size": "4183764392",
-                    "download": "2522547296"
+                    "gid": "4679553557812664192",
+                    "size": "3964263031",
+                    "download": "2396999776"
                 }
             },
             "decryptionkey": "3ed55d26ffdf7f6c5e228ec60127ddc1712f341cfb082cadb9cebbd0f64d0d7d"
@@ -250,8 +250,8 @@
         "hasdepotsindlc": "1",
         "branches": {
             "public": {
-                "buildid": "18647097",
-                "timeupdated": "1748461833"
+                "buildid": "19017868",
+                "timeupdated": "1751034374"
             },
             "beta": {
                 "buildid": "13095453",
@@ -259,9 +259,9 @@
                 "timeupdated": "1747848750"
             },
             "deck_test": {
-                "buildid": "18647097",
+                "buildid": "466272",
                 "description": "deck ui test",
-                "timeupdated": "1748459230"
+                "timeupdated": "1751035029"
             }
         }
     }
