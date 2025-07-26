@@ -4,7 +4,7 @@
     "type": "Game",
     "schinese_name": "星际运输公司",
     "isfreeapp": 0,
-    "update_time": "2025-05-27 23:56:29",
+    "update_time": "2025-06-23 13:51:31",
     "change_number": 29216438,
     "depot": {
         "workshopdepot": "573490",
@@ -275,7 +275,7 @@
                     "download": "681954304"
                 }
             },
-            "decryptionkey": ""
+            "decryptionkey": "d5f15f58c26c6ab547a54bc5d9ff962feba89ab66b264708b76f24cb77e590ac"
         },
         "573493": {
             "config": {
