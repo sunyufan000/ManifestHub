@@ -4,8 +4,8 @@
     "type": "Game",
     "schinese_name": "",
     "isfreeapp": 1,
-    "update_time": "2025-06-21 05:47:36",
-    "change_number": 29676122,
+    "update_time": "2025-07-11 23:31:40",
+    "change_number": 30020781,
     "depot": {
         "228989": {
             "config": {
@@ -24,9 +24,9 @@
         "3365821": {
             "manifests": {
                 "public": {
-                    "gid": "5008214222221881387",
-                    "size": "1485872503",
-                    "download": "1198407600"
+                    "gid": "7831066772222691066",
+                    "size": "1504011707",
+                    "download": "1205531088"
                 },
                 "blockb-week4": {
                     "gid": "3238427959109258239",
@@ -54,22 +54,22 @@
                     "download": "1018911712"
                 },
                 "jenkins": {
-                    "gid": "1185468865838056948",
-                    "size": "1501436282",
-                    "download": "1199928304"
+                    "gid": "8085821504348804616",
+                    "size": "1501444474",
+                    "download": "1199867536"
                 },
                 "steam-achievements-test": {
-                    "gid": "5008214222221881387",
-                    "size": "1485872503",
-                    "download": "1198407600"
+                    "gid": "7831066772222691066",
+                    "size": "1504011707",
+                    "download": "1205531088"
                 }
             },
             "decryptionkey": "46703b5592dba31e636862e3f368c9a79a9fe6835979ca31d4347254d083a1ec"
         },
         "branches": {
             "public": {
-                "buildid": "18945265",
-                "timeupdated": "1750456050"
+                "buildid": "18966558",
+                "timeupdated": "1750690430"
             },
             "blockb-week4": {
                 "buildid": "16721094",
@@ -97,14 +97,14 @@
                 "timeupdated": "1749025477"
             },
             "jenkins": {
-                "buildid": "18942938",
+                "buildid": "19012890",
                 "description": "Jenkins CI Builds",
-                "timeupdated": "1750439209"
+                "timeupdated": "1750949555"
             },
             "steam-achievements-test": {
-                "buildid": "18945265",
+                "buildid": "18966558",
                 "description": "For Designers to test that achievements work.",
-                "timeupdated": "1750456002"
+                "timeupdated": "1750689600"
             }
         }
     }
