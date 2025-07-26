@@ -1,0 +1,28 @@
+{
+    "appid": 1022443,
+    "name": "DFF NT: Golbez Starter Pack",
+    "type": "DLC",
+    "schinese_name": "",
+    "isfreeapp": 0,
+    "update_time": "2025-06-23 14:10:10",
+    "change_number": 26201212,
+    "depot": {
+        "1022443": {
+            "manifests": {
+                "public": {
+                    "gid": "4597660438508283491",
+                    "size": "0",
+                    "download": "0"
+                }
+            },
+            "dlcappid": "1022443",
+            "decryptionkey": "3bb64e35fb08df98478bb52d8ccecc8b004d52f3bc8c0ad3b9e4131c94455495"
+        },
+        "branches": {
+            "public": {
+                "buildid": "3508024",
+                "timeupdated": "1548672194"
+            }
+        }
+    }
+}
