@@ -4,8 +4,8 @@
     "type": "Game",
     "schinese_name": "DmC：鬼泣",
     "isfreeapp": 0,
-    "update_time": "2025-06-17 15:40:59",
-    "change_number": 29603046,
+    "update_time": "2025-07-18 05:43:26",
+    "change_number": 30124503,
     "depot": {
         "220441": {
             "config": {
@@ -13,9 +13,9 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "6406147301489057498",
-                    "size": "8992495131",
-                    "download": "9408539411788"
+                    "gid": "8660867655925405335",
+                    "size": "8992366096",
+                    "download": "7967514000"
                 }
             },
             "decryptionkey": "aed2b190f9b8ea15e6f1e22aed2d339f162f17b8673f06124dd11e1ea45b11be"
@@ -26,9 +26,9 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "3554242060880607440",
-                    "size": "8988779298",
-                    "download": "5043938408312"
+                    "gid": "8284177927415320138",
+                    "size": "8988743391",
+                    "download": "7972052416"
                 }
             },
             "decryptionkey": "390e4902a68f3b732b8e42fe6fe3ccea44c54c19421e21eaa9860842c26fa973"
@@ -120,13 +120,14 @@
                 }
             },
             "dlcappid": "223794",
-            "decryptionkey": ""
+            "decryptionkey": "770976d9313911624d8e4af965dbf09742bbb2388f6838e9071f34468f33c0e9"
         },
         "overridescddb": "1",
         "baselanguages": "english,german,french,italian,spanish,russian,brazilian,polish,dutch,japanese",
         "branches": {
             "public": {
-                "buildid": "361935"
+                "buildid": "18562629",
+                "timeupdated": "1751940140"
             }
         },
         "privatebranches": "1"
