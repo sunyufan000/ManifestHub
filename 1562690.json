@@ -4,8 +4,8 @@
     "type": "Game",
     "schinese_name": "翌日 -鬼字之屋-",
     "isfreeapp": 0,
-    "update_time": "2025-06-15 17:15:55",
-    "change_number": 29572865,
+    "update_time": "2025-07-17 13:36:52",
+    "change_number": 30110507,
     "depot": {
         "baselanguages": "english,schinese,tchinese,japanese",
         "1562691": {
@@ -62,7 +62,7 @@
                     "download": "419334032"
                 }
             },
-            "decryptionkey": ""
+            "decryptionkey": "774b9f0e812ad9fcab59123eaab2da8ecb366c9b2cdd4ccabe4f0d0d1f438840"
         },
         "branches": {
             "public": {
