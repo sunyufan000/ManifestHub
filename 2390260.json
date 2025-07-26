@@ -4,8 +4,8 @@
     "type": "Game",
     "schinese_name": "",
     "isfreeapp": 0,
-    "update_time": "2025-06-20 23:35:34",
-    "change_number": 29671176,
+    "update_time": "2025-06-27 21:19:19",
+    "change_number": 29794283,
     "depot": {
         "2390261": {
             "config": {
@@ -13,14 +13,14 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "6640840367159326394",
-                    "size": "1314215924",
-                    "download": "361238496"
+                    "gid": "1259903181948733161",
+                    "size": "1262770180",
+                    "download": "370219776"
                 },
                 "public-beta": {
-                    "gid": "6640840367159326394",
-                    "size": "1314215924",
-                    "download": "361238496"
+                    "gid": "1259903181948733161",
+                    "size": "1262770180",
+                    "download": "370219776"
                 }
             },
             "decryptionkey": "d12c7b5145bc66f42e88b4ade00c808564eee83d8d795d76ca1afa31e547eb97"
@@ -28,13 +28,13 @@
         "hasdepotsindlc": "1",
         "branches": {
             "public": {
-                "buildid": "18121651",
-                "timeupdated": "1745115345"
+                "buildid": "19031349",
+                "timeupdated": "1751055283"
             },
             "public-beta": {
-                "buildid": "18121651",
+                "buildid": "19031349",
                 "description": "The public beta for the next Topple Tactics update!",
-                "timeupdated": "1744765671"
+                "timeupdated": "1751055553"
             }
         },
         "privatebranches": "1"
