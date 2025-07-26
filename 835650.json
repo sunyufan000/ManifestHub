@@ -4,8 +4,8 @@
     "type": "Game",
     "schinese_name": "领主争锋",
     "isfreeapp": 0,
-    "update_time": "2025-06-21 15:50:48",
-    "change_number": 29680335,
+    "update_time": "2025-07-22 09:51:26",
+    "change_number": 30182439,
     "depot": {
         "workshopdepot": "835650",
         "228983": {
@@ -28,19 +28,19 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "7211463745422100298",
-                    "size": "629767432",
-                    "download": "579318288"
+                    "gid": "4011026179163642532",
+                    "size": "652990132",
+                    "download": "601557712"
                 },
                 "beta": {
-                    "gid": "8485504059801080984",
-                    "size": "647272753",
-                    "download": "594722432"
+                    "gid": "4011026179163642532",
+                    "size": "652990132",
+                    "download": "601557712"
                 },
                 "previous": {
-                    "gid": "7211463745422100298",
-                    "size": "629767432",
-                    "download": "579318288"
+                    "gid": "5532157875822280911",
+                    "size": "650115168",
+                    "download": "597588560"
                 }
             },
             "decryptionkey": "303aa5cf9ac4c0d43a57dd173753a1d76e9bf428373d0d798298af8f86e3dc0a"
@@ -70,17 +70,17 @@
         },
         "branches": {
             "public": {
-                "buildid": "16722789",
-                "timeupdated": "1744872020"
+                "buildid": "19250000",
+                "timeupdated": "1752695256"
             },
             "beta": {
-                "buildid": "18948483",
+                "buildid": "19250000",
                 "description": "unstable",
-                "timeupdated": "1750492244"
+                "timeupdated": "1752695232"
             },
             "previous": {
-                "buildid": "16722789",
-                "timeupdated": "1744458975"
+                "buildid": "19035493",
+                "timeupdated": "1751738352"
             }
         },
         "privatebranches": "1",
