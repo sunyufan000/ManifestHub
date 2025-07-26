@@ -4,8 +4,8 @@
     "type": "Game",
     "schinese_name": "横戈",
     "isfreeapp": 0,
-    "update_time": "2025-06-18 14:05:16",
-    "change_number": 29622673,
+    "update_time": "2025-07-06 08:55:06",
+    "change_number": 29916704,
     "depot": {
         "1423331": {
             "config": {
@@ -13,9 +13,9 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "630233593220744020",
-                    "size": "22666215588",
-                    "download": "10307226560"
+                    "gid": "1537815731707068227",
+                    "size": "22719416377",
+                    "download": "10309411664"
                 },
                 "legacy_version": {
                     "gid": "3129377948637109937",
@@ -23,9 +23,9 @@
                     "download": "9417960080"
                 },
                 "preview_version": {
-                    "gid": "630233593220744020",
-                    "size": "22666215588",
-                    "download": "10307226560"
+                    "gid": "1537815731707068227",
+                    "size": "22719416377",
+                    "download": "10309411664"
                 },
                 "test_version": {
                     "gid": "3129377948637109937",
@@ -39,8 +39,8 @@
         "workshopdepot": "1423330",
         "branches": {
             "public": {
-                "buildid": "18276353",
-                "timeupdated": "1747706510"
+                "buildid": "18948713",
+                "timeupdated": "1751788500"
             },
             "legacy_version": {
                 "sc_schinese": "西域版",
@@ -49,9 +49,9 @@
                 "timeupdated": "1722090201"
             },
             "preview_version": {
-                "buildid": "18276353",
+                "buildid": "18948713",
                 "description": "先锋版",
-                "timeupdated": "1746011134"
+                "timeupdated": "1750759766"
             },
             "test_version": {
                 "buildid": "14807105",
