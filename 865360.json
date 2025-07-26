@@ -4,8 +4,8 @@
     "type": "Game",
     "schinese_name": "我们一起在这里",
     "isfreeapp": 0,
-    "update_time": "2025-06-12 03:01:48",
-    "change_number": 29514078,
+    "update_time": "2025-07-21 09:22:51",
+    "change_number": 30163003,
     "depot": {
         "baselanguages": "english",
         "hasdepotsindlc": "0",
@@ -17,9 +17,9 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "8999517095631577131",
-                    "size": "12164122263",
-                    "download": "3645065344"
+                    "gid": "1615300360181410338",
+                    "size": "5631887014",
+                    "download": "4861238432"
                 }
             },
             "decryptionkey": "f6f1cfca0ee6f4e76f671929c6576420ed7369c4fcb3ec01f64033d53ed022c0"
@@ -32,9 +32,9 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "3875961774365265553",
-                    "size": "12193502059",
-                    "download": "3657880064"
+                    "gid": "1485955667868937102",
+                    "size": "6067305209",
+                    "download": "5110261520"
                 }
             },
             "decryptionkey": "8608a92f9bded30a00ec7a47f42a9dc8963204bfbf180cf55c71d40edcf1a98d"
@@ -83,8 +83,8 @@
         },
         "branches": {
             "public": {
-                "buildid": "7429812",
-                "timeupdated": "1632733941"
+                "buildid": "19256609",
+                "timeupdated": "1753086166"
             }
         },
         "privatebranches": "1"
