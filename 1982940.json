@@ -4,8 +4,8 @@
     "type": "Game",
     "schinese_name": "",
     "isfreeapp": 0,
-    "update_time": "2025-05-24 21:17:51",
-    "change_number": 29167200,
+    "update_time": "2025-07-23 20:28:59",
+    "change_number": 30213455,
     "depot": {
         "1982941": {},
         "1982942": {
@@ -18,6 +18,11 @@
                     "gid": "7513616228409441775",
                     "size": "3325730799",
                     "download": "2428915152"
+                },
+                "experimental": {
+                    "gid": "8119668045670668951",
+                    "size": "2155715470",
+                    "download": "1669827440"
                 }
             },
             "decryptionkey": "461ca38a3daea4fe2ad59789d20a0a9fbf313dbf40e7293f8ea6db233544ebfa"
@@ -32,6 +37,11 @@
                     "gid": "387147908628351406",
                     "size": "3320990920",
                     "download": "2426583728"
+                },
+                "experimental": {
+                    "gid": "1681596915683974921",
+                    "size": "2150750817",
+                    "download": "1666756880"
                 }
             },
             "decryptionkey": "71183e6d5de9598b94abca1bced1e16ff15396a84ec1f7db45e8bd07c0c65c94"
@@ -46,6 +56,11 @@
                     "gid": "5152330593770865697",
                     "size": "3362115298",
                     "download": "2438310512"
+                },
+                "experimental": {
+                    "gid": "7500479534599659407",
+                    "size": "2194765177",
+                    "download": "1682488624"
                 }
             },
             "decryptionkey": "dafde2a08b2ea7fe6c1a1fbfad0282550ee31eeb91537928d3247c7f963b7283"
@@ -54,6 +69,11 @@
             "public": {
                 "buildid": "17455156",
                 "timeupdated": "1740144093"
+            },
+            "experimental": {
+                "buildid": "19333228",
+                "description": "experimental builds",
+                "timeupdated": "1753298933"
             }
         },
         "privatebranches": "1"
