@@ -4,8 +4,8 @@
     "type": "Game",
     "schinese_name": "皇帝与社稷",
     "isfreeapp": 0,
-    "update_time": "2025-06-20 16:29:54",
-    "change_number": 29571835,
+    "update_time": "2025-07-15 16:11:54",
+    "change_number": 30071074,
     "depot": {
         "baselanguages": "english,schinese",
         "hasdepotsindlc": "1",
@@ -16,9 +16,9 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "5873089438538564894",
-                    "size": "1472093520",
-                    "download": "476879984"
+                    "gid": "2160809017508297953",
+                    "size": "1468379108",
+                    "download": "476835360"
                 }
             },
             "decryptionkey": "0c32344f8dbf49426e7b6da2cb1ddd972e3e2883a1ffbcac7dbdb9a9eb2d53eb"
@@ -26,8 +26,8 @@
         "workshopdepot": "2716930",
         "branches": {
             "public": {
-                "buildid": "18871841",
-                "timeupdated": "1749966862"
+                "buildid": "19157644",
+                "timeupdated": "1752050836"
             }
         },
         "privatebranches": "1",
