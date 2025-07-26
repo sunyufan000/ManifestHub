@@ -1,0 +1,28 @@
+{
+    "appid": 1022461,
+    "name": "DFF NT: Ultimecia Starter Pack",
+    "type": "DLC",
+    "schinese_name": "",
+    "isfreeapp": 0,
+    "update_time": "2025-06-23 14:10:13",
+    "change_number": 26201212,
+    "depot": {
+        "1022461": {
+            "manifests": {
+                "public": {
+                    "gid": "1701494126251025869",
+                    "size": "0",
+                    "download": "0"
+                }
+            },
+            "dlcappid": "1022461",
+            "decryptionkey": "a893e76d268701a0927116bacdf26c3844307a3bde83415b9b89f68ca3a64105"
+        },
+        "branches": {
+            "public": {
+                "buildid": "3508034",
+                "timeupdated": "1548672117"
+            }
+        }
+    }
+}
