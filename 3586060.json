@@ -4,8 +4,8 @@
     "type": "Game",
     "schinese_name": "桌宠屋",
     "isfreeapp": 0,
-    "update_time": "2025-06-22 09:17:56",
-    "change_number": 29686919,
+    "update_time": "2025-07-23 03:29:09",
+    "change_number": 30197987,
     "depot": {
         "baselanguages": "english,schinese",
         "228989": {
@@ -60,9 +60,9 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "5684159925875268607",
-                    "size": "488177398",
-                    "download": "140374992"
+                    "gid": "4698819462829382692",
+                    "size": "490093180",
+                    "download": "140784768"
                 }
             },
             "decryptionkey": "f91671e24cec92bdacf318179d93d9019d4647a7162166df12181208a1ae7e2e"
@@ -73,16 +73,16 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "91986135458749372",
-                    "size": "512642696",
-                    "download": "147636656"
+                    "gid": "331192796423852549",
+                    "size": "514558982",
+                    "download": "148043568"
                 }
             }
         },
         "branches": {
             "public": {
-                "buildid": "18954040",
-                "timeupdated": "1750569575"
+                "buildid": "19322861",
+                "timeupdated": "1753237744"
             }
         },
         "privatebranches": "1"
