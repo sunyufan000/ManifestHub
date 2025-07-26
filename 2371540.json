@@ -4,8 +4,8 @@
     "type": "Demo",
     "schinese_name": "贪婪大地 试玩版",
     "isfreeapp": 0,
-    "update_time": "2025-06-19 16:11:50",
-    "change_number": 29645290,
+    "update_time": "2025-07-08 17:56:17",
+    "change_number": 29953640,
     "depot": {
         "baselanguages": "english,schinese,tchinese",
         "228989": {
@@ -43,9 +43,9 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "4107643689652350319",
-                    "size": "4064663610",
-                    "download": "3574029552"
+                    "gid": "7831303332073397805",
+                    "size": "4028755208",
+                    "download": "3585977280"
                 }
             },
             "depotfromapp": "2218400",
