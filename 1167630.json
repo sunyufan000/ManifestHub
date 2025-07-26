@@ -4,22 +4,22 @@
     "type": "Game",
     "schinese_name": "拆迁",
     "isfreeapp": 0,
-    "update_time": "2025-06-22 06:38:48",
-    "change_number": 29686120,
+    "update_time": "2025-07-18 12:20:07",
+    "change_number": 30130219,
     "depot": {
         "workshopdepot": "1167630",
         "hasdepotsindlc": "1",
         "1167634": {
             "manifests": {
                 "public": {
-                    "gid": "235028655788077979",
-                    "size": "4486047109",
-                    "download": "3104177808"
+                    "gid": "3968778525799277081",
+                    "size": "4488989268",
+                    "download": "3116190640"
                 },
                 "experimental": {
-                    "gid": "4364513673371899552",
-                    "size": "4463997996",
-                    "download": "3107875472"
+                    "gid": "25598262803910470",
+                    "size": "4488496175",
+                    "download": "3101967376"
                 },
                 "local": {
                     "gid": "4134993019620652135",
@@ -41,13 +41,13 @@
         },
         "branches": {
             "public": {
-                "buildid": "18731874",
-                "timeupdated": "1749030898"
+                "buildid": "19015269",
+                "timeupdated": "1750962492"
             },
             "experimental": {
-                "buildid": "18400867",
+                "buildid": "18826446",
                 "description": "The latest features and fixes",
-                "timeupdated": "1747041672"
+                "timeupdated": "1750768563"
             },
             "local": {
                 "buildid": "9967226",
