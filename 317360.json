@@ -4,8 +4,8 @@
     "type": "Game",
     "schinese_name": "",
     "isfreeapp": 1,
-    "update_time": "2025-05-25 16:43:15",
-    "change_number": 29174663,
+    "update_time": "2025-07-21 23:28:52",
+    "change_number": 30175474,
     "depot": {
         "baselanguages": "english,russian",
         "317361": {
@@ -24,11 +24,6 @@
                     "download": "1912074496"
                 },
                 "bomber-character": {
-                    "gid": "5363934547131404572",
-                    "size": "3273032793",
-                    "download": "1912074496"
-                },
-                "develop": {
                     "gid": "5363934547131404572",
                     "size": "3273032793",
                     "download": "1912074496"
@@ -114,6 +109,11 @@
                     "download": "1912074496"
                 },
                 "weapon-sawnoff": {
+                    "gid": "5363934547131404572",
+                    "size": "3273032793",
+                    "download": "1912074496"
+                },
+                "develop": {
                     "gid": "5363934547131404572",
                     "size": "3273032793",
                     "download": "1912074496"
@@ -141,11 +141,6 @@
                     "size": "3269602352",
                     "download": "163258448394"
                 },
-                "develop": {
-                    "gid": "8184342280471981048",
-                    "size": "3269602352",
-                    "download": "163258448394"
-                },
                 "release-2020": {
                     "gid": "8184342280471981048",
                     "size": "3269602352",
@@ -227,6 +222,11 @@
                     "download": "163258448394"
                 },
                 "weapon-sawnoff": {
+                    "gid": "8184342280471981048",
+                    "size": "3269602352",
+                    "download": "163258448394"
+                },
+                "develop": {
                     "gid": "8184342280471981048",
                     "size": "3269602352",
                     "download": "163258448394"
@@ -254,11 +254,6 @@
                     "size": "3574042010",
                     "download": "506566735606"
                 },
-                "develop": {
-                    "gid": "8847451394653983421",
-                    "size": "3574042010",
-                    "download": "506566735606"
-                },
                 "release-2020": {
                     "gid": "8847451394653983421",
                     "size": "3574042010",
@@ -343,6 +338,11 @@
                     "gid": "8847451394653983421",
                     "size": "3574042010",
                     "download": "506566735606"
+                },
+                "develop": {
+                    "gid": "8847451394653983421",
+                    "size": "3574042010",
+                    "download": "506566735606"
                 }
             },
             "decryptionkey": "ef96078f2f428e517747eae8eefb4b0c0f18bd11de0530f53dda1a8bd2cbe956"
@@ -363,11 +363,6 @@
                     "gid": "1637804247140361283",
                     "size": "1505556850",
                     "download": "640839040"
-                },
-                "develop": {
-                    "gid": "6846908136634938265",
-                    "size": "1623146196",
-                    "download": "685578624"
                 },
                 "release-2020": {
                     "gid": "7097787460772969593",
@@ -453,6 +448,11 @@
                     "gid": "6043893970873623581",
                     "size": "1527233875",
                     "download": "649760784"
+                },
+                "develop": {
+                    "gid": "5195941151408725014",
+                    "size": "1663171577",
+                    "download": "701848320"
                 }
             },
             "decryptionkey": "5c1c407547e5c62179ebe0a9b35a94c586b4b5c6e4bc65b8e88a99de358be2a5"
@@ -471,11 +471,6 @@
                 "buildid": "7136443",
                 "description": "Git branch bomber-2021",
                 "timeupdated": "1628074384"
-            },
-            "develop": {
-                "buildid": "11065496",
-                "description": "Git branch 'develop'",
-                "timeupdated": "1682142683"
             },
             "release-2020": {
                 "buildid": "7633168",
@@ -561,6 +556,11 @@
                 "buildid": "7179544",
                 "description": "our new weapon - a sawnoff shotgun",
                 "timeupdated": "1628776114"
+            },
+            "develop": {
+                "buildid": "19306951",
+                "description": "Git branch 'develop'",
+                "timeupdated": "1753136926"
             }
         },
         "privatebranches": "1"
