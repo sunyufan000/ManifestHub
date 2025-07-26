@@ -4,8 +4,8 @@
     "type": "Game",
     "schinese_name": "匹诺曹的谎言",
     "isfreeapp": 0,
-    "update_time": "2025-06-21 00:28:38",
-    "change_number": 29672025,
+    "update_time": "2025-07-09 05:37:56",
+    "change_number": 29961846,
     "depot": {
         "228989": {
             "config": {
@@ -40,9 +40,9 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "4518799809185929981",
-                    "size": "64681489196",
-                    "download": "51153068928"
+                    "gid": "6836272904728643256",
+                    "size": "64679561469",
+                    "download": "51215934672"
                 }
             },
             "decryptionkey": "b2550c254da0b229ff5f5bb765b809d2fac5bd74a98ff3611b8cb8870e02aa6a"
@@ -50,8 +50,8 @@
         "hasdepotsindlc": "0",
         "branches": {
             "public": {
-                "buildid": "18942305",
-                "timeupdated": "1750436914"
+                "buildid": "18991443",
+                "timeupdated": "1751270376"
             }
         },
         "privatebranches": "1"
