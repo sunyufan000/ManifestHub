@@ -4,8 +4,8 @@
     "type": "Game",
     "schinese_name": "时尚梦想家",
     "isfreeapp": 0,
-    "update_time": "2025-06-19 16:04:27",
-    "change_number": 29645174,
+    "update_time": "2025-07-20 12:52:44",
+    "change_number": 30154104,
     "depot": {
         "228988": {
             "config": {
@@ -43,7 +43,6 @@
                 "buildid": "18791819",
                 "timeupdated": "1749747384"
             }
-        },
-        "privatebranches": "1"
+        }
     }
 }
