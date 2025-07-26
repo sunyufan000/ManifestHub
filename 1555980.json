@@ -4,8 +4,8 @@
     "type": "Game",
     "schinese_name": "遵命！机母大人",
     "isfreeapp": 0,
-    "update_time": "2025-06-21 06:32:40",
-    "change_number": 29676546,
+    "update_time": "2025-07-23 23:27:06",
+    "change_number": 30215767,
     "depot": {
         "228989": {
             "config": {
@@ -27,9 +27,9 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "129854930997991321",
-                    "size": "16659990579",
-                    "download": "16243391008"
+                    "gid": "7772505154011193548",
+                    "size": "16659974755",
+                    "download": "16248659664"
                 }
             },
             "decryptionkey": "af26c56a40d4adfa8da15282c080280dc0d9b9b6cb9e16decd832f14bd83d3a0"
@@ -37,8 +37,8 @@
         "baselanguages": "english,german,french,koreana,spanish,schinese,japanese,brazilian",
         "branches": {
             "public": {
-                "buildid": "18900180",
-                "timeupdated": "1750236066"
+                "buildid": "18984314",
+                "timeupdated": "1750842607"
             }
         },
         "privatebranches": "1"
