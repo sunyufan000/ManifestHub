@@ -1,11 +1,11 @@
 {
     "appid": 1058710,
-    "name": "中世纪君主 Medieval Monarch",
+    "name": "Monarch : Medieval Remastered",
     "type": "Game",
-    "schinese_name": "中世纪君主",
+    "schinese_name": "君主:中世纪 重制版",
     "isfreeapp": 0,
-    "update_time": "2025-06-14 16:01:53",
-    "change_number": 29562981,
+    "update_time": "2025-07-23 14:31:25",
+    "change_number": 30207221,
     "depot": {
         "228989": {
             "config": {
@@ -14,7 +14,7 @@
             "depotfromapp": "228980",
             "sharedinstall": "1"
         },
-        "baselanguages": "schinese,tchinese",
+        "baselanguages": "english,schinese",
         "hasdepotsindlc": "0",
         "1058711": {
             "config": {
@@ -22,6 +22,11 @@
             },
             "manifests": {
                 "public": {
+                    "gid": "6828776520192909384",
+                    "size": "1731606100",
+                    "download": "400322112"
+                },
+                "classic_edition": {
                     "gid": "1150975823994280334",
                     "size": "669781714",
                     "download": "464736624"
@@ -32,8 +37,13 @@
         "workshopdepot": "1058710",
         "branches": {
             "public": {
+                "buildid": "19329686",
+                "timeupdated": "1753277480"
+            },
+            "classic_edition": {
                 "buildid": "7632103",
-                "timeupdated": "1635656622"
+                "description": "old version",
+                "timeupdated": "1751699757"
             }
         },
         "privatebranches": "1",
