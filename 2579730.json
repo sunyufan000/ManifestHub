@@ -4,8 +4,8 @@
     "type": "Game",
     "schinese_name": "My Bimbo Dream：第一季",
     "isfreeapp": 0,
-    "update_time": "2025-06-21 13:18:01",
-    "change_number": 29679447,
+    "update_time": "2025-07-22 17:43:25",
+    "change_number": 30190399,
     "depot": {
         "baselanguages": "english",
         "hasdepotsindlc": "1",
@@ -15,9 +15,9 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "6550438803451704047",
-                    "size": "5472521838",
-                    "download": "5244931344"
+                    "gid": "8540654723596476571",
+                    "size": "5343371779",
+                    "download": "5114963312"
                 }
             },
             "decryptionkey": "93fd1b09ac60725904f817bca4b07d5706ae95a8288750cb7a0e6c2a49a78383"
@@ -37,8 +37,8 @@
         },
         "branches": {
             "public": {
-                "buildid": "18724133",
-                "timeupdated": "1748983914"
+                "buildid": "19005551",
+                "timeupdated": "1750914425"
             }
         }
     }
