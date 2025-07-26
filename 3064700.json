@@ -4,15 +4,15 @@
     "type": "Tool",
     "schinese_name": "",
     "isfreeapp": 0,
-    "update_time": "2025-06-18 06:16:25",
-    "change_number": 29613715,
+    "update_time": "2025-07-23 18:42:36",
+    "change_number": 30211860,
     "depot": {
         "3064701": {
             "manifests": {
                 "public": {
-                    "gid": "430694415207355983",
-                    "size": "190670751",
-                    "download": "179426528"
+                    "gid": "8010718435543908735",
+                    "size": "2081686775",
+                    "download": "764396432"
                 },
                 "coming_in_hot": {
                     "gid": "8010718435543908735",
@@ -25,8 +25,8 @@
         "workshopdepot": "3064700",
         "branches": {
             "public": {
-                "buildid": "15295731",
-                "timeupdated": "1723228440"
+                "buildid": "18847373",
+                "timeupdated": "1750950543"
             },
             "coming_in_hot": {
                 "buildid": "18847373",
