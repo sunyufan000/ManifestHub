@@ -3,9 +3,9 @@
     "name": "STALCRAFT: X",
     "type": "Game",
     "schinese_name": "",
-    "isfreeapp": 1,
-    "update_time": "2025-06-21 08:28:25",
-    "change_number": 29677462,
+    "isfreeapp": 0,
+    "update_time": "2025-07-23 09:07:56",
+    "change_number": 30201959,
     "depot": {
         "baselanguages": "english,russian",
         "1818452": {
@@ -14,9 +14,9 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "8538884096153771695",
-                    "size": "34704525939",
-                    "download": "29296323312"
+                    "gid": "2629003072852548406",
+                    "size": "36475469911",
+                    "download": "30868737264"
                 }
             },
             "decryptionkey": "2afb1ec4ab3c9ad17c0742555eaab67f5fc906834613e1680b575302780cb44e"
@@ -42,17 +42,17 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "8212426766191244655",
-                    "size": "322535150",
-                    "download": "98970624"
+                    "gid": "5958381538090820042",
+                    "size": "321207466",
+                    "download": "98240096"
                 }
             },
             "decryptionkey": "d461a4b4e3bc2cc3fbd4e725738e1f5f63b8af8822ae634ac404acedb49bc02b"
         },
         "branches": {
             "public": {
-                "buildid": "18927241",
-                "timeupdated": "1750341494"
+                "buildid": "19321650",
+                "timeupdated": "1753258070"
             }
         },
         "privatebranches": "1"
