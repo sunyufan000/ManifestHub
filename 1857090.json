@@ -4,8 +4,8 @@
     "type": "Game",
     "schinese_name": "诺兰德 Norland",
     "isfreeapp": 0,
-    "update_time": "2025-06-21 16:20:42",
-    "change_number": 29680510,
+    "update_time": "2025-07-22 15:58:16",
+    "change_number": 30188491,
     "depot": {
         "228989": {
             "config": {
@@ -21,31 +21,31 @@
             "depotfromapp": "228980",
             "sharedinstall": "1"
         },
-        "baselanguages": "english",
+        "baselanguages": "english,german,french,italian,koreana,spanish,schinese,tchinese,russian,japanese,polish,hungarian,czech,turkish,brazilian,ukrainian",
         "1857091": {
             "manifests": {
                 "public": {
-                    "gid": "7895994047807508046",
-                    "size": "987689899",
-                    "download": "777187776"
+                    "gid": "1034264613478789361",
+                    "size": "1041153438",
+                    "download": "829300080"
                 },
                 "unstable": {
-                    "gid": "6558747661855276336",
-                    "size": "997421865",
-                    "download": "788816704"
+                    "gid": "7632643137534922294",
+                    "size": "1040355458",
+                    "download": "828337424"
                 }
             },
             "decryptionkey": "370d177702e1721868b4db49904b523b83825e329df24930490ba7b3a7da7131"
         },
         "branches": {
             "public": {
-                "buildid": "18672862",
-                "timeupdated": "1748613160"
+                "buildid": "19315361",
+                "timeupdated": "1753196290"
             },
             "unstable": {
-                "buildid": "18948488",
+                "buildid": "19241634",
                 "description": "A branch for earlier access to Norland updates. May be unstable, so you should backup your save files. Attention! Saves made in new versions may be incompatible with older versions!",
-                "timeupdated": "1750492323"
+                "timeupdated": "1752653987"
             }
         },
         "privatebranches": "1"
