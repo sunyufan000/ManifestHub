@@ -4,7 +4,7 @@
     "type": "Game",
     "schinese_name": "A列车：开始吧 观光开发计划",
     "isfreeapp": 0,
-    "update_time": "2025-06-03 11:01:29",
+    "update_time": "2025-06-23 12:55:02",
     "change_number": 29339215,
     "depot": {
         "baselanguages": "english",
@@ -35,7 +35,7 @@
                     "download": "234032368"
                 }
             },
-            "decryptionkey": ""
+            "decryptionkey": "aa38399402d8ba93b3d2d5e17f2b51a9fb2d3dae5f8cc3c87eba1eea7a22e872"
         },
         "branches": {
             "public": {
