@@ -4,8 +4,8 @@
     "type": "Game",
     "schinese_name": "",
     "isfreeapp": 0,
-    "update_time": "2025-06-15 07:47:44",
-    "change_number": 29569930,
+    "update_time": "2025-07-23 15:22:42",
+    "change_number": 30208150,
     "depot": {
         "1843731": {
             "config": {
@@ -14,14 +14,14 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "8009994064671934442",
-                    "size": "448809511",
-                    "download": "101527088"
+                    "gid": "2281674240051378623",
+                    "size": "455197311",
+                    "download": "104149760"
                 },
                 "beta": {
-                    "gid": "8009994064671934442",
-                    "size": "448809511",
-                    "download": "101527088"
+                    "gid": "2281674240051378623",
+                    "size": "455197311",
+                    "download": "104149760"
                 },
                 "classicmode": {
                     "gid": "5806447311636740743",
@@ -33,13 +33,13 @@
         },
         "branches": {
             "public": {
-                "buildid": "18618825",
-                "timeupdated": "1748353066"
+                "buildid": "19330302",
+                "timeupdated": "1753280558"
             },
             "beta": {
-                "buildid": "18618825",
-                "description": "Testing Save Issues",
-                "timeupdated": "1748313959"
+                "buildid": "19330302",
+                "description": "Testing Auto-Sort",
+                "timeupdated": "1753280511"
             },
             "classicmode": {
                 "buildid": "15310745",
