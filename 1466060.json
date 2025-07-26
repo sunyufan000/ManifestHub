@@ -4,16 +4,16 @@
     "type": "Game",
     "schinese_name": "污痕圣杯：阿瓦隆的陨落",
     "isfreeapp": 0,
-    "update_time": "2025-06-22 07:00:27",
-    "change_number": 29686249,
+    "update_time": "2025-07-23 09:56:33",
+    "change_number": 30202736,
     "depot": {
         "baselanguages": "english,german,french,italian,spanish,schinese,tchinese,russian,japanese,polish,czech,brazilian",
         "1466062": {
             "manifests": {
                 "public": {
-                    "gid": "2997321921893946933",
-                    "size": "36214809472",
-                    "download": "18179875440"
+                    "gid": "455114081535859025",
+                    "size": "36605974867",
+                    "download": "18927984288"
                 }
             },
             "decryptionkey": "b164844c9d1dcef4202a397a747eff0fc24b75b5553e21bebbd7e86042d94bca"
@@ -31,8 +31,8 @@
         },
         "branches": {
             "public": {
-                "buildid": "18883476",
-                "timeupdated": "1750081238"
+                "buildid": "19274284",
+                "timeupdated": "1752839445"
             }
         },
         "privatebranches": "1"
