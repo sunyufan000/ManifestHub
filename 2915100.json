@@ -4,8 +4,8 @@
     "type": "Tool",
     "schinese_name": "",
     "isfreeapp": 0,
-    "update_time": "2025-06-19 19:21:11",
-    "change_number": 29648231,
+    "update_time": "2025-07-23 19:37:31",
+    "change_number": 30212673,
     "depot": {
         "1004": {
             "config": {
@@ -13,9 +13,9 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "7747775778018907449",
-                    "size": "46727128",
-                    "download": "14307024"
+                    "gid": "8904491048620934740",
+                    "size": "68697032",
+                    "download": "20552544"
                 }
             },
             "depotfromapp": "1007",
@@ -41,9 +41,9 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "7138471031118904166",
-                    "size": "78382436",
-                    "download": "21254752"
+                    "gid": "5587033981095108078",
+                    "size": "107476144",
+                    "download": "29272144"
                 }
             },
             "depotfromapp": "1007",
@@ -57,9 +57,9 @@
                     "download": "155776912"
                 },
                 "internal": {
-                    "gid": "2062713536918935347",
-                    "size": "1566068352",
-                    "download": "488087264"
+                    "gid": "8819262796019996633",
+                    "size": "1576299378",
+                    "download": "495377808"
                 },
                 "local": {
                     "gid": "2909032919417718062",
@@ -90,9 +90,9 @@
                 "timeupdated": "1711934293"
             },
             "internal": {
-                "buildid": "18925915",
+                "buildid": "19189908",
                 "description": "Internal Build",
-                "timeupdated": "1750332067"
+                "timeupdated": "1752233058"
             },
             "local": {
                 "buildid": "14011964",
