@@ -4,8 +4,8 @@
     "type": "DLC",
     "schinese_name": "",
     "isfreeapp": 0,
-    "update_time": "2025-06-11 22:41:05",
-    "change_number": 29507304,
+    "update_time": "2025-07-02 18:57:57",
+    "change_number": 29865349,
     "depot": {
         "2765930": {
             "dlcappid": "2765930",
@@ -16,9 +16,9 @@
                     "download": "1357354720"
                 },
                 "experimental": {
-                    "gid": "7226081050543363756",
-                    "size": "1525403427",
-                    "download": "1357354720"
+                    "gid": "2972363299985267498",
+                    "size": "1524850511",
+                    "download": "1417717616"
                 }
             },
             "decryptionkey": "4c4d1401196b2d9e096a5c387dfc0cd6d00ccbb405d564705277e37f78e45884"
@@ -29,9 +29,9 @@
                 "timeupdated": "1742915314"
             },
             "experimental": {
-                "buildid": "17077455",
+                "buildid": "19071251",
                 "description": "Experimental branch",
-                "timeupdated": "1738864224"
+                "timeupdated": "1751479070"
             }
         },
         "privatebranches": "1"
