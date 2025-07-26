@@ -4,10 +4,10 @@
     "type": "Game",
     "schinese_name": "潜行者2：切尔诺贝利之心",
     "isfreeapp": 0,
-    "update_time": "2025-06-21 16:23:33",
-    "change_number": 29680523,
+    "update_time": "2025-07-23 19:13:08",
+    "change_number": 30212382,
     "depot": {
-        "hasdepotsindlc": "0",
+        "hasdepotsindlc": "1",
         "baselanguages": "english",
         "workshopdepot": "1643320",
         "228989": {
@@ -34,9 +34,9 @@
         "1643321": {
             "manifests": {
                 "public": {
-                    "gid": "8431763428262028326",
-                    "size": "167116753077",
-                    "download": "148479111616"
+                    "gid": "6288361973254418915",
+                    "size": "162088505353",
+                    "download": "143157926752"
                 }
             },
             "decryptionkey": "71c29e58911c13991edea02ac06db5f5991e43e52cdcd76c19126d657c4a38e7"
@@ -46,10 +46,17 @@
         "1643324": {},
         "1643325": {},
         "1643326": {},
+        "3765021": {
+            "dlcappid": "3765020",
+            "manifests": {}
+        },
+        "1643327": {
+            "manifests": {}
+        },
         "branches": {
             "public": {
-                "buildid": "18648487",
-                "timeupdated": "1748538685"
+                "buildid": "19128685",
+                "timeupdated": "1752081482"
             }
         },
         "privatebranches": "1",
