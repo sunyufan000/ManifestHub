@@ -4,8 +4,8 @@
     "type": "Tool",
     "schinese_name": "",
     "isfreeapp": 0,
-    "update_time": "2025-06-22 05:57:38",
-    "change_number": 29684514,
+    "update_time": "2025-07-23 19:36:47",
+    "change_number": 30212673,
     "depot": {
         "1004": {
             "config": {
@@ -13,9 +13,9 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "7747775778018907449",
-                    "size": "46727128",
-                    "download": "14307024"
+                    "gid": "8904491048620934740",
+                    "size": "68697032",
+                    "download": "20552544"
                 }
             },
             "depotfromapp": "1007",
@@ -41,9 +41,9 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "7138471031118904166",
-                    "size": "78382436",
-                    "download": "21254752"
+                    "gid": "5587033981095108078",
+                    "size": "107476144",
+                    "download": "29272144"
                 }
             },
             "depotfromapp": "1007",
@@ -52,27 +52,27 @@
         "1827321": {
             "manifests": {
                 "public": {
-                    "gid": "8190665695905433608",
-                    "size": "1444456483",
-                    "download": "1203398896"
+                    "gid": "5481933365506539989",
+                    "size": "1558421290",
+                    "download": "1261340176"
                 },
                 "experimental": {
-                    "gid": "8190665695905433608",
-                    "size": "1444456483",
-                    "download": "1203398896"
+                    "gid": "5481933365506539989",
+                    "size": "1558421290",
+                    "download": "1261340176"
                 }
             },
             "decryptionkey": ""
         },
         "branches": {
             "public": {
-                "buildid": "18951319",
-                "timeupdated": "1750529294"
+                "buildid": "19208499",
+                "timeupdated": "1752437048"
             },
             "experimental": {
-                "buildid": "18951319",
+                "buildid": "19208499",
                 "description": "Public experimental branch",
-                "timeupdated": "1750529301"
+                "timeupdated": "1752437105"
             }
         },
         "privatebranches": "1"
