@@ -4,8 +4,8 @@
     "type": "Game",
     "schinese_name": "FPS枪法模拟器",
     "isfreeapp": 0,
-    "update_time": "2025-06-18 06:07:33",
-    "change_number": 29611173,
+    "update_time": "2025-07-21 18:34:29",
+    "change_number": 30171504,
     "depot": {
         "workshopdepot": "824270",
         "baselanguages": "english",
@@ -30,9 +30,9 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "3409056633103648189",
-                    "size": "7181539769",
-                    "download": "2316091232"
+                    "gid": "4515376991129431349",
+                    "size": "7188221068",
+                    "download": "2334371456"
                 },
                 "3.0.4": {
                     "gid": "302923237395014793",
@@ -60,9 +60,9 @@
                     "download": "2396771168"
                 },
                 "beta": {
-                    "gid": "3409056633103648189",
-                    "size": "7181539769",
-                    "download": "2316091232"
+                    "gid": "4515376991129431349",
+                    "size": "7188221068",
+                    "download": "2334371456"
                 }
             },
             "decryptionkey": "eb3bfa996ec2fa95ac46deb12cac451a680c017946edfb52209740273157dd1c"
@@ -84,8 +84,8 @@
         },
         "branches": {
             "public": {
-                "buildid": "18862411",
-                "timeupdated": "1750174019"
+                "buildid": "19249421",
+                "timeupdated": "1753119265"
             },
             "3.0.4": {
                 "buildid": "8802228",
@@ -113,9 +113,9 @@
                 "timeupdated": "1734115219"
             },
             "beta": {
-                "buildid": "18862411",
+                "buildid": "19249421",
                 "description": "Public Beta Branch",
-                "timeupdated": "1749852498"
+                "timeupdated": "1752769797"
             }
         },
         "privatebranches": "1",
