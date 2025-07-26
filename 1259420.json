@@ -4,8 +4,8 @@
     "type": "Game",
     "schinese_name": "往日不再",
     "isfreeapp": 0,
-    "update_time": "2025-06-18 06:15:50",
-    "change_number": 29613387,
+    "update_time": "2025-07-21 20:21:09",
+    "change_number": 30173085,
     "depot": {
         "baselanguages": "english,german,french,italian,koreana,spanish,schinese,tchinese,russian,japanese,portuguese,polish,danish,dutch,finnish,norwegian,swedish,hungarian,czech,turkish,arabic,brazilian,greek,latam",
         "228988": {
@@ -29,9 +29,9 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "3661926166023434179",
-                    "size": "50757762295",
-                    "download": "44773195744"
+                    "gid": "9075941046550830080",
+                    "size": "50757692075",
+                    "download": "45244380128"
                 }
             },
             "decryptionkey": ""
@@ -43,17 +43,17 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "4278475396961958563",
-                    "size": "67370998056",
-                    "download": "59713568160"
+                    "gid": "9008749683399927967",
+                    "size": "67365139159",
+                    "download": "60209250528"
                 }
             },
             "decryptionkey": "3a92a76d80b16038abe5b2831f554a22120535ab039dbde663a70c8b52afe11b"
         },
         "branches": {
             "public": {
-                "buildid": "18759301",
-                "timeupdated": "1749221389"
+                "buildid": "19221447",
+                "timeupdated": "1753125663"
             }
         },
         "privatebranches": "1"
