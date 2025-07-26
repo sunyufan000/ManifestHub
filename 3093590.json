@@ -4,8 +4,8 @@
     "type": "Game",
     "schinese_name": "",
     "isfreeapp": 0,
-    "update_time": "2025-06-18 23:10:56",
-    "change_number": 29631583,
+    "update_time": "2025-06-25 20:16:49",
+    "change_number": 29748329,
     "depot": {
         "3093591": {
             "config": {
@@ -18,9 +18,9 @@
                     "download": "472544640"
                 },
                 "beta": {
-                    "gid": "4780379982517004632",
-                    "size": "536649784",
-                    "download": "479935920"
+                    "gid": "392302237367775042",
+                    "size": "538120552",
+                    "download": "481150672"
                 }
             },
             "decryptionkey": "bb1643f6f7a3b4bd4f286d307082298064737c237f7cd8a8546dc399590f82d7"
@@ -36,9 +36,9 @@
                     "download": "474266384"
                 },
                 "beta": {
-                    "gid": "8920417481302613954",
-                    "size": "539282184",
-                    "download": "481295168"
+                    "gid": "4483148563242968044",
+                    "size": "540752952",
+                    "download": "482509920"
                 }
             }
         },
@@ -53,9 +53,9 @@
                     "download": "487773936"
                 },
                 "beta": {
-                    "gid": "3477800021837397349",
-                    "size": "622774194",
-                    "download": "500746800"
+                    "gid": "6333376629711020579",
+                    "size": "624244962",
+                    "download": "502024800"
                 }
             }
         },
@@ -67,9 +67,9 @@
                 "timeupdated": "1741451852"
             },
             "beta": {
-                "buildid": "18911050",
+                "buildid": "18999897",
                 "description": "Live distribution staging branch",
-                "timeupdated": "1750244417"
+                "timeupdated": "1750877785"
             }
         },
         "workshopdepotdecryptionkey": "d2ef3d71acee18fec388c39f07d9c1fbe04beec5eecd1782a43a250170ebaa43"
