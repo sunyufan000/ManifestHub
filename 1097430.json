@@ -4,8 +4,8 @@
     "type": "Game",
     "schinese_name": "依盖之书",
     "isfreeapp": 1,
-    "update_time": "2025-06-13 17:49:46",
-    "change_number": 29546521,
+    "update_time": "2025-07-16 12:18:05",
+    "change_number": 30087897,
     "depot": {
         "228989": {
             "config": {
@@ -57,9 +57,9 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "7307200764004343193",
-                    "size": "6756328958",
-                    "download": "5154388688"
+                    "gid": "2231425339457493456",
+                    "size": "7006119138",
+                    "download": "5669862160"
                 }
             },
             "decryptionkey": ""
@@ -70,9 +70,9 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "5415206400089265549",
-                    "size": "6756328958",
-                    "download": "5154388688"
+                    "gid": "2070136871736782568",
+                    "size": "7006119138",
+                    "download": "5669862160"
                 }
             },
             "decryptionkey": "25e623c862ebb86f27aeb58b3f9de77f426e4754d3b49746aaa2385d7aaa7500"
@@ -107,8 +107,8 @@
         },
         "branches": {
             "public": {
-                "buildid": "18853902",
-                "timeupdated": "1749808181"
+                "buildid": "19224680",
+                "timeupdated": "1752550210"
             }
         },
         "privatebranches": "1"
