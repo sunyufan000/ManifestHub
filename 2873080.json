@@ -4,8 +4,8 @@
     "type": "Game",
     "schinese_name": "不/存在的你，和我",
     "isfreeapp": 0,
-    "update_time": "2025-06-19 02:38:18",
-    "change_number": 29635134,
+    "update_time": "2025-07-22 09:42:48",
+    "change_number": 30182272,
     "depot": {
         "2873081": {
             "config": {
@@ -30,7 +30,8 @@
                     "size": "1770067830",
                     "download": "1036648288"
                 }
-            }
+            },
+            "decryptionkey": "aeb4f9a62e8866bd9ceb98b668ebf3daf2c7ece2f0e86b6d1c2963ddccd473fe"
         },
         "baselanguages": "english,schinese,japanese",
         "branches": {
