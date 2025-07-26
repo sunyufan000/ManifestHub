@@ -4,8 +4,8 @@
     "type": "Game",
     "schinese_name": "《潜行者：晴空》增强版",
     "isfreeapp": 0,
-    "update_time": "2025-06-21 06:15:35",
-    "change_number": 29676411,
+    "update_time": "2025-07-23 17:48:37",
+    "change_number": 30210887,
     "depot": {
         "228989": {
             "config": {
@@ -31,9 +31,9 @@
         "2427421": {
             "manifests": {
                 "public": {
-                    "gid": "7638360443060578791",
-                    "size": "8480848669",
-                    "download": "4361190928"
+                    "gid": "2284630142901970406",
+                    "size": "8482385317",
+                    "download": "4366049936"
                 }
             },
             "decryptionkey": "827f45298696740de1e0a738ea404041c826aeb40dd6eccb1b6957cc711a4fc6"
@@ -41,8 +41,8 @@
         "workshopdepot": "2427420",
         "branches": {
             "public": {
-                "buildid": "18751543",
-                "timeupdated": "1749726193"
+                "buildid": "19159490",
+                "timeupdated": "1752163085"
             }
         },
         "privatebranches": "1",
