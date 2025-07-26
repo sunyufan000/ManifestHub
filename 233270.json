@@ -4,8 +4,8 @@
     "type": "Game",
     "schinese_name": "孤岛惊魂3：血龙",
     "isfreeapp": 0,
-    "update_time": "2025-06-12 17:05:54",
-    "change_number": 29524701,
+    "update_time": "2025-07-10 18:41:48",
+    "change_number": 29994192,
     "depot": {
         "overridescddb": "1",
         "233271": {
@@ -146,7 +146,7 @@
                     "download": "87475840"
                 }
             },
-            "decryptionkey": ""
+            "decryptionkey": "1ba1787ecbcbb5b2b6d7b22f7c84abb5384a9c32ded804607b72bb08dcb4954d"
         },
         "233280": {
             "config": {
@@ -220,9 +220,9 @@
         "1716751": {
             "manifests": {
                 "public": {
-                    "gid": "7692967814764193714",
-                    "size": "631944",
-                    "download": "515248"
+                    "gid": "818295193716041715",
+                    "size": "632424",
+                    "download": "551504"
                 }
             },
             "depotfromapp": "1716750",
