@@ -4,8 +4,8 @@
     "type": "Game",
     "schinese_name": "天涯跑商记：好商人志在四方",
     "isfreeapp": 0,
-    "update_time": "2025-06-18 21:35:46",
-    "change_number": 29629793,
+    "update_time": "2025-07-23 09:01:42",
+    "change_number": 30201849,
     "depot": {
         "228990": {
             "config": {
@@ -35,9 +35,9 @@
                     "download": "74944864"
                 },
                 "betaexperimentsru": {
-                    "gid": "3968138522000189705",
-                    "size": "120678960",
-                    "download": "67682240"
+                    "gid": "6973665782170013101",
+                    "size": "131107341",
+                    "download": "75616496"
                 }
             },
             "decryptionkey": "18aecd28f1a2e9ac4ba577111bd5c963487b23b817f4b2210363f1bd00b08064"
@@ -58,9 +58,9 @@
                 "timeupdated": "1749821006"
             },
             "betaexperimentsru": {
-                "buildid": "18470374",
+                "buildid": "19325800",
                 "description": "(dangerous and not localized)",
-                "timeupdated": "1747283401"
+                "timeupdated": "1753257695"
             }
         }
     }
