@@ -4,8 +4,8 @@
     "type": "Game",
     "schinese_name": "劫盗惊魂夜",
     "isfreeapp": 0,
-    "update_time": "2025-06-13 19:59:41",
-    "change_number": 29548887,
+    "update_time": "2025-07-18 17:45:40",
+    "change_number": 30135751,
     "depot": {
         "228989": {
             "config": {
@@ -28,9 +28,9 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "5308638448133885738",
-                    "size": "4116035863",
-                    "download": "3958749152"
+                    "gid": "6300449768472604557",
+                    "size": "4893354444",
+                    "download": "4716225616"
                 }
             },
             "decryptionkey": "0712fda8075e570ec33f25a8e1d2f12b0027b76e2d415ee0433e2099eafe4c03"
@@ -38,8 +38,8 @@
         "baselanguages": "english,german,french,koreana,spanish,schinese,tchinese,russian,japanese,polish,turkish,arabic,brazilian",
         "branches": {
             "public": {
-                "buildid": "18752794",
-                "timeupdated": "1749156148"
+                "buildid": "19053201",
+                "timeupdated": "1751300312"
             }
         },
         "privatebranches": "1"
