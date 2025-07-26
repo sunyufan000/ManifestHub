@@ -4,8 +4,8 @@
     "type": "Game",
     "schinese_name": "",
     "isfreeapp": 0,
-    "update_time": "2025-06-21 07:36:38",
-    "change_number": 29677051,
+    "update_time": "2025-07-23 23:10:20",
+    "change_number": 30215566,
     "depot": {
         "228989": {
             "config": {
@@ -27,44 +27,34 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "9015014114935934479",
-                    "size": "5662389192",
-                    "download": "5445752064"
+                    "gid": "7971347284320362084",
+                    "size": "6728974305",
+                    "download": "6511725344"
                 },
                 "beta": {
+                    "gid": "3954288192052810014",
+                    "size": "6728972639",
+                    "download": "6511685152"
+                },
+                "previous": {
                     "gid": "9015014114935934479",
                     "size": "5662389192",
                     "download": "5445752064"
                 },
-                "beta2": {
-                    "gid": "6463814176579262651",
-                    "size": "5525069046",
-                    "download": "5311197552"
-                },
-                "beta3": {
-                    "gid": "5665567711442700926",
-                    "size": "5228672581",
-                    "download": "5015795808"
-                },
-                "previous": {
-                    "gid": "4102503996075016729",
-                    "size": "5653144822",
-                    "download": "5435823504"
-                },
                 "previous2": {
-                    "gid": "7568821679839831726",
-                    "size": "5653121584",
-                    "download": "5435726624"
+                    "gid": "8150424745384511003",
+                    "size": "6712696022",
+                    "download": "6496072960"
                 },
                 "previous3": {
-                    "gid": "483460175671113234",
-                    "size": "5545856937",
-                    "download": "5331847552"
+                    "gid": "625617065279728333",
+                    "size": "6728939981",
+                    "download": "6511819840"
                 },
                 "previous4": {
-                    "gid": "5665567711442700926",
-                    "size": "5228672581",
-                    "download": "5015795808"
+                    "gid": "558904616892888505",
+                    "size": "6728801554",
+                    "download": "6511685776"
                 }
             },
             "decryptionkey": "93f4a37540967cc2e6b661061973e3281089b15e33a95fd24afdb5e6045aeebd"
@@ -72,43 +62,33 @@
         "baselanguages": "english,russian",
         "branches": {
             "public": {
-                "buildid": "18090669",
-                "timeupdated": "1744637287"
+                "buildid": "19333718",
+                "timeupdated": "1753302168"
             },
             "beta": {
-                "buildid": "18090669",
-                "description": "BETA 0.96.40 Beta",
-                "timeupdated": "1744562703"
-            },
-            "beta2": {
-                "buildid": "16861698",
-                "description": "Beta 0.94.28",
-                "timeupdated": "1735447940"
-            },
-            "beta3": {
-                "buildid": "16543000",
-                "description": "Beta 0.94.57",
-                "timeupdated": "1734114580"
+                "buildid": "19334700",
+                "description": "Outposts Beta 0.99.11-exp",
+                "timeupdated": "1753308587"
             },
             "previous": {
-                "buildid": "17499538",
-                "description": "Previous 0.96.20",
-                "timeupdated": "1743175132"
+                "buildid": "18090669",
+                "description": "Old 0.96.40",
+                "timeupdated": "1752144725"
             },
             "previous2": {
-                "buildid": "17388055",
-                "description": "0.96.18",
-                "timeupdated": "1743175205"
+                "buildid": "19121545",
+                "description": "Old 0.98.94",
+                "timeupdated": "1752144765"
             },
             "previous3": {
-                "buildid": "16906012",
-                "description": "0.95.67",
-                "timeupdated": "1737461055"
+                "buildid": "19312382",
+                "description": "Old 0.99.09",
+                "timeupdated": "1753221170"
             },
             "previous4": {
-                "buildid": "16543000",
-                "description": "0.94.57",
-                "timeupdated": "1738289628"
+                "buildid": "19196047",
+                "description": "Old 0.99.00",
+                "timeupdated": "1752351371"
             }
         },
         "privatebranches": "1"
