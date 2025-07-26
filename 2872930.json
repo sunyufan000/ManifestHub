@@ -4,8 +4,8 @@
     "type": "Game",
     "schinese_name": "",
     "isfreeapp": 1,
-    "update_time": "2025-06-15 04:37:07",
-    "change_number": 29568668,
+    "update_time": "2025-06-26 19:51:32",
+    "change_number": 29767419,
     "depot": {
         "2872931": {
             "manifests": {
@@ -22,6 +22,7 @@
                 "buildid": "13910426",
                 "timeupdated": "1711948218"
             }
-        }
+        },
+        "privatebranches": "1"
     }
 }
