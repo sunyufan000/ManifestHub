@@ -4,8 +4,8 @@
     "type": "Demo",
     "schinese_name": "贸易之路 试玩版",
     "isfreeapp": 0,
-    "update_time": "2025-06-13 01:42:46",
-    "change_number": 29524903,
+    "update_time": "2025-07-23 21:56:30",
+    "change_number": 30214635,
     "depot": {
         "228989": {
             "config": {
@@ -29,17 +29,17 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "1418467945656518382",
-                    "size": "2270363796",
-                    "download": "2067678304"
+                    "gid": "7095574247510174939",
+                    "size": "1483426264",
+                    "download": "1289515520"
                 }
             },
             "decryptionkey": "ea42afeed9f81538ee5c900637f3f988ccd45a7e992116369d155ef05f468dc5"
         },
         "branches": {
             "public": {
-                "buildid": "18794779",
-                "timeupdated": "1749473938"
+                "buildid": "19334374",
+                "timeupdated": "1753304186"
             }
         },
         "privatebranches": "1"
