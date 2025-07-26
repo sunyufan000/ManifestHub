@@ -4,8 +4,8 @@
     "type": "Game",
     "schinese_name": "",
     "isfreeapp": 0,
-    "update_time": "2025-06-22 05:57:50",
-    "change_number": 29684381,
+    "update_time": "2025-07-19 00:06:21",
+    "change_number": 30140705,
     "depot": {
         "hasdepotsindlc": "1",
         "workshopdepot": "1592280",
@@ -193,9 +193,9 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "6319413230771116548",
-                    "size": "58775666",
-                    "download": "37363152"
+                    "gid": "8989561522582497974",
+                    "size": "58781838",
+                    "download": "37364560"
                 },
                 "nextfest_demo": {
                     "gid": "1534352288286114523",
@@ -203,14 +203,14 @@
                     "download": "255039552"
                 },
                 "nightly": {
+                    "gid": "6817668861862626880",
+                    "size": "58784966",
+                    "download": "38240032"
+                },
+                "publicbetabranch": {
                     "gid": "8989561522582497974",
                     "size": "58781838",
                     "download": "37364560"
-                },
-                "publicbetabranch": {
-                    "gid": "8568346495505506468",
-                    "size": "58775666",
-                    "download": "37363184"
                 },
                 "v0.83e": {
                     "gid": "2735229461727600988",
@@ -252,9 +252,9 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "3169607215571397988",
-                    "size": "39743614",
-                    "download": "15558928"
+                    "gid": "4818044621189603951",
+                    "size": "39751935",
+                    "download": "15564464"
                 },
                 "nextfest_demo": {
                     "gid": "8397470572228090950",
@@ -262,14 +262,14 @@
                     "download": "52869152"
                 },
                 "nightly": {
+                    "gid": "3916598577716351501",
+                    "size": "39756137",
+                    "download": "16764016"
+                },
+                "publicbetabranch": {
                     "gid": "4818044621189603951",
                     "size": "39751935",
                     "download": "15564464"
-                },
-                "publicbetabranch": {
-                    "gid": "3169607215571397988",
-                    "size": "39743614",
-                    "download": "15558928"
                 },
                 "v0.83e": {
                     "gid": "4799721018872158115",
@@ -306,9 +306,9 @@
         "1592286": {
             "manifests": {
                 "public": {
-                    "gid": "4516617672216540469",
-                    "size": "1264216935",
-                    "download": "1252528912"
+                    "gid": "3704889027831991363",
+                    "size": "1263861925",
+                    "download": "1250591792"
                 },
                 "nextfest_demo": {
                     "gid": "5404565758744658604",
@@ -316,14 +316,14 @@
                     "download": "0"
                 },
                 "nightly": {
-                    "gid": "3655287292487993554",
-                    "size": "1264222959",
-                    "download": "1250862128"
+                    "gid": "6418668634014130664",
+                    "size": "1228582197",
+                    "download": "1215350768"
                 },
                 "publicbetabranch": {
-                    "gid": "8398172691800244172",
-                    "size": "1264221014",
-                    "download": "1252536976"
+                    "gid": "3704889027831991363",
+                    "size": "1263861925",
+                    "download": "1250591792"
                 },
                 "v0.83e": {
                     "gid": "2779831128478491081",
@@ -360,8 +360,8 @@
         },
         "branches": {
             "public": {
-                "buildid": "18831853",
-                "timeupdated": "1749682549"
+                "buildid": "18972769",
+                "timeupdated": "1750769640"
             },
             "early_access_launch_version": {
                 "buildid": "14555398",
@@ -374,14 +374,14 @@
                 "timeupdated": "1731423086"
             },
             "nightly": {
-                "buildid": "18951384",
+                "buildid": "19281314",
                 "description": "Frequent updates, most unstable",
-                "timeupdated": "1750528260"
+                "timeupdated": "1752879978"
             },
             "publicbetabranch": {
-                "buildid": "18869277",
+                "buildid": "18972769",
                 "description": "Beta Testing upcoming features",
-                "timeupdated": "1749929110"
+                "timeupdated": "1750721443"
             },
             "v0.83e": {
                 "buildid": "14878676",
