@@ -4,8 +4,8 @@
     "type": "Game",
     "schinese_name": "Grand Theft Auto V 传承版",
     "isfreeapp": 0,
-    "update_time": "2025-06-19 03:46:44",
-    "change_number": 29636124,
+    "update_time": "2025-07-23 20:02:39",
+    "change_number": 30213063,
     "depot": {
         "depotdeltapatches": "1",
         "overridescddb": "1",
@@ -29,9 +29,9 @@
             "systemdefined": "1",
             "manifests": {
                 "public": {
-                    "gid": "8414838741289899912",
-                    "size": "76562785",
-                    "download": "49524960"
+                    "gid": "7968888289944460855",
+                    "size": "76558113",
+                    "download": "49526208"
                 }
             },
             "decryptionkey": "baebeedec48b33c68a322fea0cbaa8d023d1dab4d2870aa909b82c33caa53941"
@@ -39,9 +39,9 @@
         "271592": {
             "manifests": {
                 "public": {
-                    "gid": "3734427831950022727",
-                    "size": "30974567",
-                    "download": "28643472"
+                    "gid": "6835853669284669894",
+                    "size": "30974503",
+                    "download": "28643584"
                 }
             },
             "decryptionkey": "e34313f0ec133a608e636cf04fd879d3ac1e8e10af38542436940be1b6834bee"
@@ -59,9 +59,9 @@
         "271594": {
             "manifests": {
                 "public": {
-                    "gid": "5986887588282302577",
+                    "gid": "6274301224670979557",
                     "size": "67327458621",
-                    "download": "64674944816"
+                    "download": "64674944320"
                 }
             },
             "decryptionkey": "ae7ed6931a136d41d3aae146563368eb3b3e4e60963344f3f426c0abc74bbdab"
@@ -79,9 +79,9 @@
         "1899671": {
             "manifests": {
                 "public": {
-                    "gid": "4177720964978853031",
-                    "size": "230627596",
-                    "download": "187200304"
+                    "gid": "1313721849634300954",
+                    "size": "223812877",
+                    "download": "187185200"
                 }
             },
             "depotfromapp": "1899670",
@@ -89,8 +89,8 @@
         },
         "branches": {
             "public": {
-                "buildid": "18843951",
-                "timeupdated": "1750151012"
+                "buildid": "19069291",
+                "timeupdated": "1751965249"
             }
         },
         "privatebranches": "1"
