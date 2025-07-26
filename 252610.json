@@ -4,8 +4,8 @@
     "type": "Game",
     "schinese_name": "加拿大死亡之路",
     "isfreeapp": 0,
-    "update_time": "2025-06-20 14:38:53",
-    "change_number": 29662766,
+    "update_time": "2025-07-21 18:33:22",
+    "change_number": 30171485,
     "depot": {
         "228986": {
             "config": {
@@ -25,9 +25,9 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "176181298391986165",
-                    "size": "106950940",
-                    "download": "95695760"
+                    "gid": "6993785920276515626",
+                    "size": "106496222",
+                    "download": "95200128"
                 },
                 "crashfix": {
                     "gid": "2317760076590159577",
@@ -48,9 +48,9 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "1381132935729067325",
-                    "size": "108429069",
-                    "download": "96189824"
+                    "gid": "2531262774447579586",
+                    "size": "107972921",
+                    "download": "95694864"
                 },
                 "crashfix": {
                     "gid": "2658904107634134897",
@@ -58,9 +58,9 @@
                     "download": "90220064"
                 },
                 "beta": {
-                    "gid": "5880159783988907615",
-                    "size": "108509111",
-                    "download": "96214608"
+                    "gid": "4417961408194033062",
+                    "size": "108509441",
+                    "download": "96214832"
                 }
             },
             "decryptionkey": "9c7fd8af97b96e6d3db7e601fb8c4866736cb0863e36df576ffc6ed36bc09f0b"
@@ -71,9 +71,9 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "8528472467932689074",
-                    "size": "150283403",
-                    "download": "97682160"
+                    "gid": "6784058512975264991",
+                    "size": "149828685",
+                    "download": "97186528"
                 },
                 "crashfix": {
                     "gid": "8334867499731492591",
@@ -90,8 +90,8 @@
         },
         "branches": {
             "public": {
-                "buildid": "15078095",
-                "timeupdated": "1721318838"
+                "buildid": "19303094",
+                "timeupdated": "1753119198"
             },
             "crashfix": {
                 "buildid": "2709013",
@@ -99,9 +99,9 @@
                 "timeupdated": "1524278406"
             },
             "beta": {
-                "buildid": "18889556",
+                "buildid": "18987530",
                 "description": "TESTBRANCH",
-                "timeupdated": "1750115119"
+                "timeupdated": "1750808464"
             }
         },
         "privatebranches": "1"
