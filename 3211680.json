@@ -4,8 +4,8 @@
     "type": "Game",
     "schinese_name": "烟店模拟器",
     "isfreeapp": 0,
-    "update_time": "2025-06-21 21:58:17",
-    "change_number": 29682731,
+    "update_time": "2025-07-20 12:51:03",
+    "change_number": 30154092,
     "depot": {
         "228988": {
             "config": {
@@ -31,19 +31,18 @@
         "3211681": {
             "manifests": {
                 "public": {
-                    "gid": "636352442391002361",
-                    "size": "1371883983",
-                    "download": "1278067968"
+                    "gid": "4448010630339102014",
+                    "size": "1417243567",
+                    "download": "1323403920"
                 }
             },
             "decryptionkey": "aed98fb60883c779d208088e726974a236a005845a4d7f3b0bee908a0226ac1d"
         },
         "branches": {
             "public": {
-                "buildid": "18473128",
-                "timeupdated": "1748021794"
+                "buildid": "18913110",
+                "timeupdated": "1750611216"
             }
-        },
-        "privatebranches": "1"
+        }
     }
 }
