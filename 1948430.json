@@ -4,8 +4,8 @@
     "type": "Game",
     "schinese_name": "",
     "isfreeapp": 1,
-    "update_time": "2025-06-14 03:28:07",
-    "change_number": 29556497,
+    "update_time": "2025-07-23 16:13:13",
+    "change_number": 30209115,
     "depot": {
         "baselanguages": "english,german,french,italian,spanish,schinese,tchinese,russian,japanese,polish,dutch,czech,ukrainian",
         "workshopdepot": "1948430",
@@ -23,9 +23,9 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "8628455258705252509",
-                    "size": "375987754",
-                    "download": "264511584"
+                    "gid": "8173918561785061614",
+                    "size": "399880609",
+                    "download": "278594064"
                 }
             },
             "decryptionkey": "09b446fcded597191bc5f0a11da457d6b98a766270eaac0536b45b38fe217562"
@@ -37,9 +37,9 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "4986763902867446680",
-                    "size": "458729129",
-                    "download": "273047904"
+                    "gid": "6731958825463375831",
+                    "size": "459773158",
+                    "download": "276584736"
                 }
             },
             "decryptionkey": "a58df3bfad725c68606404abb64d9b36cf4b7b37746b8044849d5d44b1daee42"
@@ -48,17 +48,17 @@
             "dlcappid": "3448720",
             "manifests": {
                 "public": {
-                    "gid": "3799226737286101662",
-                    "size": "62826601",
-                    "download": "56553616"
+                    "gid": "2213978708687552527",
+                    "size": "62837705",
+                    "download": "56671856"
                 }
             },
             "decryptionkey": ""
         },
         "branches": {
             "public": {
-                "buildid": "18860804",
-                "timeupdated": "1749842875"
+                "buildid": "19330929",
+                "timeupdated": "1753283589"
             }
         },
         "privatebranches": "1",
