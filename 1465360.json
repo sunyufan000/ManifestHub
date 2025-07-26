@@ -4,8 +4,8 @@
     "type": "Game",
     "schinese_name": "雪地奔驰",
     "isfreeapp": 0,
-    "update_time": "2025-06-20 16:12:20",
-    "change_number": 29664103,
+    "update_time": "2025-07-23 09:45:32",
+    "change_number": 30202578,
     "depot": {
         "228989": {
             "config": {
@@ -21,9 +21,9 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "7211903127188618532",
-                    "size": "62510411658",
-                    "download": "42930971968"
+                    "gid": "3518876189924674658",
+                    "size": "62509859477",
+                    "download": "42934930576"
                 }
             },
             "decryptionkey": "0dd93272d1d47d5943b93081730b61e39d20a49e42873ca743dcd30322161fb0"
@@ -44,8 +44,8 @@
         },
         "branches": {
             "public": {
-                "buildid": "18821831",
-                "timeupdated": "1749718438"
+                "buildid": "18991258",
+                "timeupdated": "1751288234"
             }
         },
         "privatebranches": "1"
