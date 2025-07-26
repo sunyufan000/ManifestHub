@@ -4,8 +4,8 @@
     "type": "Game",
     "schinese_name": "机甲战士5：雇佣兵",
     "isfreeapp": 0,
-    "update_time": "2025-06-21 21:55:27",
-    "change_number": 29681758,
+    "update_time": "2025-07-24 02:28:47",
+    "change_number": 30217822,
     "depot": {
         "workshopdepot": "784080",
         "hasdepotsindlc": "1",
@@ -57,6 +57,11 @@
                     "gid": "4897705150402560388",
                     "size": "58807006532",
                     "download": "24255586736"
+                },
+                "mw5v1.1.361": {
+                    "gid": "9204367671087830416",
+                    "size": "63481814481",
+                    "download": "26542219552"
                 }
             },
             "decryptionkey": "b8b97d071286439862b9f60a8898a85f6e6c648afd1e3064b37f125523f14a46"
@@ -94,6 +99,11 @@
                 "buildid": "12463697",
                 "description": "MW5 - Version 1.1.351",
                 "timeupdated": "1710390878"
+            },
+            "mw5v1.1.361": {
+                "buildid": "14135168",
+                "description": "MW5 - Version 1.1.361",
+                "timeupdated": "1752699610"
             }
         },
         "privatebranches": "1",
