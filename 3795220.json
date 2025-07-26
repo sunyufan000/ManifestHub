@@ -4,8 +4,8 @@
     "type": "DLC",
     "schinese_name": "",
     "isfreeapp": 0,
-    "update_time": "2025-06-22 10:17:08",
-    "change_number": 29687230,
+    "update_time": "2025-07-07 16:12:23",
+    "change_number": 29932622,
     "depot": {
         "3795221": {
             "config": {
@@ -13,14 +13,14 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "182090669830184098",
-                    "size": "322946161",
-                    "download": "163527120"
+                    "gid": "1013922112320650367",
+                    "size": "322951803",
+                    "download": "163527440"
                 },
                 "beta": {
-                    "gid": "182090669830184098",
-                    "size": "322946161",
-                    "download": "163527120"
+                    "gid": "1013922112320650367",
+                    "size": "322951803",
+                    "download": "163527440"
                 }
             },
             "dlcappid": "3795220",
@@ -32,27 +32,27 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "3669785032677994779",
-                    "size": "441382439",
-                    "download": "193124560"
+                    "gid": "3412134029281422486",
+                    "size": "441399417",
+                    "download": "192816432"
                 },
                 "beta": {
-                    "gid": "3669785032677994779",
-                    "size": "441382439",
-                    "download": "193124560"
+                    "gid": "3412134029281422486",
+                    "size": "441399417",
+                    "download": "192816432"
                 }
             },
             "dlcappid": "3795220"
         },
         "branches": {
             "public": {
-                "buildid": "18950821",
-                "timeupdated": "1750521073"
+                "buildid": "18965527",
+                "timeupdated": "1750684934"
             },
             "beta": {
-                "buildid": "18950821",
+                "buildid": "18965527",
                 "description": "Beta测试",
-                "timeupdated": "1750521017"
+                "timeupdated": "1750684896"
             }
         }
     }
