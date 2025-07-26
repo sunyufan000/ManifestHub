@@ -4,8 +4,8 @@
     "type": "Game",
     "schinese_name": "",
     "isfreeapp": 1,
-    "update_time": "2025-06-18 08:16:39",
-    "change_number": 29618879,
+    "update_time": "2025-07-23 01:28:01",
+    "change_number": 30196637,
     "depot": {
         "1925561": {
             "config": {
@@ -19,9 +19,9 @@
                     "download": "1940971248"
                 },
                 "early-builds": {
-                    "gid": "1520857189557109468",
-                    "size": "5693883229",
-                    "download": "2023185808"
+                    "gid": "216409988222765472",
+                    "size": "5713759489",
+                    "download": "2074037072"
                 }
             },
             "decryptionkey": "ee11deffff5e5fb42ecffbb8b2aa8c0ca6b6180ff1ef3801dc136236a8634bd7"
@@ -38,9 +38,9 @@
                     "download": "1912470944"
                 },
                 "early-builds": {
-                    "gid": "3003119301458110374",
-                    "size": "5626616967",
-                    "download": "1994679536"
+                    "gid": "1014131440796120502",
+                    "size": "5646489131",
+                    "download": "2044927840"
                 }
             },
             "decryptionkey": "b75ca5d26ffe6c7132c38aa90be25f416dfecb0c6cac9acc50085b83d3809211"
@@ -75,9 +75,9 @@
                     "download": "2120244368"
                 },
                 "early-builds": {
-                    "gid": "2504023349975569528",
-                    "size": "6197337523",
-                    "download": "2288038608"
+                    "gid": "3610942076402163769",
+                    "size": "6257857044",
+                    "download": "2405968096"
                 }
             },
             "decryptionkey": "22ec762d0461a18544ef152da9cd0a136fd3e10ff97acf9bb509ce377cb081b4"
@@ -88,9 +88,9 @@
                 "timeupdated": "1744294170"
             },
             "early-builds": {
-                "buildid": "18904947",
+                "buildid": "19322015",
                 "description": "Open Early Builds",
-                "timeupdated": "1750205784"
+                "timeupdated": "1753230416"
             }
         },
         "privatebranches": "1"
