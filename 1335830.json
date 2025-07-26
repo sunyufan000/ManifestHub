@@ -4,8 +4,8 @@
     "type": "Game",
     "schinese_name": "莱恩岛生存指南",
     "isfreeapp": 0,
-    "update_time": "2025-06-22 05:57:09",
-    "change_number": 29684722,
+    "update_time": "2025-07-13 11:31:19",
+    "change_number": 30034650,
     "depot": {
         "1335831": {
             "config": {
@@ -15,9 +15,9 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "3010450455450251403",
-                    "size": "6250988033",
-                    "download": "3195822464"
+                    "gid": "8636231989396616366",
+                    "size": "6362372918",
+                    "download": "3354186096"
                 },
                 "legacybranch": {
                     "gid": "1417711526324644959",
@@ -35,9 +35,9 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "3345526949188635835",
-                    "size": "6292565614",
-                    "download": "3207885872"
+                    "gid": "8984686626130271932",
+                    "size": "6405467050",
+                    "download": "3375296928"
                 },
                 "legacybranch": {
                     "gid": "3585282486280054515",
@@ -49,8 +49,8 @@
         },
         "branches": {
             "public": {
-                "buildid": "18942543",
-                "timeupdated": "1750436987"
+                "buildid": "19150723",
+                "timeupdated": "1752003747"
             },
             "legacybranch": {
                 "buildid": "8992030",
