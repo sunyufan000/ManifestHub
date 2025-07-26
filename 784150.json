@@ -4,8 +4,8 @@
     "type": "Game",
     "schinese_name": "工人与资源：苏维埃共和国 Workers & Resources: Soviet Republic",
     "isfreeapp": 0,
-    "update_time": "2025-06-17 14:03:50",
-    "change_number": 29508557,
+    "update_time": "2025-07-21 22:41:36",
+    "change_number": 30174966,
     "depot": {
         "baselanguages": "english,german,french,italian,koreana,spanish,schinese,tchinese,russian,japanese,polish,hungarian,turkish,brazilian,bulgarian,ukrainian",
         "workshopdepot": "784150",
@@ -34,9 +34,9 @@
         "784151": {
             "manifests": {
                 "public": {
-                    "gid": "4253742785501858453",
-                    "size": "9378280125",
-                    "download": "3010586304"
+                    "gid": "4862689776909173546",
+                    "size": "9379203603",
+                    "download": "3011424640"
                 },
                 "oldversion_0.8.2.x": {
                     "gid": "8610927233841545076",
@@ -74,9 +74,9 @@
                     "download": "2411825760"
                 },
                 "test": {
-                    "gid": "4253742785501858453",
-                    "size": "9378280125",
-                    "download": "3010586304"
+                    "gid": "4862689776909173546",
+                    "size": "9379203603",
+                    "download": "3011424640"
                 }
             },
             "decryptionkey": "3cbf0aae21e6bfca8d67af48b8f449d1ab056ef999590f4f3eb4c487badc6a19"
@@ -132,14 +132,14 @@
             "dlcappid": "3334790",
             "manifests": {
                 "public": {
-                    "gid": "208535140313687902",
-                    "size": "3184149685",
-                    "download": "887142880"
+                    "gid": "313122612798669932",
+                    "size": "3393697569",
+                    "download": "949418464"
                 },
                 "test": {
-                    "gid": "208535140313687902",
-                    "size": "3184149685",
-                    "download": "887142880"
+                    "gid": "313122612798669932",
+                    "size": "3393697569",
+                    "download": "949418464"
                 }
             },
             "decryptionkey": "40c9ff3a431a75ba2a4056613920f62e835a5c1fc3d25cfce748848f0d91995f"
@@ -162,8 +162,8 @@
         },
         "branches": {
             "public": {
-                "buildid": "18798398",
-                "timeupdated": "1749650111"
+                "buildid": "18970792",
+                "timeupdated": "1752141954"
             },
             "oldversion_0.8.2.x": {
                 "buildid": "5546126",
@@ -201,9 +201,9 @@
                 "timeupdated": "1706268562"
             },
             "test": {
-                "buildid": "18798398",
+                "buildid": "18970792",
                 "description": "beta branch - public testing of new features",
-                "timeupdated": "1749491897"
+                "timeupdated": "1750715135"
             }
         },
         "privatebranches": "1",
