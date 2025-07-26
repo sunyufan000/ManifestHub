@@ -1,0 +1,29 @@
+{
+    "appid": 1089173,
+    "name": "Rocksmith® 2014 Edition – Remastered – The Notetrackers - Guitar - Intermediate Linear Playing Exercise 1",
+    "type": "DLC",
+    "schinese_name": "",
+    "isfreeapp": 0,
+    "update_time": "2025-06-23 14:08:46",
+    "change_number": 26551766,
+    "depot": {
+        "1089173": {
+            "manifests": {
+                "public": {
+                    "gid": "2585995330508961522",
+                    "size": "9626538",
+                    "download": "5775808"
+                }
+            },
+            "dlcappid": "1089173",
+            "decryptionkey": "8a3214080959d695aa768cea270e5bf4537fe0b38213ff2591d26482e87ece2c"
+        },
+        "branches": {
+            "public": {
+                "buildid": "3913275",
+                "timeupdated": "1560380510"
+            }
+        }
+    },
+    "access_token": 4379628715727450715
+}
