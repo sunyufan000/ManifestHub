@@ -4,8 +4,8 @@
     "type": "Game",
     "schinese_name": "",
     "isfreeapp": 0,
-    "update_time": "2025-06-18 06:22:43",
-    "change_number": 29616937,
+    "update_time": "2025-07-02 22:56:34",
+    "change_number": 29868157,
     "depot": {
         "3499541": {
             "config": {
@@ -13,14 +13,14 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "930825784137415881",
-                    "size": "167103536",
-                    "download": "75081776"
+                    "gid": "5927962950855681972",
+                    "size": "165990928",
+                    "download": "73797264"
                 },
                 "beta": {
-                    "gid": "930825784137415881",
-                    "size": "167103536",
-                    "download": "75081776"
+                    "gid": "5927962950855681972",
+                    "size": "165990928",
+                    "download": "73797264"
                 }
             },
             "decryptionkey": "cceab1f49fd6473243020151af5143be7aa30f4207b794c0427e738146491d9b"
@@ -31,14 +31,14 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "5780595371232623763",
-                    "size": "149960888",
-                    "download": "69975744"
+                    "gid": "2907303217497228325",
+                    "size": "152214744",
+                    "download": "69839152"
                 },
                 "beta": {
-                    "gid": "5780595371232623763",
-                    "size": "149960888",
-                    "download": "69975744"
+                    "gid": "2907303217497228325",
+                    "size": "152214744",
+                    "download": "69839152"
                 }
             }
         },
@@ -47,35 +47,45 @@
                 "oslist": "windows"
             },
             "manifests": {
+                "public": {
+                    "gid": "8351077429125944916",
+                    "size": "165991824",
+                    "download": "74469680"
+                },
                 "beta": {
-                    "gid": "701871559662465025",
-                    "size": "169089072",
-                    "download": "70006208"
+                    "gid": "8351077429125944916",
+                    "size": "165991824",
+                    "download": "74469680"
                 }
             },
-            "decryptionkey": ""
+            "decryptionkey": "46967cffa20f021c02c04489b1bebf5d8122707c590048e8b5c919937274ec82"
         },
         "3499544": {
             "config": {
                 "oslist": "linux"
             },
             "manifests": {
+                "public": {
+                    "gid": "1852408411095576000",
+                    "size": "152215640",
+                    "download": "70549600"
+                },
                 "beta": {
-                    "gid": "7441764058277090907",
-                    "size": "150483776",
-                    "download": "66098352"
+                    "gid": "1852408411095576000",
+                    "size": "152215640",
+                    "download": "70549600"
                 }
             }
         },
         "branches": {
             "public": {
-                "buildid": "18775948",
-                "timeupdated": "1749280755"
+                "buildid": "19036414",
+                "timeupdated": "1751107815"
             },
             "beta": {
-                "buildid": "18775950",
+                "buildid": "19036411",
                 "description": "Combolite beta for testing purposes",
-                "timeupdated": "1749280771"
+                "timeupdated": "1751107800"
             }
         }
     }
