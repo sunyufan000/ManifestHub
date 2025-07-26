@@ -4,23 +4,23 @@
     "type": "Game",
     "schinese_name": "武林生存",
     "isfreeapp": 0,
-    "update_time": "2025-06-22 05:58:30",
-    "change_number": 29684585,
+    "update_time": "2025-07-14 05:45:48",
+    "change_number": 30042270,
     "depot": {
         "3449591": {
             "manifests": {
                 "public": {
-                    "gid": "6938600546406681497",
-                    "size": "551615070",
-                    "download": "142601024"
+                    "gid": "8350430161353208681",
+                    "size": "623969816",
+                    "download": "156280848"
                 }
             },
             "decryptionkey": "80c64ca6bb584e1917ae422b2136a7f6b64847fa8f40f0270b8cee2ef33b08fd"
         },
         "branches": {
             "public": {
-                "buildid": "18007136",
-                "timeupdated": "1744004153"
+                "buildid": "19074873",
+                "timeupdated": "1751439573"
             }
         },
         "privatebranches": "1"
