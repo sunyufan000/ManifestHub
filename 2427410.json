@@ -4,8 +4,8 @@
     "type": "Game",
     "schinese_name": "《潜行者：切尔诺贝利的阴影》增强版",
     "isfreeapp": 0,
-    "update_time": "2025-06-21 00:49:41",
-    "change_number": 29672329,
+    "update_time": "2025-07-23 17:49:07",
+    "change_number": 30210896,
     "depot": {
         "228989": {
             "config": {
@@ -31,9 +31,9 @@
         "2427411": {
             "manifests": {
                 "public": {
-                    "gid": "3732190926428121477",
-                    "size": "12008709580",
-                    "download": "7393113184"
+                    "gid": "1890676612628375808",
+                    "size": "12010918850",
+                    "download": "7396497440"
                 }
             },
             "decryptionkey": "b846b553ca61c86d7281f7f121dab3628adebb5655e6bb80262c1a06780f14a6"
@@ -41,8 +41,8 @@
         "workshopdepot": "2427410",
         "branches": {
             "public": {
-                "buildid": "18751547",
-                "timeupdated": "1749726178"
+                "buildid": "19159499",
+                "timeupdated": "1752163120"
             }
         },
         "privatebranches": "1",
