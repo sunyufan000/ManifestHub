@@ -1,0 +1,31 @@
+{
+    "appid": 1019986,
+    "name": "DYNASTY WARRIORS 9: Ma Dai \"Knight Costume\" / 馬岱「騎士風コスチューム」",
+    "type": "DLC",
+    "schinese_name": "",
+    "isfreeapp": 0,
+    "update_time": "2025-06-23 13:40:57",
+    "change_number": 26201212,
+    "depot": {
+        "1019986": {
+            "config": {
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "2172491574457243033",
+                    "size": "43588072",
+                    "download": "43431184"
+                }
+            },
+            "dlcappid": "1019986",
+            "decryptionkey": "2bc1ca8b55ccd70f3e3f0ee493d40baa477bed0d4c932f32ec1a1774a2d535fa"
+        },
+        "branches": {
+            "public": {
+                "buildid": "3616880",
+                "timeupdated": "1551776664"
+            }
+        }
+    }
+}
