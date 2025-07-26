@@ -4,9 +4,10 @@
     "type": "Game",
     "schinese_name": "",
     "isfreeapp": 0,
-    "update_time": "2025-05-27 17:54:49",
-    "change_number": 29209185,
+    "update_time": "2025-07-03 10:40:37",
+    "change_number": 29876108,
     "depot": {
+        "baselanguages": "english,german,french,italian,koreana,spanish,schinese,tchinese,russian,japanese,polish,brazilian",
         "228988": {
             "config": {
                 "oslist": "windows"
@@ -50,7 +51,6 @@
             },
             "decryptionkey": "76f9add990b1becf8fea2ff19733ccb4bfda9e41437de3163903cc515d8d109d"
         },
-        "baselanguages": "english,german,french,italian,koreana,spanish,schinese,tchinese,russian,japanese,polish,brazilian",
         "branches": {
             "public": {
                 "buildid": "17321996",
