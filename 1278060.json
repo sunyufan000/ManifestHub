@@ -4,8 +4,8 @@
     "type": "Game",
     "schinese_name": "",
     "isfreeapp": 1,
-    "update_time": "2025-06-19 00:34:01",
-    "change_number": 29633140,
+    "update_time": "2025-07-21 12:06:53",
+    "change_number": 30165389,
     "depot": {
         "baselanguages": "english",
         "hasdepotsindlc": "1",
@@ -30,9 +30,9 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "4973427865946594530",
-                    "size": "8353192119",
-                    "download": "5779671024"
+                    "gid": "8632586945363561354",
+                    "size": "8353375426",
+                    "download": "6558874384"
                 },
                 "old_builds": {
                     "gid": "8534095126254959534",
@@ -48,9 +48,9 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "8576612907642380869",
-                    "size": "7937533355",
-                    "download": "5574737616"
+                    "gid": "7210813493424571709",
+                    "size": "7937713908",
+                    "download": "6296772176"
                 },
                 "old_builds": {
                     "gid": "7483019672312896608",
@@ -66,9 +66,9 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "5720905515160821142",
-                    "size": "7836612749",
-                    "download": "5542147264"
+                    "gid": "8328655277558054610",
+                    "size": "7836650643",
+                    "download": "6256482848"
                 },
                 "old_builds": {
                     "gid": "1165879111763461459",
@@ -80,8 +80,8 @@
         },
         "branches": {
             "public": {
-                "buildid": "18915139",
-                "timeupdated": "1750264434"
+                "buildid": "19177425",
+                "timeupdated": "1752162021"
             },
             "old_builds": {
                 "buildid": "9386212",
