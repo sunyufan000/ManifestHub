@@ -4,9 +4,10 @@
     "type": "Game",
     "schinese_name": "云族裔",
     "isfreeapp": 0,
-    "update_time": "2025-06-20 17:37:47",
-    "change_number": 29665409,
+    "update_time": "2025-07-22 19:42:32",
+    "change_number": 30192307,
     "depot": {
+        "baselanguages": "english,german,french,italian,koreana,spanish,schinese,tchinese,russian,japanese,portuguese,polish,brazilian",
         "228989": {
             "config": {
                 "oslist": "windows"
@@ -24,18 +25,23 @@
         "2456741": {
             "manifests": {
                 "public": {
-                    "gid": "8683211959767049661",
-                    "size": "26832647889",
-                    "download": "23793538448"
+                    "gid": "3128539101731478624",
+                    "size": "26831678621",
+                    "download": "23792264672"
                 }
             },
             "decryptionkey": "e91cba2d1d471bdfb115bee76ac997858f84e6ab0a82af5f17d0054f8a3c9686"
         },
-        "baselanguages": "english,german,french,italian,koreana,spanish,schinese,tchinese,russian,japanese,portuguese,polish,brazilian",
+        "3887680": {
+            "dlcappid": "3887680",
+            "config": {
+                "oslist": "windows"
+            }
+        },
         "branches": {
             "public": {
-                "buildid": "18937663",
-                "timeupdated": "1750412261"
+                "buildid": "19065395",
+                "timeupdated": "1751432408"
             }
         },
         "privatebranches": "1"
