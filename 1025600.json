@@ -1,0 +1,44 @@
+{
+    "appid": 1025600,
+    "name": "Battle Realms: Zen Edition",
+    "type": "Game",
+    "schinese_name": "",
+    "isfreeapp": 0,
+    "update_time": "2025-07-07 00:15:55",
+    "change_number": 29921716,
+    "depot": {
+        "1025601": {
+            "config": {
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "9179683603830464495",
+                    "size": "2787597461",
+                    "download": "1428554800"
+                },
+                "beta": {
+                    "gid": "8834728196460455415",
+                    "size": "2639008982",
+                    "download": "1487531760"
+                }
+            },
+            "decryptionkey": "4fcdfcbad24c7f621af25f25edd05bfd7d5061b6b698e3b4634b53f7003f1341"
+        },
+        "baselanguages": "english",
+        "workshopdepot": "1025600",
+        "branches": {
+            "public": {
+                "buildid": "17212001",
+                "timeupdated": "1738446137"
+            },
+            "beta": {
+                "buildid": "19125213",
+                "description": "Public beta version",
+                "timeupdated": "1751836287"
+            }
+        },
+        "privatebranches": "1",
+        "workshopdepotdecryptionkey": ""
+    }
+}
