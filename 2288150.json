@@ -4,8 +4,8 @@
     "type": "Game",
     "schinese_name": "三国志8  REMAKE",
     "isfreeapp": 0,
-    "update_time": "2025-06-16 10:41:38",
-    "change_number": 29579723,
+    "update_time": "2025-07-07 06:29:59",
+    "change_number": 29925137,
     "depot": {
         "baselanguages": "english,koreana,schinese,tchinese,japanese",
         "228989": {
@@ -258,6 +258,14 @@
                 }
             },
             "decryptionkey": "32a9248c4722c47cb040f299070ab38c848607cf20b33b40b908d4dd2c1913dd"
+        },
+        "3652820": {
+            "dlcappid": "3652820",
+            "config": {
+                "oslist": "windows",
+                "osarch": "64"
+            },
+            "manifests": {}
         },
         "branches": {
             "public": {
