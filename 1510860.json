@@ -3,9 +3,9 @@
     "name": "Out of Sight",
     "type": "Game",
     "schinese_name": "",
-    "isfreeapp": 0,
-    "update_time": "2025-06-14 00:15:50",
-    "change_number": 29553286,
+    "isfreeapp": 1,
+    "update_time": "2025-07-15 20:10:53",
+    "change_number": 30075539,
     "depot": {
         "1510862": {
             "config": {
