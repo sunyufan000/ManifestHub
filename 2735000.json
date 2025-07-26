@@ -4,7 +4,7 @@
     "type": "Game",
     "schinese_name": "另一个最难的游戏: PATCH 起源",
     "isfreeapp": 0,
-    "update_time": "2025-06-09 18:56:30",
+    "update_time": "2025-06-23 11:38:00",
     "change_number": 29460478,
     "depot": {
         "2735001": {
@@ -33,7 +33,7 @@
                     "download": "50919632"
                 }
             },
-            "decryptionkey": ""
+            "decryptionkey": "378ce95bc9795ccda8be6aba7bee430012edaf175c513b0a6461b41f83b7caf2"
         },
         "2735003": {
             "config": {
