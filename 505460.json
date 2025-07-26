@@ -4,8 +4,8 @@
     "type": "Game",
     "schinese_name": "散兵坑",
     "isfreeapp": 0,
-    "update_time": "2025-06-20 16:36:01",
-    "change_number": 29664467,
+    "update_time": "2025-07-23 19:16:21",
+    "change_number": 30212432,
     "depot": {
         "228988": {
             "config": {
@@ -24,9 +24,9 @@
         "505461": {
             "manifests": {
                 "public": {
-                    "gid": "5047839360374171139",
-                    "size": "19578253686",
-                    "download": "6495913984"
+                    "gid": "4729989601359432294",
+                    "size": "19579567097",
+                    "download": "6496340752"
                 },
                 "devbranch": {
                     "gid": "1928804326390958437",
@@ -38,8 +38,8 @@
         },
         "branches": {
             "public": {
-                "buildid": "18904619",
-                "timeupdated": "1750257515"
+                "buildid": "19097264",
+                "timeupdated": "1751639483"
             },
             "devbranch": {
                 "buildid": "18813504",
