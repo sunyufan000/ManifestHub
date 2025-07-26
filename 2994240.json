@@ -4,8 +4,8 @@
     "type": "Game",
     "schinese_name": "诸神之劫：自走棋",
     "isfreeapp": 0,
-    "update_time": "2025-06-20 05:25:27",
-    "change_number": 29654325,
+    "update_time": "2025-07-15 11:02:45",
+    "change_number": 30065744,
     "depot": {
         "baselanguages": "english",
         "2994241": {
@@ -14,9 +14,9 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "1893584443881909809",
-                    "size": "639951561",
-                    "download": "80119312"
+                    "gid": "3228694708243915646",
+                    "size": "639948593",
+                    "download": "80115312"
                 }
             },
             "decryptionkey": "92f5f649f24970c0ccda65596884c173ef289cc05131497508acda608c709060"
@@ -27,9 +27,9 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "4324264738231083266",
-                    "size": "638832805",
-                    "download": "78494576"
+                    "gid": "7604050416840354745",
+                    "size": "638829837",
+                    "download": "78490080"
                 }
             }
         },
@@ -47,8 +47,8 @@
         },
         "branches": {
             "public": {
-                "buildid": "18928681",
-                "timeupdated": "1750346931"
+                "buildid": "19228103",
+                "timeupdated": "1752573758"
             }
         },
         "privatebranches": "1"
