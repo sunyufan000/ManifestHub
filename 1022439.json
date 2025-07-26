@@ -1,0 +1,28 @@
+{
+    "appid": 1022439,
+    "name": "DFF NT: Onion Knight Starter Pack",
+    "type": "DLC",
+    "schinese_name": "",
+    "isfreeapp": 0,
+    "update_time": "2025-06-23 14:10:09",
+    "change_number": 26201212,
+    "depot": {
+        "1022439": {
+            "manifests": {
+                "public": {
+                    "gid": "5961887823718926994",
+                    "size": "0",
+                    "download": "0"
+                }
+            },
+            "dlcappid": "1022439",
+            "decryptionkey": "dc92aaadcea5b4f7ab1e5786b4435fd49e85a776087128bc43328bfd3f125b78"
+        },
+        "branches": {
+            "public": {
+                "buildid": "3508019",
+                "timeupdated": "1548672237"
+            }
+        }
+    }
+}
