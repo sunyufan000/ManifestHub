@@ -4,8 +4,8 @@
     "type": "Game",
     "schinese_name": "凯恩与林奇2：伏署",
     "isfreeapp": 0,
-    "update_time": "2025-05-24 03:56:59",
-    "change_number": 29157885,
+    "update_time": "2025-07-10 14:43:31",
+    "change_number": 29989248,
     "depot": {
         "28017": {
             "optional": "1",
@@ -65,7 +65,7 @@
                     "download": "0"
                 }
             },
-            "decryptionkey": ""
+            "decryptionkey": "77863523ddb8c2358d84f12cbae74e0d89f8c6297a5a34b30064daf88672649d"
         },
         "28002": {
             "config": {
