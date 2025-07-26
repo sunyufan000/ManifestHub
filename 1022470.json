@@ -1,0 +1,28 @@
+{
+    "appid": 1022470,
+    "name": "DFF NT: Noctis Lucis Caelum Starter Pack",
+    "type": "DLC",
+    "schinese_name": "",
+    "isfreeapp": 0,
+    "update_time": "2025-06-23 14:10:16",
+    "change_number": 26201212,
+    "depot": {
+        "1022470": {
+            "manifests": {
+                "public": {
+                    "gid": "4940108005234831094",
+                    "size": "0",
+                    "download": "0"
+                }
+            },
+            "dlcappid": "1022470",
+            "decryptionkey": "79fb43e9b0d390fa8c017378aa01d6abd5ba3302431a5e36f9965ce82a3aa3cc"
+        },
+        "branches": {
+            "public": {
+                "buildid": "3508045",
+                "timeupdated": "1548672003"
+            }
+        }
+    }
+}
