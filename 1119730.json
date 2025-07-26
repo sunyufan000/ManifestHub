@@ -4,8 +4,8 @@
     "type": "Game",
     "schinese_name": "牧场模拟器",
     "isfreeapp": 0,
-    "update_time": "2025-06-13 22:22:59",
-    "change_number": 29551366,
+    "update_time": "2025-07-15 14:32:52",
+    "change_number": 30069338,
     "depot": {
         "228989": {
             "config": {
@@ -38,9 +38,9 @@
         "1119731": {
             "manifests": {
                 "public": {
-                    "gid": "2468362445476924622",
-                    "size": "21690318802",
-                    "download": "9213004784"
+                    "gid": "4004464256805224807",
+                    "size": "21786831410",
+                    "download": "9262861200"
                 },
                 "previousupdate": {
                     "gid": "2191962334811392174",
@@ -53,22 +53,22 @@
                     "download": "6453377984"
                 },
                 "sessionidtest": {
-                    "gid": "2468362445476924622",
-                    "size": "21690318802",
-                    "download": "9213004784"
+                    "gid": "4004464256805224807",
+                    "size": "21786831410",
+                    "download": "9262861200"
                 },
                 "unstable_branch": {
-                    "gid": "6347797004237335275",
-                    "size": "21786704224",
-                    "download": "9260555488"
+                    "gid": "4004464256805224807",
+                    "size": "21786831410",
+                    "download": "9262861200"
                 }
             },
             "decryptionkey": "5ba0690900411cc3e2378222e0e437425d26e3b81707810123555cf0c5606a77"
         },
         "branches": {
             "public": {
-                "buildid": "17836291",
-                "timeupdated": "1743087610"
+                "buildid": "19062954",
+                "timeupdated": "1751985458"
             },
             "previousupdate": {
                 "buildid": "10291479",
@@ -81,14 +81,14 @@
                 "timeupdated": "1698842637"
             },
             "sessionidtest": {
-                "buildid": "17836291",
+                "buildid": "19062954",
                 "description": "sessionidtest",
-                "timeupdated": "1743087580"
+                "timeupdated": "1751985479"
             },
             "unstable_branch": {
-                "buildid": "18811892",
+                "buildid": "19062954",
                 "description": "Unstable test branch",
-                "timeupdated": "1749824575"
+                "timeupdated": "1751377256"
             }
         },
         "privatebranches": "1"
