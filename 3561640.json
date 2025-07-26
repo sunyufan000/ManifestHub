@@ -4,8 +4,8 @@
     "type": "Game",
     "schinese_name": "拳锋",
     "isfreeapp": 0,
-    "update_time": "2025-06-18 21:29:56",
-    "change_number": 29629708,
+    "update_time": "2025-06-23 10:10:50",
+    "change_number": 29698136,
     "depot": {
         "baselanguages": "english,german,french,italian,koreana,spanish,schinese,russian,japanese,portuguese,arabic,indonesian",
         "228989": {
@@ -25,9 +25,9 @@
         "3561641": {
             "manifests": {
                 "public": {
-                    "gid": "4685031764569443480",
-                    "size": "3112512559",
-                    "download": "2895429360"
+                    "gid": "8440531738945767130",
+                    "size": "3114448231",
+                    "download": "2897231248"
                 }
             },
             "decryptionkey": "3d5c781c01ef5935baa587cb1b89c9c0dafee378a0fff3ff502a8e5ae561594a"
@@ -40,8 +40,8 @@
         },
         "branches": {
             "public": {
-                "buildid": "18894881",
-                "timeupdated": "1750151604"
+                "buildid": "18960049",
+                "timeupdated": "1750652211"
             }
         }
     }
