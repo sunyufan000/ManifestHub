@@ -4,8 +4,8 @@
     "type": "Game",
     "schinese_name": "星源遗境",
     "isfreeapp": 0,
-    "update_time": "2025-06-18 06:05:46",
-    "change_number": 29610178,
+    "update_time": "2025-07-23 11:36:24",
+    "change_number": 30204542,
     "depot": {
         "228989": {
             "config": {
@@ -56,9 +56,9 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "7345623958705843395",
-                    "size": "2749169894",
-                    "download": "2414445904"
+                    "gid": "3002149752033401768",
+                    "size": "2789811164",
+                    "download": "2602269520"
                 }
             },
             "decryptionkey": "367b3a2f12228395772f19026cb3f27d7f316868a94468943ac25c99a0b12706"
@@ -66,8 +66,8 @@
         "baselanguages": "english,schinese,japanese",
         "branches": {
             "public": {
-                "buildid": "18823847",
-                "timeupdated": "1749641285"
+                "buildid": "19327566",
+                "timeupdated": "1753266981"
             }
         }
     }
