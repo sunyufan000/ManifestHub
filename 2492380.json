@@ -4,8 +4,8 @@
     "type": "Application",
     "schinese_name": "",
     "isfreeapp": 0,
-    "update_time": "2025-06-20 10:22:13",
-    "change_number": 29660112,
+    "update_time": "2025-07-20 09:01:36",
+    "change_number": 30152874,
     "depot": {
         "228989": {
             "config": {
@@ -21,14 +21,19 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "2674569948863351076",
-                    "size": "65261650",
-                    "download": "34318208"
+                    "gid": "2774416163005780518",
+                    "size": "65339894",
+                    "download": "35918048"
                 },
                 "experimental": {
-                    "gid": "189943713459758487",
-                    "size": "65338210",
-                    "download": "35418176"
+                    "gid": "4506849684940065442",
+                    "size": "67086755",
+                    "download": "37654176"
+                },
+                "ver1.1.60": {
+                    "gid": "2774416163005780518",
+                    "size": "65339894",
+                    "download": "35918048"
                 },
                 "ver1.1.55": {
                     "gid": "2674569948863351076",
@@ -139,11 +144,6 @@
                     "gid": "3563449368142996615",
                     "size": "62018828",
                     "download": "33997664"
-                },
-                "ver1.0.22.107": {
-                    "gid": "2185645590794919345",
-                    "size": "62010212",
-                    "download": "34000688"
                 }
             },
             "decryptionkey": "332da825e216c9fbdb19cf25246e5b80a32abd4b74459286eb344a6f059e386d"
@@ -151,13 +151,18 @@
         "baselanguages": "english,japanese",
         "branches": {
             "public": {
-                "buildid": "18498019",
-                "timeupdated": "1747895334"
+                "buildid": "18975923",
+                "timeupdated": "1750744448"
             },
             "experimental": {
-                "buildid": "18934281",
+                "buildid": "19290036",
                 "description": "experimental",
-                "timeupdated": "1750386127"
+                "timeupdated": "1752998490"
+            },
+            "ver1.1.60": {
+                "buildid": "18975923",
+                "description": "ver1.1.60",
+                "timeupdated": "1750744529"
             },
             "ver1.1.55": {
                 "buildid": "18498019",
@@ -268,11 +273,6 @@
                 "buildid": "12669226",
                 "description": "ver1.0.24.109",
                 "timeupdated": "1705030559"
-            },
-            "ver1.0.22.107": {
-                "buildid": "12611273",
-                "description": "ver1.0.22.107",
-                "timeupdated": "1705030514"
             }
         }
     }
