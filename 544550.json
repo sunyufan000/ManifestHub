@@ -4,8 +4,8 @@
     "type": "Game",
     "schinese_name": "空间站工程师",
     "isfreeapp": 0,
-    "update_time": "2025-06-18 12:00:41",
-    "change_number": 29621349,
+    "update_time": "2025-07-24 01:04:56",
+    "change_number": 30216850,
     "depot": {
         "228988": {
             "config": {
@@ -44,9 +44,9 @@
                     "download": "2812867792"
                 },
                 "beta": {
-                    "gid": "9206139682219516507",
-                    "size": "6401643253",
-                    "download": "4437013376"
+                    "gid": "7822401046727408404",
+                    "size": "10549194442",
+                    "download": "7235850384"
                 },
                 "preterrain": {
                     "gid": "6273536449893847180",
@@ -77,9 +77,9 @@
                 "timeupdated": "1702360900"
             },
             "beta": {
-                "buildid": "18906700",
+                "buildid": "19336425",
                 "description": "beta branch",
-                "timeupdated": "1750219234"
+                "timeupdated": "1753315492"
             },
             "preterrain": {
                 "buildid": "15643425",
