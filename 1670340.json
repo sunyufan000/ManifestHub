@@ -4,8 +4,8 @@
     "type": "Tool",
     "schinese_name": "",
     "isfreeapp": 0,
-    "update_time": "2025-06-19 11:15:17",
-    "change_number": 29641304,
+    "update_time": "2025-07-23 19:36:31",
+    "change_number": 30212673,
     "depot": {
         "1004": {
             "config": {
@@ -13,9 +13,9 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "7747775778018907449",
-                    "size": "46727128",
-                    "download": "14307024"
+                    "gid": "8904491048620934740",
+                    "size": "68697032",
+                    "download": "20552544"
                 }
             },
             "depotfromapp": "1007",
@@ -41,9 +41,9 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "7138471031118904166",
-                    "size": "78382436",
-                    "download": "21254752"
+                    "gid": "5587033981095108078",
+                    "size": "107476144",
+                    "download": "29272144"
                 }
             },
             "depotfromapp": "1007",
@@ -56,9 +56,9 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "3120617379183108547",
-                    "size": "30970538545",
-                    "download": "20159905968"
+                    "gid": "7755798201785460005",
+                    "size": "31605815169",
+                    "download": "20742508320"
                 },
                 "alpha-unstable-edge": {
                     "gid": "5075740589620391959",
@@ -66,9 +66,9 @@
                     "download": "1247557728"
                 },
                 "alpha-unstable": {
-                    "gid": "4228565901410342650",
-                    "size": "31605523251",
-                    "download": "20594675088"
+                    "gid": "7755798201785460005",
+                    "size": "31605815169",
+                    "download": "20742508320"
                 }
             },
             "decryptionkey": "8eaa170ccca19e9e8637f1f5a9e5f7b12210564418efde5bdf59fb0368649998"
@@ -80,9 +80,9 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "8274638876734666381",
-                    "size": "27142820280",
-                    "download": "17045630272"
+                    "gid": "4077510768191824015",
+                    "size": "27778746607",
+                    "download": "17624373520"
                 },
                 "alpha-unstable-edge": {
                     "gid": "9139767168242332731",
@@ -90,9 +90,9 @@
                     "download": "1383102896"
                 },
                 "alpha-unstable": {
-                    "gid": "1292530855415761775",
-                    "size": "19917413790",
-                    "download": "12092294736"
+                    "gid": "4077510768191824015",
+                    "size": "27778746607",
+                    "download": "17624373520"
                 }
             },
             "decryptionkey": "6594d309cb7b8bd69967f25c85d197cb3fb3deb6cff8074b51fe9dbf6a8ebcd2"
@@ -100,8 +100,8 @@
         "workshopdepot": "1670340",
         "branches": {
             "public": {
-                "buildid": "17920236",
-                "timeupdated": "1744016529"
+                "buildid": "19258541",
+                "timeupdated": "1753243345"
             },
             "alpha-unstable-edge": {
                 "buildid": "8272753",
@@ -109,9 +109,9 @@
                 "timeupdated": "1646028165"
             },
             "alpha-unstable": {
-                "buildid": "18910954",
+                "buildid": "19258541",
                 "description": "This branch is literally unstable.",
-                "timeupdated": "1750302913"
+                "timeupdated": "1752807214"
             }
         },
         "privatebranches": "1",
