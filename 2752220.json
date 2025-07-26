@@ -4,8 +4,8 @@
     "type": "Game",
     "schinese_name": "满车率300% 贰",
     "isfreeapp": 0,
-    "update_time": "2025-06-22 10:17:01",
-    "change_number": 29687229,
+    "update_time": "2025-07-17 08:18:10",
+    "change_number": 30104992,
     "depot": {
         "baselanguages": "english,schinese,tchinese,japanese",
         "2752221": {
@@ -20,7 +20,7 @@
                     "download": "6578730896"
                 }
             },
-            "decryptionkey": ""
+            "decryptionkey": "80b45ac41c38b1be326a9a8ca20576ce81ffec2c38848758816ada5ea6d15755"
         },
         "2752222": {
             "config": {
@@ -34,7 +34,7 @@
                     "download": "6581329408"
                 }
             },
-            "decryptionkey": ""
+            "decryptionkey": "cb2ae60ff1898fbee6a056ce1307bbbaf8efe720448c5aad07c93c99fea477a5"
         },
         "2752223": {
             "config": {
