@@ -4,8 +4,8 @@
     "type": "Application",
     "schinese_name": "",
     "isfreeapp": 0,
-    "update_time": "2025-05-23 11:56:32",
-    "change_number": 29141710,
+    "update_time": "2025-07-16 22:37:52",
+    "change_number": 30098111,
     "depot": {
         "overridescddb": "1",
         "workshopdepot": "280680",
@@ -43,9 +43,9 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "8300849784599135186",
-                    "size": "545166127",
-                    "download": "176504688"
+                    "gid": "257553361850733865",
+                    "size": "549635288",
+                    "download": "190644352"
                 },
                 "rollback": {
                     "gid": "6333154296950230284",
@@ -62,9 +62,9 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "3146621334072240907",
-                    "size": "1003593696",
-                    "download": "305229616"
+                    "gid": "6739448752876182877",
+                    "size": "938045796",
+                    "download": "311282288"
                 },
                 "rollback": {
                     "gid": "1285552380979750503",
@@ -81,9 +81,9 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "3339336248399235216",
-                    "size": "946519556",
-                    "download": "258449248"
+                    "gid": "5206442357350595520",
+                    "size": "946816096",
+                    "download": "277417424"
                 },
                 "rollback": {
                     "gid": "5500175666311093483",
@@ -95,8 +95,8 @@
         },
         "branches": {
             "public": {
-                "buildid": "17153183",
-                "timeupdated": "1738036509"
+                "buildid": "19251086",
+                "timeupdated": "1752701868"
             },
             "rollback": {
                 "buildid": "12917408",
