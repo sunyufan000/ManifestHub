@@ -4,8 +4,8 @@
     "type": "Game",
     "schinese_name": "龙族至宝：广茂之绿 (Golden Treasure: The Great Green)",
     "isfreeapp": 0,
-    "update_time": "2025-06-17 08:07:52",
-    "change_number": 29597972,
+    "update_time": "2025-07-16 13:15:45",
+    "change_number": 30088852,
     "depot": {
         "workshopdepot": "1065100",
         "1065101": {
@@ -14,9 +14,9 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "7392888683507184227",
-                    "size": "1558519566",
-                    "download": "988285616"
+                    "gid": "4106958266150911360",
+                    "size": "1564306538",
+                    "download": "1001306256"
                 }
             },
             "decryptionkey": "a1c5b0a512a02842c121d5046ecbe638c69185c05076d013ee2c097af144b30f"
@@ -28,9 +28,9 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "3959097070547084025",
-                    "size": "1564028220",
-                    "download": "986996640"
+                    "gid": "4167447982555002489",
+                    "size": "1569819052",
+                    "download": "1001055136"
                 }
             }
         },
@@ -60,8 +60,8 @@
         },
         "branches": {
             "public": {
-                "buildid": "18460670",
-                "timeupdated": "1747228455"
+                "buildid": "19171519",
+                "timeupdated": "1752131599"
             }
         },
         "privatebranches": "1",
