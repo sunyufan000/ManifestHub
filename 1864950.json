@@ -4,8 +4,8 @@
     "type": "Game",
     "schinese_name": "杯丝特魔球",
     "isfreeapp": 0,
-    "update_time": "2025-06-21 00:28:36",
-    "change_number": 29672024,
+    "update_time": "2025-07-11 21:36:23",
+    "change_number": 30019555,
     "depot": {
         "1864951": {
             "config": {
@@ -13,9 +13,9 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "340381792408806273",
-                    "size": "1479999410",
-                    "download": "1256955728"
+                    "gid": "4810760999704058943",
+                    "size": "1480443751",
+                    "download": "1256837808"
                 },
                 "april-fools": {
                     "gid": "5574104390046082997",
@@ -23,9 +23,9 @@
                     "download": "1193371344"
                 },
                 "experimental": {
-                    "gid": "340381792408806273",
-                    "size": "1479999410",
-                    "download": "1256955728"
+                    "gid": "4810760999704058943",
+                    "size": "1480443751",
+                    "download": "1256837808"
                 },
                 "networklog": {
                     "gid": "7691339848505514156",
@@ -41,9 +41,9 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "2115619673487791070",
-                    "size": "1556688070",
-                    "download": "1280329984"
+                    "gid": "895656475385909169",
+                    "size": "1557080021",
+                    "download": "1280232432"
                 },
                 "april-fools": {
                     "gid": "5685081862995255569",
@@ -51,9 +51,9 @@
                     "download": "1212557408"
                 },
                 "experimental": {
-                    "gid": "2115619673487791070",
-                    "size": "1556688070",
-                    "download": "1280329984"
+                    "gid": "895656475385909169",
+                    "size": "1557080021",
+                    "download": "1280232432"
                 },
                 "networklog": {
                     "gid": "1625720811875777802",
@@ -64,8 +64,8 @@
         },
         "branches": {
             "public": {
-                "buildid": "18942532",
-                "timeupdated": "1750436896"
+                "buildid": "19196191",
+                "timeupdated": "1752266178"
             },
             "april-fools": {
                 "buildid": "17933999",
@@ -73,9 +73,9 @@
                 "timeupdated": "1743480418"
             },
             "experimental": {
-                "buildid": "18942532",
+                "buildid": "19196191",
                 "description": "For frequent updates + experimental changes",
-                "timeupdated": "1750436868"
+                "timeupdated": "1752266155"
             },
             "networklog": {
                 "buildid": "17931787",
