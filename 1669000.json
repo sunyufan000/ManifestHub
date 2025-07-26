@@ -4,8 +4,8 @@
     "type": "Game",
     "schinese_name": "奇迹时代4",
     "isfreeapp": 0,
-    "update_time": "2025-06-12 16:04:14",
-    "change_number": 29523695,
+    "update_time": "2025-07-23 16:31:09",
+    "change_number": 30209437,
     "depot": {
         "workshopdepot": "1669000",
         "228988": {
@@ -36,6 +36,11 @@
                     "size": "25661155698",
                     "download": "14311459408"
                 },
+                "griffon_beta": {
+                    "gid": "1040298239730484591",
+                    "size": "26317106424",
+                    "download": "14686629936"
+                },
                 "open_beta": {
                     "gid": "662824562549072781",
                     "size": "25661155698",
@@ -55,6 +60,11 @@
                     "size": "358218686",
                     "download": "116496064"
                 },
+                "griffon_beta": {
+                    "gid": "5824437330060876621",
+                    "size": "361453046",
+                    "download": "134928912"
+                },
                 "open_beta": {
                     "gid": "8566602799708842069",
                     "size": "358218686",
@@ -67,6 +77,11 @@
             "dlcappid": "2257970",
             "manifests": {
                 "public": {
+                    "gid": "2865807012584769022",
+                    "size": "163176",
+                    "download": "164768"
+                },
+                "griffon_beta": {
                     "gid": "2865807012584769022",
                     "size": "163176",
                     "download": "164768"
@@ -87,6 +102,11 @@
                     "size": "161493",
                     "download": "163056"
                 },
+                "griffon_beta": {
+                    "gid": "3586028993103183297",
+                    "size": "161493",
+                    "download": "163056"
+                },
                 "open_beta": {
                     "gid": "3586028993103183297",
                     "size": "161493",
@@ -99,6 +119,11 @@
             "dlcappid": "2330150",
             "manifests": {
                 "public": {
+                    "gid": "1952808027203437358",
+                    "size": "145854",
+                    "download": "147392"
+                },
+                "griffon_beta": {
                     "gid": "1952808027203437358",
                     "size": "145854",
                     "download": "147392"
@@ -119,6 +144,11 @@
                     "size": "184113",
                     "download": "186208"
                 },
+                "griffon_beta": {
+                    "gid": "7815419419515787571",
+                    "size": "184113",
+                    "download": "186208"
+                },
                 "open_beta": {
                     "gid": "7815419419515787571",
                     "size": "184113",
@@ -131,6 +161,11 @@
             "dlcappid": "2401830",
             "manifests": {
                 "public": {
+                    "gid": "3447008450579376002",
+                    "size": "177441",
+                    "download": "179296"
+                },
+                "griffon_beta": {
                     "gid": "3447008450579376002",
                     "size": "177441",
                     "download": "179296"
@@ -151,6 +186,11 @@
                     "size": "174865",
                     "download": "176720"
                 },
+                "griffon_beta": {
+                    "gid": "4962773803312409013",
+                    "size": "174865",
+                    "download": "176720"
+                },
                 "open_beta": {
                     "gid": "4962773803312409013",
                     "size": "174865",
@@ -163,6 +203,11 @@
             "dlcappid": "2401860",
             "manifests": {
                 "public": {
+                    "gid": "7513830674370079236",
+                    "size": "169789",
+                    "download": "171696"
+                },
+                "griffon_beta": {
                     "gid": "7513830674370079236",
                     "size": "169789",
                     "download": "171696"
@@ -183,6 +228,11 @@
                     "size": "152039",
                     "download": "153488"
                 },
+                "griffon_beta": {
+                    "gid": "5200052240744467692",
+                    "size": "152039",
+                    "download": "153488"
+                },
                 "open_beta": {
                     "gid": "5200052240744467692",
                     "size": "152039",
@@ -195,6 +245,11 @@
             "dlcappid": "2914280",
             "manifests": {
                 "public": {
+                    "gid": "8430218516059799238",
+                    "size": "171549",
+                    "download": "173328"
+                },
+                "griffon_beta": {
                     "gid": "8430218516059799238",
                     "size": "171549",
                     "download": "173328"
@@ -215,6 +270,11 @@
                     "size": "158543",
                     "download": "159872"
                 },
+                "griffon_beta": {
+                    "gid": "5177705880271432925",
+                    "size": "158543",
+                    "download": "159872"
+                },
                 "open_beta": {
                     "gid": "5177705880271432925",
                     "size": "158543",
@@ -223,10 +283,19 @@
             },
             "decryptionkey": "f597777e5312438bf357be4399b5be50ebe4b75a469dd5afcb5093d146926979"
         },
+        "3181540": {
+            "dlcappid": "3181540",
+            "manifests": {}
+        },
         "branches": {
             "public": {
                 "buildid": "18209604",
                 "timeupdated": "1745931437"
+            },
+            "griffon_beta": {
+                "buildid": "19316002",
+                "description": "The Griffon Beta is here",
+                "timeupdated": "1753194154"
             },
             "open_beta": {
                 "buildid": "18209604",
