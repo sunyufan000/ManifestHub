@@ -4,8 +4,8 @@
     "type": "Game",
     "schinese_name": "",
     "isfreeapp": 0,
-    "update_time": "2025-06-20 16:00:20",
-    "change_number": 29663910,
+    "update_time": "2025-07-16 08:37:31",
+    "change_number": 30084209,
     "depot": {
         "711981": {
             "config": {
@@ -14,9 +14,9 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "2477555829597462636",
-                    "size": "1438012702",
-                    "download": "421375248"
+                    "gid": "3230044301619444793",
+                    "size": "1411148303",
+                    "download": "422910032"
                 },
                 "legacy_neovox": {
                     "gid": "1886383844593258079",
@@ -24,9 +24,9 @@
                     "download": "294104032"
                 },
                 "experimental": {
-                    "gid": "8603671400970844273",
-                    "size": "1397973000",
-                    "download": "409216800"
+                    "gid": "3230044301619444793",
+                    "size": "1411148303",
+                    "download": "422910032"
                 },
                 "factions": {
                     "gid": "245218177408054689",
@@ -39,8 +39,8 @@
         "workshopdepot": "711980",
         "branches": {
             "public": {
-                "buildid": "18818303",
-                "timeupdated": "1749605381"
+                "buildid": "19241180",
+                "timeupdated": "1752651413"
             },
             "legacy_neovox": {
                 "buildid": "6479509",
@@ -48,8 +48,8 @@
                 "timeupdated": "1622443515"
             },
             "experimental": {
-                "buildid": "18937058",
-                "timeupdated": "1750406415"
+                "buildid": "19241180",
+                "timeupdated": "1752651447"
             },
             "factions": {
                 "buildid": "18804881",
