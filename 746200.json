@@ -4,8 +4,8 @@
     "type": "Tool",
     "schinese_name": "",
     "isfreeapp": 0,
-    "update_time": "2025-06-09 17:10:08",
-    "change_number": 29458639,
+    "update_time": "2025-07-23 19:35:19",
+    "change_number": 30212673,
     "depot": {
         "1004": {
             "config": {
@@ -13,9 +13,9 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "7747775778018907449",
-                    "size": "46727128",
-                    "download": "14307024"
+                    "gid": "8904491048620934740",
+                    "size": "68697032",
+                    "download": "20552544"
                 }
             },
             "depotfromapp": "1007",
@@ -41,9 +41,9 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "7138471031118904166",
-                    "size": "78382436",
-                    "download": "21254752"
+                    "gid": "5587033981095108078",
+                    "size": "107476144",
+                    "download": "29272144"
                 }
             },
             "depotfromapp": "1007",
@@ -77,9 +77,9 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "7387409002045372468",
-                    "size": "29276009344",
-                    "download": "11648447952"
+                    "gid": "7696906868562299060",
+                    "size": "29596420151",
+                    "download": "11676413984"
                 },
                 "cinematic-branch": {
                     "gid": "5134661732417894322",
@@ -101,9 +101,9 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "8835774575246826988",
-                    "size": "31296997688",
-                    "download": "11892815920"
+                    "gid": "1675722570615680952",
+                    "size": "31647887683",
+                    "download": "11931098368"
                 },
                 "cinematic-branch": {
                     "gid": "2154165448052012121",
@@ -119,8 +119,8 @@
         },
         "branches": {
             "public": {
-                "buildid": "18378802",
-                "timeupdated": "1746723007"
+                "buildid": "19097760",
+                "timeupdated": "1751905173"
             },
             "cinematic-branch": {
                 "buildid": "4334767",
