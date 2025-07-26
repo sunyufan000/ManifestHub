@@ -4,8 +4,8 @@
     "type": "Game",
     "schinese_name": "钢铁之种",
     "isfreeapp": 0,
-    "update_time": "2025-06-20 05:25:38",
-    "change_number": 29652332,
+    "update_time": "2025-07-22 15:43:02",
+    "change_number": 30188192,
     "depot": {
         "baselanguages": "english",
         "228989": {
@@ -28,9 +28,9 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "2802080638504533570",
-                    "size": "40673860850",
-                    "download": "29564381072"
+                    "gid": "5904060916341964624",
+                    "size": "40705517583",
+                    "download": "29592868736"
                 }
             },
             "decryptionkey": "676d0c262af24e6cd734932d053a9997f4e69a5226ac436b337b04054884257a"
@@ -48,8 +48,8 @@
         },
         "branches": {
             "public": {
-                "buildid": "18568602",
-                "timeupdated": "1748609546"
+                "buildid": "18882597",
+                "timeupdated": "1752244072"
             }
         },
         "privatebranches": "1"
