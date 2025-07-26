@@ -4,8 +4,8 @@
     "type": "Game",
     "schinese_name": "",
     "isfreeapp": 0,
-    "update_time": "2025-06-04 00:30:13",
-    "change_number": 29352733,
+    "update_time": "2025-07-23 20:14:57",
+    "change_number": 30213258,
     "depot": {
         "workshopdepot": "2736860",
         "2736861": {
@@ -16,9 +16,9 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "7114648298992413315",
-                    "size": "159833343",
-                    "download": "49505008"
+                    "gid": "6900607208834764529",
+                    "size": "159423313",
+                    "download": "56149824"
                 }
             },
             "decryptionkey": "2a5a24ed86a137618ed367ebba921977d20fabe27cc9dccfceb309a7b8646304"
@@ -31,9 +31,9 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "1943085805073887822",
-                    "size": "147727103",
-                    "download": "45909536"
+                    "gid": "4887479648426405254",
+                    "size": "147247049",
+                    "download": "51151056"
                 }
             },
             "decryptionkey": ""
@@ -45,9 +45,9 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "6449779533134372031",
-                    "size": "167008380",
-                    "download": "53956592"
+                    "gid": "2296790239908461271",
+                    "size": "167727618",
+                    "download": "61969920"
                 }
             }
         },
@@ -58,16 +58,16 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "5245164704965636652",
-                    "size": "193814450",
-                    "download": "47209616"
+                    "gid": "5501857783842790345",
+                    "size": "193069177",
+                    "download": "52970160"
                 }
             }
         },
         "branches": {
             "public": {
-                "buildid": "17642567",
-                "timeupdated": "1741392433"
+                "buildid": "18995772",
+                "timeupdated": "1750877036"
             }
         },
         "privatebranches": "1",
