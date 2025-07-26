@@ -4,8 +4,8 @@
     "type": "Game",
     "schinese_name": "",
     "isfreeapp": 0,
-    "update_time": "2025-06-18 23:17:53",
-    "change_number": 29631720,
+    "update_time": "2025-07-16 15:09:24",
+    "change_number": 30090855,
     "depot": {
         "228988": {
             "config": {
@@ -24,24 +24,24 @@
         "1894431": {
             "manifests": {
                 "public": {
-                    "gid": "204451037009278321",
-                    "size": "912149623",
-                    "download": "445350800"
+                    "gid": "1596998379592621394",
+                    "size": "949195284",
+                    "download": "450079856"
                 },
                 "beta": {
-                    "gid": "813515399956677381",
-                    "size": "912462841",
-                    "download": "445524592"
+                    "gid": "4253736356375804842",
+                    "size": "1007159053",
+                    "download": "459296416"
                 },
                 "safe": {
-                    "gid": "7081411263799970743",
-                    "size": "961461860",
-                    "download": "448741760"
+                    "gid": "1596998379592621394",
+                    "size": "949195284",
+                    "download": "450079856"
                 },
-                "test_special": {
-                    "gid": "2909427297621188102",
-                    "size": "910001859",
-                    "download": "444849216"
+                "test_loading": {
+                    "gid": "7747610506244655302",
+                    "size": "956381989",
+                    "download": "452663728"
                 },
                 "v0.7.5": {
                     "gid": "5996079990439141722",
@@ -60,23 +60,23 @@
         "workshopdepot": "1894430",
         "branches": {
             "public": {
-                "buildid": "18456610",
-                "timeupdated": "1747211287"
+                "buildid": "19039256",
+                "timeupdated": "1751148935"
             },
             "beta": {
-                "buildid": "18914247",
+                "buildid": "19245795",
                 "description": "beta branch",
-                "timeupdated": "1750259851"
+                "timeupdated": "1752673936"
             },
             "safe": {
-                "buildid": "18090450",
+                "buildid": "19039256",
                 "description": "delayed update, you can roll back to this one if you have sudden issue after update (but contact me!)",
-                "timeupdated": "1744797340"
+                "timeupdated": "1751624877"
             },
-            "test_special": {
-                "buildid": "17797424",
-                "description": "test version for a specific bug",
-                "timeupdated": "1742489017"
+            "test_loading": {
+                "buildid": "19129203",
+                "description": "specific test version",
+                "timeupdated": "1751876703"
             },
             "v0.7.5": {
                 "buildid": "13702153",
