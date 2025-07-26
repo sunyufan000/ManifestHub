@@ -4,8 +4,8 @@
     "type": "Demo",
     "schinese_name": "",
     "isfreeapp": 0,
-    "update_time": "2025-06-13 01:34:15",
-    "change_number": 29529472,
+    "update_time": "2025-06-29 21:32:12",
+    "change_number": 29813045,
     "depot": {
         "2587452": {
             "config": {
@@ -13,9 +13,9 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "1469470623122338116",
-                    "size": "1741655797",
-                    "download": "97314768"
+                    "gid": "3005332744616101288",
+                    "size": "1741637085",
+                    "download": "97562688"
                 }
             },
             "depotfromapp": "2587450",
@@ -27,9 +27,9 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "3668142989547182984",
-                    "size": "1766309478",
-                    "download": "104218320"
+                    "gid": "2930255963192605236",
+                    "size": "1766307942",
+                    "download": "104518192"
                 }
             },
             "depotfromapp": "2587450",
@@ -41,9 +41,9 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "8583148186907347243",
-                    "size": "1745438612",
-                    "download": "97035888"
+                    "gid": "118651645262393848",
+                    "size": "1745437100",
+                    "download": "97462016"
                 }
             },
             "depotfromapp": "2587450",
