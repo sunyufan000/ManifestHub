@@ -4,8 +4,8 @@
     "type": "Game",
     "schinese_name": "《指环王：重返墨瑞亚™》Return to Moria",
     "isfreeapp": 0,
-    "update_time": "2025-06-22 07:09:21",
-    "change_number": 29686289,
+    "update_time": "2025-07-24 03:05:09",
+    "change_number": 30218244,
     "depot": {
         "228989": {
             "config": {
@@ -24,9 +24,9 @@
         "2933131": {
             "manifests": {
                 "public": {
-                    "gid": "26948804413347926",
-                    "size": "16571838115",
-                    "download": "16021898464"
+                    "gid": "5765961238007899173",
+                    "size": "16571858615",
+                    "download": "16022365232"
                 }
             },
             "decryptionkey": "571136626b31c8951f3afe863e98bd7d8c833657d08311b65aa528309cb9b6ef"
@@ -52,8 +52,8 @@
         "2933137": {},
         "branches": {
             "public": {
-                "buildid": "18812260",
-                "timeupdated": "1749570117"
+                "buildid": "18984064",
+                "timeupdated": "1750786380"
             }
         },
         "privatebranches": "1"
