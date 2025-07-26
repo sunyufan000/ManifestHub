@@ -4,8 +4,8 @@
     "type": "Game",
     "schinese_name": "",
     "isfreeapp": 0,
-    "update_time": "2025-06-20 21:54:15",
-    "change_number": 29669382,
+    "update_time": "2025-07-23 15:30:14",
+    "change_number": 30208297,
     "depot": {
         "228988": {
             "config": {
@@ -29,9 +29,9 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "3277154298590802724",
-                    "size": "2494643986",
-                    "download": "2067641824"
+                    "gid": "5512985934717175361",
+                    "size": "2495686197",
+                    "download": "2081281648"
                 },
                 "13254_stable": {
                     "gid": "6530960148361048455",
@@ -68,10 +68,15 @@
                     "size": "2493602723",
                     "download": "2067163888"
                 },
+                "15732_stable": {
+                    "gid": "3277154298590802724",
+                    "size": "2494643986",
+                    "download": "2067641824"
+                },
                 "experimental_ue5": {
-                    "gid": "1120916045310941997",
-                    "size": "2493587311",
-                    "download": "2080725952"
+                    "gid": "4698958805267443787",
+                    "size": "2494941365",
+                    "download": "2084625056"
                 },
                 "11146_stable": {
                     "gid": "3917798220647901948",
@@ -84,8 +89,8 @@
         "workshopdepot": "1450900",
         "branches": {
             "public": {
-                "buildid": "18820409",
-                "timeupdated": "1749653179"
+                "buildid": "18960649",
+                "timeupdated": "1750667292"
             },
             "13254_stable": {
                 "buildid": "14855301",
@@ -122,10 +127,15 @@
                 "description": "Desynced Stable 0.1.15674",
                 "timeupdated": "1749653145"
             },
+            "15732_stable": {
+                "buildid": "18820409",
+                "description": "Desynced Stable 0.1.15732",
+                "timeupdated": "1750667262"
+            },
             "experimental_ue5": {
-                "buildid": "18940633",
+                "buildid": "19329950",
                 "description": "Experimental Branch, use at your own risk!",
-                "timeupdated": "1750427651"
+                "timeupdated": "1753281008"
             },
             "11146_stable": {
                 "buildid": "11944105",
