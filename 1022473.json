@@ -1,0 +1,28 @@
+{
+    "appid": 1022473,
+    "name": "DFF NT: Fledgling Warrior Appearance Set for Warrior of Light",
+    "type": "DLC",
+    "schinese_name": "",
+    "isfreeapp": 0,
+    "update_time": "2025-06-23 14:10:17",
+    "change_number": 26201212,
+    "depot": {
+        "1022473": {
+            "manifests": {
+                "public": {
+                    "gid": "3685600203800671867",
+                    "size": "0",
+                    "download": "0"
+                }
+            },
+            "dlcappid": "1022473",
+            "decryptionkey": "3d2e10f2a0ee398157fd88ddb0c29886943099d7113668a30d66a159d5e014ee"
+        },
+        "branches": {
+            "public": {
+                "buildid": "3508051",
+                "timeupdated": "1548671976"
+            }
+        }
+    }
+}
