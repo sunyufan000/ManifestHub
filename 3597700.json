@@ -3,9 +3,9 @@
     "name": "Obscula",
     "type": "Game",
     "schinese_name": "",
-    "isfreeapp": 0,
-    "update_time": "2025-06-19 17:18:41",
-    "change_number": 29646402,
+    "isfreeapp": 1,
+    "update_time": "2025-07-23 19:00:02",
+    "change_number": 30212167,
     "depot": {
         "228989": {
             "config": {
