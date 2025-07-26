@@ -4,8 +4,8 @@
     "type": "Game",
     "schinese_name": "一起开火车！",
     "isfreeapp": 0,
-    "update_time": "2025-06-13 01:34:26",
-    "change_number": 29529586,
+    "update_time": "2025-07-17 15:50:21",
+    "change_number": 30113095,
     "depot": {
         "228985": {
             "config": {
@@ -41,11 +41,6 @@
                     "size": "843978409",
                     "download": "405382848"
                 },
-                "default-backup": {
-                    "gid": "278961977786603361",
-                    "size": "956797383",
-                    "download": "499564848"
-                },
                 "last-version": {
                     "gid": "7953690496130420290",
                     "size": "464076649",
@@ -60,6 +55,11 @@
                     "gid": "7945360837165562611",
                     "size": "844000534",
                     "download": "405380304"
+                },
+                "default-backup": {
+                    "gid": "8078967623883027128",
+                    "size": "843978409",
+                    "download": "405382848"
                 },
                 "experimental": {
                     "gid": "2359440407224568183",
@@ -81,14 +81,9 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "3434197350575075348",
-                    "size": "856996024",
-                    "download": "390914512"
-                },
-                "default-backup": {
-                    "gid": "8530864486227410509",
-                    "size": "969615048",
-                    "download": "485060544"
+                    "gid": "4769734068859162748",
+                    "size": "824848741",
+                    "download": "397951328"
                 },
                 "last-version": {
                     "gid": "141753271824164150",
@@ -105,10 +100,15 @@
                     "size": "857000329",
                     "download": "390900720"
                 },
+                "default-backup": {
+                    "gid": "3434197350575075348",
+                    "size": "856996024",
+                    "download": "390914512"
+                },
                 "experimental": {
-                    "gid": "3098530264875116495",
-                    "size": "856883599",
-                    "download": "390911648"
+                    "gid": "4769734068859162748",
+                    "size": "824848741",
+                    "download": "397951328"
                 },
                 "experimental-fna3d": {
                     "gid": "8541572031270841116",
@@ -125,14 +125,9 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "2888830068987081480",
-                    "size": "798929033",
-                    "download": "383148736"
-                },
-                "default-backup": {
-                    "gid": "8580949947445075610",
-                    "size": "911548057",
-                    "download": "477294768"
+                    "gid": "7974558925845671853",
+                    "size": "798823797",
+                    "download": "388053936"
                 },
                 "last-version": {
                     "gid": "2747910137632670879",
@@ -149,10 +144,15 @@
                     "size": "798933338",
                     "download": "383134944"
                 },
+                "default-backup": {
+                    "gid": "2888830068987081480",
+                    "size": "798929033",
+                    "download": "383148736"
+                },
                 "experimental": {
-                    "gid": "351071076820811640",
-                    "size": "798816608",
-                    "download": "383145872"
+                    "gid": "7974558925845671853",
+                    "size": "798823797",
+                    "download": "388053936"
                 },
                 "experimental-fna3d": {
                     "gid": "5054715036516955670",
@@ -173,11 +173,6 @@
                     "size": "56566198",
                     "download": "53792576"
                 },
-                "default-backup": {
-                    "gid": "1819341891265115519",
-                    "size": "56566198",
-                    "download": "53792576"
-                },
                 "last-version": {
                     "gid": "1819341891265115519",
                     "size": "56566198",
@@ -189,6 +184,11 @@
                     "download": "23192176"
                 },
                 "sim17-tournament": {
+                    "gid": "1819341891265115519",
+                    "size": "56566198",
+                    "download": "53792576"
+                },
+                "default-backup": {
                     "gid": "1819341891265115519",
                     "size": "56566198",
                     "download": "53792576"
@@ -208,13 +208,8 @@
         },
         "branches": {
             "public": {
-                "buildid": "13338815",
-                "timeupdated": "1706812222"
-            },
-            "default-backup": {
-                "buildid": "12975814",
-                "description": "previous live version",
-                "timeupdated": "1706805358"
+                "buildid": "19194021",
+                "timeupdated": "1752252981"
             },
             "last-version": {
                 "buildid": "7249002",
@@ -230,10 +225,15 @@
                 "description": "Tournament branch for Sim17",
                 "timeupdated": "1707676327"
             },
+            "default-backup": {
+                "buildid": "13338815",
+                "description": "previous live version",
+                "timeupdated": "1752177500"
+            },
             "experimental": {
-                "buildid": "15507522",
+                "buildid": "19193956",
                 "description": "Public Testing Branch",
-                "timeupdated": "1742589859"
+                "timeupdated": "1752252590"
             },
             "experimental-fna3d": {
                 "buildid": "14642286",
