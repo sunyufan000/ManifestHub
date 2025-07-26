@@ -4,8 +4,8 @@
     "type": "Game",
     "schinese_name": "",
     "isfreeapp": 1,
-    "update_time": "2025-06-05 17:38:18",
-    "change_number": 29391043,
+    "update_time": "2025-07-20 21:18:06",
+    "change_number": 30157565,
     "depot": {
         "326361": {
             "config": {
@@ -14,9 +14,9 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "2234732867388895050",
-                    "size": "229145229",
-                    "download": "209983872"
+                    "gid": "1793414827248257925",
+                    "size": "229672657",
+                    "download": "210488368"
                 }
             },
             "decryptionkey": "4204e81c2793587d05d6ab393864bc46474fc20e73146caa17f9762ad5e1199a"
@@ -29,9 +29,9 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "595288653078733689",
-                    "size": "235196780",
-                    "download": "211390160"
+                    "gid": "8270346569717091601",
+                    "size": "235698112",
+                    "download": "211888432"
                 }
             },
             "decryptionkey": "3c7e41daace6b77efdcc351050da12ea75081a496f6952730f5fc21b8a4362af"
@@ -43,17 +43,17 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "1696132884077357926",
-                    "size": "251182890",
-                    "download": "213950400"
+                    "gid": "492201996580546993",
+                    "size": "251700590",
+                    "download": "214448752"
                 }
             },
             "decryptionkey": "8874ba6e3f3ce68dc52b49396ff195f1d58bc8d274c2ee3e4f1bba21f1646c74"
         },
         "branches": {
             "public": {
-                "buildid": "18739366",
-                "timeupdated": "1749115074"
+                "buildid": "19148923",
+                "timeupdated": "1752048455"
             }
         },
         "privatebranches": "1"
