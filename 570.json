@@ -4,8 +4,8 @@
     "type": "Game",
     "schinese_name": "刀塔2",
     "isfreeapp": 1,
-    "update_time": "2025-06-21 07:08:07",
-    "change_number": 29676825,
+    "update_time": "2025-07-21 23:16:24",
+    "change_number": 30175332,
     "depot": {
         "228983": {
             "config": {
@@ -34,9 +34,9 @@
         "373301": {
             "manifests": {
                 "public": {
-                    "gid": "307436054303828384",
-                    "size": "4082686167",
-                    "download": "2340978256"
+                    "gid": "7327918771545452700",
+                    "size": "4075409697",
+                    "download": "2335904992"
                 }
             },
             "decryptionkey": "279c88be13d9b20cc225ac6a493938250bd3c466a10be0510ee63f3fee466e59"
@@ -84,9 +84,9 @@
         "381455": {
             "manifests": {
                 "public": {
-                    "gid": "8605369222288806526",
-                    "size": "45131295666",
-                    "download": "21046223696"
+                    "gid": "1379877685178272800",
+                    "size": "45107685414",
+                    "download": "21042917632"
                 }
             },
             "decryptionkey": "bce388e5d35bce02105c0a8de97259e0187df8220f13994a85546241c5cb46c7"
@@ -111,9 +111,9 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "6565948437719807130",
-                    "size": "532801408",
-                    "download": "135562896"
+                    "gid": "2518563807909310866",
+                    "size": "532820696",
+                    "download": "135562400"
                 }
             },
             "decryptionkey": "005943def146b997e82e3d47d24cc7aeb993a35d3b5667b7085d22adc883af08"
@@ -124,9 +124,9 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "126418906599856686",
-                    "size": "1163142715",
-                    "download": "528229152"
+                    "gid": "7166575635598811404",
+                    "size": "1163109931",
+                    "download": "528242640"
                 }
             },
             "decryptionkey": "5aab0fdef9c8de1f871c67c0de61014bf541b726392f89caf1a288764b277edf"
@@ -147,9 +147,9 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "7429685366915069050",
-                    "size": "1236260065",
-                    "download": "531595040"
+                    "gid": "5764620914835367791",
+                    "size": "1236223745",
+                    "download": "531647968"
                 }
             },
             "decryptionkey": "84158152dd9c4100de7a63a6d8a0e78fed18291e599a5c533c3303b32399d45e"
@@ -215,9 +215,9 @@
             "dlcappid": "313250",
             "manifests": {
                 "public": {
-                    "gid": "3350667561561533579",
-                    "size": "5704846799",
-                    "download": "1576351408"
+                    "gid": "2086719151889130007",
+                    "size": "5705315706",
+                    "download": "1576363376"
                 }
             },
             "decryptionkey": "23009db3578e9bd5f750f2cbcfe897efdf07572b455ec53bb0cd02d9d09f0a39"
@@ -269,8 +269,8 @@
         },
         "branches": {
             "public": {
-                "buildid": "18945731",
-                "timeupdated": "1750460883"
+                "buildid": "19305566",
+                "timeupdated": "1753136179"
             }
         },
         "privatebranches": "1",
