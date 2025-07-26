@@ -4,8 +4,8 @@
     "type": "Game",
     "schinese_name": "火炬之光：无限",
     "isfreeapp": 1,
-    "update_time": "2025-06-18 23:11:33",
-    "change_number": 29631592,
+    "update_time": "2025-07-23 03:08:57",
+    "change_number": 30197752,
     "depot": {
         "228989": {
             "config": {
@@ -29,17 +29,17 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "8069095975537449446",
-                    "size": "26516744589",
-                    "download": "25607876480"
+                    "gid": "2234984801511670056",
+                    "size": "28385337247",
+                    "download": "27436656528"
                 }
             },
             "decryptionkey": "3690b94ae7c28ed65557579848f21a68b4162cad7643f7af179e64761bea02ed"
         },
         "branches": {
             "public": {
-                "buildid": "18807091",
-                "timeupdated": "1749545013"
+                "buildid": "19253542",
+                "timeupdated": "1752722259"
             }
         }
     }
