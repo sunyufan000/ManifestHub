@@ -1,0 +1,31 @@
+{
+    "appid": 1019982,
+    "name": "DYNASTY WARRIORS 9: Fa Zheng Special Scenario / 法正「追加ＩＦシナリオセット」",
+    "type": "DLC",
+    "schinese_name": "",
+    "isfreeapp": 0,
+    "update_time": "2025-06-23 13:40:55",
+    "change_number": 26201212,
+    "depot": {
+        "1019982": {
+            "config": {
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "7953957633655324498",
+                    "size": "585196124",
+                    "download": "557375920"
+                }
+            },
+            "dlcappid": "1019982",
+            "decryptionkey": "4e7873685bc38986589e041284bcbf96ca424975227652c05e1d5c41a5dc2d07"
+        },
+        "branches": {
+            "public": {
+                "buildid": "3721110",
+                "timeupdated": "1554794727"
+            }
+        }
+    }
+}
