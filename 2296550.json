@@ -4,15 +4,15 @@
     "type": "Game",
     "schinese_name": "铁壁矩阵：轴突塔防",
     "isfreeapp": 0,
-    "update_time": "2025-06-15 17:10:36",
-    "change_number": 29572838,
+    "update_time": "2025-07-03 17:25:27",
+    "change_number": 29882471,
     "depot": {
         "2296551": {
             "manifests": {
                 "public": {
-                    "gid": "7094161937271751207",
-                    "size": "12822090843",
-                    "download": "4640440128"
+                    "gid": "7330845718553973805",
+                    "size": "12822089139",
+                    "download": "4655120992"
                 },
                 "alpha": {
                     "gid": "1004381440361533403",
@@ -26,8 +26,8 @@
         "baselanguages": "english,german,koreana,schinese,tchinese,japanese,latam",
         "branches": {
             "public": {
-                "buildid": "18872518",
-                "timeupdated": "1749978633"
+                "buildid": "19084845",
+                "timeupdated": "1751559920"
             },
             "alpha": {
                 "buildid": "18824049",
