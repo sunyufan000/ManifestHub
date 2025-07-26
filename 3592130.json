@@ -4,16 +4,16 @@
     "type": "DLC",
     "schinese_name": "",
     "isfreeapp": 0,
-    "update_time": "2025-06-19 13:12:37",
-    "change_number": 29642485,
+    "update_time": "2025-07-23 07:04:24",
+    "change_number": 30200309,
     "depot": {
         "3592130": {
             "dlcappid": "3592130",
             "manifests": {
                 "public": {
-                    "gid": "2410606828879270354",
-                    "size": "1241200793",
-                    "download": "1061374160"
+                    "gid": "4406144690491801884",
+                    "size": "1068963819",
+                    "download": "901544752"
                 }
             },
             "decryptionkey": "98a605c120bfbf438467d0a7a1496df45373b97c697cc2e3345720f7e7f44e9b"
@@ -21,9 +21,9 @@
         "3592131": {
             "manifests": {
                 "public": {
-                    "gid": "743925020866909656",
-                    "size": "1241200793",
-                    "download": "1061373904"
+                    "gid": "5937953682321406927",
+                    "size": "1068963819",
+                    "download": "901544368"
                 }
             },
             "dlcappid": "3592130",
@@ -31,8 +31,8 @@
         },
         "branches": {
             "public": {
-                "buildid": "18254987",
-                "timeupdated": "1745746047"
+                "buildid": "19324646",
+                "timeupdated": "1753250242"
             }
         },
         "privatebranches": "1"
