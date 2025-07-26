@@ -4,8 +4,8 @@
     "type": "Game",
     "schinese_name": "",
     "isfreeapp": 0,
-    "update_time": "2025-06-20 18:56:53",
-    "change_number": 29662883,
+    "update_time": "2025-07-23 23:54:38",
+    "change_number": 30216088,
     "depot": {
         "3562341": {
             "config": {
@@ -14,14 +14,9 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "7961822256806049775",
-                    "size": "1255874896",
-                    "download": "573262560"
-                },
-                "dailybuilds": {
-                    "gid": "3900989958033600525",
-                    "size": "1297727544",
-                    "download": "570666688"
+                    "gid": "9191352857788241981",
+                    "size": "1256082504",
+                    "download": "575288384"
                 }
             },
             "decryptionkey": "034daa3c1ffb1007c688900dd216736bcdc27ef896380ebb6adbb5a18c2231eb"
@@ -33,22 +28,18 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "5216029493509223089",
-                    "size": "1776836174",
-                    "download": "614425344"
+                    "gid": "3548963490719103189",
+                    "size": "1776867287",
+                    "download": "614370480"
                 }
             }
         },
         "branches": {
             "public": {
-                "buildid": "18883949",
-                "timeupdated": "1750083599"
-            },
-            "dailybuilds": {
-                "buildid": "18809875",
-                "description": "Everyday builds",
-                "timeupdated": "1749558758"
+                "buildid": "19161982",
+                "timeupdated": "1752141683"
             }
-        }
+        },
+        "privatebranches": "1"
     }
 }
