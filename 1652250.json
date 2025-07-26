@@ -4,8 +4,8 @@
     "type": "Game",
     "schinese_name": "传说与战术自走棋",
     "isfreeapp": 0,
-    "update_time": "2025-06-07 08:51:33",
-    "change_number": 29428758,
+    "update_time": "2025-07-19 08:01:14",
+    "change_number": 30143951,
     "depot": {
         "hasdepotsindlc": "0",
         "baselanguages": "english,schinese",
@@ -41,9 +41,9 @@
                     "download": "2440391232"
                 },
                 "experimental": {
-                    "gid": "2295651247037984269",
-                    "size": "3962348177",
-                    "download": "3230594960"
+                    "gid": "3602203146790957046",
+                    "size": "3962337497",
+                    "download": "3245746112"
                 }
             },
             "decryptionkey": "b33bc6731d4f57b8cbd8877c58b0f35fca6516ce330c14048fb59aadaf364a36"
@@ -65,9 +65,9 @@
                 "timeupdated": "1698421659"
             },
             "experimental": {
-                "buildid": "18471278",
+                "buildid": "19283855",
                 "description": "Pre-Release Stability Testing",
-                "timeupdated": "1747335066"
+                "timeupdated": "1752908470"
             }
         },
         "privatebranches": "1"
