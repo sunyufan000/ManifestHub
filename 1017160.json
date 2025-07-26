@@ -1,0 +1,40 @@
+{
+    "appid": 1017160,
+    "name": "Gearshifters",
+    "type": "Game",
+    "schinese_name": "",
+    "isfreeapp": 0,
+    "update_time": "2025-07-17 17:36:09",
+    "change_number": 30115181,
+    "depot": {
+        "baselanguages": "english,german,french,italian,spanish,schinese,russian,japanese,brazilian",
+        "1017161": {
+            "manifests": {
+                "public": {
+                    "gid": "6278837432453250717",
+                    "size": "1214152095",
+                    "download": "544017952"
+                }
+            },
+            "decryptionkey": "25339859d396b7eb16206b0bba410ae533dc302316fc9431a3a3475d02eaf593"
+        },
+        "1761590": {
+            "dlcappid": "1761590",
+            "manifests": {
+                "public": {
+                    "gid": "7691331820735178707",
+                    "size": "90083080",
+                    "download": "90718480"
+                }
+            },
+            "decryptionkey": "37bbaf03dd241d9e3b690aa7a52434a79fa6b002ca69ccf99842ee6c8c9e0007"
+        },
+        "branches": {
+            "public": {
+                "buildid": "14222799",
+                "timeupdated": "1714491606"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
