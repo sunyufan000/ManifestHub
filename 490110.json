@@ -4,23 +4,23 @@
     "type": "Game",
     "schinese_name": "警区",
     "isfreeapp": 0,
-    "update_time": "2025-06-20 06:26:44",
-    "change_number": 29657664,
+    "update_time": "2025-07-17 22:28:42",
+    "change_number": 30119265,
     "depot": {
         "490111": {
             "manifests": {
                 "public": {
-                    "gid": "3207207635747331100",
-                    "size": "8159357872",
-                    "download": "3803301216"
+                    "gid": "4176891224304021269",
+                    "size": "8252882882",
+                    "download": "3844270448"
                 }
             },
             "decryptionkey": "44bcc3870bf156385e37ff47e71ae28824fa905a542cdc8eaf05715799f78fc2"
         },
         "branches": {
             "public": {
-                "buildid": "18695172",
-                "timeupdated": "1749038110"
+                "buildid": "19165374",
+                "timeupdated": "1752491728"
             }
         },
         "privatebranches": "1"
