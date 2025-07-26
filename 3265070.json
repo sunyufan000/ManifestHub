@@ -4,8 +4,8 @@
     "type": "Game",
     "schinese_name": "筑城记：中世纪",
     "isfreeapp": 0,
-    "update_time": "2025-06-18 16:00:59",
-    "change_number": 29624328,
+    "update_time": "2025-07-23 11:54:03",
+    "change_number": 30204815,
     "depot": {
         "3265071": {
             "config": {
@@ -13,9 +13,9 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "6338242452902735317",
-                    "size": "1568400871",
-                    "download": "584529008"
+                    "gid": "2779396525172351034",
+                    "size": "1809796116",
+                    "download": "697875056"
                 }
             },
             "decryptionkey": "99837f4a232e18331a37fd5d351812a874dfeee77bb0daadd001ff23cd431d06"
@@ -33,8 +33,8 @@
         },
         "branches": {
             "public": {
-                "buildid": "18734913",
-                "timeupdated": "1749045067"
+                "buildid": "19301004",
+                "timeupdated": "1753179473"
             }
         },
         "privatebranches": "1"
