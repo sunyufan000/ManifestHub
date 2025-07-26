@@ -4,8 +4,8 @@
     "type": "Game",
     "schinese_name": "地平线之门",
     "isfreeapp": 0,
-    "update_time": "2025-06-21 03:24:02",
-    "change_number": 29674527,
+    "update_time": "2025-06-26 19:46:21",
+    "change_number": 29764544,
     "depot": {
         "228990": {
             "config": {
@@ -42,9 +42,9 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "3362633919924448877",
-                    "size": "1930652887",
-                    "download": "1737423536"
+                    "gid": "2341660649312989034",
+                    "size": "1930656118",
+                    "download": "1737425008"
                 },
                 "older": {
                     "gid": "4951916148340736278",
@@ -77,8 +77,8 @@
         "workshopdepot": "1224290",
         "branches": {
             "public": {
-                "buildid": "18415497",
-                "timeupdated": "1747074545"
+                "buildid": "18944070",
+                "timeupdated": "1750945617"
             },
             "older": {
                 "buildid": "5395809",
