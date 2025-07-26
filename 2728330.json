@@ -4,8 +4,8 @@
     "type": "Tool",
     "schinese_name": "",
     "isfreeapp": 0,
-    "update_time": "2025-06-20 06:54:45",
-    "change_number": 29657954,
+    "update_time": "2025-07-23 19:37:23",
+    "change_number": 30212673,
     "depot": {
         "1004": {
             "config": {
@@ -13,9 +13,9 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "7747775778018907449",
-                    "size": "46727128",
-                    "download": "14307024"
+                    "gid": "8904491048620934740",
+                    "size": "68697032",
+                    "download": "20552544"
                 }
             },
             "depotfromapp": "1007",
@@ -41,9 +41,9 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "7138471031118904166",
-                    "size": "78382436",
-                    "download": "21254752"
+                    "gid": "5587033981095108078",
+                    "size": "107476144",
+                    "download": "29272144"
                 }
             },
             "depotfromapp": "1007",
@@ -52,19 +52,19 @@
         "2728331": {
             "manifests": {
                 "public": {
-                    "gid": "5830494069205465209",
-                    "size": "1049535246",
-                    "download": "906732624"
+                    "gid": "7769581756014796881",
+                    "size": "1224728197",
+                    "download": "1059246160"
                 },
                 "linuxbranch": {
-                    "gid": "3451225362920257102",
-                    "size": "1145177048",
-                    "download": "891036384"
+                    "gid": "6990800976089422326",
+                    "size": "1271864674",
+                    "download": "1028924800"
                 },
                 "windowsbranch": {
-                    "gid": "5830494069205465209",
-                    "size": "1049535246",
-                    "download": "906732624"
+                    "gid": "7769581756014796881",
+                    "size": "1224728197",
+                    "download": "1059246160"
                 }
             },
             "decryptionkey": ""
@@ -72,18 +72,18 @@
         "baselanguages": "english",
         "branches": {
             "public": {
-                "buildid": "18352847",
-                "timeupdated": "1746490746"
+                "buildid": "19144973",
+                "timeupdated": "1751982928"
             },
             "linuxbranch": {
-                "buildid": "18352494",
+                "buildid": "19144947",
                 "description": "Linux Branch",
-                "timeupdated": "1746490598"
+                "timeupdated": "1751982890"
             },
             "windowsbranch": {
-                "buildid": "18352847",
+                "buildid": "19144973",
                 "description": "Windows Branch",
-                "timeupdated": "1746490626"
+                "timeupdated": "1751982908"
             }
         },
         "privatebranches": "1"
