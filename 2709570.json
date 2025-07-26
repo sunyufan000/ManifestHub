@@ -4,8 +4,8 @@
     "type": "Game",
     "schinese_name": "多人超市",
     "isfreeapp": 1,
-    "update_time": "2025-06-19 07:50:52",
-    "change_number": 29639097,
+    "update_time": "2025-07-23 19:58:06",
+    "change_number": 30213001,
     "depot": {
         "228988": {
             "config": {
@@ -24,17 +24,17 @@
         "2709571": {
             "manifests": {
                 "public": {
-                    "gid": "1002323645169101540",
-                    "size": "7622485663",
-                    "download": "2458420480"
+                    "gid": "7628629290701983745",
+                    "size": "8443513302",
+                    "download": "3122304656"
                 }
             },
             "decryptionkey": "7fa16318d187d201cd5762fec6ac1022fb99b54b7ecb11f228286d5ee2a9790e"
         },
         "branches": {
             "public": {
-                "buildid": "18919472",
-                "timeupdated": "1750290645"
+                "buildid": "19333433",
+                "timeupdated": "1753297082"
             }
         }
     }
