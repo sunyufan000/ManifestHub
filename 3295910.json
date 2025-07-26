@@ -4,8 +4,8 @@
     "type": "Demo",
     "schinese_name": "Backrooms 清洁小队试玩版 (Backrooms Cleanup Crew Demo)",
     "isfreeapp": 0,
-    "update_time": "2025-05-24 06:01:42",
-    "change_number": 29159703,
+    "update_time": "2025-06-30 20:58:21",
+    "change_number": 29829325,
     "depot": {
         "228989": {
             "config": {
@@ -24,17 +24,17 @@
         "3295911": {
             "manifests": {
                 "public": {
-                    "gid": "5033729559032153888",
-                    "size": "1298614499",
-                    "download": "1063251072"
+                    "gid": "1092550799988902742",
+                    "size": "1233553800",
+                    "download": "998866608"
                 }
             },
             "decryptionkey": "76081faaedc07bce69bccca099bc8d240221cd166adcc1184b6c59c9fea1f234"
         },
         "branches": {
             "public": {
-                "buildid": "18588925",
-                "timeupdated": "1748037645"
+                "buildid": "19055077",
+                "timeupdated": "1751313496"
             }
         },
         "privatebranches": "1"
