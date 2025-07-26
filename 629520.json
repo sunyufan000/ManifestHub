@@ -4,8 +4,8 @@
     "type": "Application",
     "schinese_name": "语音工具",
     "isfreeapp": 0,
-    "update_time": "2025-06-18 20:54:14",
-    "change_number": 29629024,
+    "update_time": "2025-07-20 17:18:03",
+    "change_number": 30155870,
     "depot": {
         "baselanguages": "",
         "629521": {
@@ -24,10 +24,10 @@
                     "size": "15710212",
                     "download": "5035104"
                 },
-                "4.0.15": {
-                    "gid": "5635867486219850197",
-                    "size": "17102236",
-                    "download": "5707392"
+                "beta": {
+                    "gid": "11454885781205108",
+                    "size": "17114059",
+                    "download": "6589056"
                 }
             },
             "decryptionkey": "40df4fcb0748caf1d77bff732f597eebb26b3a36539b1646d149f54eb676807f"
@@ -48,10 +48,10 @@
                     "size": "15199236",
                     "download": "4698240"
                 },
-                "4.0.15": {
-                    "gid": "2655161198686586305",
-                    "size": "15971740",
-                    "download": "5281872"
+                "beta": {
+                    "gid": "8622493457980636684",
+                    "size": "15981003",
+                    "download": "6044416"
                 }
             },
             "decryptionkey": "832c15ab1f9cffda454f899b8d69ce24ae020d79dadfcaf97cb9b4494698b4cf"
@@ -66,10 +66,10 @@
                 "description": "last stable pre v4.0.0",
                 "timeupdated": "1714055648"
             },
-            "4.0.15": {
-                "buildid": "18912358",
-                "description": "beta",
-                "timeupdated": "1750251170"
+            "beta": {
+                "buildid": "19262538",
+                "description": "4.0.17",
+                "timeupdated": "1752768067"
             }
         }
     }
