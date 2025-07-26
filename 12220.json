@@ -4,8 +4,8 @@
     "type": "Game",
     "schinese_name": "侠盗猎车手：自由城之章",
     "isfreeapp": 0,
-    "update_time": "2025-06-18 14:17:30",
-    "change_number": 29622814,
+    "update_time": "2025-07-09 17:00:13",
+    "change_number": 29971693,
     "depot": {
         "12222": {
             "systemdefined": "1",
@@ -53,7 +53,7 @@
                     "download": "0"
                 }
             },
-            "decryptionkey": ""
+            "decryptionkey": "eafa2330ab55d5ac009bc764b5a743ca0f8b066908589f75687b2f72ba2d5466"
         },
         "12225": {
             "config": {
