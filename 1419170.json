@@ -4,8 +4,8 @@
     "type": "Game",
     "schinese_name": "萌怪合唱团",
     "isfreeapp": 1,
-    "update_time": "2025-06-20 05:26:01",
-    "change_number": 29652575,
+    "update_time": "2025-07-23 20:32:16",
+    "change_number": 30213503,
     "depot": {
         "228989": {
             "config": {
@@ -25,17 +25,17 @@
         "1419171": {
             "manifests": {
                 "public": {
-                    "gid": "7911179272945737087",
-                    "size": "1616826515",
-                    "download": "809949584"
+                    "gid": "8449773120686587100",
+                    "size": "1668707070",
+                    "download": "835298880"
                 }
             },
             "decryptionkey": "037170f89e01e246d1dafb189488712ace2439afb5295c7d733d21be59d02216"
         },
         "branches": {
             "public": {
-                "buildid": "18485126",
-                "timeupdated": "1747664280"
+                "buildid": "18914259",
+                "timeupdated": "1750858427"
             }
         },
         "privatebranches": "1"
