@@ -4,8 +4,8 @@
     "type": "Game",
     "schinese_name": "铁甲雄兵 Blood of Steel",
     "isfreeapp": 1,
-    "update_time": "2025-06-19 14:49:09",
-    "change_number": 29643501,
+    "update_time": "2025-07-24 01:21:24",
+    "change_number": 30217065,
     "depot": {
         "228983": {
             "config": {
@@ -51,9 +51,9 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "4453732582048511658",
-                    "size": "42236259064",
-                    "download": "39108140512"
+                    "gid": "3026517797193369",
+                    "size": "42688525480",
+                    "download": "39589938192"
                 }
             },
             "decryptionkey": "467a0118cf9a28bd21e9c6b2974eda835512b4c9a8dd385e082d98ba9daeecce"
@@ -88,8 +88,8 @@
         },
         "branches": {
             "public": {
-                "buildid": "18922413",
-                "timeupdated": "1750315744"
+                "buildid": "19338657",
+                "timeupdated": "1753331622"
             }
         },
         "privatebranches": "1"
