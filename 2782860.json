@@ -4,7 +4,7 @@
     "type": "DLC",
     "schinese_name": "《The Sims™ 4 里维埃拉海滨度假》套件包",
     "isfreeapp": 0,
-    "update_time": "2025-05-23 05:27:41",
+    "update_time": "2025-06-23 03:19:54",
     "change_number": 29129774,
     "depot": {
         "2782860": {
@@ -30,7 +30,7 @@
                 }
             },
             "dlcappid": "2782860",
-            "decryptionkey": ""
+            "decryptionkey": "8ac2fc925c3e3f4393af0648414b35c55b2973af2c76c50fc34f07d523f271fd"
         },
         "2782862": {
             "config": {
@@ -58,7 +58,7 @@
                 }
             },
             "dlcappid": "2782860",
-            "decryptionkey": ""
+            "decryptionkey": "0ada2435637de3d0a7696d85087c500142405fc4a4fed754f30aeb88dfbe4640"
         },
         "2782864": {
             "config": {
