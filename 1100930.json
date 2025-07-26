@@ -4,15 +4,15 @@
     "type": "Game",
     "schinese_name": "军团",
     "isfreeapp": 0,
-    "update_time": "2025-06-02 08:16:24",
-    "change_number": 29312476,
+    "update_time": "2025-07-11 06:48:27",
+    "change_number": 30004161,
     "depot": {
         "1100931": {
             "manifests": {
                 "public": {
-                    "gid": "2723905225958869247",
-                    "size": "267418907",
-                    "download": "171599776"
+                    "gid": "1974186739808551584",
+                    "size": "223217878",
+                    "download": "140256240"
                 }
             },
             "decryptionkey": "e6acb8672851f39ef479299e848a5c2c7b20218f00bfc11a622feb9fe2aab4af"
@@ -21,8 +21,8 @@
         "workshopdepot": "1100930",
         "branches": {
             "public": {
-                "buildid": "17759815",
-                "timeupdated": "1742265441"
+                "buildid": "19186015",
+                "timeupdated": "1752212903"
             }
         },
         "privatebranches": "1",
