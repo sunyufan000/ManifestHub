@@ -4,15 +4,15 @@
     "type": "Game",
     "schinese_name": "百日战纪 -最终防卫学园-",
     "isfreeapp": 0,
-    "update_time": "2025-06-21 11:15:07",
-    "change_number": 29678717,
+    "update_time": "2025-07-08 06:00:23",
+    "change_number": 29942716,
     "depot": {
         "3014081": {
             "manifests": {
                 "public": {
-                    "gid": "1569582056954127909",
-                    "size": "32577486030",
-                    "download": "29934443984"
+                    "gid": "3204597251153695972",
+                    "size": "32640936570",
+                    "download": "30013578672"
                 }
             },
             "decryptionkey": "9c8b0e729ef1fce35224045a12393cf5a7069e60692bc9b3bf2d64b0bb37b6a3"
@@ -21,8 +21,8 @@
         "hasdepotsindlc": "1",
         "branches": {
             "public": {
-                "buildid": "18638750",
-                "timeupdated": "1748595591"
+                "buildid": "19117209",
+                "timeupdated": "1751950816"
             }
         },
         "privatebranches": "1"
