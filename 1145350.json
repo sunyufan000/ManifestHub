@@ -4,8 +4,8 @@
     "type": "Game",
     "schinese_name": "哈迪斯2",
     "isfreeapp": 0,
-    "update_time": "2025-06-20 17:05:51",
-    "change_number": 29664938,
+    "update_time": "2025-07-23 22:06:29",
+    "change_number": 30214780,
     "depot": {
         "228988": {
             "config": {
@@ -20,9 +20,9 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "3967861289377352332",
-                    "size": "8041442001",
-                    "download": "7008225136"
+                    "gid": "1213040274271553936",
+                    "size": "8004140149",
+                    "download": "7080586208"
                 }
             },
             "decryptionkey": "ff02298666a5470ddca19f89593983136f6d1727fc82957ca6b847133783b4e7"
@@ -33,9 +33,9 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "3198773504598387768",
-                    "size": "225191546",
-                    "download": "44802448"
+                    "gid": "369449517007763627",
+                    "size": "225533562",
+                    "download": "52603184"
                 }
             },
             "decryptionkey": ""
@@ -46,9 +46,9 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "5654992358858892316",
-                    "size": "90401957",
-                    "download": "26426176"
+                    "gid": "4006996105029385842",
+                    "size": "90537637",
+                    "download": "29412048"
                 }
             },
             "decryptionkey": "71f0364cb7bd2b7d7755605c7983bf2b73101a6e2e0ef6b7082d275a4650f7e5"
@@ -60,17 +60,17 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "5099639078285450944",
-                    "size": "8186243709",
-                    "download": "7035708064"
+                    "gid": "7779338011844125043",
+                    "size": "8148923653",
+                    "download": "7109064816"
                 }
             },
             "decryptionkey": "67def0278f458945e71a75914c686e5bf4d3f90c8b4320795c3b78ad999afc56"
         },
         "branches": {
             "public": {
-                "buildid": "18909692",
-                "timeupdated": "1750262657"
+                "buildid": "19326583",
+                "timeupdated": "1753292009"
             }
         },
         "privatebranches": "1"
