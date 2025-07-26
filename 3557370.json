@@ -4,23 +4,23 @@
     "type": "Game",
     "schinese_name": "魅力暴动",
     "isfreeapp": 0,
-    "update_time": "2025-06-13 18:53:00",
-    "change_number": 29547604,
+    "update_time": "2025-07-20 15:52:59",
+    "change_number": 30155279,
     "depot": {
         "3557371": {
             "manifests": {
                 "public": {
-                    "gid": "1423979897982797921",
-                    "size": "11010192908",
-                    "download": "2923738608"
+                    "gid": "2532752336068781636",
+                    "size": "12263779166",
+                    "download": "3483852224"
                 }
             },
             "decryptionkey": "3594ed5f9065f294c8b05201147626f87fd81c07d438b70567beafdf496252c8"
         },
         "branches": {
             "public": {
-                "buildid": "18849055",
-                "timeupdated": "1749789645"
+                "buildid": "19200777",
+                "timeupdated": "1752330409"
             }
         },
         "privatebranches": "1"
