@@ -4,8 +4,8 @@
     "type": "Game",
     "schinese_name": "最远的边陲",
     "isfreeapp": 0,
-    "update_time": "2025-06-22 05:56:02",
-    "change_number": 29683708,
+    "update_time": "2025-07-23 17:43:08",
+    "change_number": 30210772,
     "depot": {
         "1044721": {
             "manifests": {
@@ -21,7 +21,7 @@
         "branches": {
             "public": {
                 "buildid": "18477643",
-                "timeupdated": "1747327955"
+                "timeupdated": "1752703546"
             }
         },
         "privatebranches": "1",
