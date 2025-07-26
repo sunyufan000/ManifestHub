@@ -1,0 +1,27 @@
+{
+    "appid": 1101580,
+    "name": "Spooky Starlets",
+    "type": "Game",
+    "schinese_name": "",
+    "isfreeapp": 0,
+    "update_time": "2025-07-06 05:10:37",
+    "change_number": 29915684,
+    "depot": {
+        "1101581": {
+            "manifests": {
+                "public": {
+                    "gid": "8560658420845738716",
+                    "size": "6572835356",
+                    "download": "920418304"
+                }
+            },
+            "decryptionkey": "d47ee61b60cfd720958360630fb8cfa259e336dc5ef4656bdb80426e8d7710d8"
+        },
+        "branches": {
+            "public": {
+                "buildid": "9796569",
+                "timeupdated": "1666714727"
+            }
+        }
+    }
+}
