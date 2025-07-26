@@ -4,8 +4,8 @@
     "type": "Game",
     "schinese_name": "海沙风云",
     "isfreeapp": 0,
-    "update_time": "2025-05-28 07:17:17",
-    "change_number": 29223546,
+    "update_time": "2025-07-11 11:06:14",
+    "change_number": 30008300,
     "depot": {
         "baselanguages": "english,schinese,japanese",
         "hasdepotsindlc": "1",
@@ -15,9 +15,9 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "4471394214727609948",
-                    "size": "1633759419",
-                    "download": "1506447968"
+                    "gid": "7691133662707050787",
+                    "size": "1633759420",
+                    "download": "1506453760"
                 }
             },
             "decryptionkey": "f216603c5d84982048016924a19b799179191613717423730f10418c0a175ecc"
@@ -41,9 +41,9 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "2935093496725596312",
-                    "size": "1568535942",
-                    "download": "1435254912"
+                    "gid": "8534931128123936030",
+                    "size": "1568445198",
+                    "download": "1438435264"
                 }
             },
             "decryptionkey": "25777b6f69450fb2cc3c0eb2f6ff905eefef523ac05794a2d76835e3d3f977a9"
@@ -54,17 +54,17 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "8152282682620051038",
-                    "size": "1567020529",
-                    "download": "1435669952"
+                    "gid": "9037270000446130755",
+                    "size": "1567022081",
+                    "download": "1436420320"
                 }
             },
             "decryptionkey": "5f7f9d373f70518956ccda6dac00784448885f57542faf2ddd79d9be0fa067f6"
         },
         "branches": {
             "public": {
-                "buildid": "18021627",
-                "timeupdated": "1744179618"
+                "buildid": "19188662",
+                "timeupdated": "1752228367"
             }
         },
         "privatebranches": "1"
