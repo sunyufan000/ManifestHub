@@ -4,7 +4,7 @@
     "type": "Game",
     "schinese_name": "布莱克斯通：星球突击",
     "isfreeapp": 0,
-    "update_time": "2025-06-12 09:17:21",
+    "update_time": "2025-06-23 11:26:59",
     "change_number": 29518858,
     "depot": {
         "358311": {
@@ -30,7 +30,8 @@
                     "size": "14468334",
                     "download": "7090624"
                 }
-            }
+            },
+            "decryptionkey": "e44d5cec3d72eaac46f117ec5ad31ffa3e65ffd1c2889246c3cb3a28b2b99572"
         },
         "358313": {
             "config": {
