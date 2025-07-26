@@ -4,9 +4,11 @@
     "type": "Game",
     "schinese_name": "",
     "isfreeapp": 0,
-    "update_time": "2025-06-22 05:56:26",
-    "change_number": 29683796,
+    "update_time": "2025-07-23 13:50:58",
+    "change_number": 30206585,
     "depot": {
+        "hasdepotsindlc": "1",
+        "baselanguages": "english",
         "228989": {
             "config": {
                 "oslist": "windows"
@@ -41,7 +43,18 @@
                 "oslist": "windows"
             }
         },
-        "hasdepotsindlc": "1",
+        "2468613": {
+            "config": {
+                "oslist": "windows",
+                "language": "english"
+            }
+        },
+        "2468614": {
+            "config": {
+                "language": "english",
+                "oslist": "windows"
+            }
+        },
         "branches": {
             "public": {
                 "buildid": "17882512",
