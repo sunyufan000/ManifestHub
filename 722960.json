@@ -4,8 +4,8 @@
     "type": "Game",
     "schinese_name": "悬案2：动物生存 ",
     "isfreeapp": 0,
-    "update_time": "2025-06-21 21:57:02",
-    "change_number": 29682371,
+    "update_time": "2025-07-22 08:53:34",
+    "change_number": 30181558,
     "depot": {
         "baselanguages": "english,russian",
         "hasdepotsindlc": "0",
@@ -50,9 +50,9 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "3843293128257984310",
-                    "size": "6815047967",
-                    "download": "6550093072"
+                    "gid": "3843403289832853307",
+                    "size": "7006192407",
+                    "download": "6740617600"
                 }
             },
             "decryptionkey": "0e22d5640582921eae5b530a9290f558416e9ea685de874d741900a74f8634ce"
@@ -70,8 +70,8 @@
         },
         "branches": {
             "public": {
-                "buildid": "18624448",
-                "timeupdated": "1748346182"
+                "buildid": "19166551",
+                "timeupdated": "1752096725"
             }
         },
         "privatebranches": "1"
