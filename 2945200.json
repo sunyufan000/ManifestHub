@@ -4,15 +4,15 @@
     "type": "Game",
     "schinese_name": "",
     "isfreeapp": 0,
-    "update_time": "2025-06-06 07:49:46",
-    "change_number": 29406995,
+    "update_time": "2025-07-16 09:30:08",
+    "change_number": 30084957,
     "depot": {
         "2945201": {
             "manifests": {
                 "public": {
-                    "gid": "3218848090648013705",
-                    "size": "2432336465",
-                    "download": "1311927616"
+                    "gid": "3625350088894244571",
+                    "size": "2708466706",
+                    "download": "1472318256"
                 },
                 "mac_save_bugfix": {
                     "gid": "3218848090648013705",
@@ -28,9 +28,9 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "7043724763525699350",
-                    "size": "2456873507",
-                    "download": "1319734480"
+                    "gid": "9067986104712479027",
+                    "size": "2733008495",
+                    "download": "1480127744"
                 },
                 "mac_save_bugfix": {
                     "gid": "647576826516043974",
@@ -45,9 +45,9 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "5741922205528878943",
-                    "size": "2559513294",
-                    "download": "1429786096"
+                    "gid": "4561316658447544818",
+                    "size": "2710698270",
+                    "download": "1471703952"
                 },
                 "mac_save_bugfix": {
                     "gid": "1265074703560449190",
@@ -58,8 +58,8 @@
         },
         "branches": {
             "public": {
-                "buildid": "17980952",
-                "timeupdated": "1743899824"
+                "buildid": "19199897",
+                "timeupdated": "1752305078"
             },
             "mac_save_bugfix": {
                 "buildid": "17364544",
