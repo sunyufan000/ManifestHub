@@ -4,8 +4,8 @@
     "type": "Game",
     "schinese_name": "",
     "isfreeapp": 0,
-    "update_time": "2025-06-13 18:44:07",
-    "change_number": 29547437,
+    "update_time": "2025-07-21 17:25:49",
+    "change_number": 30170402,
     "depot": {
         "baselanguages": "english,german,french,italian,koreana,spanish,schinese,russian,japanese,polish,brazilian",
         "workshopdepot": "1733110",
@@ -17,19 +17,19 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "4672684085045104171",
-                    "size": "597087597",
-                    "download": "347121392"
+                    "gid": "8190179464424375029",
+                    "size": "606114821",
+                    "download": "357272880"
                 },
                 "beta": {
-                    "gid": "4672684085045104171",
-                    "size": "597087597",
-                    "download": "347121392"
+                    "gid": "8190179464424375029",
+                    "size": "606114821",
+                    "download": "357272880"
                 },
                 "previous": {
-                    "gid": "3171321036685078610",
-                    "size": "597076563",
-                    "download": "347116384"
+                    "gid": "415942311282202333",
+                    "size": "597096941",
+                    "download": "347736288"
                 }
             },
             "decryptionkey": "2aefb5610aff8c017b461ec4f3da8d7a17a426b0d4ab6bf30df2bd99c391e208"
@@ -41,36 +41,37 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "4512356571225296589",
-                    "size": "608715811",
-                    "download": "350963072"
+                    "gid": "5387910252645304620",
+                    "size": "615598606",
+                    "download": "361335632"
                 },
                 "beta": {
-                    "gid": "4512356571225296589",
-                    "size": "608715811",
-                    "download": "350963072"
+                    "gid": "5387910252645304620",
+                    "size": "615598606",
+                    "download": "361335632"
                 },
                 "previous": {
-                    "gid": "4343811451512421103",
-                    "size": "608704777",
-                    "download": "350960912"
+                    "gid": "6810908340594719229",
+                    "size": "608725155",
+                    "download": "351553984"
                 }
-            }
+            },
+            "decryptionkey": "c8a5dfd8f65bf5c949c255c8fca8b013076e98f57ade13f59f7109a416664253"
         },
         "branches": {
             "public": {
-                "buildid": "18854233",
-                "timeupdated": "1749811440"
+                "buildid": "19161442",
+                "timeupdated": "1752159249"
             },
             "beta": {
-                "buildid": "18854233",
+                "buildid": "19161442",
                 "description": "Get the latest features",
-                "timeupdated": "1749809965"
+                "timeupdated": "1752069828"
             },
             "previous": {
-                "buildid": "18748369",
+                "buildid": "18976021",
                 "description": "Loads the previous patch content",
-                "timeupdated": "1749809973"
+                "timeupdated": "1752159223"
             }
         },
         "privatebranches": "1",
