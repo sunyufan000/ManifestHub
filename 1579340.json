@@ -4,8 +4,8 @@
     "type": "Game",
     "schinese_name": "秋末求生 | Survive the Fall",
     "isfreeapp": 0,
-    "update_time": "2025-06-18 23:30:48",
-    "change_number": 29631944,
+    "update_time": "2025-07-23 11:22:09",
+    "change_number": 30204281,
     "depot": {
         "228988": {
             "config": {
@@ -31,14 +31,14 @@
         "1579341": {
             "manifests": {
                 "public": {
-                    "gid": "6872429720504635392",
-                    "size": "46491403940",
-                    "download": "16365209936"
+                    "gid": "6991405490738422925",
+                    "size": "46498307212",
+                    "download": "16384527200"
                 },
                 "publictesting": {
-                    "gid": "2449389809489861126",
-                    "size": "46489839688",
-                    "download": "16314839856"
+                    "gid": "6991405490738422925",
+                    "size": "46498307212",
+                    "download": "16384527200"
                 }
             },
             "decryptionkey": "39feebfcc1604f5e11b443382b327ba82cbd6bb5dea920007238e50c93843f17"
@@ -65,13 +65,13 @@
         "baselanguages": "english",
         "branches": {
             "public": {
-                "buildid": "18911440",
-                "timeupdated": "1750258775"
+                "buildid": "19191566",
+                "timeupdated": "1752240768"
             },
             "publictesting": {
-                "buildid": "18914410",
+                "buildid": "19109063",
                 "description": "For public playtesting",
-                "timeupdated": "1750260644"
+                "timeupdated": "1751636951"
             }
         },
         "privatebranches": "1"
