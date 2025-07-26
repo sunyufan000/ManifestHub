@@ -1,0 +1,28 @@
+{
+    "appid": 1022444,
+    "name": "DFF NT: Bartz Klauser Starter Pack",
+    "type": "DLC",
+    "schinese_name": "",
+    "isfreeapp": 0,
+    "update_time": "2025-06-23 14:10:11",
+    "change_number": 26201212,
+    "depot": {
+        "1022444": {
+            "manifests": {
+                "public": {
+                    "gid": "941717606500142399",
+                    "size": "0",
+                    "download": "0"
+                }
+            },
+            "dlcappid": "1022444",
+            "decryptionkey": "90285e9c51620e725bfcec04ec5c6d255a03fad59256add66f97945be8f23df2"
+        },
+        "branches": {
+            "public": {
+                "buildid": "3508025",
+                "timeupdated": "1548672186"
+            }
+        }
+    }
+}
