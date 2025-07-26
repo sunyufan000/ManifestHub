@@ -4,8 +4,8 @@
     "type": "Game",
     "schinese_name": "乐高蝙蝠侠3：哥谭之上",
     "isfreeapp": 0,
-    "update_time": "2025-06-19 17:58:01",
-    "change_number": 29646977,
+    "update_time": "2025-07-23 18:15:02",
+    "change_number": 30211375,
     "depot": {
         "baselanguages": "english,german,french,italian,spanish,russian,polish,danish,dutch,brazilian",
         "228983": {
@@ -351,16 +351,23 @@
             "decryptionkey": "d8788b279f5acaa65f4435f1a3ae6d2c6ad0c7d2da736a8eb543ce1657682c63"
         },
         "330861": {
-            "dlcappid": "330860",
             "config": {
                 "oslist": "windows",
                 "steamdeck": "1"
             },
-            "manifests": {}
+            "manifests": {
+                "public": {
+                    "gid": "2996537685330008398",
+                    "size": "39418368",
+                    "download": "9502160"
+                }
+            },
+            "decryptionkey": ""
         },
         "branches": {
             "public": {
-                "buildid": "527112"
+                "buildid": "18924960",
+                "timeupdated": "1751031980"
             },
             "local": {
                 "buildid": "561175",
