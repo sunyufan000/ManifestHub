@@ -4,8 +4,8 @@
     "type": "Tool",
     "schinese_name": "",
     "isfreeapp": 0,
-    "update_time": "2025-06-19 17:52:32",
-    "change_number": 29646883,
+    "update_time": "2025-07-23 19:36:17",
+    "change_number": 30212673,
     "depot": {
         "1004": {
             "config": {
@@ -13,9 +13,9 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "7747775778018907449",
-                    "size": "46727128",
-                    "download": "14307024"
+                    "gid": "8904491048620934740",
+                    "size": "68697032",
+                    "download": "20552544"
                 }
             },
             "depotfromapp": "1007",
@@ -41,9 +41,9 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "7138471031118904166",
-                    "size": "78382436",
-                    "download": "21254752"
+                    "gid": "5587033981095108078",
+                    "size": "107476144",
+                    "download": "29272144"
                 }
             },
             "depotfromapp": "1007",
@@ -57,9 +57,9 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "1181186177464236735",
-                    "size": "8377769351",
-                    "download": "1628805312"
+                    "gid": "5386763992701898302",
+                    "size": "8389241322",
+                    "download": "1663884816"
                 }
             },
             "decryptionkey": "eb4909032cd917aaaf94448da374ca711a01f784817bb93dcfb84af7be77e87d"
@@ -72,17 +72,17 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "1243137302558592012",
-                    "size": "8534716317",
-                    "download": "1751993968"
+                    "gid": "7544502554872562429",
+                    "size": "8550852138",
+                    "download": "1787659040"
                 }
             },
             "decryptionkey": "51fb0a69919307daf391d19b53617a43f8a7fb773356486b503a3e06c3f93346"
         },
         "branches": {
             "public": {
-                "buildid": "18911883",
-                "timeupdated": "1750251005"
+                "buildid": "19095516",
+                "timeupdated": "1751555265"
             }
         },
         "privatebranches": "1"
