@@ -4,8 +4,8 @@
     "type": "Game",
     "schinese_name": "九州：立志",
     "isfreeapp": 0,
-    "update_time": "2025-06-11 12:53:22",
-    "change_number": 29499683,
+    "update_time": "2025-07-14 13:12:29",
+    "change_number": 30048185,
     "depot": {
         "baselanguages": "schinese",
         "1461981": {
@@ -14,9 +14,9 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "8624008938173659077",
-                    "size": "897782143",
-                    "download": "354725248"
+                    "gid": "6212993608388732516",
+                    "size": "897782246",
+                    "download": "355315648"
                 },
                 "20250225": {
                     "gid": "6452639631002355338",
@@ -44,8 +44,8 @@
         "workshopdepot": "1461980",
         "branches": {
             "public": {
-                "buildid": "18791107",
-                "timeupdated": "1749455106"
+                "buildid": "18959646",
+                "timeupdated": "1750646906"
             },
             "20250225": {
                 "buildid": "17290768",
