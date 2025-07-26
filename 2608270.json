@@ -4,8 +4,8 @@
     "type": "Game",
     "schinese_name": "静脉注射2",
     "isfreeapp": 0,
-    "update_time": "2025-06-20 15:41:39",
-    "change_number": 29663613,
+    "update_time": "2025-07-23 20:01:49",
+    "change_number": 30213051,
     "depot": {
         "workshopdepot": "2608270",
         "228989": {
@@ -25,14 +25,19 @@
         "2608271": {
             "manifests": {
                 "public": {
-                    "gid": "1085500014810236351",
-                    "size": "1005547217",
-                    "download": "1012906064"
+                    "gid": "3496928027813053113",
+                    "size": "1005815820",
+                    "download": "1011249536"
                 },
                 "test": {
-                    "gid": "1085500014810236351",
-                    "size": "1005547217",
-                    "download": "1012906064"
+                    "gid": "3496928027813053113",
+                    "size": "1005815820",
+                    "download": "1011249536"
+                },
+                "version140": {
+                    "gid": "5991895202703835897",
+                    "size": "1125927016",
+                    "download": "1130017808"
                 }
             },
             "decryptionkey": "65303bb0b084fda7e68b6e2dc146d2d0e42df675c4fd522649ad8dc41cea69e5"
@@ -44,14 +49,19 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "2172993518225357373",
-                    "size": "4187078481",
-                    "download": "4200057488"
+                    "gid": "8417263982275479511",
+                    "size": "4676450888",
+                    "download": "4689338768"
                 },
                 "test": {
-                    "gid": "2172993518225357373",
-                    "size": "4187078481",
-                    "download": "4200057488"
+                    "gid": "8417263982275479511",
+                    "size": "4676450888",
+                    "download": "4689338768"
+                },
+                "version140": {
+                    "gid": "8417263982275479511",
+                    "size": "4676450888",
+                    "download": "4689338768"
                 }
             },
             "decryptionkey": "e4dc2f66d1a61c0ff2f0249ab17212c51cba476048e43aaf576ee8afbcd80706"
@@ -63,27 +73,37 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "5057109965508970706",
-                    "size": "619685733",
-                    "download": "615140080"
+                    "gid": "8473628593928292169",
+                    "size": "619682371",
+                    "download": "615779136"
                 },
                 "test": {
-                    "gid": "5057109965508970706",
-                    "size": "619685733",
-                    "download": "615140080"
+                    "gid": "8473628593928292169",
+                    "size": "619682371",
+                    "download": "615779136"
+                },
+                "version140": {
+                    "gid": "9029122318377035417",
+                    "size": "619683204",
+                    "download": "615943408"
                 }
             },
             "decryptionkey": "0dea1e881b2c4b6b457f09a52489a01823c4a3982790d26a13c6856e38b19003"
         },
         "branches": {
             "public": {
-                "buildid": "18936863",
-                "timeupdated": "1750405295"
+                "buildid": "19311152",
+                "timeupdated": "1753168643"
             },
             "test": {
-                "buildid": "18936863",
+                "buildid": "19311152",
                 "description": "upcoming update voluntary testing",
-                "timeupdated": "1750405270"
+                "timeupdated": "1753168605"
+            },
+            "version140": {
+                "buildid": "19333558",
+                "description": "update 1.4.0 voluntary testing",
+                "timeupdated": "1753297304"
             }
         },
         "privatebranches": "1",
