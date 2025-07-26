@@ -1,0 +1,28 @@
+{
+    "appid": 1022432,
+    "name": "DFF NT: Excalibur, Ramza Beoulve's 4th Weapon",
+    "type": "DLC",
+    "schinese_name": "",
+    "isfreeapp": 0,
+    "update_time": "2025-06-23 14:10:08",
+    "change_number": 26201212,
+    "depot": {
+        "1022432": {
+            "manifests": {
+                "public": {
+                    "gid": "22499868435192279",
+                    "size": "0",
+                    "download": "0"
+                }
+            },
+            "dlcappid": "1022432",
+            "decryptionkey": "49e9aed7bb3d3e59e2e881fd90a15d5ba3b6773c99167cfe922914ee8fa10487"
+        },
+        "branches": {
+            "public": {
+                "buildid": "3508004",
+                "timeupdated": "1548672355"
+            }
+        }
+    }
+}
