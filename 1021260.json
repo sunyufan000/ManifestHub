@@ -1,0 +1,31 @@
+{
+    "appid": 1021260,
+    "name": "Chocolate makes you happy: St.Patrick's Day",
+    "type": "Game",
+    "schinese_name": "",
+    "isfreeapp": 0,
+    "update_time": "2025-07-13 19:11:43",
+    "change_number": 30037768,
+    "depot": {
+        "baselanguages": "english",
+        "1021261": {
+            "config": {
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "4431811193512853276",
+                    "size": "79965075",
+                    "download": "77875936"
+                }
+            },
+            "decryptionkey": "f8ad1d6b5fa33cf83e498869e41f351ae339d630506a88ab26bb66e46f62883f"
+        },
+        "branches": {
+            "public": {
+                "buildid": "13491018",
+                "timeupdated": "1708272930"
+            }
+        }
+    }
+}
