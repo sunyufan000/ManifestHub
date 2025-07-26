@@ -4,8 +4,8 @@
     "type": "Game",
     "schinese_name": "",
     "isfreeapp": 1,
-    "update_time": "2025-06-21 05:43:43",
-    "change_number": 29676085,
+    "update_time": "2025-07-23 04:13:10",
+    "change_number": 30198515,
     "depot": {
         "workshopdepot": "2407300",
         "baselanguages": "english",
@@ -16,14 +16,14 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "1142578306189493046",
-                    "size": "283120057",
-                    "download": "226920432"
+                    "gid": "5780321943081128291",
+                    "size": "264623948",
+                    "download": "227423344"
                 },
                 "publicbeta": {
-                    "gid": "1142578306189493046",
-                    "size": "283120057",
-                    "download": "226920432"
+                    "gid": "5780321943081128291",
+                    "size": "264623948",
+                    "download": "227423344"
                 },
                 "arm_branch": {
                     "gid": "6979939072557749829",
@@ -40,14 +40,14 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "652732572883694281",
-                    "size": "282482275",
-                    "download": "226297600"
+                    "gid": "8418519272941285993",
+                    "size": "263892854",
+                    "download": "225950912"
                 },
                 "publicbeta": {
-                    "gid": "652732572883694281",
-                    "size": "282482275",
-                    "download": "226297600"
+                    "gid": "8418519272941285993",
+                    "size": "263892854",
+                    "download": "225950912"
                 },
                 "arm_branch": {
                     "gid": "2609533680579783415",
@@ -59,13 +59,13 @@
         },
         "branches": {
             "public": {
-                "buildid": "18800876",
-                "timeupdated": "1749502519"
+                "buildid": "19085441",
+                "timeupdated": "1751494765"
             },
             "publicbeta": {
-                "buildid": "18800876",
+                "buildid": "19085441",
                 "description": "Public Beta of Asteroids ++",
-                "timeupdated": "1749502431"
+                "timeupdated": "1751494736"
             },
             "arm_branch": {
                 "buildid": "16572400",
