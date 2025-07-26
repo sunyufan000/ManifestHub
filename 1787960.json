@@ -4,15 +4,15 @@
     "type": "Game",
     "schinese_name": "铣削机模拟器",
     "isfreeapp": 0,
-    "update_time": "2025-06-20 14:30:22",
-    "change_number": 29662672,
+    "update_time": "2025-07-13 20:12:18",
+    "change_number": 30038152,
     "depot": {
         "1787961": {
             "manifests": {
                 "public": {
-                    "gid": "3502845486500604852",
-                    "size": "4715667290",
-                    "download": "1066337808"
+                    "gid": "787487972671774129",
+                    "size": "4722042650",
+                    "download": "1079198192"
                 }
             },
             "decryptionkey": "3b607d998f0743eab417b67359783a77214886d5932bcc9cb0c8ba05b572b369"
@@ -20,8 +20,8 @@
         "workshopdepot": "1787960",
         "branches": {
             "public": {
-                "buildid": "18837601",
-                "timeupdated": "1749723111"
+                "buildid": "19205633",
+                "timeupdated": "1752392133"
             }
         },
         "privatebranches": "1",
