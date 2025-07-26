@@ -4,8 +4,8 @@
     "type": "Application",
     "schinese_name": "",
     "isfreeapp": 1,
-    "update_time": "2025-06-13 01:33:07",
-    "change_number": 29531439,
+    "update_time": "2025-07-09 07:56:35",
+    "change_number": 29963269,
     "depot": {
         "baselanguages": "english",
         "1099551": {
@@ -15,9 +15,9 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "272159547537137066",
-                    "size": "1089880262",
-                    "download": "334978784"
+                    "gid": "3920802507359549643",
+                    "size": "1089987932",
+                    "download": "335908336"
                 },
                 "macbeta": {
                     "gid": "1537878124318375637",
@@ -48,8 +48,8 @@
         },
         "branches": {
             "public": {
-                "buildid": "18840894",
-                "timeupdated": "1749742275"
+                "buildid": "19146902",
+                "timeupdated": "1751983180"
             },
             "macbeta": {
                 "buildid": "14176608",
