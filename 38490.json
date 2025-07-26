@@ -4,8 +4,8 @@
     "type": "Game",
     "schinese_name": "蚯蚓战士2",
     "isfreeapp": 0,
-    "update_time": "2025-06-20 07:24:02",
-    "change_number": 29658261,
+    "update_time": "2025-07-10 02:17:03",
+    "change_number": 29978856,
     "depot": {
         "overridescddb": "1",
         "38481": {
@@ -25,8 +25,8 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "2486876772722830883",
-                    "size": "746628026",
+                    "gid": "1393566360696166430",
+                    "size": "746628025",
                     "download": "366190416"
                 }
             },
@@ -38,8 +38,8 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "4180080117862273081",
-                    "size": "742766308",
+                    "gid": "3464254172455730721",
+                    "size": "742766307",
                     "download": "362518976"
                 }
             },
@@ -47,8 +47,8 @@
         },
         "branches": {
             "public": {
-                "buildid": "18932939",
-                "timeupdated": "1750375437"
+                "buildid": "19168450",
+                "timeupdated": "1752110219"
             }
         }
     }
