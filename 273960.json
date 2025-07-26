@@ -4,7 +4,7 @@
     "type": "Game",
     "schinese_name": "机甲佣兵：黑爪",
     "isfreeapp": 0,
-    "update_time": "2025-05-24 08:13:55",
+    "update_time": "2025-06-23 14:17:27",
     "change_number": 29161168,
     "depot": {
         "overridescddb": "1",
@@ -57,7 +57,8 @@
                     "size": "3251154785",
                     "download": "111732238926"
                 }
-            }
+            },
+            "decryptionkey": "98b6eb628720aa1eefe24076156e1477413b635eb8e938a2541a107ff3339936"
         },
         "273965": {
             "config": {
@@ -75,7 +76,8 @@
                     "size": "3335944682",
                     "download": "412316902778"
                 }
-            }
+            },
+            "decryptionkey": "8982a6092b803726c3621fea4dfb077a175516f2a14d709c2d3324bdf2c157a6"
         },
         "273963": {
             "config": {
@@ -94,7 +96,7 @@
                     "download": "1795937024"
                 }
             },
-            "decryptionkey": ""
+            "decryptionkey": "acb7e6a86c74518f4d6e78b3103f928f8721e0f69f11310595702de74feebec6"
         },
         "273964": {
             "config": {
@@ -112,7 +114,8 @@
                     "size": "3316320522",
                     "download": "1708271488"
                 }
-            }
+            },
+            "decryptionkey": "2a96267b6acfa70afc191058680da89d903d23b3451401770979ce9d1b8908ab"
         },
         "273978": {
             "config": {
@@ -125,7 +128,8 @@
                     "size": "3307446248",
                     "download": "1498882272"
                 }
-            }
+            },
+            "decryptionkey": "d4c8addf18d72e951b033f0c9e25717758d5cbca35f31ad9161aa7a970add47f"
         },
         "273966": {
             "config": {
@@ -144,7 +148,7 @@
                     "download": "1767174736"
                 }
             },
-            "decryptionkey": ""
+            "decryptionkey": "63e25b568c1c536068d3fdeb4e31ced70836e1accf4cadf1aea692b01b1a943c"
         },
         "273967": {
             "config": {
@@ -157,7 +161,8 @@
                     "size": "3232432953",
                     "download": "1464612448"
                 }
-            }
+            },
+            "decryptionkey": "27facd7d104cc00555febbe4cbaa2c88fec334be664b325c51e419d148035ab5"
         },
         "273968": {
             "config": {
@@ -170,7 +175,8 @@
                     "size": "3300651235",
                     "download": "1501719072"
                 }
-            }
+            },
+            "decryptionkey": "ecccd0e5d361e0b1c9715ab4be962f800adcad78c27545772b4c960b61f65764"
         },
         "273969": {
             "config": {
@@ -189,7 +195,7 @@
                     "download": "1766613200"
                 }
             },
-            "decryptionkey": ""
+            "decryptionkey": "e3c71d98a65757d0ee35a7be211970886f23af2be4bc99c07db2b78c76d4c21e"
         },
         "273970": {
             "config": {
@@ -202,7 +208,8 @@
                     "size": "3232390593",
                     "download": "1464615280"
                 }
-            }
+            },
+            "decryptionkey": "5a5d3e0cb348ccabf019f9ac52c1654e5e28c1605e0cf154c8c9c995ef22ee36"
         },
         "273971": {
             "config": {
@@ -215,7 +222,8 @@
                     "size": "3300608875",
                     "download": "1502803888"
                 }
-            }
+            },
+            "decryptionkey": "329f3bdf54b5963854c14987619070179a3de3ba47a9defd2e0f96354a15a57e"
         },
         "273972": {
             "config": {
@@ -229,7 +237,7 @@
                     "download": "1600262560"
                 }
             },
-            "decryptionkey": ""
+            "decryptionkey": "f4028ff3bf1acbfa02ec58ce155705b40700b20e1c2d830b3cf8d15613a5f421"
         },
         "273973": {
             "config": {
@@ -242,7 +250,8 @@
                     "size": "3215118879",
                     "download": "1450763808"
                 }
-            }
+            },
+            "decryptionkey": "e5cc44391362a8ff7b35682a7833085d98ffe917bf015af54b4d016e57b83d26"
         },
         "273974": {
             "config": {
@@ -255,7 +264,8 @@
                     "size": "3300618411",
                     "download": "1502446416"
                 }
-            }
+            },
+            "decryptionkey": "fa1de4d88f7812d9624b257e80e5c676a353cb81b965dc4d12171fb19b8cfb87"
         },
         "273975": {
             "config": {
@@ -274,7 +284,7 @@
                     "download": "1788712176"
                 }
             },
-            "decryptionkey": ""
+            "decryptionkey": "e2994296ccad4cbd4d4adf1b73af312e14d385fc0a5572e145f34862f6453e89"
         },
         "273977": {
             "config": {
@@ -287,7 +297,8 @@
                     "size": "3424441370",
                     "download": "1575229936"
                 }
-            }
+            },
+            "decryptionkey": "af0551d19a17440e78d333e92fbde5110a622be07bc2027582cdef068a057de5"
         },
         "273976": {
             "config": {
@@ -301,7 +312,7 @@
                     "download": "1594296544"
                 }
             },
-            "decryptionkey": ""
+            "decryptionkey": "531bfd4cda8b1c015af63397d26da6cb9886a4639260763d1b29b3e98225bf24"
         },
         "273979": {
             "config": {
@@ -314,7 +325,8 @@
                     "size": "3424083647",
                     "download": "1536681232"
                 }
-            }
+            },
+            "decryptionkey": "04c0b783026982a5d22272763488bbff0ee6eaab0e2e8d54c9b7fdb43d4ef79c"
         },
         "345100": {
             "config": {
@@ -327,7 +339,8 @@
                     "size": "3352889563",
                     "download": "1529634160"
                 }
-            }
+            },
+            "decryptionkey": "920f9bf8c9fa0d443d220da8a881e4ffd686baf484e1ba97f8e94656016fbd12"
         },
         "345101": {
             "config": {
@@ -340,7 +353,8 @@
                     "size": "3352550867",
                     "download": "1529522976"
                 }
-            }
+            },
+            "decryptionkey": "02158326cf15415ac29ded030b10adde91478427b5f5ce97183917ef7ce50556"
         },
         "345102": {
             "config": {
@@ -354,7 +368,7 @@
                     "download": "1594565184"
                 }
             },
-            "decryptionkey": ""
+            "decryptionkey": "f8223f9cfd31645180c72cfad221bf9339d00e8785f5a4a6ebbc708147a07e45"
         },
         "branches": {
             "public": {
