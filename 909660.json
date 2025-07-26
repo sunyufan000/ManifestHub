@@ -4,8 +4,8 @@
     "type": "Game",
     "schinese_name": "《瓦格鲁斯 - 万壑之地》",
     "isfreeapp": 0,
-    "update_time": "2025-06-20 05:25:43",
-    "change_number": 29652656,
+    "update_time": "2025-07-23 18:43:22",
+    "change_number": 30211876,
     "depot": {
         "909661": {
             "config": {
@@ -13,14 +13,14 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "999765744797636799",
-                    "size": "5176883721",
-                    "download": "3618708848"
+                    "gid": "2536129927942840934",
+                    "size": "4282871328",
+                    "download": "2931708416"
                 },
                 "public_beta": {
-                    "gid": "999765744797636799",
-                    "size": "5176883721",
-                    "download": "3618708848"
+                    "gid": "2536129927942840934",
+                    "size": "4282871328",
+                    "download": "2931708416"
                 }
             },
             "decryptionkey": "b78c9f863001a8a018cb92afa84b794a77c1c8bb300df1b381ae7a288f24700f"
@@ -31,14 +31,14 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "4824627760286869596",
-                    "size": "5182054194",
-                    "download": "3624876640"
+                    "gid": "2439059526119412447",
+                    "size": "4315034051",
+                    "download": "2942587088"
                 },
                 "public_beta": {
-                    "gid": "4824627760286869596",
-                    "size": "5182054194",
-                    "download": "3624876640"
+                    "gid": "2439059526119412447",
+                    "size": "4315034051",
+                    "download": "2942587088"
                 }
             }
         },
@@ -48,14 +48,14 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "406784723068621581",
-                    "size": "5151174570",
-                    "download": "3605713664"
+                    "gid": "2482571876545463023",
+                    "size": "4243835865",
+                    "download": "2878724864"
                 },
                 "public_beta": {
-                    "gid": "406784723068621581",
-                    "size": "5151174570",
-                    "download": "3605713664"
+                    "gid": "2482571876545463023",
+                    "size": "4243835865",
+                    "download": "2878724864"
                 }
             }
         },
@@ -80,13 +80,13 @@
         },
         "branches": {
             "public": {
-                "buildid": "18686943",
-                "timeupdated": "1748709669"
+                "buildid": "19317213",
+                "timeupdated": "1753292579"
             },
             "public_beta": {
-                "buildid": "18686943",
+                "buildid": "19317213",
                 "description": "Unfinished and buggy features; incomplete content, etc. - secure your save files, use at your own risk only. You may lose everything here.",
-                "timeupdated": "1748709726"
+                "timeupdated": "1753292533"
             }
         },
         "privatebranches": "1"
