@@ -4,8 +4,8 @@
     "type": "Game",
     "schinese_name": "",
     "isfreeapp": 0,
-    "update_time": "2025-06-18 23:07:17",
-    "change_number": 29631523,
+    "update_time": "2025-07-23 12:52:31",
+    "change_number": 30205631,
     "depot": {
         "228989": {
             "config": {
@@ -36,27 +36,27 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "449565515561007809",
-                    "size": "53106210718",
-                    "download": "43685311264"
+                    "gid": "3663011776653392635",
+                    "size": "53727066285",
+                    "download": "44292976000"
                 },
                 "testpublic": {
-                    "gid": "1549866331829713991",
-                    "size": "53045831233",
-                    "download": "43602289680"
+                    "gid": "5663170173701208994",
+                    "size": "53695290843",
+                    "download": "44262950192"
                 }
             },
             "decryptionkey": "94af5252c477a832d7d00b05f92b88eac984fbf4deae87b88b1852fa91f9719f"
         },
         "branches": {
             "public": {
-                "buildid": "18026347",
-                "timeupdated": "1744181929"
+                "buildid": "19327409",
+                "timeupdated": "1753268747"
             },
             "testpublic": {
-                "buildid": "17807145",
+                "buildid": "19187703",
                 "description": "Mortal Online Public Test Realm",
-                "timeupdated": "1742558748"
+                "timeupdated": "1752238777"
             }
         },
         "privatebranches": "1"
