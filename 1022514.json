@@ -1,0 +1,28 @@
+{
+    "appid": 1022514,
+    "name": "DFF NT: Truth Seeker, Y'shtola's EX weapon",
+    "type": "DLC",
+    "schinese_name": "",
+    "isfreeapp": 0,
+    "update_time": "2025-06-23 14:10:27",
+    "change_number": 26201212,
+    "depot": {
+        "1022514": {
+            "manifests": {
+                "public": {
+                    "gid": "3416500686945761082",
+                    "size": "0",
+                    "download": "0"
+                }
+            },
+            "dlcappid": "1022514",
+            "decryptionkey": "b6d9b2c4f01ca996ac67c755c725f9c8ceff3c7c4024010c2d8f8882ad3917c5"
+        },
+        "branches": {
+            "public": {
+                "buildid": "3508013",
+                "timeupdated": "1548671435"
+            }
+        }
+    }
+}
