@@ -4,8 +4,8 @@
     "type": "Game",
     "schinese_name": "化月奇旅",
     "isfreeapp": 0,
-    "update_time": "2025-06-22 08:18:21",
-    "change_number": 29686634,
+    "update_time": "2025-07-22 15:28:13",
+    "change_number": 30187874,
     "depot": {
         "baselanguages": "english",
         "2862891": {
@@ -14,27 +14,37 @@
             },
             "manifests": {
                 "public": {
+                    "gid": "1293182900168211613",
+                    "size": "570374306",
+                    "download": "541574384"
+                },
+                "beta-testing": {
+                    "gid": "1293182900168211613",
+                    "size": "570374306",
+                    "download": "541574384"
+                },
+                "legacy-branch": {
                     "gid": "8883819363394377178",
                     "size": "580190000",
                     "download": "552786432"
-                },
-                "beta-testing": {
-                    "gid": "2233837083976151880",
-                    "size": "573244652",
-                    "download": "550020496"
                 }
             },
             "decryptionkey": "10ad0dd8db263898d9bc82c8320d0b7f6cf85b2a36c1d28144eba335dda40122"
         },
         "branches": {
             "public": {
-                "buildid": "18944054",
-                "timeupdated": "1750447331"
+                "buildid": "19209229",
+                "timeupdated": "1752439713"
             },
             "beta-testing": {
-                "buildid": "18951160",
+                "buildid": "19209229",
                 "description": "For beta testing. Warning: this branch may be unstable and crash",
-                "timeupdated": "1750525454"
+                "timeupdated": "1752439687"
+            },
+            "legacy-branch": {
+                "buildid": "18944054",
+                "description": "Contains game version 1.0.8a (pre-1.1.0). Unsupported, may contain bugs.",
+                "timeupdated": "1751428879"
             }
         },
         "privatebranches": "1"
