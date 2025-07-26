@@ -4,8 +4,8 @@
     "type": "Game",
     "schinese_name": "雅皮士精神",
     "isfreeapp": 0,
-    "update_time": "2025-06-19 14:38:58",
-    "change_number": 29643386,
+    "update_time": "2025-07-21 08:52:07",
+    "change_number": 30162605,
     "depot": {
         "baselanguages": "english,french,spanish",
         "229020": {
@@ -27,9 +27,9 @@
                     "download": "1371545744"
                 },
                 "beta": {
-                    "gid": "1255562614409822785",
-                    "size": "1558481994",
-                    "download": "1371572976"
+                    "gid": "5489609454846422065",
+                    "size": "1447447238",
+                    "download": "1283946944"
                 },
                 "previous": {
                     "gid": "7310522589258287340",
@@ -66,9 +66,9 @@
                     "download": "1372404656"
                 },
                 "beta": {
-                    "gid": "2501903391592343895",
-                    "size": "1564147199",
-                    "download": "1372364656"
+                    "gid": "7378455107122278363",
+                    "size": "1423929127",
+                    "download": "1277302768"
                 },
                 "previous": {
                     "gid": "7679455675404401509",
@@ -105,9 +105,9 @@
                     "download": "1374648336"
                 },
                 "beta": {
-                    "gid": "7186905718464983532",
-                    "size": "1570738305",
-                    "download": "1374744784"
+                    "gid": "5462206688280305444",
+                    "size": "1434810861",
+                    "download": "1280302688"
                 },
                 "previous": {
                     "gid": "6739855828258921762",
@@ -139,9 +139,9 @@
                 "timeupdated": "1714067673"
             },
             "beta": {
-                "buildid": "17782649",
+                "buildid": "19231729",
                 "description": "feeling adventurous ?",
-                "timeupdated": "1742400216"
+                "timeupdated": "1752592412"
             },
             "previous": {
                 "buildid": "11356711",
