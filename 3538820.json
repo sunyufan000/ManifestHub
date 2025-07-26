@@ -4,8 +4,8 @@
     "type": "Game",
     "schinese_name": "银河模拟器2：星门",
     "isfreeapp": 0,
-    "update_time": "2025-06-19 16:17:40",
-    "change_number": 29645384,
+    "update_time": "2025-07-17 19:36:52",
+    "change_number": 30117106,
     "depot": {
         "baselanguages": "english,german,french,italian,koreana,spanish,schinese,tchinese,russian,thai,japanese,portuguese,polish,danish,dutch,finnish,norwegian,swedish,hungarian,czech,romanian,turkish,arabic,brazilian,bulgarian,greek,ukrainian,latam,vietnamese,indonesian",
         "hasdepotsindlc": "1",
@@ -15,9 +15,9 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "1490130889479552863",
-                    "size": "4760878357",
-                    "download": "1534484304"
+                    "gid": "3247702426337702153",
+                    "size": "4751809403",
+                    "download": "1531102528"
                 }
             },
             "decryptionkey": "8d7b7aec10b106b3f6c26881c29ee2297db00ee0e2dcd0df7c519c5b1a8a4ae6"
@@ -36,8 +36,8 @@
         },
         "branches": {
             "public": {
-                "buildid": "18922768",
-                "timeupdated": "1750314311"
+                "buildid": "19156246",
+                "timeupdated": "1752041696"
             }
         }
     }
