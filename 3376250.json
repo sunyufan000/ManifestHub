@@ -4,23 +4,23 @@
     "type": "Game",
     "schinese_name": "九球轮盘赌",
     "isfreeapp": 0,
-    "update_time": "2025-06-22 05:56:16",
-    "change_number": 29683744,
+    "update_time": "2025-07-22 09:16:49",
+    "change_number": 30181934,
     "depot": {
         "3376251": {
             "manifests": {
                 "public": {
-                    "gid": "62181350645138054",
-                    "size": "744972472",
-                    "download": "427582208"
+                    "gid": "8626188223491777549",
+                    "size": "763371640",
+                    "download": "445529952"
                 }
             },
             "decryptionkey": "b8e4a7ce69ae5aef69562f43522ae837dd6bb3b36efb3a3d923d874afa21397d"
         },
         "branches": {
             "public": {
-                "buildid": "18905024",
-                "timeupdated": "1750206492"
+                "buildid": "19311765",
+                "timeupdated": "1753172204"
             }
         }
     }
