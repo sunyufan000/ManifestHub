@@ -4,8 +4,8 @@
     "type": "Game",
     "schinese_name": "洛菲水族馆 · Lofi Aquarium",
     "isfreeapp": 0,
-    "update_time": "2025-06-14 02:13:54",
-    "change_number": 29555275,
+    "update_time": "2025-07-01 04:07:00",
+    "change_number": 29834803,
     "depot": {
         "228990": {
             "config": {
@@ -17,9 +17,9 @@
         "3051381": {
             "manifests": {
                 "public": {
-                    "gid": "1770648580080176308",
-                    "size": "485039292",
-                    "download": "162613376"
+                    "gid": "7533735882766441310",
+                    "size": "486246337",
+                    "download": "164473504"
                 }
             },
             "decryptionkey": "5fcfb32effeb4f67d8a9f23bb27db5e3c5cbda63e30f12615b70f40ea8c7771d"
@@ -27,8 +27,8 @@
         "baselanguages": "english,german,french,italian,koreana,spanish,schinese,tchinese,russian,thai,japanese,portuguese,dutch,ukrainian",
         "branches": {
             "public": {
-                "buildid": "18172635",
-                "timeupdated": "1745149719"
+                "buildid": "19059246",
+                "timeupdated": "1751339215"
             }
         }
     }
