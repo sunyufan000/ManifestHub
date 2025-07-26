@@ -1,11 +1,11 @@
 {
     "appid": 3413760,
-    "name": "MI.N.S.K. Playtest",
+    "name": "M.I.N.S.K. Playtest",
     "type": "Beta",
     "schinese_name": "",
     "isfreeapp": 0,
-    "update_time": "2025-06-22 06:01:22",
-    "change_number": 29685686,
+    "update_time": "2025-07-07 18:38:08",
+    "change_number": 29772462,
     "depot": {
         "228989": {
             "config": {
@@ -40,5 +40,6 @@
                 "timeupdated": "1750367499"
             }
         }
-    }
+    },
+    "access_token": 16957441375624260509
 }
