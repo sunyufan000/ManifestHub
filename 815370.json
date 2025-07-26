@@ -4,8 +4,8 @@
     "type": "Game",
     "schinese_name": "绿色地狱",
     "isfreeapp": 0,
-    "update_time": "2025-06-19 04:00:30",
-    "change_number": 29607233,
+    "update_time": "2025-07-17 11:02:04",
+    "change_number": 30107665,
     "depot": {
         "815371": {
             "manifests": {
@@ -25,9 +25,9 @@
         "815372": {
             "manifests": {
                 "public": {
-                    "gid": "1385967025708179259",
-                    "size": "8546808171",
-                    "download": "5778209184"
+                    "gid": "2602815156764004125",
+                    "size": "8589144575",
+                    "download": "5799691360"
                 },
                 "public_test": {
                     "gid": "7103309609447664054",
@@ -40,8 +40,8 @@
         "hasdepotsindlc": "1",
         "branches": {
             "public": {
-                "buildid": "18884167",
-                "timeupdated": "1750155319"
+                "buildid": "19192495",
+                "timeupdated": "1752497560"
             },
             "public_test": {
                 "buildid": "7223899",
