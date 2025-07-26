@@ -4,15 +4,15 @@
     "type": "Game",
     "schinese_name": "Handyman Fantasy 水电工幻想",
     "isfreeapp": 0,
-    "update_time": "2025-06-22 08:18:16",
-    "change_number": 29686634,
+    "update_time": "2025-07-24 04:11:19",
+    "change_number": 30218990,
     "depot": {
         "2690011": {
             "manifests": {
                 "public": {
-                    "gid": "5352715226416749195",
-                    "size": "1075253851",
-                    "download": "109946640"
+                    "gid": "7795381997969274913",
+                    "size": "1075254379",
+                    "download": "109946656"
                 }
             },
             "decryptionkey": "946fef02fba52477b88e087972a3ae4e300ea926c25fcc7ea0d6be4e8477fe8f"
@@ -34,8 +34,8 @@
         },
         "branches": {
             "public": {
-                "buildid": "18937537",
-                "timeupdated": "1750410426"
+                "buildid": "18990172",
+                "timeupdated": "1750828060"
             }
         },
         "privatebranches": "1"
