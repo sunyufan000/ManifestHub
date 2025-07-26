@@ -1,0 +1,45 @@
+{
+    "appid": 1052380,
+    "name": "Ikeda : The Scrap Hunter E.P.",
+    "type": "Game",
+    "schinese_name": "",
+    "isfreeapp": 0,
+    "update_time": "2025-07-22 21:57:54",
+    "change_number": 30193991,
+    "depot": {
+        "hasdepotsindlc": "1",
+        "1052381": {
+            "config": {
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "6046092613982352495",
+                    "size": "306737402",
+                    "download": "255625872"
+                }
+            },
+            "decryptionkey": "a8effd872c3d0a5fcbc4c3816c4528388b61d4898acd06a5ce4a2b2507dd6478"
+        },
+        "1139852": {
+            "dlcappid": "1139852",
+            "config": {
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "4899207841661395199",
+                    "size": "434166252",
+                    "download": "377511088"
+                }
+            },
+            "decryptionkey": ""
+        },
+        "branches": {
+            "public": {
+                "buildid": "19319423",
+                "timeupdated": "1753212211"
+            }
+        }
+    }
+}
