@@ -4,9 +4,10 @@
     "type": "Demo",
     "schinese_name": "",
     "isfreeapp": 0,
-    "update_time": "2025-05-31 16:46:39",
-    "change_number": 29299317,
+    "update_time": "2025-07-21 08:42:03",
+    "change_number": 30162509,
     "depot": {
+        "baselanguages": "english,schinese,tchinese,japanese",
         "228990": {
             "config": {
                 "oslist": "windows"
@@ -14,7 +15,6 @@
             "depotfromapp": "228980",
             "sharedinstall": "1"
         },
-        "baselanguages": "schinese",
         "2551131": {
             "config": {
                 "language": "schinese",
@@ -29,6 +29,13 @@
                 }
             },
             "decryptionkey": "ac798a13e03342c58b4a82a00d5834b862288b3ede4b3c190500d6feb01edf24"
+        },
+        "2551132": {
+            "config": {
+                "language": "schinese",
+                "oslist": "windows",
+                "osarch": "64"
+            }
         },
         "branches": {
             "public": {
