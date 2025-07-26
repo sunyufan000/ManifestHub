@@ -4,8 +4,8 @@
     "type": "Game",
     "schinese_name": "多炮塔神教",
     "isfreeapp": 0,
-    "update_time": "2025-06-18 19:51:52",
-    "change_number": 29628087,
+    "update_time": "2025-07-23 10:26:09",
+    "change_number": 30203242,
     "depot": {
         "baselanguages": "english",
         "1869271": {
@@ -16,9 +16,9 @@
                     "download": "3313690992"
                 },
                 "beta": {
-                    "gid": "2731247841883566461",
-                    "size": "3606427548",
-                    "download": "2778677872"
+                    "gid": "6226798437964806114",
+                    "size": "3653572561",
+                    "download": "3040176464"
                 },
                 "mono": {
                     "gid": "5442319233177324758",
@@ -37,9 +37,9 @@
                 "timeupdated": "1749050098"
             },
             "beta": {
-                "buildid": "18911625",
+                "buildid": "19326801",
                 "description": "Testing",
-                "timeupdated": "1750247508"
+                "timeupdated": "1753262764"
             },
             "mono": {
                 "buildid": "17894067",
