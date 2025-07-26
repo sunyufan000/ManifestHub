@@ -4,8 +4,8 @@
     "type": "Game",
     "schinese_name": "游戏王：决斗链接",
     "isfreeapp": 1,
-    "update_time": "2025-06-20 05:55:21",
-    "change_number": 29657370,
+    "update_time": "2025-07-23 22:18:10",
+    "change_number": 30214955,
     "depot": {
         "228985": {
             "config": {
@@ -27,9 +27,9 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "3630856317183574237",
-                    "size": "145712669",
-                    "download": "61127280"
+                    "gid": "9182180809823566483",
+                    "size": "145861406",
+                    "download": "61180096"
                 }
             },
             "decryptionkey": "292e3fd64a6357401e23452f2a246e492143d4d43c954d64ad947da071dea8da"
@@ -40,9 +40,9 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "5190144931693579449",
-                    "size": "145712669",
-                    "download": "61127280"
+                    "gid": "7660695211042627018",
+                    "size": "145861406",
+                    "download": "61180096"
                 },
                 "local": {
                     "gid": "8201617588239514835",
@@ -58,9 +58,9 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "5393507280857584070",
-                    "size": "145712669",
-                    "download": "61127280"
+                    "gid": "4082487048479230761",
+                    "size": "145861406",
+                    "download": "61180096"
                 },
                 "local": {
                     "gid": "7864058845018576122",
@@ -73,8 +73,8 @@
         "baselanguages": "english,german,french,italian,koreana,spanish,schinese,tchinese,japanese,brazilian",
         "branches": {
             "public": {
-                "buildid": "18891882",
-                "timeupdated": "1750134635"
+                "buildid": "19254483",
+                "timeupdated": "1752736115"
             },
             "local": {
                 "buildid": "15515248",
