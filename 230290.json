@@ -4,8 +4,8 @@
     "type": "Game",
     "schinese_name": "宇宙沙盘²",
     "isfreeapp": 0,
-    "update_time": "2025-06-21 14:51:29",
-    "change_number": 29679960,
+    "update_time": "2025-07-23 07:48:52",
+    "change_number": 30200800,
     "depot": {
         "overridescddb": "1",
         "workshopdepot": "230290",
@@ -44,9 +44,9 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "4877744325882258396",
-                    "size": "2890740011",
-                    "download": "1489991008"
+                    "gid": "542734566406994469",
+                    "size": "2890762563",
+                    "download": "1489975824"
                 },
                 "update-34.1.1": {
                     "gid": "8403049013177121841",
@@ -153,9 +153,9 @@
             "systemdefined": "1",
             "manifests": {
                 "public": {
-                    "gid": "4591466947807636258",
-                    "size": "2885316427",
-                    "download": "1483688240"
+                    "gid": "4562204948419533479",
+                    "size": "2885337563",
+                    "download": "1483694128"
                 },
                 "update-34.1.1": {
                     "gid": "5440130934594855393",
@@ -257,8 +257,8 @@
         },
         "branches": {
             "public": {
-                "buildid": "18903653",
-                "timeupdated": "1750200674"
+                "buildid": "19000784",
+                "timeupdated": "1750885208"
             },
             "update-34.1.1": {
                 "buildid": "13730482",
