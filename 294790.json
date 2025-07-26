@@ -4,10 +4,11 @@
     "type": "Game",
     "schinese_name": "",
     "isfreeapp": 0,
-    "update_time": "2025-06-14 06:12:25",
-    "change_number": 29558637,
+    "update_time": "2025-07-03 16:46:58",
+    "change_number": 29881856,
     "depot": {
         "overridescddb": "1",
+        "baselanguages": "english,german,french,italian,spanish",
         "294791": {
             "systemdefined": "1",
             "config": {
@@ -22,20 +23,6 @@
             },
             "decryptionkey": "ed566f128edc2348a5f6a1fe5076cd108db2c7d8686b58e213b6e7f8ee020c55"
         },
-        "294792": {
-            "config": {
-                "language": "english",
-                "oslist": "windows"
-            },
-            "manifests": {
-                "public": {
-                    "gid": "4674769277632852624",
-                    "size": "12639535",
-                    "download": "0"
-                }
-            },
-            "decryptionkey": "810025d82098593ad9813feeff0e9fe5bafb3516e00c2d2e6e24d873b3904773"
-        },
         "294793": {
             "config": {
                 "language": "french",
@@ -48,7 +35,7 @@
                     "download": "0"
                 }
             },
-            "decryptionkey": ""
+            "decryptionkey": "026054dc6fbbad911091aecf6bf940c8dfa3bdee736c4cb4607e3163b2d21866"
         },
         "294794": {
             "config": {
@@ -62,7 +49,7 @@
                     "download": "0"
                 }
             },
-            "decryptionkey": ""
+            "decryptionkey": "c542e51a871013b243345dc33500e4e8b90ba363ac43a2f816d913603165d9ff"
         },
         "294795": {
             "config": {
@@ -96,6 +83,7 @@
             "public": {
                 "buildid": "914029"
             }
-        }
+        },
+        "privatebranches": "1"
     }
 }
