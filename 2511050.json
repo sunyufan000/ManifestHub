@@ -3,9 +3,9 @@
     "name": "Brazen Blaze -3vs3 Brawl Arena-",
     "type": "Game",
     "schinese_name": "勇拳冲锋  -3对3 乱斗竞技场-",
-    "isfreeapp": 0,
-    "update_time": "2025-06-11 22:24:19",
-    "change_number": 29501156,
+    "isfreeapp": 1,
+    "update_time": "2025-07-21 18:45:43",
+    "change_number": 30171660,
     "depot": {
         "2511051": {
             "config": {
@@ -14,17 +14,17 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "3465883249909604240",
-                    "size": "18052495039",
-                    "download": "13945597072"
+                    "gid": "3632435972478615852",
+                    "size": "20634997120",
+                    "download": "16061901184"
                 }
             },
             "decryptionkey": "b5516dd21c8e0a96a63c3f8a29877ecdd6bfd0ddd2a960c76bc56bd4a5f02960"
         },
         "branches": {
             "public": {
-                "buildid": "18718728",
-                "timeupdated": "1749010233"
+                "buildid": "19264569",
+                "timeupdated": "1752779222"
             }
         },
         "privatebranches": "1"
