@@ -4,8 +4,8 @@
     "type": "Game",
     "schinese_name": "",
     "isfreeapp": 1,
-    "update_time": "2025-06-22 06:31:57",
-    "change_number": 29686092,
+    "update_time": "2025-07-23 22:16:17",
+    "change_number": 30214916,
     "depot": {
         "baselanguages": "english",
         "hasdepotsindlc": "1",
@@ -22,9 +22,9 @@
                     "download": "57302208"
                 },
                 "playtest": {
-                    "gid": "1892013631535862766",
-                    "size": "261652754",
-                    "download": "60898992"
+                    "gid": "5422269567395535459",
+                    "size": "281734066",
+                    "download": "67361456"
                 }
             },
             "decryptionkey": "761a56d31eb4e74220ef167e1f9a123343736632c096c4f214b1a8fcf85e06be"
@@ -42,9 +42,9 @@
                     "download": "63811392"
                 },
                 "playtest": {
-                    "gid": "9103937805280491071",
-                    "size": "277318806",
-                    "download": "67233008"
+                    "gid": "7299783699457514637",
+                    "size": "297400294",
+                    "download": "73691328"
                 }
             },
             "decryptionkey": "16e199b25fbe16c4f43df5a362f145e13557210fd76a0fe652e1fce01533d260"
@@ -55,9 +55,9 @@
                 "timeupdated": "1744690429"
             },
             "playtest": {
-                "buildid": "18952580",
+                "buildid": "19334919",
                 "description": "This branch will be for testing new features, bug fixes, and so on before they are released.",
-                "timeupdated": "1750545112"
+                "timeupdated": "1753305373"
             }
         }
     }
