@@ -1,0 +1,28 @@
+{
+    "appid": 1023270,
+    "name": "Hentai Jigsaw Puzzle - Artwork & OST",
+    "type": "DLC",
+    "schinese_name": "",
+    "isfreeapp": 0,
+    "update_time": "2025-06-23 12:50:48",
+    "change_number": 26201212,
+    "depot": {
+        "1023271": {
+            "manifests": {
+                "public": {
+                    "gid": "2387633626067063881",
+                    "size": "173281803",
+                    "download": "162744848"
+                }
+            },
+            "dlcappid": "1023270",
+            "decryptionkey": "b64a3626d1b5ac31a697ac03481c8a0fbac5a4c4ea6db022ca01a9ad6ff341c7"
+        },
+        "branches": {
+            "public": {
+                "buildid": "3505414",
+                "timeupdated": "1548541102"
+            }
+        }
+    }
+}
