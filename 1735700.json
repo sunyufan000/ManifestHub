@@ -4,8 +4,8 @@
     "type": "Game",
     "schinese_name": "动物迷城",
     "isfreeapp": 0,
-    "update_time": "2025-06-20 17:36:42",
-    "change_number": 29665400,
+    "update_time": "2025-07-24 03:15:49",
+    "change_number": 30218371,
     "depot": {
         "baselanguages": "schinese",
         "228988": {
@@ -25,9 +25,9 @@
         "1735701": {
             "manifests": {
                 "public": {
-                    "gid": "4257355322524323510",
-                    "size": "2717184497",
-                    "download": "666792736"
+                    "gid": "2461480398419448207",
+                    "size": "3390055345",
+                    "download": "850981504"
                 },
                 "opentest": {
                     "gid": "3598860233358553076",
@@ -40,8 +40,8 @@
         "hasdepotsindlc": "1",
         "branches": {
             "public": {
-                "buildid": "16031104",
-                "timeupdated": "1728886247"
+                "buildid": "19323774",
+                "timeupdated": "1753243938"
             },
             "opentest": {
                 "buildid": "16031132",
