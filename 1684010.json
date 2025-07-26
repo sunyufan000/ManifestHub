@@ -4,8 +4,8 @@
     "type": "Game",
     "schinese_name": "",
     "isfreeapp": 0,
-    "update_time": "2025-06-17 08:39:26",
-    "change_number": 29598345,
+    "update_time": "2025-07-21 20:00:56",
+    "change_number": 30172821,
     "depot": {
         "1684011": {
             "config": {
@@ -13,27 +13,27 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "4433107950478713138",
-                    "size": "4364508838",
-                    "download": "1634030752"
+                    "gid": "2780739445937084429",
+                    "size": "2993482250",
+                    "download": "1431203600"
                 },
                 "public_test_builds": {
-                    "gid": "4433107950478713138",
-                    "size": "4364508838",
-                    "download": "1634030752"
+                    "gid": "2780739445937084429",
+                    "size": "2993482250",
+                    "download": "1431203600"
                 }
             },
             "decryptionkey": "79417be054384f46d85104683e86aed77cd2db1df566865286ac267208efc097"
         },
         "branches": {
             "public": {
-                "buildid": "18571633",
-                "timeupdated": "1748027546"
+                "buildid": "19220808",
+                "timeupdated": "1752535768"
             },
             "public_test_builds": {
-                "buildid": "18571633",
+                "buildid": "19220808",
                 "description": "test builds for Sail VR Multiplayer",
-                "timeupdated": "1747944387"
+                "timeupdated": "1752522679"
             }
         },
         "privatebranches": "1"
