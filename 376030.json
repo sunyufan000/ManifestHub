@@ -4,8 +4,8 @@
     "type": "Tool",
     "schinese_name": "方舟：生存进化专用服务器",
     "isfreeapp": 0,
-    "update_time": "2025-06-21 04:32:27",
-    "change_number": 29675295,
+    "update_time": "2025-07-23 19:34:46",
+    "change_number": 30212673,
     "depot": {
         "1004": {
             "config": {
@@ -13,9 +13,9 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "7747775778018907449",
-                    "size": "46727128",
-                    "download": "14307024"
+                    "gid": "8904491048620934740",
+                    "size": "68697032",
+                    "download": "20552544"
                 }
             },
             "depotfromapp": "1007",
@@ -41,9 +41,9 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "7138471031118904166",
-                    "size": "78382436",
-                    "download": "21254752"
+                    "gid": "5587033981095108078",
+                    "size": "107476144",
+                    "download": "29272144"
                 }
             },
             "depotfromapp": "1007",
@@ -52,19 +52,24 @@
         "376031": {
             "manifests": {
                 "public": {
-                    "gid": "8941594630936752533",
-                    "size": "18777951178",
-                    "download": "6579333968"
-                },
-                "experimental": {
-                    "gid": "4938714156080904010",
-                    "size": "9076395353",
-                    "download": "3138319952"
+                    "gid": "6675757075865772391",
+                    "size": "22773820284",
+                    "download": "9904213856"
                 },
                 "timecapsule": {
                     "gid": "385619103637186563",
                     "size": "18742658083",
                     "download": "6740753408"
+                },
+                "experimental": {
+                    "gid": "8941594630936752533",
+                    "size": "18777951178",
+                    "download": "6579333968"
+                },
+                "preaquatica": {
+                    "gid": "8941594630936752533",
+                    "size": "18777951178",
+                    "download": "6579333968"
                 }
             },
             "decryptionkey": "3ef38f0ea900ecf8b4d13ec70d922622938f14ae6a2c985a5e051132494ceff2"
@@ -72,16 +77,21 @@
         "376032": {},
         "branches": {
             "public": {
-                "buildid": "13834083",
-                "timeupdated": "1711245764"
-            },
-            "experimental": {
-                "buildid": "4205769",
-                "timeupdated": "1568824771"
+                "buildid": "19317331",
+                "timeupdated": "1753217612"
             },
             "timecapsule": {
                 "buildid": "5131177",
                 "timeupdated": "1591494821"
+            },
+            "experimental": {
+                "buildid": "13834083",
+                "timeupdated": "1752612770"
+            },
+            "preaquatica": {
+                "buildid": "13834083",
+                "description": "ASE : Pre-Aquatica",
+                "timeupdated": "1752641536"
             }
         },
         "privatebranches": "1"
