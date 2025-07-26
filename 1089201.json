@@ -1,0 +1,29 @@
+{
+    "appid": 1089201,
+    "name": "Rocksmith® 2014 Edition – Remastered – The Notetrackers - Guitar - Advanced String Switching Exercise 1",
+    "type": "DLC",
+    "schinese_name": "",
+    "isfreeapp": 0,
+    "update_time": "2025-06-23 14:08:54",
+    "change_number": 26551766,
+    "depot": {
+        "1089201": {
+            "manifests": {
+                "public": {
+                    "gid": "2206424737323578497",
+                    "size": "10021742",
+                    "download": "5991552"
+                }
+            },
+            "dlcappid": "1089201",
+            "decryptionkey": "ba3459b694c80624fb72c9451383524ee1c29af92c8ba132ef77581a324d7e18"
+        },
+        "branches": {
+            "public": {
+                "buildid": "4021075",
+                "timeupdated": "1563402531"
+            }
+        }
+    },
+    "access_token": 12284926159264262804
+}
