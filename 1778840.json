@@ -4,8 +4,8 @@
     "type": "Game",
     "schinese_name": "",
     "isfreeapp": 0,
-    "update_time": "2025-06-21 00:54:01",
-    "change_number": 29672392,
+    "update_time": "2025-07-22 21:42:48",
+    "change_number": 30193787,
     "depot": {
         "228989": {
             "config": {
@@ -29,14 +29,14 @@
                     "download": "21929762336"
                 },
                 "beta": {
-                    "gid": "4078441361711029359",
-                    "size": "22682453605",
-                    "download": "21929762336"
+                    "gid": "88877469567651043",
+                    "size": "22665293557",
+                    "download": "21983688736"
                 },
                 "beta2": {
-                    "gid": "4078441361711029359",
-                    "size": "22682453605",
-                    "download": "21929762336"
+                    "gid": "88877469567651043",
+                    "size": "22665293557",
+                    "download": "21983688736"
                 }
             },
             "decryptionkey": "b4829fc8fb08449fc0f307d6dd4130f1eccf40bc7aae5e3c7373efa304296086"
@@ -47,14 +47,14 @@
                 "timeupdated": "1750438436"
             },
             "beta": {
-                "buildid": "18942370",
+                "buildid": "19276383",
                 "description": "\tPlay at your own risk. Has the latest patches and improvements that are being tested.",
-                "timeupdated": "1750436363"
+                "timeupdated": "1752852999"
             },
             "beta2": {
-                "buildid": "18942370",
+                "buildid": "19276383",
                 "description": "\tPlay at your own risk. Has the latest patches and improvements that are being tested.",
-                "timeupdated": "1750436349"
+                "timeupdated": "1752853009"
             }
         },
         "privatebranches": "1"
