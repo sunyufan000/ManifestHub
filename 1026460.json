@@ -1,0 +1,41 @@
+{
+    "appid": 1026460,
+    "name": "Lossless Scaling Demo",
+    "type": "Demo",
+    "schinese_name": "",
+    "isfreeapp": 0,
+    "update_time": "2025-07-03 18:47:58",
+    "change_number": 29883709,
+    "depot": {
+        "228989": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "229007": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "1026461": {
+            "manifests": {
+                "public": {
+                    "gid": "2741926282860564819",
+                    "size": "1503721",
+                    "download": "952224"
+                }
+            },
+            "decryptionkey": "50964c0c570c2b0169f1f6127572f824e923c13e0005b80e60ec83537e2232e0"
+        },
+        "branches": {
+            "public": {
+                "buildid": "7947760",
+                "timeupdated": "1640696515"
+            }
+        }
+    }
+}
