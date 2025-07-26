@@ -1,0 +1,28 @@
+{
+    "appid": 1022465,
+    "name": "DFF NT: Jecht Starter Pack",
+    "type": "DLC",
+    "schinese_name": "",
+    "isfreeapp": 0,
+    "update_time": "2025-06-23 14:10:14",
+    "change_number": 26201212,
+    "depot": {
+        "1022465": {
+            "manifests": {
+                "public": {
+                    "gid": "7725176532810934025",
+                    "size": "0",
+                    "download": "0"
+                }
+            },
+            "dlcappid": "1022465",
+            "decryptionkey": "15b3ab1743c8800cc55a2b956dcdb8352ab72d4b7ed87066f85820d54adc15bf"
+        },
+        "branches": {
+            "public": {
+                "buildid": "3508039",
+                "timeupdated": "1548672073"
+            }
+        }
+    }
+}
