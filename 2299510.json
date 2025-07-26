@@ -4,8 +4,8 @@
     "type": "Application",
     "schinese_name": "",
     "isfreeapp": 0,
-    "update_time": "2025-06-21 21:53:34",
-    "change_number": 29681346,
+    "update_time": "2025-07-23 12:11:53",
+    "change_number": 30205083,
     "depot": {
         "workshopdepot": "2299510",
         "2299511": {
@@ -44,14 +44,14 @@
                     "download": "90591536"
                 },
                 "beta": {
-                    "gid": "7314290176120454768",
-                    "size": "322801550",
-                    "download": "102267136"
+                    "gid": "7848222770096657922",
+                    "size": "350486736",
+                    "download": "126685408"
                 },
                 "beta-nosteam": {
-                    "gid": "1511323912251467124",
-                    "size": "322019961",
-                    "download": "101970880"
+                    "gid": "8819869830355235920",
+                    "size": "349705019",
+                    "download": "126403136"
                 }
             },
             "decryptionkey": "780887386de4e3ffa401f46b7a4c5b477a07e48ec2ec3db4f965648a24015397"
@@ -114,14 +114,14 @@
                 "timeupdated": "1745140569"
             },
             "beta": {
-                "buildid": "18863703",
+                "buildid": "19311808",
                 "description": "more frequent, less stable build",
-                "timeupdated": "1749862471"
+                "timeupdated": "1753269092"
             },
             "beta-nosteam": {
-                "buildid": "18863586",
+                "buildid": "19328148",
                 "description": "beta build without steam workshop, use for debugging",
-                "timeupdated": "1749861517"
+                "timeupdated": "1753269108"
             }
         },
         "privatebranches": "1",
