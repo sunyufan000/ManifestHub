@@ -4,8 +4,8 @@
     "type": "Game",
     "schinese_name": "家庭派对",
     "isfreeapp": 0,
-    "update_time": "2025-06-17 09:14:10",
-    "change_number": 29251252,
+    "update_time": "2025-07-19 21:18:05",
+    "change_number": 30149362,
     "depot": {
         "baselanguages": "english",
         "611791": {
@@ -15,9 +15,9 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "1977656938754704457",
-                    "size": "3896930451",
-                    "download": "2589390272"
+                    "gid": "93044419546641171",
+                    "size": "4221041624",
+                    "download": "2700904480"
                 },
                 "0.19.4": {
                     "gid": "7975763465394150722",
@@ -408,8 +408,8 @@
         },
         "branches": {
             "public": {
-                "buildid": "18613187",
-                "timeupdated": "1748280848"
+                "buildid": "19083743",
+                "timeupdated": "1751486190"
             },
             "0.19.4": {
                 "buildid": "6764449",
