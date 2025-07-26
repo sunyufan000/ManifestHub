@@ -4,8 +4,8 @@
     "type": "Game",
     "schinese_name": "",
     "isfreeapp": 1,
-    "update_time": "2025-06-05 08:53:40",
-    "change_number": 29384032,
+    "update_time": "2025-07-23 19:17:14",
+    "change_number": 30212447,
     "depot": {
         "baselanguages": "english,spanish,russian,brazilian",
         "1050281": {
@@ -15,9 +15,9 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "7425712749529154514",
-                    "size": "780912316",
-                    "download": "556681424"
+                    "gid": "6820153754017696168",
+                    "size": "778373807",
+                    "download": "551718016"
                 }
             },
             "decryptionkey": "3b2491128f145e81f9551404b85b4c0af97469288d3f5a83cdbb278550b00ef2"
@@ -28,9 +28,9 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "3877725353186686562",
-                    "size": "764118519",
-                    "download": "552718064"
+                    "gid": "2816185929832064889",
+                    "size": "761580010",
+                    "download": "547754656"
                 }
             },
             "decryptionkey": "b4725028d847ee11541604b155a55bbc2fe13d9bbc0b499047bbac64507567e1"
@@ -41,17 +41,17 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "7457809906035653089",
-                    "size": "795960533",
-                    "download": "561760416"
+                    "gid": "2672445381921697034",
+                    "size": "793422024",
+                    "download": "556797008"
                 }
             },
             "decryptionkey": "4debc770bc8c917e963bf062e1978f20232f9798ce5b6472c22da4ca7b6d4e2d"
         },
         "branches": {
             "public": {
-                "buildid": "18695813",
-                "timeupdated": "1748823314"
+                "buildid": "19333083",
+                "timeupdated": "1753294631"
             }
         },
         "privatebranches": "1"
