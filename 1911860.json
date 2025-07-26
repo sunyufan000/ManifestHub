@@ -4,8 +4,8 @@
     "type": "Game",
     "schinese_name": "铁锈风云",
     "isfreeapp": 0,
-    "update_time": "2025-06-21 08:04:06",
-    "change_number": 29677258,
+    "update_time": "2025-07-24 01:07:04",
+    "change_number": 30216878,
     "depot": {
         "1911861": {
             "config": {
@@ -13,9 +13,9 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "7510496567664865156",
-                    "size": "8661473845",
-                    "download": "2431358480"
+                    "gid": "6194785829937612201",
+                    "size": "8998702115",
+                    "download": "2525611776"
                 }
             },
             "decryptionkey": "c924b130e02468d91c44bbd60d41ae87def8e9a7d9eb42d622281b7da9d04819"
@@ -23,12 +23,13 @@
         "1911862": {
             "config": {
                 "oslist": "macos"
-            }
+            },
+            "manifests": {}
         },
         "3570560": {
             "dlcappid": "3570560",
             "config": {
-                "oslist": "windows"
+                "oslist": "windows,macos"
             },
             "manifests": {
                 "public": {
@@ -41,8 +42,8 @@
         },
         "branches": {
             "public": {
-                "buildid": "18894394",
-                "timeupdated": "1750149025"
+                "buildid": "19067413",
+                "timeupdated": "1751384695"
             }
         },
         "privatebranches": "1"
