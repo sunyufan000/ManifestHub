@@ -4,8 +4,8 @@
     "type": "Game",
     "schinese_name": "缺氧",
     "isfreeapp": 0,
-    "update_time": "2025-06-21 17:40:21",
-    "change_number": 29681066,
+    "update_time": "2025-07-24 02:29:13",
+    "change_number": 30217828,
     "depot": {
         "baselanguages": "english",
         "228986": {
@@ -22,14 +22,14 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "4155760480540863754",
-                    "size": "3041821874",
-                    "download": "913851760"
+                    "gid": "276963429592180720",
+                    "size": "3063013139",
+                    "download": "916031408"
                 },
                 "public_testing": {
-                    "gid": "4155760480540863754",
-                    "size": "3041821874",
-                    "download": "913851760"
+                    "gid": "276963429592180720",
+                    "size": "3063013139",
+                    "download": "916031408"
                 },
                 "public_previous_update": {
                     "gid": "8769892709844459480",
@@ -46,14 +46,14 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "5099325327300025892",
-                    "size": "3029289719",
-                    "download": "910866832"
+                    "gid": "2340255509647081195",
+                    "size": "3050481552",
+                    "download": "913154528"
                 },
                 "public_testing": {
-                    "gid": "5099325327300025892",
-                    "size": "3029289719",
-                    "download": "910866832"
+                    "gid": "2340255509647081195",
+                    "size": "3050481552",
+                    "download": "913154528"
                 },
                 "public_previous_update": {
                     "gid": "6422915489049967664",
@@ -70,14 +70,14 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "4771401499756547306",
-                    "size": "3038387895",
-                    "download": "911717280"
+                    "gid": "4507298824457801678",
+                    "size": "3059579552",
+                    "download": "913570032"
                 },
                 "public_testing": {
-                    "gid": "4771401499756547306",
-                    "size": "3038387895",
-                    "download": "911717280"
+                    "gid": "4507298824457801678",
+                    "size": "3059579552",
+                    "download": "913570032"
                 },
                 "public_previous_update": {
                     "gid": "4416075747574424286",
@@ -320,14 +320,14 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "8136820713670199753",
-                    "size": "32333898",
-                    "download": "31082896"
+                    "gid": "5778969697634757174",
+                    "size": "32998195",
+                    "download": "31602752"
                 },
                 "public_testing": {
-                    "gid": "8136820713670199753",
-                    "size": "32333898",
-                    "download": "31082896"
+                    "gid": "5778969697634757174",
+                    "size": "32998195",
+                    "download": "31602752"
                 }
             },
             "decryptionkey": "1e19f1c5c9d64d9892acde57b6b210141f37d8b0c605605eed1e8728be887dae"
@@ -340,14 +340,14 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "7146972086551672875",
-                    "size": "32333898",
-                    "download": "31083168"
+                    "gid": "346833376787440311",
+                    "size": "32998195",
+                    "download": "31602784"
                 },
                 "public_testing": {
-                    "gid": "7146972086551672875",
-                    "size": "32333898",
-                    "download": "31083168"
+                    "gid": "346833376787440311",
+                    "size": "32998195",
+                    "download": "31602784"
                 }
             }
         },
@@ -359,26 +359,26 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "3824322065095954425",
-                    "size": "32333898",
-                    "download": "31083088"
+                    "gid": "3417584837535103475",
+                    "size": "32996628",
+                    "download": "31601168"
                 },
                 "public_testing": {
-                    "gid": "3824322065095954425",
-                    "size": "32333898",
-                    "download": "31083088"
+                    "gid": "3417584837535103475",
+                    "size": "32996628",
+                    "download": "31601168"
                 }
             }
         },
         "branches": {
             "public": {
-                "buildid": "18917488",
-                "timeupdated": "1750282633"
+                "buildid": "19267486",
+                "timeupdated": "1752799334"
             },
             "public_testing": {
-                "buildid": "18917488",
+                "buildid": "19267486",
                 "description": "No testing (same as none)",
-                "timeupdated": "1750282559"
+                "timeupdated": "1752799287"
             },
             "public_previous_update": {
                 "buildid": "18018996",
