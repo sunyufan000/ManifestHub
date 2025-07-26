@@ -4,8 +4,8 @@
     "type": "Game",
     "schinese_name": "",
     "isfreeapp": 0,
-    "update_time": "2025-06-21 01:18:15",
-    "change_number": 29672877,
+    "update_time": "2025-07-23 02:14:13",
+    "change_number": 30197135,
     "depot": {
         "3106521": {
             "config": {
@@ -22,6 +22,11 @@
                     "gid": "2920917100612572450",
                     "size": "465072518",
                     "download": "254635392"
+                },
+                "beta2.1pr1": {
+                    "gid": "662501315316271776",
+                    "size": "426305774",
+                    "download": "243433456"
                 },
                 "beta1": {
                     "gid": "1131657274325850939",
@@ -47,6 +52,11 @@
                     "size": "457427211",
                     "download": "252278288"
                 },
+                "beta2.1pr1": {
+                    "gid": "8748372580979977220",
+                    "size": "418515770",
+                    "download": "241001200"
+                },
                 "beta1": {
                     "gid": "3406315053541970875",
                     "size": "443013463",
@@ -70,6 +80,11 @@
                     "size": "463684476",
                     "download": "252873248"
                 },
+                "beta2.1pr1": {
+                    "gid": "8787735411995821546",
+                    "size": "425063805",
+                    "download": "241944208"
+                },
                 "beta1": {
                     "gid": "1972624323023759853",
                     "size": "449478908",
@@ -88,6 +103,11 @@
                 "buildid": "16728687",
                 "description": "Old Version of the game",
                 "timeupdated": "1748557754"
+            },
+            "beta2.1pr1": {
+                "buildid": "19316299",
+                "description": "(Beta 2.1) Pre release 1",
+                "timeupdated": "1753195792"
             },
             "beta1": {
                 "buildid": "16721034",
