@@ -4,8 +4,8 @@
     "type": "Game",
     "schinese_name": "专业钓鱼模拟",
     "isfreeapp": 0,
-    "update_time": "2025-06-21 16:17:12",
-    "change_number": 29680480,
+    "update_time": "2025-06-28 15:14:33",
+    "change_number": 29802574,
     "depot": {
         "baselanguages": "english,german,french,italian,koreana,spanish,schinese,tchinese,russian,japanese,polish,brazilian",
         "hasdepotsindlc": "0",
@@ -28,7 +28,7 @@
                     "download": "0"
                 }
             },
-            "decryptionkey": ""
+            "decryptionkey": "ff78e80a682b81cb6199ac63e5ab71c7f51eb109258ec8500a860bf98bfe93d5"
         },
         "branches": {
             "public": {
