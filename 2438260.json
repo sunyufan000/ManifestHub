@@ -4,8 +4,8 @@
     "type": "Game",
     "schinese_name": "",
     "isfreeapp": 0,
-    "update_time": "2025-06-11 13:50:37",
-    "change_number": 29500353,
+    "update_time": "2025-07-17 20:56:33",
+    "change_number": 30118077,
     "depot": {
         "baselanguages": "english",
         "2438261": {
@@ -14,14 +14,14 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "4725105297881947951",
-                    "size": "182537258",
-                    "download": "59804032"
+                    "gid": "753187494714762961",
+                    "size": "191564954",
+                    "download": "74619584"
                 },
                 "beta": {
-                    "gid": "4725105297881947951",
-                    "size": "182537258",
-                    "download": "59804032"
+                    "gid": "753187494714762961",
+                    "size": "191564954",
+                    "download": "74619584"
                 }
             }
         },
@@ -32,14 +32,14 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "8468775731192229285",
-                    "size": "155547653",
-                    "download": "51886352"
+                    "gid": "8601789661438537374",
+                    "size": "164594726",
+                    "download": "64738960"
                 },
                 "beta": {
-                    "gid": "8468775731192229285",
-                    "size": "155547653",
-                    "download": "51886352"
+                    "gid": "8601789661438537374",
+                    "size": "164594726",
+                    "download": "64738960"
                 }
             },
             "decryptionkey": "600390a61ffe67a207ee8cabca4adc32500abd97e0d8c8dfe8ea5d781caaafbd"
@@ -51,26 +51,26 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "5495825292133464029",
-                    "size": "155267160",
-                    "download": "50265696"
+                    "gid": "3386214220992168830",
+                    "size": "164255899",
+                    "download": "62917392"
                 },
                 "beta": {
-                    "gid": "5495825292133464029",
-                    "size": "155267160",
-                    "download": "50265696"
+                    "gid": "3386214220992168830",
+                    "size": "164255899",
+                    "download": "62917392"
                 }
             }
         },
         "branches": {
             "public": {
-                "buildid": "17548689",
-                "timeupdated": "1740754978"
+                "buildid": "19182747",
+                "timeupdated": "1752414961"
             },
             "beta": {
-                "buildid": "17548689",
+                "buildid": "19182747",
                 "description": "Public beta",
-                "timeupdated": "1740754952"
+                "timeupdated": "1752231218"
             }
         },
         "privatebranches": "1"
