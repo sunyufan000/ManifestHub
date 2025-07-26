@@ -4,8 +4,8 @@
     "type": "Game",
     "schinese_name": "",
     "isfreeapp": 0,
-    "update_time": "2025-06-21 14:05:54",
-    "change_number": 29679719,
+    "update_time": "2025-07-19 07:06:19",
+    "change_number": 30143635,
     "depot": {
         "917951": {
             "config": {
@@ -13,9 +13,9 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "4245738166115652893",
-                    "size": "4610620583",
-                    "download": "1991399424"
+                    "gid": "6489129659432458629",
+                    "size": "4613368631",
+                    "download": "2019012096"
                 },
                 "crashtester": {
                     "gid": "3400964019571293734",
@@ -23,9 +23,9 @@
                     "download": "1870394944"
                 },
                 "testing": {
-                    "gid": "308811288645174922",
-                    "size": "4610620943",
-                    "download": "1991377696"
+                    "gid": "375054350783627810",
+                    "size": "4613436511",
+                    "download": "2019016960"
                 }
             },
             "decryptionkey": "782dc04cd840b972d5f38b24f8e6190b7935018e7dfee5516cbe431927c12af0"
@@ -37,8 +37,8 @@
         },
         "branches": {
             "public": {
-                "buildid": "18944420",
-                "timeupdated": "1750452255"
+                "buildid": "19197663",
+                "timeupdated": "1752278391"
             },
             "crashtester": {
                 "buildid": "18468049",
@@ -46,9 +46,9 @@
                 "timeupdated": "1747273017"
             },
             "testing": {
-                "buildid": "18948022",
+                "buildid": "19283598",
                 "description": "Current testing branch",
-                "timeupdated": "1750485950"
+                "timeupdated": "1752905176"
             }
         },
         "privatebranches": "1"
