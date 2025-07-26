@@ -4,8 +4,8 @@
     "type": "Game",
     "schinese_name": "无尽劫掠",
     "isfreeapp": 0,
-    "update_time": "2025-06-13 01:28:30",
-    "change_number": 29527208,
+    "update_time": "2025-07-23 06:59:59",
+    "change_number": 30200253,
     "depot": {
         "2440381": {
             "manifests": {
@@ -20,9 +20,9 @@
                     "download": "410771616"
                 },
                 "public_testing_branch": {
-                    "gid": "3009901533624335916",
-                    "size": "522447072",
-                    "download": "411360832"
+                    "gid": "922000833282897328",
+                    "size": "522561904",
+                    "download": "411584864"
                 },
                 "1.00": {
                     "gid": "4397531889582496842",
@@ -51,7 +51,7 @@
         "branches": {
             "public": {
                 "buildid": "18576245",
-                "timeupdated": "1747973229"
+                "timeupdated": "1750949367"
             },
             "1.18": {
                 "buildid": "18355267",
@@ -59,9 +59,9 @@
                 "timeupdated": "1747760134"
             },
             "public_testing_branch": {
-                "buildid": "18839692",
+                "buildid": "19324671",
                 "description": "Experimental",
-                "timeupdated": "1749728714"
+                "timeupdated": "1753250395"
             },
             "1.00": {
                 "buildid": "15571145",
@@ -83,6 +83,7 @@
                 "description": "1.17 version",
                 "timeupdated": "1746442719"
             }
-        }
+        },
+        "privatebranches": "1"
     }
 }
