@@ -4,8 +4,8 @@
     "type": "Game",
     "schinese_name": "钢铁雄心4",
     "isfreeapp": 0,
-    "update_time": "2025-06-17 03:55:51",
-    "change_number": 29587537,
+    "update_time": "2025-06-25 09:25:19",
+    "change_number": 29737634,
     "depot": {
         "workshopdepot": "394360",
         "228983": {
@@ -5908,7 +5908,8 @@
             "decryptionkey": "f7c43c7f2eee064c93357a502e21e56c5938af3798991eee657cf6fa78a81388"
         },
         "3757310": {
-            "dlcappid": "3757310"
+            "dlcappid": "3757310",
+            "manifests": {}
         },
         "branches": {
             "public": {
