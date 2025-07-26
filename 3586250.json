@@ -4,23 +4,23 @@
     "type": "Game",
     "schinese_name": "帝国游戏",
     "isfreeapp": 0,
-    "update_time": "2025-06-22 10:17:07",
-    "change_number": 29687229,
+    "update_time": "2025-07-11 03:13:55",
+    "change_number": 30001824,
     "depot": {
         "3586251": {
             "manifests": {
                 "public": {
-                    "gid": "864406743229443008",
-                    "size": "483979224",
-                    "download": "188068096"
+                    "gid": "6701918293543776090",
+                    "size": "483913613",
+                    "download": "202089472"
                 }
             },
             "decryptionkey": "cd3ac0795fb7457dbb247c4a160b052e397ff42d600d432ff5768f622b1ce71e"
         },
         "branches": {
             "public": {
-                "buildid": "18924884",
-                "timeupdated": "1750326654"
+                "buildid": "18979735",
+                "timeupdated": "1750764664"
             }
         },
         "privatebranches": "1"
