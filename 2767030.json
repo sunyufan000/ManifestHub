@@ -4,8 +4,8 @@
     "type": "Game",
     "schinese_name": "漫威争锋",
     "isfreeapp": 1,
-    "update_time": "2025-06-21 02:38:54",
-    "change_number": 29673994,
+    "update_time": "2025-07-23 08:10:36",
+    "change_number": 30201080,
     "depot": {
         "228989": {
             "config": {
@@ -24,9 +24,9 @@
         "2767031": {
             "manifests": {
                 "public": {
-                    "gid": "4060616274553919785",
-                    "size": "82560793873",
-                    "download": "66733938256"
+                    "gid": "2632994355683549832",
+                    "size": "87985954222",
+                    "download": "70619642304"
                 }
             },
             "decryptionkey": "6623611cb93523c4cc50d8400d48919b64f55d49dc81a8d6e0695fe740474e42"
@@ -34,9 +34,9 @@
         "2767032": {
             "manifests": {
                 "public": {
-                    "gid": "7164758445138364144",
-                    "size": "82560793873",
-                    "download": "66738042656"
+                    "gid": "1015992342516888329",
+                    "size": "89585068531",
+                    "download": "71736448928"
                 }
             },
             "decryptionkey": ""
@@ -54,8 +54,8 @@
         "baselanguages": "english,german,french,italian,koreana,spanish,schinese,tchinese,russian,thai,japanese,polish,turkish,arabic,brazilian,latam",
         "branches": {
             "public": {
-                "buildid": "18924297",
-                "timeupdated": "1750323546"
+                "buildid": "19315344",
+                "timeupdated": "1753191012"
             }
         }
     }
