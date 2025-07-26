@@ -4,8 +4,8 @@
     "type": "Game",
     "schinese_name": "合同村",
     "isfreeapp": 0,
-    "update_time": "2025-06-20 05:24:15",
-    "change_number": 29651490,
+    "update_time": "2025-07-24 04:10:58",
+    "change_number": 30218978,
     "depot": {
         "228982": {
             "config": {
@@ -41,9 +41,9 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "1498375710325833241",
-                    "size": "22633613429",
-                    "download": "7328192144"
+                    "gid": "5932387771058343484",
+                    "size": "22842211985",
+                    "download": "7451452208"
                 },
                 "old_public_0.5.2.3": {
                     "gid": "8407168977619223766",
@@ -55,8 +55,8 @@
         },
         "branches": {
             "public": {
-                "buildid": "18738934",
-                "timeupdated": "1749062055"
+                "buildid": "19214564",
+                "timeupdated": "1752493433"
             },
             "old_public_0.5.2.3": {
                 "buildid": "17285134",
