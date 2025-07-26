@@ -4,8 +4,8 @@
     "type": "Game",
     "schinese_name": "笼子",
     "isfreeapp": 0,
-    "update_time": "2025-06-22 05:56:03",
-    "change_number": 29683723,
+    "update_time": "2025-07-20 08:22:01",
+    "change_number": 30152657,
     "depot": {
         "baselanguages": "english,german,french,italian,koreana,spanish,schinese,russian,japanese,polish,turkish,brazilian,ukrainian",
         "workshopdepot": "1699480",
@@ -30,14 +30,14 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "280116585410376395",
-                    "size": "1563648617",
-                    "download": "1192365920"
+                    "gid": "1478223391167235842",
+                    "size": "1601626763",
+                    "download": "1243584160"
                 },
                 "beta-test": {
-                    "gid": "6773047258812220084",
-                    "size": "1588987687",
-                    "download": "1231608816"
+                    "gid": "1478223391167235842",
+                    "size": "1601626763",
+                    "download": "1243584160"
                 }
             },
             "decryptionkey": "c68d3843c14b9584d5c8707632ad7c1876efeb1528e0b97802b47663295ec466"
@@ -49,26 +49,26 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "95691538058591757",
-                    "size": "3342274859",
-                    "download": "1480434880"
+                    "gid": "4285191813442192887",
+                    "size": "3563692874",
+                    "download": "1707576304"
                 },
                 "beta-test": {
-                    "gid": "2592482779445323503",
-                    "size": "3549864608",
-                    "download": "1692714880"
+                    "gid": "4285191813442192887",
+                    "size": "3563692874",
+                    "download": "1707576304"
                 }
             }
         },
         "branches": {
             "public": {
-                "buildid": "18691213",
-                "timeupdated": "1748767509"
+                "buildid": "19289908",
+                "timeupdated": "1752996108"
             },
             "beta-test": {
-                "buildid": "18949897",
+                "buildid": "19289908",
                 "description": "For beta testers",
-                "timeupdated": "1750510225"
+                "timeupdated": "1752996118"
             }
         },
         "privatebranches": "1",
