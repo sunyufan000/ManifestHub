@@ -1,0 +1,28 @@
+{
+    "appid": 1022496,
+    "name": "DFF NT: Cloudy Wolf Appearance Set for Cloud Strife",
+    "type": "DLC",
+    "schinese_name": "",
+    "isfreeapp": 0,
+    "update_time": "2025-06-23 14:10:21",
+    "change_number": 26201212,
+    "depot": {
+        "1022496": {
+            "manifests": {
+                "public": {
+                    "gid": "2692508212604601607",
+                    "size": "0",
+                    "download": "0"
+                }
+            },
+            "dlcappid": "1022496",
+            "decryptionkey": "3f1a9c44a822fc583cf807541a2f1b5ea1108a98887ec8fb2261434a478ed0a6"
+        },
+        "branches": {
+            "public": {
+                "buildid": "3508066",
+                "timeupdated": "1548671823"
+            }
+        }
+    }
+}
