@@ -4,8 +4,8 @@
     "type": "Game",
     "schinese_name": "蜀末：血月三国",
     "isfreeapp": 0,
-    "update_time": "2025-06-20 05:27:56",
-    "change_number": 29653927,
+    "update_time": "2025-07-11 11:47:52",
+    "change_number": 30009043,
     "depot": {
         "baselanguages": "english,schinese,tchinese,japanese",
         "hasdepotsindlc": "0",
@@ -16,9 +16,14 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "4756084090250735556",
-                    "size": "274555169",
-                    "download": "163241904"
+                    "gid": "3224886632463755639",
+                    "size": "274572539",
+                    "download": "168696016"
+                },
+                "alpha": {
+                    "gid": "3224886632463755639",
+                    "size": "274572539",
+                    "download": "168696016"
                 }
             },
             "decryptionkey": "c62479b5db201f6ec039e35cf67977255a07650de17d569ef379209ce617c261"
@@ -30,19 +35,28 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "1216790906558669154",
-                    "size": "394111451",
-                    "download": "185622960"
+                    "gid": "8977239302626001300",
+                    "size": "394140509",
+                    "download": "195264992"
+                },
+                "alpha": {
+                    "gid": "8977239302626001300",
+                    "size": "394140509",
+                    "download": "195264992"
                 }
             },
             "decryptionkey": "01bb6f3726e1977dd3cdf8b43c78edddc7857f4e13559a0cbce77bca9cb4704a"
         },
         "branches": {
             "public": {
-                "buildid": "18512349",
-                "timeupdated": "1747620453"
+                "buildid": "18976950",
+                "timeupdated": "1750905589"
+            },
+            "alpha": {
+                "buildid": "18976950",
+                "description": "测试分支",
+                "timeupdated": "1750751201"
             }
-        },
-        "privatebranches": "1"
+        }
     }
 }
