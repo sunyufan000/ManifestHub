@@ -4,33 +4,33 @@
     "type": "Game",
     "schinese_name": "虫虫生态箱",
     "isfreeapp": 0,
-    "update_time": "2025-06-18 10:17:16",
-    "change_number": 29620309,
+    "update_time": "2025-07-23 01:09:50",
+    "change_number": 30196399,
     "depot": {
         "2988301": {
             "manifests": {
                 "public": {
-                    "gid": "6181287191426109399",
-                    "size": "2197061845",
-                    "download": "153011600"
+                    "gid": "5097334730771480100",
+                    "size": "2254280221",
+                    "download": "155217568"
                 },
                 "beta_wallpaper": {
-                    "gid": "3978730539995271308",
-                    "size": "2197065592",
-                    "download": "153012800"
+                    "gid": "4881071126689564527",
+                    "size": "2254349784",
+                    "download": "155221664"
                 }
             },
             "decryptionkey": "53d66b28bdf2721c233a0e5bd72835548ca9f4510064fa3179b17158b7263e9e"
         },
         "branches": {
             "public": {
-                "buildid": "18881091",
-                "timeupdated": "1750069319"
+                "buildid": "19225589",
+                "timeupdated": "1752557783"
             },
             "beta_wallpaper": {
-                "buildid": "18881236",
+                "buildid": "19225432",
                 "description": "Wallpaper Mode Available",
-                "timeupdated": "1750070005"
+                "timeupdated": "1752556363"
             }
         },
         "privatebranches": "1"
