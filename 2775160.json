@@ -4,8 +4,8 @@
     "type": "Game",
     "schinese_name": "诺亚的困境",
     "isfreeapp": 0,
-    "update_time": "2025-06-18 14:18:17",
-    "change_number": 29622833,
+    "update_time": "2025-07-22 05:29:42",
+    "change_number": 30179349,
     "depot": {
         "hasdepotsindlc": "1",
         "2775161": {
@@ -14,14 +14,14 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "4094426403970145256",
-                    "size": "909292784",
-                    "download": "277797552"
+                    "gid": "4417117084222382099",
+                    "size": "1023623832",
+                    "download": "279971184"
                 },
                 "beta": {
-                    "gid": "4094426403970145256",
-                    "size": "909292784",
-                    "download": "277797552"
+                    "gid": "4417117084222382099",
+                    "size": "1023623832",
+                    "download": "279971184"
                 }
             },
             "decryptionkey": "af85e329f1ddc0af6d743166c3276ace0d4cbc20bfe83415e6d097984de6247c"
@@ -32,27 +32,27 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "5570037462173574884",
-                    "size": "1018723667",
-                    "download": "276149632"
+                    "gid": "2407802524382922282",
+                    "size": "903165653",
+                    "download": "276254752"
                 },
                 "beta": {
-                    "gid": "5570037462173574884",
-                    "size": "1018723667",
-                    "download": "276149632"
+                    "gid": "2407802524382922282",
+                    "size": "903165653",
+                    "download": "276254752"
                 }
             }
         },
         "baselanguages": "",
         "branches": {
             "public": {
-                "buildid": "18692506",
-                "timeupdated": "1748785681"
+                "buildid": "19309902",
+                "timeupdated": "1753158558"
             },
             "beta": {
-                "buildid": "18692506",
+                "buildid": "19309902",
                 "description": "For testing possibly unstable new version.",
-                "timeupdated": "1748785668"
+                "timeupdated": "1753158517"
             }
         },
         "privatebranches": "1"
