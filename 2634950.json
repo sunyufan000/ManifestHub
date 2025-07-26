@@ -4,8 +4,8 @@
     "type": "Game",
     "schinese_name": "首都高赛车",
     "isfreeapp": 0,
-    "update_time": "2025-06-20 15:54:24",
-    "change_number": 29663800,
+    "update_time": "2025-07-23 19:11:29",
+    "change_number": 30212357,
     "depot": {
         "228988": {
             "config": {
@@ -31,18 +31,18 @@
         "2634951": {
             "manifests": {
                 "public": {
-                    "gid": "2294867592990874434",
-                    "size": "7369290931",
-                    "download": "7156319776"
+                    "gid": "3816718475636044378",
+                    "size": "7768870054",
+                    "download": "7518498032"
                 }
             },
             "decryptionkey": "0f27021c9467560d6fd421ba480ebc674efa20375f8a2af71fc51e28345005f5"
         },
-        "baselanguages": "english,schinese,japanese",
+        "baselanguages": "english,schinese,tchinese,japanese",
         "branches": {
             "public": {
-                "buildid": "18546634",
-                "timeupdated": "1747904366"
+                "buildid": "19226518",
+                "timeupdated": "1752569360"
             }
         },
         "privatebranches": "1"
