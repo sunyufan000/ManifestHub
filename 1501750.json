@@ -4,8 +4,8 @@
     "type": "Game",
     "schinese_name": "Lords of the Fallen 堕落之主",
     "isfreeapp": 0,
-    "update_time": "2025-06-18 06:07:31",
-    "change_number": 29611154,
+    "update_time": "2025-07-23 14:35:59",
+    "change_number": 30207306,
     "depot": {
         "228989": {
             "config": {
@@ -27,9 +27,9 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "6721877601007402844",
-                    "size": "34943127357",
-                    "download": "33970035056"
+                    "gid": "2642285513161219853",
+                    "size": "34943404552",
+                    "download": "33995157184"
                 }
             },
             "decryptionkey": "c86a5d17ac060ed8c27bc9840a5eb75890d5d8cf1908993635a947d13a30076b"
@@ -37,8 +37,8 @@
         "hasdepotsindlc": "1",
         "branches": {
             "public": {
-                "buildid": "18857566",
-                "timeupdated": "1749912223"
+                "buildid": "19145672",
+                "timeupdated": "1752084006"
             }
         },
         "privatebranches": "1"
