@@ -4,8 +4,8 @@
     "type": "Game",
     "schinese_name": "传染恐慌3：启示录",
     "isfreeapp": 0,
-    "update_time": "2025-06-13 01:30:03",
-    "change_number": 29527742,
+    "update_time": "2025-06-23 18:45:02",
+    "change_number": 29705813,
     "depot": {
         "228987": {
             "config": {
@@ -61,7 +61,8 @@
                     "size": "365227827",
                     "download": "118362480"
                 }
-            }
+            },
+            "decryptionkey": "d64b01dd8b8be57e8fb85181e48272bbe31574786c5afffe0d33c0df2014f3c6"
         },
         "branches": {
             "public": {
