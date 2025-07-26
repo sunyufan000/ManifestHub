@@ -4,8 +4,8 @@
     "type": "Game",
     "schinese_name": "最后生还者2 重制版",
     "isfreeapp": 0,
-    "update_time": "2025-06-22 09:35:04",
-    "change_number": 29687035,
+    "update_time": "2025-07-24 02:32:07",
+    "change_number": 30217855,
     "depot": {
         "228989": {
             "config": {
@@ -21,14 +21,14 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "5151442398504601055",
-                    "size": "87391374056",
-                    "download": "76835078016"
+                    "gid": "4566212634007989287",
+                    "size": "87609292845",
+                    "download": "76972646960"
                 },
                 "previous_version": {
-                    "gid": "5818127708734001712",
-                    "size": "87391240184",
-                    "download": "76834983968"
+                    "gid": "1657989852530204654",
+                    "size": "87609482600",
+                    "download": "76954252144"
                 }
             },
             "decryptionkey": "f7506952e736e71547c2d3c2c82959438e836c66d5b8b8f3208ccc082f60df23"
@@ -40,14 +40,14 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "5608329698800797019",
-                    "size": "6893964036",
-                    "download": "5777850240"
+                    "gid": "666389493307802768",
+                    "size": "6894822582",
+                    "download": "5779502176"
                 },
                 "previous_version": {
-                    "gid": "9210612150342159594",
-                    "size": "6892803770",
-                    "download": "5776827872"
+                    "gid": "8367103266075086266",
+                    "size": "6894751670",
+                    "download": "5779412944"
                 }
             },
             "decryptionkey": ""
@@ -59,14 +59,14 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "5241159688705703611",
-                    "size": "36266555724",
-                    "download": "30768122384"
+                    "gid": "4994458262959665537",
+                    "size": "36274855915",
+                    "download": "30780968432"
                 },
                 "previous_version": {
-                    "gid": "7297381045588692143",
-                    "size": "36255782096",
-                    "download": "30758318256"
+                    "gid": "6728875351821095397",
+                    "size": "36274321517",
+                    "download": "30780331440"
                 }
             },
             "decryptionkey": "a88758211f172f53efb57ad5c819b9d5f34b0796b44bd876639a09029e6a8089"
@@ -79,14 +79,14 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "7978371625226688313",
-                    "size": "5515031602",
-                    "download": "920202688"
+                    "gid": "1888113559115989776",
+                    "size": "5568147684",
+                    "download": "1281951520"
                 },
                 "previous_version": {
-                    "gid": "5998434485974011744",
-                    "size": "5510252082",
-                    "download": "922067744"
+                    "gid": "6235752429702502066",
+                    "size": "5485807068",
+                    "download": "1236615248"
                 }
             },
             "decryptionkey": ""
@@ -118,14 +118,14 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "191855825481859544",
-                    "size": "685247043",
-                    "download": "502550928"
+                    "gid": "6262322802969244361",
+                    "size": "685268757",
+                    "download": "511580000"
                 },
                 "previous_version": {
-                    "gid": "4551653102028974524",
-                    "size": "681539315",
-                    "download": "493816368"
+                    "gid": "1659287512113795292",
+                    "size": "685266533",
+                    "download": "511573136"
                 }
             },
             "decryptionkey": "3dc1a7d997476f1b4eb3a78f11af1be0d750a14719dc5d5eaeb940bcd44b74e5"
@@ -133,13 +133,13 @@
         "baselanguages": "english,german,french,italian,koreana,spanish,schinese,tchinese,russian,thai,japanese,portuguese,polish,danish,dutch,finnish,norwegian,swedish,hungarian,czech,turkish,brazilian,greek,latam",
         "branches": {
             "public": {
-                "buildid": "18478005",
-                "timeupdated": "1747648529"
+                "buildid": "19297819",
+                "timeupdated": "1753178526"
             },
             "previous_version": {
-                "buildid": "18295720",
+                "buildid": "19147669",
                 "description": "Rollback to previous version",
-                "timeupdated": "1747648558"
+                "timeupdated": "1753178560"
             }
         },
         "privatebranches": "1"
