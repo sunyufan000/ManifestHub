@@ -4,7 +4,7 @@
     "type": "DLC",
     "schinese_name": "《The Sims™ 4 粉彩狂想曲套件包》",
     "isfreeapp": 0,
-    "update_time": "2025-06-18 09:17:08",
+    "update_time": "2025-06-23 03:19:47",
     "change_number": 29619520,
     "depot": {
         "1932742": {
@@ -58,7 +58,7 @@
                 }
             },
             "dlcappid": "1932742",
-            "decryptionkey": ""
+            "decryptionkey": "a4d1900a0e0acdf08844a5069789f2d2c792d9185511873bab8123c5b1225fde"
         },
         "2185363": {
             "config": {
