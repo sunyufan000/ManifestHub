@@ -4,8 +4,8 @@
     "type": "Game",
     "schinese_name": "动物生存",
     "isfreeapp": 0,
-    "update_time": "2025-06-16 11:10:41",
-    "change_number": 29579973,
+    "update_time": "2025-07-21 22:19:04",
+    "change_number": 30174692,
     "depot": {
         "228981": {
             "config": {
@@ -157,9 +157,9 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "2630009289423809776",
-                    "size": "3288187929",
-                    "download": "2866614800"
+                    "gid": "1851466530266002952",
+                    "size": "7233409335",
+                    "download": "6292843504"
                 },
                 "crossplay": {
                     "gid": "1465087753985787159",
@@ -172,9 +172,9 @@
                     "download": "6292843504"
                 },
                 "testpublic": {
-                    "gid": "2630009289423809776",
-                    "size": "3288187929",
-                    "download": "2866614800"
+                    "gid": "1039886634772455858",
+                    "size": "5488079536",
+                    "download": "5012711408"
                 }
             },
             "decryptionkey": "8b4b39182603bff5a321a38e2932993b82401b9a9e7fc0b15d795bef3c55d224"
@@ -188,8 +188,8 @@
         },
         "branches": {
             "public": {
-                "buildid": "18861967",
-                "timeupdated": "1749934023"
+                "buildid": "16992489",
+                "timeupdated": "1753041164"
             },
             "crossplay": {
                 "buildid": "18765834",
@@ -202,9 +202,9 @@
                 "timeupdated": "1748369218"
             },
             "testpublic": {
-                "buildid": "18861967",
+                "buildid": "19236970",
                 "description": "testpublic",
-                "timeupdated": "1750043435"
+                "timeupdated": "1752622686"
             }
         },
         "privatebranches": "1"
