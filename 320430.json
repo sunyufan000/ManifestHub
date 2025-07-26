@@ -4,8 +4,8 @@
     "type": "Game",
     "schinese_name": "创升纪元",
     "isfreeapp": 0,
-    "update_time": "2025-06-18 06:15:59",
-    "change_number": 29616307,
+    "update_time": "2025-07-14 18:33:04",
+    "change_number": 30053521,
     "depot": {
         "228982": {
             "config": {
@@ -28,9 +28,9 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "5476585507998269378",
-                    "size": "1073588963",
-                    "download": "617935520"
+                    "gid": "4848689699829604455",
+                    "size": "1021352123",
+                    "download": "591434976"
                 }
             },
             "decryptionkey": "43165e65a1d64e976dd456d3c965d9a9a429944bfb95d4d203fa1d86cff53d89"
@@ -43,17 +43,17 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "2909045284892734026",
-                    "size": "1072803843",
-                    "download": "618258688"
+                    "gid": "8276116507637992542",
+                    "size": "1084952930",
+                    "download": "607432944"
                 }
             },
             "decryptionkey": "03240daf07cb0cc768ec3edcb7422a58351c257d83826c049269d69af3aeb637"
         },
         "branches": {
             "public": {
-                "buildid": "7619182",
-                "timeupdated": "1636740107"
+                "buildid": "19070519",
+                "timeupdated": "1752514320"
             }
         },
         "privatebranches": "1"
