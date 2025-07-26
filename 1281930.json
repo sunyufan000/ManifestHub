@@ -4,8 +4,8 @@
     "type": "Game",
     "schinese_name": "泰拉瑞亚 - tModLoader",
     "isfreeapp": 1,
-    "update_time": "2025-06-17 03:56:54",
-    "change_number": 29588483,
+    "update_time": "2025-07-04 11:25:06",
+    "change_number": 29833118,
     "depot": {
         "228988": {
             "config": {
@@ -44,9 +44,9 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "7058202258371439412",
-                    "size": "183864759",
-                    "download": "70567440"
+                    "gid": "7028737218550280011",
+                    "size": "183928396",
+                    "download": "71343936"
                 },
                 "1.3-legacy": {
                     "gid": "6620356507092341162",
@@ -67,6 +67,11 @@
                     "gid": "997633308402147988",
                     "size": "183928421",
                     "download": "70593072"
+                },
+                "preview-v2025.06": {
+                    "gid": "6266123531952791835",
+                    "size": "184011235",
+                    "download": "71956704"
                 }
             },
             "decryptionkey": "5385c2c3b4d8b9e7365f5679ddb90c26af9660fb624768d2fba141b46cf58ec8"
@@ -78,9 +83,9 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "350762113038091339",
-                    "size": "150687041",
-                    "download": "37746144"
+                    "gid": "5870493637101893367",
+                    "size": "150750678",
+                    "download": "38522640"
                 },
                 "1.3-legacy": {
                     "gid": "7383226383812834694",
@@ -101,6 +106,11 @@
                     "gid": "8676527132979186372",
                     "size": "150750703",
                     "download": "37771776"
+                },
+                "preview-v2025.06": {
+                    "gid": "5306292755858221238",
+                    "size": "150833517",
+                    "download": "39135408"
                 }
             },
             "decryptionkey": "ace4929293e347c514440fb664ba011219611629c187e7d79d5656eaadc70e82"
@@ -112,9 +122,9 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "8700557221944129732",
-                    "size": "150687041",
-                    "download": "37746144"
+                    "gid": "3948725454705569143",
+                    "size": "150750678",
+                    "download": "38522640"
                 },
                 "1.3-legacy": {
                     "gid": "6127624075772038047",
@@ -135,6 +145,11 @@
                     "gid": "431455066352172035",
                     "size": "150750703",
                     "download": "37771776"
+                },
+                "preview-v2025.06": {
+                    "gid": "1625836376606065993",
+                    "size": "150833517",
+                    "download": "39135408"
                 }
             },
             "decryptionkey": "c1d827072fb6ba28cd0eb5de52b3f9ae84506edacbdcb8c0e006c28ee27338fe"
@@ -168,6 +183,11 @@
                     "gid": "1779141483676093144",
                     "size": "0",
                     "download": "0"
+                },
+                "preview-v2025.06": {
+                    "gid": "1779141483676093144",
+                    "size": "0",
+                    "download": "0"
                 }
             },
             "decryptionkey": "2f3d1de6d30d21aef8361e268a82c2b030971620d9ae0611ca452d04d3db8481"
@@ -175,8 +195,8 @@
         "workshopdepot": "1281930",
         "branches": {
             "public": {
-                "buildid": "18689163",
-                "timeupdated": "1748742790"
+                "buildid": "19057820",
+                "timeupdated": "1751329968"
             },
             "1.3-legacy": {
                 "buildid": "8601731",
@@ -197,6 +217,11 @@
                 "buildid": "18689175",
                 "description": "Pre-release for mod makers to test upcoming features",
                 "timeupdated": "1748736657"
+            },
+            "preview-v2025.06": {
+                "buildid": "19057842",
+                "description": "None is 1.4.4. Pre-release for mod makers",
+                "timeupdated": "1751328616"
             }
         },
         "privatebranches": "1",
