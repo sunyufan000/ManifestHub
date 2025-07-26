@@ -4,13 +4,16 @@
     "type": "Game",
     "schinese_name": "YARISUTEMESUBUTA ~ 一次性交易大师 ~",
     "isfreeapp": 0,
-    "update_time": "2025-06-20 05:28:23",
-    "change_number": 29655023,
+    "update_time": "2025-07-21 17:18:06",
+    "change_number": 30170268,
     "depot": {
         "baselanguages": "english,koreana,schinese,tchinese,japanese",
         "hasdepotsindlc": "1",
         "3171570": {
             "dlcappid": "3171570",
+            "config": {
+                "oslist": "windows"
+            },
             "manifests": {
                 "public": {
                     "gid": "6273957131003220084",
@@ -46,7 +49,7 @@
             },
             "dlcappid": "3593650",
             "depotfromapp": "3593650",
-            "decryptionkey": ""
+            "decryptionkey": "cdac6a93224f65139edcce3b7fb21a294db38b14f5cf1b5e5f96687a45f35f0b"
         },
         "branches": {
             "public": {
