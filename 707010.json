@@ -4,8 +4,8 @@
     "type": "Game",
     "schinese_name": "求生意志OL",
     "isfreeapp": 1,
-    "update_time": "2025-06-19 17:55:20",
-    "change_number": 29646926,
+    "update_time": "2025-07-23 11:15:33",
+    "change_number": 30204151,
     "depot": {
         "228985": {
             "config": {
@@ -44,17 +44,17 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "8746793544206079707",
-                    "size": "30610295509",
-                    "download": "28988319232"
+                    "gid": "6518736440813166571",
+                    "size": "30610289362",
+                    "download": "28995508944"
                 }
             },
             "decryptionkey": "85557593bc9091ff25ca78d7ac5ecdd5df713724f58ee9a7e02384fe1b6630ba"
         },
         "branches": {
             "public": {
-                "buildid": "18923298",
-                "timeupdated": "1750326913"
+                "buildid": "19272814",
+                "timeupdated": "1752847241"
             }
         },
         "privatebranches": "1"
