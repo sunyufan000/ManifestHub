@@ -4,11 +4,11 @@
     "type": "Game",
     "schinese_name": "辉灭 Elsia War",
     "isfreeapp": 0,
-    "update_time": "2025-06-21 21:57:03",
-    "change_number": 29682378,
+    "update_time": "2025-06-25 08:27:58",
+    "change_number": 29736755,
     "depot": {
         "hasdepotsindlc": "0",
-        "baselanguages": "schinese,tchinese,japanese",
+        "baselanguages": "english,schinese,tchinese,japanese",
         "2298571": {
             "config": {
                 "language": "tchinese"
@@ -48,10 +48,23 @@
             },
             "decryptionkey": ""
         },
+        "2298573": {
+            "config": {
+                "language": "english"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "3217621749325994845",
+                    "size": "525187082",
+                    "download": "311125360"
+                }
+            },
+            "decryptionkey": ""
+        },
         "branches": {
             "public": {
-                "buildid": "18766422",
-                "timeupdated": "1749215363"
+                "buildid": "18991407",
+                "timeupdated": "1750836066"
             }
         }
     }
