@@ -4,8 +4,8 @@
     "type": "Game",
     "schinese_name": "",
     "isfreeapp": 1,
-    "update_time": "2025-06-18 15:50:01",
-    "change_number": 29624130,
+    "update_time": "2025-07-16 09:01:34",
+    "change_number": 30084560,
     "depot": {
         "overridescddb": "1",
         "baselanguages": "german",
@@ -24,9 +24,9 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "8321858493985934203",
-                    "size": "10211704186",
-                    "download": "3326680592"
+                    "gid": "30023198950043891",
+                    "size": "10229953921",
+                    "download": "3333030064"
                 }
             },
             "decryptionkey": "8d006f1ff4d95b98049b4c421fa59e275061ec2a632017960918521eddd7fbbe"
@@ -38,9 +38,9 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "7364393406883265961",
-                    "size": "10213789512",
-                    "download": "3311075360"
+                    "gid": "8363076673435068185",
+                    "size": "10232039165",
+                    "download": "3317424176"
                 }
             },
             "decryptionkey": "d25666cb07d86749dd8adb00d329db2548597a393b053d4eaeb582f34609c0e2"
@@ -52,17 +52,17 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "1130907064012555300",
-                    "size": "10213063681",
-                    "download": "3329491936"
+                    "gid": "75707608058652568",
+                    "size": "10231313299",
+                    "download": "3336393600"
                 }
             },
             "decryptionkey": "c80b2599bc88c212b5f08ec160226640fe12bc8df55a79403b5abb7b036762c7"
         },
         "branches": {
             "public": {
-                "buildid": "18908047",
-                "timeupdated": "1750232994"
+                "buildid": "19231915",
+                "timeupdated": "1752652889"
             }
         }
     }
