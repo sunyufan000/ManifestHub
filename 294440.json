@@ -4,8 +4,8 @@
     "type": "Game",
     "schinese_name": "",
     "isfreeapp": 0,
-    "update_time": "2025-06-09 21:23:51",
-    "change_number": 29463260,
+    "update_time": "2025-07-17 02:38:20",
+    "change_number": 30101226,
     "depot": {
         "overridescddb": "1",
         "baselanguages": "english",
@@ -45,7 +45,7 @@
                 }
             },
             "dlcappid": "318590",
-            "decryptionkey": ""
+            "decryptionkey": "1f6c748650d8bab75ecfca1e1cd53264f00e390161584d6147b747322a12c3f6"
         },
         "318591": {
             "manifests": {
@@ -56,7 +56,7 @@
                 }
             },
             "dlcappid": "318591",
-            "decryptionkey": ""
+            "decryptionkey": "559ba34184086df8def3a6fef5003db8a6ae4bb3c5d9ebfce255ac4b5a2f4bd0"
         },
         "294443": {
             "config": {
