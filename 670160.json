@@ -4,8 +4,8 @@
     "type": "Game",
     "schinese_name": "",
     "isfreeapp": 0,
-    "update_time": "2025-06-07 10:10:29",
-    "change_number": 29430347,
+    "update_time": "2025-07-22 18:52:30",
+    "change_number": 30191575,
     "depot": {
         "baselanguages": "english,german,french,schinese,tchinese,russian,polish,hungarian,czech,ukrainian",
         "hasdepotsindlc": "1",
@@ -17,27 +17,27 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "5567326906874570684",
-                    "size": "536634626",
-                    "download": "237905888"
+                    "gid": "530682578051225829",
+                    "size": "538541391",
+                    "download": "239420192"
                 },
                 "vm_stable": {
-                    "gid": "729329807960344133",
-                    "size": "513673512",
-                    "download": "234296640"
+                    "gid": "3425557357677806651",
+                    "size": "515157723",
+                    "download": "235753776"
                 }
             },
             "decryptionkey": "2772a1ea6667775a9bcbdfb20c5c8a6eea1aa04aeb3b4e8056e8b574515fa0d7"
         },
         "branches": {
             "public": {
-                "buildid": "18422654",
-                "timeupdated": "1747002568"
+                "buildid": "19125483",
+                "timeupdated": "1751839691"
             },
             "vm_stable": {
-                "buildid": "18422560",
+                "buildid": "19125453",
                 "description": "More demanding on hardware, but verbose error output.",
-                "timeupdated": "1747000927"
+                "timeupdated": "1751839285"
             }
         },
         "privatebranches": "1",
