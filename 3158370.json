@@ -4,7 +4,7 @@
     "type": "Game",
     "schinese_name": "骑士与三从者",
     "isfreeapp": 0,
-    "update_time": "2025-06-22 05:53:34",
+    "update_time": "2025-06-23 09:09:33",
     "change_number": 29682944,
     "depot": {
         "3158371": {
@@ -61,7 +61,7 @@
                     "download": "1288729072"
                 }
             },
-            "decryptionkey": ""
+            "decryptionkey": "84c9b2ef7e9dd8690eed75267166fc01f3452680dd21da2e54425dd3d80d42b1"
         },
         "baselanguages": "english,schinese,tchinese,japanese",
         "branches": {
