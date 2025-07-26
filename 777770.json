@@ -4,7 +4,7 @@
     "type": "Game",
     "schinese_name": "战争派对",
     "isfreeapp": 0,
-    "update_time": "2025-06-10 01:17:01",
+    "update_time": "2025-06-23 11:56:57",
     "change_number": 29469233,
     "depot": {
         "777771": {},
@@ -48,7 +48,7 @@
                     "download": "2066410896"
                 }
             },
-            "decryptionkey": ""
+            "decryptionkey": "368484abb2d467d7b3c0dbfdad631f2e1629d6895c58f34f4ad5333894820e30"
         },
         "777779": {
             "config": {
