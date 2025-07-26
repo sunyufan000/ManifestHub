@@ -4,8 +4,8 @@
     "type": "Game",
     "schinese_name": "指尖问道",
     "isfreeapp": 0,
-    "update_time": "2025-06-13 18:31:01",
-    "change_number": 29547218,
+    "update_time": "2025-06-25 01:07:24",
+    "change_number": 29732252,
     "depot": {
         "baselanguages": "schinese,tchinese",
         "hasdepotsindlc": "1",
@@ -47,6 +47,6 @@
             }
         },
         "privatebranches": "1",
-        "workshopdepotdecryptionkey": ""
+        "workshopdepotdecryptionkey": "b2811e2e86d8c7e2e3bb749a41649847a5f2ea41453fcfa8f8f68f6aea769b2a"
     }
 }
