@@ -4,8 +4,8 @@
     "type": "Game",
     "schinese_name": "",
     "isfreeapp": 0,
-    "update_time": "2025-06-21 02:02:30",
-    "change_number": 29673512,
+    "update_time": "2025-07-24 04:10:58",
+    "change_number": 30218978,
     "depot": {
         "228989": {
             "config": {
@@ -28,9 +28,9 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "7000372707692289382",
-                    "size": "707733483",
-                    "download": "354443616"
+                    "gid": "3460224106981726721",
+                    "size": "718902859",
+                    "download": "362507248"
                 }
             },
             "decryptionkey": "b537907a613fd29911d2e311eb41fd2f0b309324601b0ef164c8520562eac290"
@@ -42,8 +42,8 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "1626255542866860247",
-                    "size": "423",
+                    "gid": "6962243758063524023",
+                    "size": "403",
                     "download": "352"
                 }
             },
@@ -98,7 +98,7 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "3160016919763618258",
+                    "gid": "3503398939794266883",
                     "size": "68794033444",
                     "download": "66811937264"
                 }
@@ -108,9 +108,9 @@
         "3017868": {
             "manifests": {
                 "public": {
-                    "gid": "1726830784605627270",
-                    "size": "79565588",
-                    "download": "20343008"
+                    "gid": "6380569489411096461",
+                    "size": "79564508",
+                    "download": "20341920"
                 }
             },
             "decryptionkey": "fb3bda82e733857d05419dce15179a1aa642b840af21ef69520346fe8a00e20e"
@@ -118,8 +118,8 @@
         "baselanguages": "english,german,french,italian,koreana,spanish,schinese,tchinese,russian,japanese,polish,turkish,arabic,brazilian,latam",
         "branches": {
             "public": {
-                "buildid": "18885006",
-                "timeupdated": "1750258843"
+                "buildid": "18943450",
+                "timeupdated": "1750690821"
             }
         },
         "privatebranches": "1"
