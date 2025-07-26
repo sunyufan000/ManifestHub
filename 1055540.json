@@ -4,8 +4,8 @@
     "type": "Game",
     "schinese_name": "",
     "isfreeapp": 0,
-    "update_time": "2025-06-13 20:04:44",
-    "change_number": 29548963,
+    "update_time": "2025-07-16 16:04:35",
+    "change_number": 30091895,
     "depot": {
         "1055541": {
             "config": {
@@ -21,11 +21,6 @@
                     "gid": "4981129126313509173",
                     "size": "319105342",
                     "download": "213748656"
-                },
-                "beta": {
-                    "gid": "1477452066138288241",
-                    "size": "331636534",
-                    "download": "217658560"
                 },
                 "oldest_version": {
                     "gid": "4582956657818331505",
@@ -46,6 +41,11 @@
                     "gid": "2500622842243877874",
                     "size": "323792313",
                     "download": "214090272"
+                },
+                "beta": {
+                    "gid": "1477452066138288241",
+                    "size": "331636534",
+                    "download": "217658560"
                 }
             },
             "decryptionkey": "357f3583b508bf2b30b0ef89c3473521718cbc8b93c0c54310a4c47c8d15bdf2"
@@ -56,19 +56,14 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "1846843614905217732",
-                    "size": "364100982",
-                    "download": "227282416"
+                    "gid": "2324212405655606626",
+                    "size": "364258411",
+                    "download": "228947568"
                 },
                 "ashorthike99_mod": {
                     "gid": "7469441786292560459",
                     "size": "332524692",
                     "download": "217672496"
-                },
-                "beta": {
-                    "gid": "1846843614905217732",
-                    "size": "364100982",
-                    "download": "227282416"
                 },
                 "oldest_version": {
                     "gid": "2034109000755082653",
@@ -89,6 +84,11 @@
                     "gid": "8114539708994937381",
                     "size": "337211662",
                     "download": "218010864"
+                },
+                "beta": {
+                    "gid": "2324212405655606626",
+                    "size": "364258411",
+                    "download": "228947568"
                 }
             },
             "decryptionkey": "bf61fb6ad4ff0581ec0c16d2c5682ad3440abd78d64bd9d78f541b8c58049d1e"
@@ -107,11 +107,6 @@
                     "gid": "4246810272527854729",
                     "size": "346486053",
                     "download": "220873856"
-                },
-                "beta": {
-                    "gid": "7236385568186271569",
-                    "size": "342202865",
-                    "download": "220239744"
                 },
                 "oldest_version": {
                     "gid": "8950217812509608258",
@@ -132,23 +127,24 @@
                     "gid": "5465227408760906087",
                     "size": "351173263",
                     "download": "221214336"
+                },
+                "beta": {
+                    "gid": "7236385568186271569",
+                    "size": "342202865",
+                    "download": "220239744"
                 }
             },
             "decryptionkey": "f18ee22cbd474dc50d6ca97b6661b3d912dd2d6157eedefa3e8ae2efdb30c65e"
         },
         "branches": {
             "public": {
-                "buildid": "12903118",
-                "timeupdated": "1701971673"
+                "buildid": "19235678",
+                "timeupdated": "1752678269"
             },
             "ashorthike99_mod": {
                 "buildid": "8501800",
                 "description": "an april fools multiplayer mod",
                 "timeupdated": "1649175919"
-            },
-            "beta": {
-                "buildid": "12903118",
-                "timeupdated": "1701970890"
             },
             "oldest_version": {
                 "buildid": "4000247",
@@ -167,6 +163,10 @@
                 "buildid": "8277262",
                 "description": "Before chest boost was broken.",
                 "timeupdated": "1703531091"
+            },
+            "beta": {
+                "buildid": "19235678",
+                "timeupdated": "1752613668"
             }
         }
     }
