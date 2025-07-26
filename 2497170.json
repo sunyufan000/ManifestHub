@@ -4,8 +4,8 @@
     "type": "Game",
     "schinese_name": "零月的拉芙拉",
     "isfreeapp": 0,
-    "update_time": "2025-06-22 05:57:19",
-    "change_number": 29684150,
+    "update_time": "2025-07-17 02:51:15",
+    "change_number": 30101351,
     "depot": {
         "hasdepotsindlc": "0",
         "2497171": {
@@ -45,7 +45,7 @@
                     "download": "1667116128"
                 }
             },
-            "decryptionkey": ""
+            "decryptionkey": "b2b97e0bbf2a2cf2f51a5dc7523c89ec24e7229d55dadfa5134e102e935e3b1f"
         },
         "baselanguages": "english,schinese,japanese",
         "branches": {
