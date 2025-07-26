@@ -4,8 +4,8 @@
     "type": "Game",
     "schinese_name": "",
     "isfreeapp": 0,
-    "update_time": "2025-06-22 06:00:43",
-    "change_number": 29685353,
+    "update_time": "2025-07-24 04:00:30",
+    "change_number": 30218873,
     "depot": {
         "228988": {
             "config": {
@@ -106,6 +106,16 @@
                     "gid": "6860308815474727994",
                     "size": "4354202681",
                     "download": "2044400400"
+                },
+                "playtest": {
+                    "gid": "8855175773616909525",
+                    "size": "4367737219",
+                    "download": "2045364448"
+                },
+                "so_playtest": {
+                    "gid": "8855175773616909525",
+                    "size": "4367737219",
+                    "download": "2045364448"
                 }
             },
             "decryptionkey": "3fbe09853da1a7ac7b1aa15652be1895746da18714c1807b011212858c982f51"
@@ -195,6 +205,16 @@
                     "gid": "2478843593229525061",
                     "size": "6085847682",
                     "download": "3600210112"
+                },
+                "playtest": {
+                    "gid": "4856534983811714761",
+                    "size": "6706415952",
+                    "download": "4177804592"
+                },
+                "so_playtest": {
+                    "gid": "4856534983811714761",
+                    "size": "6706415952",
+                    "download": "4177804592"
                 }
             },
             "decryptionkey": "d0efd69c2526add85dbda57dd9dd17d97f284da29533e13a250a9b8ca031b2f0"
@@ -283,6 +303,16 @@
                     "gid": "2644455666888181915",
                     "size": "5879478199",
                     "download": "3565823552"
+                },
+                "playtest": {
+                    "gid": "5126376864001875681",
+                    "size": "6460820892",
+                    "download": "4046600096"
+                },
+                "so_playtest": {
+                    "gid": "5126376864001875681",
+                    "size": "6460820892",
+                    "download": "4046600096"
                 }
             },
             "decryptionkey": "8bf36b02f6e95335e4e0e72dbe22d7e90d1598fd31a2afe5f5e46072b7b52088"
@@ -371,6 +401,16 @@
                     "gid": "6513580057595171312",
                     "size": "6122091329",
                     "download": "3608129968"
+                },
+                "playtest": {
+                    "gid": "3618123765621892473",
+                    "size": "6428898487",
+                    "download": "4070747344"
+                },
+                "so_playtest": {
+                    "gid": "3618123765621892473",
+                    "size": "6428898487",
+                    "download": "4070747344"
                 }
             },
             "decryptionkey": "776156879cf6219b2e9e4a86d2c4aaa1d3f4f1bf69a54970125f741c6e953bc7"
@@ -454,6 +494,16 @@
                 "buildid": "17453777",
                 "description": "Beta 11.1.9",
                 "timeupdated": "1740135925"
+            },
+            "playtest": {
+                "buildid": "19319558",
+                "description": "Eco Playtest for Update 12 on White Tiger",
+                "timeupdated": "1753254185"
+            },
+            "so_playtest": {
+                "buildid": "19319558",
+                "description": "Playtest for Update 12",
+                "timeupdated": "1753255380"
             }
         },
         "privatebranches": "1"
