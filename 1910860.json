@@ -4,8 +4,8 @@
     "type": "Game",
     "schinese_name": "",
     "isfreeapp": 0,
-    "update_time": "2025-06-20 05:22:02",
-    "change_number": 29651061,
+    "update_time": "2025-07-11 18:10:05",
+    "change_number": 30016511,
     "depot": {
         "hasdepotsindlc": "0",
         "baselanguages": "english",
@@ -31,9 +31,9 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "3282972379402626022",
-                    "size": "23441359601",
-                    "download": "21602304800"
+                    "gid": "1005286032379200104",
+                    "size": "23501989977",
+                    "download": "21637224224"
                 },
                 "grimlord_beta": {
                     "gid": "2037026729020961243",
@@ -45,8 +45,8 @@
         },
         "branches": {
             "public": {
-                "buildid": "18745884",
-                "timeupdated": "1749206703"
+                "buildid": "19191267",
+                "timeupdated": "1752253800"
             },
             "grimlord_beta": {
                 "buildid": "17104845",
