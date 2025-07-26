@@ -4,9 +4,11 @@
     "type": "Game",
     "schinese_name": "七龙珠Z 卡卡洛特",
     "isfreeapp": 0,
-    "update_time": "2025-06-20 23:23:16",
-    "change_number": 29670999,
+    "update_time": "2025-07-23 03:32:58",
+    "change_number": 30198041,
     "depot": {
+        "baselanguages": "english,german,french,italian,koreana,spanish,schinese,tchinese,russian,thai,japanese,polish,arabic,brazilian,latam",
+        "hasdepotsindlc": "0",
         "228986": {
             "config": {
                 "oslist": "windows"
@@ -28,17 +30,15 @@
             "depotfromapp": "228980",
             "sharedinstall": "1"
         },
-        "baselanguages": "english,german,french,italian,koreana,spanish,schinese,tchinese,russian,thai,japanese,polish,arabic,brazilian,latam",
-        "hasdepotsindlc": "0",
         "851851": {
             "config": {
                 "osarch": "64"
             },
             "manifests": {
                 "public": {
-                    "gid": "2095765607886336701",
-                    "size": "54759374656",
-                    "download": "50770634704"
+                    "gid": "8650131275859308117",
+                    "size": "60355447013",
+                    "download": "55976669344"
                 }
             },
             "decryptionkey": "fb1907fb7175034840a9685765e865e3f9c8b0aef43ba1cd125faca7a7e6e5ce"
@@ -207,16 +207,23 @@
         },
         "3279960": {
             "dlcappid": "3279960",
-            "manifests": {}
+            "manifests": {
+                "public": {
+                    "gid": "4080764658269517102",
+                    "size": "54841687648",
+                    "download": "52950352656"
+                }
+            },
+            "decryptionkey": "74329a5cce22d696662692fe90505dd73774883a4d2e1130a6843637b80a5a8c"
         },
-        "3279970": {
-            "dlcappid": "3279970",
+        "3841290": {
+            "dlcappid": "3841290",
             "manifests": {}
         },
         "branches": {
             "public": {
-                "buildid": "17009782",
-                "timeupdated": "1740609944"
+                "buildid": "18758777",
+                "timeupdated": "1752663604"
             }
         },
         "privatebranches": "1"
