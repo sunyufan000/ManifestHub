@@ -4,8 +4,8 @@
     "type": "Game",
     "schinese_name": "JDM: 漂移大师",
     "isfreeapp": 0,
-    "update_time": "2025-06-21 05:44:34",
-    "change_number": 29676090,
+    "update_time": "2025-07-23 23:16:45",
+    "change_number": 30215659,
     "depot": {
         "hasdepotsindlc": "1",
         "baselanguages": "english",
@@ -30,9 +30,9 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "5057284520572390324",
-                    "size": "14808916865",
-                    "download": "13671195408"
+                    "gid": "699944914027453443",
+                    "size": "14701844596",
+                    "download": "13624344208"
                 }
             },
             "decryptionkey": "aae6e034473725f27603fc003f2520e4df8111c1433317b84a92e8bb8fb64913"
@@ -42,8 +42,8 @@
         },
         "branches": {
             "public": {
-                "buildid": "18838440",
-                "timeupdated": "1749736442"
+                "buildid": "19173382",
+                "timeupdated": "1752158205"
             }
         },
         "privatebranches": "1"
