@@ -4,8 +4,8 @@
     "type": "Game",
     "schinese_name": "僵尸末日",
     "isfreeapp": 0,
-    "update_time": "2025-06-14 16:04:19",
-    "change_number": 29563312,
+    "update_time": "2025-07-18 14:10:55",
+    "change_number": 30132068,
     "depot": {
         "preloadonly": "1",
         "overridescddb": "1",
@@ -49,9 +49,9 @@
             "systemdefined": "1",
             "manifests": {
                 "public": {
-                    "gid": "4336222686284404443",
-                    "size": "25129855451",
-                    "download": "20082087056"
+                    "gid": "4317457313883759714",
+                    "size": "25129863434",
+                    "download": "20082068912"
                 }
             },
             "decryptionkey": "9d9c5d3d77309bbe701a3f018cea877d22d07160b4ea2b65bdf261d0dc399c15"
@@ -83,8 +83,8 @@
         },
         "branches": {
             "public": {
-                "buildid": "18722290",
-                "timeupdated": "1748974345"
+                "buildid": "19065050",
+                "timeupdated": "1751372859"
             }
         },
         "privatebranches": "1",
