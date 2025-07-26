@@ -4,8 +4,8 @@
     "type": "Game",
     "schinese_name": "",
     "isfreeapp": 0,
-    "update_time": "2025-06-21 07:28:06",
-    "change_number": 29676999,
+    "update_time": "2025-07-12 00:19:05",
+    "change_number": 30021197,
     "depot": {
         "1203181": {
             "config": {
@@ -14,19 +14,19 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "5241409892899600830",
-                    "size": "4438950110",
-                    "download": "1865047744"
+                    "gid": "7145891519001909545",
+                    "size": "4439030123",
+                    "download": "1865578208"
                 },
                 "alpha": {
-                    "gid": "5241409892899600830",
-                    "size": "4438950110",
-                    "download": "1865047744"
+                    "gid": "7145891519001909545",
+                    "size": "4439030123",
+                    "download": "1865578208"
                 },
                 "onlinealpha": {
-                    "gid": "5241409892899600830",
-                    "size": "4438950110",
-                    "download": "1865047744"
+                    "gid": "7145891519001909545",
+                    "size": "4439030123",
+                    "download": "1865578208"
                 }
             },
             "decryptionkey": "6ffb43431f0aec5a29ce2f7fdd4329543359bebbcc709820c713a4d4b028e0f3"
@@ -34,18 +34,18 @@
         "1203183": {},
         "branches": {
             "public": {
-                "buildid": "18945919",
-                "timeupdated": "1750462082"
+                "buildid": "19197466",
+                "timeupdated": "1752275941"
             },
             "alpha": {
-                "buildid": "18945919",
+                "buildid": "19197466",
                 "description": "Early feature tests and bug fixes",
-                "timeupdated": "1750462021"
+                "timeupdated": "1752275909"
             },
             "onlinealpha": {
-                "buildid": "18945919",
+                "buildid": "19197466",
                 "description": "Online Public Alpha",
-                "timeupdated": "1750462034"
+                "timeupdated": "1752275924"
             }
         },
         "privatebranches": "1"
