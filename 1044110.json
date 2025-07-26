@@ -4,8 +4,8 @@
     "type": "Game",
     "schinese_name": "",
     "isfreeapp": 0,
-    "update_time": "2025-06-14 19:09:44",
-    "change_number": 29564178,
+    "update_time": "2025-07-23 06:35:06",
+    "change_number": 30199985,
     "depot": {
         "1044112": {
             "config": {
@@ -20,9 +20,9 @@
                     "download": "3400668528"
                 },
                 "rtd_pte": {
-                    "gid": "275572979103819313",
-                    "size": "13414110490",
-                    "download": "3394363152"
+                    "gid": "1612492469339941133",
+                    "size": "13414113698",
+                    "download": "3416665440"
                 }
             },
             "decryptionkey": "7290c219b7990afbc69b7b5107cfcdfa1d3b4c084c9aa034620f1d2b23409901"
@@ -33,9 +33,9 @@
                 "timeupdated": "1744550451"
             },
             "rtd_pte": {
-                "buildid": "18866571",
+                "buildid": "19319347",
                 "description": "Public Test Environment",
-                "timeupdated": "1749895812"
+                "timeupdated": "1753248901"
             }
         },
         "privatebranches": "1"
