@@ -4,8 +4,8 @@
     "type": "Application",
     "schinese_name": "十字线X",
     "isfreeapp": 0,
-    "update_time": "2025-06-21 08:32:20",
-    "change_number": 29677503,
+    "update_time": "2025-07-15 06:32:20",
+    "change_number": 30061818,
     "depot": {
         "1366801": {
             "config": {
@@ -14,9 +14,9 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "6487040089202867023",
-                    "size": "575696785",
-                    "download": "158706832"
+                    "gid": "5064014085394265872",
+                    "size": "575913340",
+                    "download": "160901744"
                 }
             },
             "decryptionkey": "c5417c02a22d0961ede2808e93da40d019b1d1f88131568488d7659bdc01ddcf"
@@ -24,8 +24,8 @@
         "workshopdepot": "1366800",
         "branches": {
             "public": {
-                "buildid": "18906397",
-                "timeupdated": "1750216810"
+                "buildid": "19017898",
+                "timeupdated": "1750976002"
             }
         },
         "privatebranches": "1",
