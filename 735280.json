@@ -4,7 +4,7 @@
     "type": "Game",
     "schinese_name": "急难先锋20",
     "isfreeapp": 0,
-    "update_time": "2025-06-09 00:59:04",
+    "update_time": "2025-06-23 12:07:44",
     "change_number": 29448138,
     "depot": {
         "baselanguages": "english,german,french,italian,spanish",
@@ -128,7 +128,8 @@
                     "size": "18462869265",
                     "download": "9698684832"
                 }
-            }
+            },
+            "decryptionkey": "fca964fc5014b6894b531bb0946fa9bac55c5b1b26115b2d81c7dc6f9e7236cc"
         },
         "branches": {
             "public": {
