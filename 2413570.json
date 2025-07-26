@@ -1,26 +1,26 @@
 {
     "appid": 2413570,
-    "name": "The Necromancer Arises",
+    "name": "Solo Breeding",
     "type": "Game",
     "schinese_name": "",
     "isfreeapp": 0,
-    "update_time": "2025-05-23 13:19:44",
-    "change_number": 29142665,
+    "update_time": "2025-07-23 22:13:43",
+    "change_number": 30214879,
     "depot": {
         "2413571": {
             "manifests": {
                 "public": {
-                    "gid": "2706727554499867155",
-                    "size": "1699782680",
-                    "download": "1439926128"
+                    "gid": "423555956172604485",
+                    "size": "1957250202",
+                    "download": "1701721920"
                 }
             },
             "decryptionkey": "5578cd674d089e9ac2b53f9bc03e1a193ad3dc8c9564d45741984f44c7ba0e17"
         },
         "branches": {
             "public": {
-                "buildid": "17363227",
-                "timeupdated": "1739519215"
+                "buildid": "19249618",
+                "timeupdated": "1752692807"
             }
         }
     }
