@@ -4,8 +4,8 @@
     "type": "Game",
     "schinese_name": "",
     "isfreeapp": 0,
-    "update_time": "2025-06-21 07:27:43",
-    "change_number": 29676998,
+    "update_time": "2025-07-24 02:10:11",
+    "change_number": 30217609,
     "depot": {
         "228989": {
             "config": {
@@ -24,17 +24,27 @@
         "2735221": {
             "manifests": {
                 "public": {
-                    "gid": "7986158072423289544",
-                    "size": "6225542710",
-                    "download": "2689272384"
+                    "gid": "4891223409836252120",
+                    "size": "6665687637",
+                    "download": "2948825408"
+                },
+                "experimental": {
+                    "gid": "4891223409836252120",
+                    "size": "6665687637",
+                    "download": "2948825408"
                 }
             },
             "decryptionkey": "c755c493b5ad54eabb764997ae78422300d7b9208709f8028211de7b73392078"
         },
         "branches": {
             "public": {
-                "buildid": "17857647",
-                "timeupdated": "1742934828"
+                "buildid": "19332784",
+                "timeupdated": "1753300475"
+            },
+            "experimental": {
+                "buildid": "19332784",
+                "description": "Play the patch before its public but expect bugs",
+                "timeupdated": "1753292984"
             }
         },
         "privatebranches": "1"
