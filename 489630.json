@@ -4,8 +4,8 @@
     "type": "Game",
     "schinese_name": "战锤40K：格雷迪厄斯-遗迹之战",
     "isfreeapp": 0,
-    "update_time": "2025-06-18 06:19:01",
-    "change_number": 29615734,
+    "update_time": "2025-07-22 12:44:55",
+    "change_number": 30185144,
     "depot": {
         "baselanguages": "english,german,french,spanish,schinese,russian",
         "workshopdepot": "489630",
@@ -39,9 +39,9 @@
                     "download": "2146049184"
                 },
                 "openbeta": {
-                    "gid": "7874019546311510293",
-                    "size": "3611695167",
-                    "download": "2169972000"
+                    "gid": "7857963731688794791",
+                    "size": "3611700366",
+                    "download": "2169995392"
                 }
             },
             "decryptionkey": "6bfeeddc0c7c9ab4c84e53df522ca4caf4b1613a43e564d36b986ec55f5463f8"
@@ -72,9 +72,9 @@
                     "download": "40033920"
                 },
                 "openbeta": {
-                    "gid": "1711434027248808053",
-                    "size": "148936051",
-                    "download": "36476528"
+                    "gid": "8132868747416074053",
+                    "size": "148938099",
+                    "download": "37884960"
                 }
             },
             "decryptionkey": "98cad733831ba87cf9c07a92272afbcfcf98b22daea917ab778b0f46ac6473b8"
@@ -105,9 +105,9 @@
                     "download": "35891968"
                 },
                 "openbeta": {
-                    "gid": "116568415090523383",
-                    "size": "156160050",
-                    "download": "38230048"
+                    "gid": "7160238661718804548",
+                    "size": "156164226",
+                    "download": "40698960"
                 }
             },
             "decryptionkey": "2181cc760c11eec2b2088e83099b893bbef7db3b725ab0f437942b2f6a6042b6"
@@ -586,9 +586,9 @@
                 "timeupdated": "1747992033"
             },
             "openbeta": {
-                "buildid": "18737730",
+                "buildid": "19262281",
                 "description": "Open Beta",
-                "timeupdated": "1749056357"
+                "timeupdated": "1752766732"
             }
         },
         "privatebranches": "1",
