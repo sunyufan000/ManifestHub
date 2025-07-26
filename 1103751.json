@@ -1,0 +1,28 @@
+{
+    "appid": 1103751,
+    "name": "DFF NT: Imperial Court Attire Appearance Set for Zenos yae Galvus",
+    "type": "DLC",
+    "schinese_name": "",
+    "isfreeapp": 0,
+    "update_time": "2025-06-23 14:10:38",
+    "change_number": 26201212,
+    "depot": {
+        "1103751": {
+            "manifests": {
+                "public": {
+                    "gid": "2521426538462650900",
+                    "size": "0",
+                    "download": "0"
+                }
+            },
+            "dlcappid": "1103751",
+            "decryptionkey": "a0f09030848aa20a9ef3ad7edc96a71e3ea5a4dacc7312a40270142309555bb1"
+        },
+        "branches": {
+            "public": {
+                "buildid": "3910098",
+                "timeupdated": "1560307560"
+            }
+        }
+    }
+}
