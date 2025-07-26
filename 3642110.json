@@ -4,8 +4,8 @@
     "type": "Game",
     "schinese_name": "少女武士-葵纹",
     "isfreeapp": 0,
-    "update_time": "2025-05-30 01:24:23",
-    "change_number": 29266105,
+    "update_time": "2025-07-21 08:52:53",
+    "change_number": 30162617,
     "depot": {
         "baselanguages": "schinese",
         "hasdepotsindlc": "0",
@@ -15,9 +15,9 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "3412075574411582709",
-                    "size": "233395942",
-                    "download": "94730720"
+                    "gid": "7209873062080624174",
+                    "size": "235399392",
+                    "download": "104532928"
                 }
             }
         },
@@ -27,17 +27,17 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "6064517352290290982",
-                    "size": "133529368",
-                    "download": "74519792"
+                    "gid": "3383080192254408916",
+                    "size": "135355604",
+                    "download": "76552640"
                 }
             },
             "decryptionkey": "664468061b178da97e9e46183dfaf43537bf2730f00302838ed74015fc1a2b62"
         },
         "branches": {
             "public": {
-                "buildid": "18304488",
-                "timeupdated": "1746065204"
+                "buildid": "19155330",
+                "timeupdated": "1752035504"
             }
         }
     }
