@@ -4,8 +4,8 @@
     "type": "Game",
     "schinese_name": "",
     "isfreeapp": 0,
-    "update_time": "2025-06-18 06:17:49",
-    "change_number": 29614799,
+    "update_time": "2025-07-11 20:51:48",
+    "change_number": 30019052,
     "depot": {
         "overridescddb": "1",
         "baselanguages": "english,koreana,spanish,schinese,tchinese,russian,japanese,brazilian,latam",
@@ -32,9 +32,9 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "2776532979663658531",
-                    "size": "87494705",
-                    "download": "44449664"
+                    "gid": "2987572501471838328",
+                    "size": "87714865",
+                    "download": "44568192"
                 },
                 "legacy_3.23.1": {
                     "gid": "1404488458413730498",
@@ -50,9 +50,9 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "2830063957325082708",
-                    "size": "43429496",
-                    "download": "12755936"
+                    "gid": "3613286062596627273",
+                    "size": "43677048",
+                    "download": "12878176"
                 },
                 "legacy_3.23.1": {
                     "gid": "230338898967177283",
@@ -68,9 +68,9 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "1972906442082677883",
-                    "size": "1970491866",
-                    "download": "1850181024"
+                    "gid": "8996524444135311298",
+                    "size": "1940284839",
+                    "download": "1821461168"
                 },
                 "legacy_3.23.1": {
                     "gid": "7640951944759810439",
@@ -86,17 +86,17 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "3908720046962420159",
-                    "size": "2014728927",
-                    "download": "1839708864"
+                    "gid": "8531385405964785084",
+                    "size": "2018420288",
+                    "download": "1842536464"
                 }
             },
             "decryptionkey": "39d567f08b2fd80d55ea18674ddb5ffcf252d725318b1a566efbf50bacc569aa"
         },
         "branches": {
             "public": {
-                "buildid": "18787514",
-                "timeupdated": "1749424739"
+                "buildid": "19192463",
+                "timeupdated": "1752263495"
             },
             "legacy_3.23.1": {
                 "buildid": "16098648",
