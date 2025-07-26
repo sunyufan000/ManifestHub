@@ -4,8 +4,8 @@
     "type": "Game",
     "schinese_name": "传承勇者成名录~不穿胖次的世界",
     "isfreeapp": 0,
-    "update_time": "2025-06-04 14:06:56",
-    "change_number": 29364402,
+    "update_time": "2025-07-21 11:53:09",
+    "change_number": 30165187,
     "depot": {
         "1975341": {
             "config": {
@@ -44,7 +44,7 @@
                     "download": "716139808"
                 }
             },
-            "decryptionkey": ""
+            "decryptionkey": "2a6b75b879532054ecae7e7ef5e64bd8a09566ac773bceaa9aabb873b3e5b4d2"
         },
         "branches": {
             "public": {
