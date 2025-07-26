@@ -4,8 +4,8 @@
     "type": "Application",
     "schinese_name": "",
     "isfreeapp": 0,
-    "update_time": "2025-06-14 22:20:10",
-    "change_number": 29566018,
+    "update_time": "2025-07-02 23:29:52",
+    "change_number": 29868535,
     "depot": {
         "overridescddb": "1",
         "workshopdepot": "266310",
@@ -44,9 +44,9 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "979979886489848088",
-                    "size": "9997980543",
-                    "download": "3265929120"
+                    "gid": "4732612453479231034",
+                    "size": "9997981947",
+                    "download": "3265931264"
                 },
                 "december-fixes-2022": {
                     "gid": "2881833033264289689",
@@ -124,9 +124,9 @@
                     "download": "3266256272"
                 },
                 "beta": {
-                    "gid": "5162188506996526641",
+                    "gid": "4732612453479231034",
                     "size": "9997981947",
-                    "download": "3265930640"
+                    "download": "3265931264"
                 },
                 "december-fixes-2024": {
                     "gid": "671079632653861021",
@@ -144,9 +144,9 @@
                     "download": "3265926944"
                 },
                 "publicpreview": {
-                    "gid": "979979886489848088",
-                    "size": "9997980543",
-                    "download": "3265929120"
+                    "gid": "4732612453479231034",
+                    "size": "9997981947",
+                    "download": "3265931264"
                 },
                 "september-fixes-2024": {
                     "gid": "7863216235334215777",
@@ -1676,7 +1676,7 @@
                     "download": "117504928"
                 }
             },
-            "decryptionkey": ""
+            "decryptionkey": "8ea664ab14e0024c5f9a37d996373843c953ec3bb6acbedfc5ca3685dcfe000e"
         },
         "935590": {
             "config": {
@@ -2682,7 +2682,7 @@
                     "download": "153415424"
                 }
             },
-            "decryptionkey": ""
+            "decryptionkey": "743266de101924499bc72715ce669ca093992d97a6889bd698a11948ae234d3a"
         },
         "1343490": {
             "dlcappid": "1343490",
@@ -3432,8 +3432,8 @@
         },
         "branches": {
             "public": {
-                "buildid": "17664006",
-                "timeupdated": "1741702407"
+                "buildid": "19085534",
+                "timeupdated": "1751495372"
             },
             "december-fixes-2022": {
                 "buildid": "10318775",
@@ -3508,9 +3508,9 @@
                 "timeupdated": "1701883003"
             },
             "beta": {
-                "buildid": "17890568",
+                "buildid": "19085532",
                 "description": "Game Guru Beta",
-                "timeupdated": "1743119435"
+                "timeupdated": "1751495333"
             },
             "december-fixes-2024": {
                 "buildid": "16630050",
@@ -3528,9 +3528,9 @@
                 "timeupdated": "1717416063"
             },
             "publicpreview": {
-                "buildid": "17664006",
+                "buildid": "19085536",
                 "description": "Public Preview",
-                "timeupdated": "1741622224"
+                "timeupdated": "1751495387"
             },
             "september-fixes-2024": {
                 "buildid": "15639661",
