@@ -4,8 +4,8 @@
     "type": "Game",
     "schinese_name": "龙珠超宇宙2",
     "isfreeapp": 0,
-    "update_time": "2025-06-19 17:42:58",
-    "change_number": 29646748,
+    "update_time": "2025-07-14 03:40:42",
+    "change_number": 30041214,
     "depot": {
         "baselanguages": "english,german,french,italian,koreana,spanish,schinese,tchinese,russian,japanese,polish,brazilian,latam",
         "228986": {
@@ -25,9 +25,9 @@
         "454651": {
             "manifests": {
                 "public": {
-                    "gid": "6705872375772027065",
-                    "size": "35988170235",
-                    "download": "30671149056"
+                    "gid": "805057964426462694",
+                    "size": "35988199391",
+                    "download": "30671157792"
                 }
             },
             "decryptionkey": "f42c03be492cf6df28782bcf7630521712bb5425d268fcfc599731056ec1a21c"
@@ -35,9 +35,9 @@
         "454654": {
             "manifests": {
                 "public": {
-                    "gid": "5932520338740601481",
-                    "size": "85224952082",
-                    "download": "35482348528"
+                    "gid": "926698246847551854",
+                    "size": "85224997518",
+                    "download": "35482348832"
                 }
             },
             "decryptionkey": ""
@@ -55,8 +55,8 @@
         },
         "branches": {
             "public": {
-                "buildid": "18617696",
-                "timeupdated": "1748592004"
+                "buildid": "18888868",
+                "timeupdated": "1752134404"
             }
         },
         "privatebranches": "1"
