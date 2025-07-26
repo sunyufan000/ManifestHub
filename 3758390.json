@@ -4,8 +4,8 @@
     "type": "DLC",
     "schinese_name": "",
     "isfreeapp": 0,
-    "update_time": "2025-06-17 06:41:56",
-    "change_number": 29596947,
+    "update_time": "2025-06-23 18:40:20",
+    "change_number": 29703028,
     "depot": {
         "3758390": {
             "config": {
@@ -14,9 +14,9 @@
             "dlcappid": "3758390",
             "manifests": {
                 "public": {
-                    "gid": "3523697067345382791",
-                    "size": "46000631",
-                    "download": "37846368"
+                    "gid": "5897707064863931978",
+                    "size": "46000635",
+                    "download": "37846400"
                 }
             },
             "decryptionkey": "27fb24560abcdbfc1a4796dc2e373a0c1e5e391202b8c0722a4cd62ddc8ec61a"
@@ -28,9 +28,9 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "9142600318338327236",
+                    "gid": "2478145642864196237",
                     "size": "46000619",
-                    "download": "37833184"
+                    "download": "37833168"
                 }
             },
             "dlcappid": "3758390"
@@ -42,8 +42,8 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "1292608312085671601",
-                    "size": "46000620",
+                    "gid": "5666457314012833962",
+                    "size": "46000624",
                     "download": "37846320"
                 }
             },
@@ -56,9 +56,9 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "7836445201679656157",
-                    "size": "46000631",
-                    "download": "37846368"
+                    "gid": "8678210324230116522",
+                    "size": "46000635",
+                    "download": "37846400"
                 }
             },
             "dlcappid": "3758390",
@@ -66,8 +66,8 @@
         },
         "branches": {
             "public": {
-                "buildid": "18872331",
-                "timeupdated": "1750008868"
+                "buildid": "18958446",
+                "timeupdated": "1750679724"
             }
         },
         "privatebranches": "1"
