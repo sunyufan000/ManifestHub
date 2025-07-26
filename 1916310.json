@@ -4,8 +4,8 @@
     "type": "Game",
     "schinese_name": "残存记录",
     "isfreeapp": 0,
-    "update_time": "2025-06-13 19:12:47",
-    "change_number": 29548008,
+    "update_time": "2025-06-23 22:15:55",
+    "change_number": 29711456,
     "depot": {
         "hasdepotsindlc": "1",
         "1916311": {
@@ -14,9 +14,9 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "8744313946652014377",
-                    "size": "9528188128",
-                    "download": "3974050496"
+                    "gid": "6989927442886830710",
+                    "size": "9528296159",
+                    "download": "3987788944"
                 }
             },
             "decryptionkey": "c15fc1641b06961cce20b338388106482b2b58047fc4a139aa1c75fe574ef8f6"
@@ -26,8 +26,8 @@
         },
         "branches": {
             "public": {
-                "buildid": "13773453",
-                "timeupdated": "1710763735"
+                "buildid": "18970619",
+                "timeupdated": "1750713351"
             }
         },
         "privatebranches": "1"
