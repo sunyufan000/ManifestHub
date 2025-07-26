@@ -4,8 +4,8 @@
     "type": "Game",
     "schinese_name": "界外狂潮",
     "isfreeapp": 1,
-    "update_time": "2025-06-13 01:39:08",
-    "change_number": 29531928,
+    "update_time": "2025-07-23 08:10:36",
+    "change_number": 30201080,
     "depot": {
         "228989": {
             "config": {
@@ -38,9 +38,9 @@
         "2943651": {
             "manifests": {
                 "public": {
-                    "gid": "223201643740381359",
-                    "size": "43908964269",
-                    "download": "40894789088"
+                    "gid": "5550086510702790126",
+                    "size": "53295979618",
+                    "download": "49488152608"
                 }
             },
             "decryptionkey": "e0df17b5ec01dc3ab91eaa828f723850723390079c285e6855f68cdd7d6aa7b6"
@@ -48,17 +48,18 @@
         "2943652": {
             "manifests": {
                 "public": {
-                    "gid": "8398153982980331978",
-                    "size": "43908964269",
-                    "download": "40892833024"
+                    "gid": "3486358638020021907",
+                    "size": "53295979618",
+                    "download": "49483579408"
                 }
             },
             "decryptionkey": ""
         },
+        "baselanguages": "english,german,french,koreana,schinese,tchinese,russian,japanese,brazilian,latam",
         "branches": {
             "public": {
-                "buildid": "18843142",
-                "timeupdated": "1749743805"
+                "buildid": "19300257",
+                "timeupdated": "1753104186"
             }
         }
     }
