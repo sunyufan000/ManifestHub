@@ -4,8 +4,8 @@
     "type": "Game",
     "schinese_name": "垃圾场模拟器",
     "isfreeapp": 0,
-    "update_time": "2025-06-20 15:08:11",
-    "change_number": 29663134,
+    "update_time": "2025-07-05 10:34:23",
+    "change_number": 29909204,
     "depot": {
         "228988": {
             "config": {
@@ -28,9 +28,9 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "5887797704896676904",
-                    "size": "13974359147",
-                    "download": "13780993760"
+                    "gid": "3970044746594616570",
+                    "size": "14063958911",
+                    "download": "13869391984"
                 },
                 "unrealengine4": {
                     "gid": "8604895615708688932",
@@ -38,22 +38,22 @@
                     "download": "15594743520"
                 },
                 "public_test": {
-                    "gid": "5887797704896676904",
-                    "size": "13974359147",
-                    "download": "13780993760"
+                    "gid": "3970044746594616570",
+                    "size": "14063958911",
+                    "download": "13869391984"
                 },
                 "rg_test": {
-                    "gid": "5887797704896676904",
-                    "size": "13974359147",
-                    "download": "13780993760"
+                    "gid": "3970044746594616570",
+                    "size": "14063958911",
+                    "download": "13869391984"
                 }
             },
             "decryptionkey": "ad7914c55b562ea713dcecf9f83ce5a6d28d98ce161066b5b7011f2f7c8a81e9"
         },
         "branches": {
             "public": {
-                "buildid": "18226536",
-                "timeupdated": "1745566054"
+                "buildid": "19116539",
+                "timeupdated": "1751707982"
             },
             "unrealengine4": {
                 "buildid": "8275101",
@@ -61,14 +61,14 @@
                 "timeupdated": "1667858893"
             },
             "public_test": {
-                "buildid": "18226536",
+                "buildid": "19116539",
                 "description": "Public_Test",
-                "timeupdated": "1745566015"
+                "timeupdated": "1751707995"
             },
             "rg_test": {
-                "buildid": "18226536",
+                "buildid": "19116539",
                 "description": "Controller",
-                "timeupdated": "1745566063"
+                "timeupdated": "1751708050"
             }
         },
         "privatebranches": "1"
