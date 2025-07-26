@@ -4,8 +4,8 @@
     "type": "Game",
     "schinese_name": "刺客信条：影",
     "isfreeapp": 0,
-    "update_time": "2025-06-19 00:16:44",
-    "change_number": 29632809,
+    "update_time": "2025-07-24 01:03:39",
+    "change_number": 30216836,
     "depot": {
         "baselanguages": "english,german,french,italian,koreana,spanish,schinese,tchinese,russian,japanese,polish,arabic,brazilian",
         "228989": {
@@ -22,9 +22,9 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "7491124791681029149",
-                    "size": "117271153442",
-                    "download": "100969683888"
+                    "gid": "2627174286402456816",
+                    "size": "124988127802",
+                    "download": "105607045808"
                 }
             },
             "decryptionkey": "a1a2865a35a1aa7255e0d1a8d6cedab23f2b34346e4a359a283f1a5ceb826ddf"
@@ -32,9 +32,9 @@
         "1716751": {
             "manifests": {
                 "public": {
-                    "gid": "7692967814764193714",
-                    "size": "631944",
-                    "download": "515248"
+                    "gid": "818295193716041715",
+                    "size": "632424",
+                    "download": "551504"
                 }
             },
             "depotfromapp": "1716750",
@@ -117,8 +117,8 @@
         },
         "branches": {
             "public": {
-                "buildid": "18499831",
-                "timeupdated": "1748354310"
+                "buildid": "18853598",
+                "timeupdated": "1750859923"
             }
         },
         "privatebranches": "1"
