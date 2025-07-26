@@ -4,8 +4,8 @@
     "type": "Game",
     "schinese_name": "破坏艺术家",
     "isfreeapp": 0,
-    "update_time": "2025-05-24 21:11:08",
-    "change_number": 29164709,
+    "update_time": "2025-07-07 14:12:10",
+    "change_number": 29930796,
     "depot": {
         "1645271": {
             "config": {
@@ -32,7 +32,8 @@
                     "size": "474605803",
                     "download": "144216640"
                 }
-            }
+            },
+            "decryptionkey": "9f59acd54c9cdd8a40d1adcfd4484ca8726f6c51b063ccb62c54b6bfdd7a09e9"
         },
         "1645273": {
             "config": {
@@ -45,7 +46,8 @@
                     "size": "483775781",
                     "download": "147174416"
                 }
-            }
+            },
+            "decryptionkey": "482fde6ae4b00ead58bef0d20a0afda7c4d0a2f27083f98fd2fff3b7d5c69da6"
         },
         "workshopdepot": "1645270",
         "branches": {
