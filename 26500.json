@@ -4,8 +4,8 @@
     "type": "Game",
     "schinese_name": "奇想齿轮",
     "isfreeapp": 0,
-    "update_time": "2025-06-03 04:03:33",
-    "change_number": 29333899,
+    "update_time": "2025-07-18 20:16:17",
+    "change_number": 30137940,
     "depot": {
         "26512": {
             "config": {
@@ -14,9 +14,9 @@
             "systemdefined": "1",
             "manifests": {
                 "public": {
-                    "gid": "771806742119474964",
-                    "size": "165409442",
-                    "download": "61013376"
+                    "gid": "402462138476066501",
+                    "size": "173581235",
+                    "download": "62863920"
                 }
             },
             "decryptionkey": "5cc915db93740c53af693a9d28eba074ca7564a348d0a6a9f257e740feac58fd"
@@ -28,9 +28,9 @@
             "systemdefined": "1",
             "manifests": {
                 "public": {
-                    "gid": "8412578601065054135",
-                    "size": "148187866",
-                    "download": "53888064"
+                    "gid": "1418923435225185371",
+                    "size": "156423610",
+                    "download": "55764304"
                 }
             },
             "decryptionkey": "a44e54cd53463e7f88a8cba6786f05174f2b940d2df3daa031f838f91642ead6"
@@ -173,7 +173,7 @@
                 }
             },
             "dlcappid": "98006",
-            "decryptionkey": ""
+            "decryptionkey": "7c8ed43177986102d3be5db7af0497e143a41b65bdbc79824ed715d6deac9312"
         },
         "26513": {
             "config": {
@@ -182,9 +182,9 @@
             "systemdefined": "1",
             "manifests": {
                 "public": {
-                    "gid": "2340690513773786338",
-                    "size": "146387808",
-                    "download": "53682256"
+                    "gid": "8106458848057362676",
+                    "size": "154574032",
+                    "download": "55554352"
                 }
             },
             "decryptionkey": "bbe6a429227642ea3d24f63064a9b6b466ddfdfec8bed6f0339722b59df19aaa"
@@ -192,8 +192,8 @@
         "overridescddb": "1",
         "branches": {
             "public": {
-                "buildid": "18695022",
-                "timeupdated": "1748814018"
+                "buildid": "19279289",
+                "timeupdated": "1752866174"
             }
         },
         "privatebranches": "1"
