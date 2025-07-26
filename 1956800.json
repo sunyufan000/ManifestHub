@@ -4,8 +4,8 @@
     "type": "Game",
     "schinese_name": "满庭芳：宋上繁华",
     "isfreeapp": 0,
-    "update_time": "2025-06-18 16:37:46",
-    "change_number": 29282595,
+    "update_time": "2025-07-23 10:37:57",
+    "change_number": 30203426,
     "depot": {
         "workshopdepot": "1956800",
         "1956801": {
@@ -14,9 +14,14 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "5751193686495917115",
-                    "size": "1207800116",
-                    "download": "958133584"
+                    "gid": "5366807752793648568",
+                    "size": "1103310631",
+                    "download": "878561760"
+                },
+                "version-1.2.1r": {
+                    "gid": "8781977068996705687",
+                    "size": "1207801166",
+                    "download": "959999872"
                 },
                 "version-0.5.3": {
                     "gid": "2764188030832692437",
@@ -35,14 +40,24 @@
                     "gid": "209622789252326230",
                     "size": "1204621901",
                     "download": "953770176"
+                },
+                "version-1.2.1r": {
+                    "gid": "209622789252326230",
+                    "size": "1204621901",
+                    "download": "953770176"
                 }
             },
             "decryptionkey": "d40c20925ad438fcb5041add7fa831e21103a1224637d2861a5c2721dff014fb"
         },
         "branches": {
             "public": {
-                "buildid": "18622546",
-                "timeupdated": "1748337353"
+                "buildid": "19326939",
+                "timeupdated": "1753263472"
+            },
+            "version-1.2.1r": {
+                "buildid": "19313682",
+                "description": "Old version",
+                "timeupdated": "1753182308"
             },
             "version-0.5.3": {
                 "buildid": "12252991",
