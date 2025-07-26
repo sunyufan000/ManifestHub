@@ -1,0 +1,28 @@
+{
+    "appid": 1022413,
+    "name": "DFF NT: Waning Blade / Waxing Blade, Cecil Harvey's 4th Weapon Set",
+    "type": "DLC",
+    "schinese_name": "",
+    "isfreeapp": 0,
+    "update_time": "2025-06-23 14:10:01",
+    "change_number": 26201212,
+    "depot": {
+        "1022413": {
+            "manifests": {
+                "public": {
+                    "gid": "8447826499282307031",
+                    "size": "0",
+                    "download": "0"
+                }
+            },
+            "dlcappid": "1022413",
+            "decryptionkey": "57127dc03b79077d4c31bdedfdc4545b6fcced686986341ea6d200e05890a269"
+        },
+        "branches": {
+            "public": {
+                "buildid": "3507979",
+                "timeupdated": "1548672568"
+            }
+        }
+    }
+}
