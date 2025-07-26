@@ -4,8 +4,8 @@
     "type": "Game",
     "schinese_name": "性爱方程式",
     "isfreeapp": 0,
-    "update_time": "2025-06-17 10:13:05",
-    "change_number": 29180323,
+    "update_time": "2025-06-29 07:41:53",
+    "change_number": 29807849,
     "depot": {
         "baselanguages": "english,schinese,tchinese,japanese",
         "2889661": {
@@ -15,18 +15,19 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "6306149307702579483",
-                    "size": "30390671038",
-                    "download": "6580860560"
+                    "gid": "5736633611681511718",
+                    "size": "30417763742",
+                    "download": "6585733072"
                 }
             },
             "decryptionkey": "8de65c7822383b2d93b5dc0b44e946ab936809a2da93c49d043f289e50f957a7"
         },
         "branches": {
             "public": {
-                "buildid": "17939635",
-                "timeupdated": "1743513166"
+                "buildid": "19040752",
+                "timeupdated": "1751179308"
             }
-        }
+        },
+        "privatebranches": "1"
     }
 }
