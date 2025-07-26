@@ -4,15 +4,15 @@
     "type": "Game",
     "schinese_name": "詛咒铠甲",
     "isfreeapp": 0,
-    "update_time": "2025-06-19 06:39:12",
-    "change_number": 29638338,
+    "update_time": "2025-07-21 10:18:29",
+    "change_number": 30163798,
     "depot": {
         "907091": {
             "manifests": {
                 "public": {
-                    "gid": "3070832274425561474",
-                    "size": "802456723",
-                    "download": "577289968"
+                    "gid": "6637077317594909335",
+                    "size": "861052113",
+                    "download": "647469696"
                 },
                 "beta": {
                     "gid": "7730334326730018184",
@@ -24,8 +24,8 @@
         },
         "branches": {
             "public": {
-                "buildid": "12624619",
-                "timeupdated": "1699209660"
+                "buildid": "19243386",
+                "timeupdated": "1752826331"
             },
             "beta": {
                 "buildid": "12363751",
