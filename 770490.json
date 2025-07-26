@@ -4,8 +4,8 @@
     "type": "Game",
     "schinese_name": "死亡水域",
     "isfreeapp": 0,
-    "update_time": "2025-06-20 06:39:16",
-    "change_number": 29657789,
+    "update_time": "2025-07-20 05:18:01",
+    "change_number": 30151880,
     "depot": {
         "770492": {
             "config": {
@@ -33,7 +33,8 @@
                     "size": "216183280",
                     "download": "81260224"
                 }
-            }
+            },
+            "decryptionkey": "39dd5c99824c22276399fe807709aaab25507aa8b2a003a6e4853aa46165c9b7"
         },
         "branches": {
             "public": {
