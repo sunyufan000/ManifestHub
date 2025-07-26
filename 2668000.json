@@ -4,15 +4,15 @@
     "type": "Game",
     "schinese_name": "巫智学院",
     "isfreeapp": 0,
-    "update_time": "2025-06-21 00:38:25",
-    "change_number": 29672153,
+    "update_time": "2025-07-11 17:18:42",
+    "change_number": 30015571,
     "depot": {
         "2668001": {
             "manifests": {
                 "public": {
-                    "gid": "8672571574258460783",
-                    "size": "6137495040",
-                    "download": "4460898496"
+                    "gid": "9124235098684337464",
+                    "size": "2133834799",
+                    "download": "1414545488"
                 }
             },
             "decryptionkey": "3dd1c855b7c0bb401b866d7c25733268d3d4cb89542df6a8dc98910a67c60484"
@@ -26,8 +26,8 @@
         "hasdepotsindlc": "1",
         "branches": {
             "public": {
-                "buildid": "18885551",
-                "timeupdated": "1750091259"
+                "buildid": "19193613",
+                "timeupdated": "1752250717"
             }
         }
     }
