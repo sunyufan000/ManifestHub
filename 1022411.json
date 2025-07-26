@@ -1,0 +1,28 @@
+{
+    "appid": 1022411,
+    "name": "DFF NT: Golden Sword / Omnirod / Kiku-ichimonji, O. Knight's 4th Weap.",
+    "type": "DLC",
+    "schinese_name": "",
+    "isfreeapp": 0,
+    "update_time": "2025-06-23 14:10:00",
+    "change_number": 26201212,
+    "depot": {
+        "1022411": {
+            "manifests": {
+                "public": {
+                    "gid": "2862935842127011676",
+                    "size": "0",
+                    "download": "0"
+                }
+            },
+            "dlcappid": "1022411",
+            "decryptionkey": "5b1ab6078c9289d50d9ba8a49b0bca9a7f25406de4d1a03f9abb19585ad98a5e"
+        },
+        "branches": {
+            "public": {
+                "buildid": "3507977",
+                "timeupdated": "1548672610"
+            }
+        }
+    }
+}
