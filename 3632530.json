@@ -4,23 +4,36 @@
     "type": "Game",
     "schinese_name": "",
     "isfreeapp": 0,
-    "update_time": "2025-06-21 11:15:09",
-    "change_number": 29678717,
+    "update_time": "2025-07-23 16:31:47",
+    "change_number": 30209448,
     "depot": {
         "3632531": {
             "manifests": {
                 "public": {
-                    "gid": "4361831354252533342",
+                    "gid": "2523251437713749897",
                     "size": "932843018",
-                    "download": "728775584"
+                    "download": "728782384"
                 }
             },
             "decryptionkey": "fed674fc3155a06656b120f555c177ac3cd3cc9b25965f741b5eddb39e15334b"
         },
+        "3632532": {
+            "config": {
+                "oslist": "macos",
+                "osarch": "64"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "3363515989828869277",
+                    "size": "948624431",
+                    "download": "742697648"
+                }
+            }
+        },
         "branches": {
             "public": {
-                "buildid": "18245370",
-                "timeupdated": "1745623229"
+                "buildid": "19331200",
+                "timeupdated": "1753284701"
             }
         }
     }
