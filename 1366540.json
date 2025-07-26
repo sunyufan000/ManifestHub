@@ -4,8 +4,8 @@
     "type": "Game",
     "schinese_name": "戴森球计划",
     "isfreeapp": 0,
-    "update_time": "2025-06-18 11:45:45",
-    "change_number": 29572755,
+    "update_time": "2025-07-22 17:53:19",
+    "change_number": 30190527,
     "depot": {
         "baselanguages": "english",
         "hasdepotsindlc": "1",
@@ -72,9 +72,9 @@
                     "download": "1551906048"
                 },
                 "public-test-0": {
-                    "gid": "7835592415243376611",
-                    "size": "4566158259",
-                    "download": "1565043712"
+                    "gid": "5349490371646311947",
+                    "size": "4573291539",
+                    "download": "1591981232"
                 }
             },
             "decryptionkey": "88e374cd6c344868ab9b1591cdf0391483ea487bde467410ba7cac376292c19c"
@@ -153,9 +153,9 @@
             },
             "public-test-0": {
                 "sc_schinese": "公开测试分支0",
-                "buildid": "17999078",
-                "description": "公开测试分支0",
-                "timeupdated": "1745200291"
+                "buildid": "19317617",
+                "description": "Public test branch for new features",
+                "timeupdated": "1753203194"
             }
         },
         "privatebranches": "1",
