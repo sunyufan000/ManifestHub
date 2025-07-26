@@ -1,0 +1,28 @@
+{
+    "appid": 1022362,
+    "name": "DFF NT: Party Dress Appearance Set for Rinoa Heartilly",
+    "type": "DLC",
+    "schinese_name": "",
+    "isfreeapp": 0,
+    "update_time": "2025-06-23 14:09:55",
+    "change_number": 26201212,
+    "depot": {
+        "1022362": {
+            "dlcappid": "1022362",
+            "manifests": {
+                "public": {
+                    "gid": "6535157479602618770",
+                    "size": "0",
+                    "download": "0"
+                }
+            },
+            "decryptionkey": "fca2438cada9fa9d7c5af0bea5c62183fae901bb1cb04b2288f6b346ac7e8583"
+        },
+        "branches": {
+            "public": {
+                "buildid": "3508321",
+                "timeupdated": "1548673654"
+            }
+        }
+    }
+}
