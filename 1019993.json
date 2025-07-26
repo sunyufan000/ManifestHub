@@ -1,0 +1,31 @@
+{
+    "appid": 1019993,
+    "name": "DYNASTY WARRIORS 9: Additional Weapon \"Tempest Mace\" / 追加武器「昊転錘」",
+    "type": "DLC",
+    "schinese_name": "",
+    "isfreeapp": 0,
+    "update_time": "2025-06-23 13:40:59",
+    "change_number": 26201212,
+    "depot": {
+        "1019993": {
+            "config": {
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "2847451275926728416",
+                    "size": "10905744",
+                    "download": "10728960"
+                }
+            },
+            "dlcappid": "1019993",
+            "decryptionkey": "8ccf5a72f3fb6b44aa524d77503779485feded804c45b63f6c11ea0cfb105568"
+        },
+        "branches": {
+            "public": {
+                "buildid": "3690327",
+                "timeupdated": "1553827984"
+            }
+        }
+    }
+}
