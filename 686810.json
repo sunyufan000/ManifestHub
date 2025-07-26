@@ -4,8 +4,8 @@
     "type": "Game",
     "schinese_name": "人间地狱",
     "isfreeapp": 0,
-    "update_time": "2025-06-21 11:15:08",
-    "change_number": 29678716,
+    "update_time": "2025-07-24 02:25:10",
+    "change_number": 30217768,
     "depot": {
         "228988": {
             "config": {
@@ -24,9 +24,9 @@
         "686811": {
             "manifests": {
                 "public": {
-                    "gid": "525468539699860305",
-                    "size": "55688163725",
-                    "download": "25524038016"
+                    "gid": "8100220952515658430",
+                    "size": "55839352182",
+                    "download": "25659136496"
                 }
             },
             "decryptionkey": "1bd2c9f00be49722b4419e46326b2fd08469ca63ce7948597a4811124d0c8206"
@@ -34,8 +34,8 @@
         "baselanguages": "english,german,french,koreana,spanish,schinese,tchinese,russian,japanese,polish,brazilian",
         "branches": {
             "public": {
-                "buildid": "17976383",
-                "timeupdated": "1744106415"
+                "buildid": "19063636",
+                "timeupdated": "1751534941"
             }
         },
         "privatebranches": "1"
