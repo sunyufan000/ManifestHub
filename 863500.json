@@ -4,8 +4,8 @@
     "type": "Game",
     "schinese_name": "",
     "isfreeapp": 0,
-    "update_time": "2025-06-15 22:00:14",
-    "change_number": 29574544,
+    "update_time": "2025-07-21 16:37:42",
+    "change_number": 30169618,
     "depot": {
         "863501": {
             "config": {
@@ -13,19 +13,19 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "1984156625881606730",
-                    "size": "2045028675",
-                    "download": "698852656"
+                    "gid": "7305061783749701371",
+                    "size": "2045030371",
+                    "download": "698854736"
                 },
                 "open-beta": {
-                    "gid": "1984156625881606730",
-                    "size": "2045028675",
-                    "download": "698852656"
+                    "gid": "7305061783749701371",
+                    "size": "2045030371",
+                    "download": "698854736"
                 },
                 "previous-patch": {
-                    "gid": "8651337968914795845",
-                    "size": "2045016355",
-                    "download": "698855696"
+                    "gid": "8703481776533575549",
+                    "size": "2045029651",
+                    "download": "698853728"
                 },
                 "previous-version": {
                     "gid": "5718672463995450140",
@@ -41,19 +41,19 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "4612056203109052656",
-                    "size": "2060281148",
-                    "download": "703712640"
+                    "gid": "160722331068612382",
+                    "size": "2060282844",
+                    "download": "703714704"
                 },
                 "open-beta": {
-                    "gid": "4612056203109052656",
-                    "size": "2060281148",
-                    "download": "703712640"
+                    "gid": "160722331068612382",
+                    "size": "2060282844",
+                    "download": "703714704"
                 },
                 "previous-patch": {
-                    "gid": "5454857544484856089",
-                    "size": "2060268828",
-                    "download": "703720432"
+                    "gid": "2774557099272247262",
+                    "size": "2060282124",
+                    "download": "703713792"
                 },
                 "previous-version": {
                     "gid": "8480054363579148594",
@@ -65,18 +65,18 @@
         "baselanguages": "",
         "branches": {
             "public": {
-                "buildid": "18873604",
-                "timeupdated": "1749996011"
+                "buildid": "19300826",
+                "timeupdated": "1753112232"
             },
             "open-beta": {
-                "buildid": "18873604",
+                "buildid": "19300826",
                 "description": "Beta 0.9.0",
-                "timeupdated": "1749995338"
+                "timeupdated": "1753112069"
             },
             "previous-patch": {
-                "buildid": "18550069",
+                "buildid": "19078570",
                 "description": "Previous Patch 0.9.x",
-                "timeupdated": "1749995961"
+                "timeupdated": "1753112257"
             },
             "previous-version": {
                 "buildid": "16824703",
