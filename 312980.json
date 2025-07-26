@@ -4,7 +4,7 @@
     "type": "Game",
     "schinese_name": "战术：米乌斯河前线",
     "isfreeapp": 0,
-    "update_time": "2025-05-19 04:11:56",
+    "update_time": "2025-06-23 14:51:18",
     "change_number": 29051975,
     "depot": {
         "228988": {
@@ -69,7 +69,7 @@
                     "download": "8976"
                 }
             },
-            "decryptionkey": ""
+            "decryptionkey": "48d2ef52490f96da3d2b2aa473f71051662bca483bcbb3a71c4b84d9147914b0"
         },
         "501670": {
             "dlcappid": "501670",
