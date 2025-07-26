@@ -4,8 +4,8 @@
     "type": "Game",
     "schinese_name": "CarX漂移赛车",
     "isfreeapp": 0,
-    "update_time": "2025-06-20 05:16:53",
-    "change_number": 29650843,
+    "update_time": "2025-07-18 11:15:31",
+    "change_number": 30129132,
     "depot": {
         "228985": {
             "config": {
@@ -24,9 +24,9 @@
         "635261": {
             "manifests": {
                 "public": {
-                    "gid": "8490251238817719755",
-                    "size": "8397516028",
-                    "download": "4798124496"
+                    "gid": "7249599472860611977",
+                    "size": "8433865357",
+                    "download": "4824615584"
                 },
                 "old_version_1.9": {
                     "gid": "6477544475857177194",
@@ -34,9 +34,9 @@
                     "download": "639167600"
                 },
                 "moddable": {
-                    "gid": "989702081190353755",
-                    "size": "8315093424",
-                    "download": "4782855488"
+                    "gid": "2477378771151528344",
+                    "size": "8351383312",
+                    "download": "4809362336"
                 }
             },
             "decryptionkey": "12eafb480d17be3196fc40eeec87820d98ecf98fc24580764a1b86d14ae04cef"
@@ -50,17 +50,17 @@
         "workshopdepot": "635260",
         "branches": {
             "public": {
-                "buildid": "18911250",
-                "timeupdated": "1750340663"
+                "buildid": "19144951",
+                "timeupdated": "1751986330"
             },
             "old_version_1.9": {
                 "buildid": "4430790",
                 "timeupdated": "1574852634"
             },
             "moddable": {
-                "buildid": "18911343",
+                "buildid": "19144609",
                 "description": "Public moddable branch",
-                "timeupdated": "1750340681"
+                "timeupdated": "1751986353"
             }
         },
         "privatebranches": "1",
