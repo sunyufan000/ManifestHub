@@ -4,8 +4,8 @@
     "type": "Game",
     "schinese_name": "刀剑神域 碎梦边境",
     "isfreeapp": 0,
-    "update_time": "2025-06-21 04:33:49",
-    "change_number": 29675308,
+    "update_time": "2025-07-23 23:01:47",
+    "change_number": 30215475,
     "depot": {
         "228989": {
             "config": {
@@ -24,9 +24,9 @@
         "1858631": {
             "manifests": {
                 "public": {
-                    "gid": "1814745459102844359",
-                    "size": "52208600552",
-                    "download": "50931113600"
+                    "gid": "790327215571463809",
+                    "size": "54302664325",
+                    "download": "52978319424"
                 }
             },
             "decryptionkey": "21adba4e332aa48b0f8834b0896bc582f7132947f62dd148cd8d5a3f1df6cfee"
@@ -46,8 +46,8 @@
         "baselanguages": "english,german,french,italian,koreana,spanish,schinese,tchinese,russian,thai,japanese,brazilian,latam",
         "branches": {
             "public": {
-                "buildid": "18054739",
-                "timeupdated": "1745456405"
+                "buildid": "18910114",
+                "timeupdated": "1751511605"
             }
         },
         "privatebranches": "1"
