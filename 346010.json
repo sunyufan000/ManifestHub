@@ -4,8 +4,8 @@
     "type": "Game",
     "schinese_name": "围攻",
     "isfreeapp": 0,
-    "update_time": "2025-06-22 05:55:46",
-    "change_number": 29683575,
+    "update_time": "2025-07-16 13:48:24",
+    "change_number": 30089378,
     "depot": {
         "workshopdepot": "346010",
         "346011": {
@@ -115,19 +115,19 @@
             },
             "manifests": {
                 "public": {
+                    "gid": "1867609548782083598",
+                    "size": "4217842045",
+                    "download": "1314581760"
+                },
+                "previousbuild": {
                     "gid": "5124985547752407023",
                     "size": "4216670588",
                     "download": "1292936016"
                 },
-                "previousbuild": {
-                    "gid": "7587619383522203028",
-                    "size": "4226656290",
-                    "download": "1287617920"
-                },
                 "experimental": {
-                    "gid": "8895544338256057034",
-                    "size": "4217592312",
-                    "download": "1292784752"
+                    "gid": "1867609548782083598",
+                    "size": "4217842045",
+                    "download": "1314581760"
                 },
                 "045a": {
                     "gid": "6333894489894344030",
@@ -149,19 +149,19 @@
             },
             "manifests": {
                 "public": {
+                    "gid": "3856587342854239802",
+                    "size": "4236193623",
+                    "download": "1316398592"
+                },
+                "previousbuild": {
                     "gid": "2771794952671519727",
                     "size": "4235087262",
                     "download": "1294637584"
                 },
-                "previousbuild": {
-                    "gid": "4540475478878197097",
-                    "size": "4245187156",
-                    "download": "1289516800"
-                },
                 "experimental": {
-                    "gid": "6084235161942891864",
-                    "size": "4236137867",
-                    "download": "1294153312"
+                    "gid": "3856587342854239802",
+                    "size": "4236193623",
+                    "download": "1316398592"
                 },
                 "045a": {
                     "gid": "89954485418478540",
@@ -183,19 +183,19 @@
             },
             "manifests": {
                 "public": {
+                    "gid": "4692200862229780320",
+                    "size": "4228181001",
+                    "download": "1314938272"
+                },
+                "previousbuild": {
                     "gid": "4544773400392952558",
                     "size": "4227074124",
                     "download": "1293248688"
                 },
-                "previousbuild": {
-                    "gid": "5729890808293943807",
-                    "size": "4237174530",
-                    "download": "1288159792"
-                },
                 "experimental": {
-                    "gid": "8010978789947539613",
-                    "size": "4228125237",
-                    "download": "1292781296"
+                    "gid": "4692200862229780320",
+                    "size": "4228181001",
+                    "download": "1314938272"
                 },
                 "045a": {
                     "gid": "2613073058836922557",
@@ -212,16 +212,16 @@
         },
         "branches": {
             "public": {
-                "buildid": "18028397",
-                "timeupdated": "1744297763"
+                "buildid": "19244349",
+                "timeupdated": "1752670098"
             },
             "previousbuild": {
-                "buildid": "17275301",
-                "timeupdated": "1743086966"
+                "buildid": "18028397",
+                "timeupdated": "1750957024"
             },
             "experimental": {
-                "buildid": "18950824",
-                "timeupdated": "1750521058"
+                "buildid": "19244349",
+                "timeupdated": "1752667194"
             },
             "045a": {
                 "buildid": "1871221",
@@ -234,7 +234,6 @@
                 "timeupdated": "1738249114"
             }
         },
-        "privatebranches": "1",
         "workshopdepotdecryptionkey": "1655ce30c1fd5bc1421163cc12a62ab4a4effee704cd3cc0a4bdbe34eac7267f"
     }
 }
