@@ -4,8 +4,8 @@
     "type": "Game",
     "schinese_name": "哨卫计划",
     "isfreeapp": 0,
-    "update_time": "2025-06-17 18:11:04",
-    "change_number": 29605591,
+    "update_time": "2025-07-23 14:19:09",
+    "change_number": 30207023,
     "depot": {
         "1252681": {
             "config": {
@@ -28,9 +28,9 @@
                     "download": "1115956384"
                 },
                 "betabranch": {
-                    "gid": "6010348758065121109",
-                    "size": "1830190922",
-                    "download": "1576774432"
+                    "gid": "5977653641141450424",
+                    "size": "1834343211",
+                    "download": "1576480912"
                 }
             },
             "decryptionkey": "55619e8e3c666429e7287b9d4c976ba61e6bddc9b57623ff6ec381f7747014f8"
@@ -52,9 +52,9 @@
                 "timeupdated": "1739456076"
             },
             "betabranch": {
-                "buildid": "18752342",
+                "buildid": "19077857",
                 "description": "Beta Branch",
-                "timeupdated": "1749552322"
+                "timeupdated": "1751471971"
             }
         },
         "privatebranches": "1"
