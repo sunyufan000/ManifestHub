@@ -4,8 +4,8 @@
     "type": "Game",
     "schinese_name": "Bingle Bingle / 转啊转",
     "isfreeapp": 0,
-    "update_time": "2025-06-20 14:38:58",
-    "change_number": 29662766,
+    "update_time": "2025-07-01 12:52:21",
+    "change_number": 29841871,
     "depot": {
         "2789811": {
             "config": {
@@ -16,6 +16,11 @@
                     "gid": "3500612095231691327",
                     "size": "289117573",
                     "download": "170977984"
+                },
+                "betatest": {
+                    "gid": "3411237174044469810",
+                    "size": "313598285",
+                    "download": "163664624"
                 }
             },
             "decryptionkey": "002724066244a2381b8b12443996109cedc61069d1d31d8af57e1bf3edd10139"
@@ -29,6 +34,11 @@
                     "gid": "1208466574566942088",
                     "size": "263939337",
                     "download": "151171504"
+                },
+                "betatest": {
+                    "gid": "331261854186955454",
+                    "size": "285774389",
+                    "download": "157975936"
                 }
             }
         },
@@ -36,7 +46,13 @@
             "public": {
                 "buildid": "16788520",
                 "timeupdated": "1734534892"
+            },
+            "betatest": {
+                "buildid": "19064649",
+                "description": "Public Beta Test",
+                "timeupdated": "1751370712"
             }
-        }
+        },
+        "privatebranches": "1"
     }
 }
