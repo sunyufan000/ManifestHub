@@ -4,8 +4,8 @@
     "type": "Game",
     "schinese_name": "野狼迷踪：周年纪念版",
     "isfreeapp": 0,
-    "update_time": "2025-06-17 21:47:14",
-    "change_number": 29609253,
+    "update_time": "2025-07-22 22:21:14",
+    "change_number": 30194279,
     "depot": {
         "null": {
             "depotfromapp": "457090"
@@ -17,14 +17,14 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "366527625024666595",
-                    "size": "13873486459",
-                    "download": "6314017008"
+                    "gid": "8510657222755857181",
+                    "size": "14056624505",
+                    "download": "6564839664"
                 },
                 "beta": {
-                    "gid": "366527625024666595",
-                    "size": "13873486459",
-                    "download": "6314017008"
+                    "gid": "8510657222755857181",
+                    "size": "14056624505",
+                    "download": "6564839664"
                 }
             },
             "decryptionkey": "b6898f382435b9c540dae42e9a2b5fdf283a5c4f340c3294e032e782a89ff950"
@@ -35,14 +35,14 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "9037148329774103848",
-                    "size": "13842556005",
-                    "download": "6304722304"
+                    "gid": "4122582107817717312",
+                    "size": "13885971856",
+                    "download": "6498750736"
                 },
                 "beta": {
-                    "gid": "9037148329774103848",
-                    "size": "13842556005",
-                    "download": "6304722304"
+                    "gid": "4122582107817717312",
+                    "size": "13885971856",
+                    "download": "6498750736"
                 }
             },
             "decryptionkey": "28d993a32040d80b634e5f3338c3f228c75b765f38f99568a398e53b75670e8f"
@@ -59,13 +59,13 @@
         },
         "branches": {
             "public": {
-                "buildid": "18897905",
-                "timeupdated": "1750166575"
+                "buildid": "19320547",
+                "timeupdated": "1753219269"
             },
             "beta": {
-                "buildid": "18897885",
+                "buildid": "19320543",
                 "description": "WQ Public Beta",
-                "timeupdated": "1750166518"
+                "timeupdated": "1753219252"
             }
         },
         "privatebranches": "1"
