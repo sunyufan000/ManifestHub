@@ -4,8 +4,8 @@
     "type": "Game",
     "schinese_name": "",
     "isfreeapp": 0,
-    "update_time": "2025-06-21 04:18:00",
-    "change_number": 29675107,
+    "update_time": "2025-07-20 21:21:37",
+    "change_number": 30157596,
     "depot": {
         "2669381": {
             "config": {
@@ -14,14 +14,14 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "5175153652177676647",
-                    "size": "2732179498",
-                    "download": "952326736"
+                    "gid": "4953974861575988672",
+                    "size": "2814613025",
+                    "download": "962964832"
                 },
                 "experimental": {
-                    "gid": "5175153652177676647",
-                    "size": "2732179498",
-                    "download": "952326736"
+                    "gid": "4616159556788479051",
+                    "size": "2747262210",
+                    "download": "953296912"
                 },
                 "meleemodding": {
                     "gid": "7578156036588213459",
@@ -34,13 +34,13 @@
         "workshopdepot": "2669380",
         "branches": {
             "public": {
-                "buildid": "18857861",
-                "timeupdated": "1749827142"
+                "buildid": "19293190",
+                "timeupdated": "1753042894"
             },
             "experimental": {
-                "buildid": "18857861",
+                "buildid": "18958617",
                 "description": "Branch to test new features that may or may not make it to the main branch",
-                "timeupdated": "1749827117"
+                "timeupdated": "1750634882"
             },
             "meleemodding": {
                 "buildid": "16142130",
