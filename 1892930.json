@@ -4,8 +4,8 @@
     "type": "Tool",
     "schinese_name": "",
     "isfreeapp": 0,
-    "update_time": "2025-06-22 05:57:35",
-    "change_number": 29684763,
+    "update_time": "2025-07-24 02:58:41",
+    "change_number": 30218152,
     "depot": {
         "1004": {
             "config": {
@@ -13,9 +13,9 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "7747775778018907449",
-                    "size": "46727128",
-                    "download": "14307024"
+                    "gid": "8904491048620934740",
+                    "size": "68697032",
+                    "download": "20552544"
                 }
             },
             "depotfromapp": "1007",
@@ -41,9 +41,9 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "7138471031118904166",
-                    "size": "78382436",
-                    "download": "21254752"
+                    "gid": "5587033981095108078",
+                    "size": "107476144",
+                    "download": "29272144"
                 }
             },
             "depotfromapp": "1007",
@@ -63,27 +63,27 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "7495590980809789939",
-                    "size": "2328035406",
-                    "download": "1602245904"
+                    "gid": "5199768697579383360",
+                    "size": "2409568320",
+                    "download": "1687346816"
                 },
                 "staging": {
-                    "gid": "1208106398241725054",
-                    "size": "2352826718",
-                    "download": "1625022768"
+                    "gid": "3005954961973912185",
+                    "size": "2285609759",
+                    "download": "1607726336"
                 }
             },
             "decryptionkey": ""
         },
         "branches": {
             "public": {
-                "buildid": "18693489",
-                "timeupdated": "1748797867"
+                "buildid": "19108001",
+                "timeupdated": "1751631640"
             },
             "staging": {
-                "buildid": "18951646",
+                "buildid": "19337380",
                 "description": "Builds before live",
-                "timeupdated": "1750531508"
+                "timeupdated": "1753322317"
             }
         },
         "privatebranches": "1"
