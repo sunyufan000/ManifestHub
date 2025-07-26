@@ -4,7 +4,7 @@
     "type": "Game",
     "schinese_name": "炸裂！排卵拳！对抗灭绝的反叛！",
     "isfreeapp": 0,
-    "update_time": "2025-05-24 21:08:59",
+    "update_time": "2025-06-23 14:16:00",
     "change_number": 29164265,
     "depot": {
         "baselanguages": "english,koreana,schinese,tchinese,japanese",
@@ -80,7 +80,7 @@
                     "download": "351564048"
                 }
             },
-            "decryptionkey": ""
+            "decryptionkey": "53b942e48bf988c352d8591af8ced3a3fbb75dafc2b663284cc6faa6147e3356"
         },
         "branches": {
             "public": {
