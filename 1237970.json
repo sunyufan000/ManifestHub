@@ -4,8 +4,8 @@
     "type": "Game",
     "schinese_name": "泰坦陨落2",
     "isfreeapp": 0,
-    "update_time": "2025-06-14 17:38:44",
-    "change_number": 29469070,
+    "update_time": "2025-07-21 22:18:54",
+    "change_number": 30174684,
     "depot": {
         "baselanguages": "english,german,french,italian,spanish,tchinese,russian,japanese,polish,latam",
         "228983": {
@@ -185,9 +185,9 @@
         "3340991": {
             "manifests": {
                 "public": {
-                    "gid": "4706744716523911097",
-                    "size": "234648127",
-                    "download": "234136240"
+                    "gid": "1318423300601359782",
+                    "size": "235231375",
+                    "download": "234719568"
                 }
             },
             "depotfromapp": "3340990",
