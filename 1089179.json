@@ -1,0 +1,29 @@
+{
+    "appid": 1089179,
+    "name": "Rocksmith® 2014 Edition – Remastered – The Notetrackers - Bass – Intermediate String Switching Exercise 1",
+    "type": "DLC",
+    "schinese_name": "",
+    "isfreeapp": 0,
+    "update_time": "2025-06-23 14:08:48",
+    "change_number": 26551766,
+    "depot": {
+        "1089179": {
+            "manifests": {
+                "public": {
+                    "gid": "6463302043287543118",
+                    "size": "7365030",
+                    "download": "4683936"
+                }
+            },
+            "dlcappid": "1089179",
+            "decryptionkey": "51e5e183d0fcaf94acc31e5e8125554de8179be697d1c31167278b8397042382"
+        },
+        "branches": {
+            "public": {
+                "buildid": "3913272",
+                "timeupdated": "1560380477"
+            }
+        }
+    },
+    "access_token": 8107642662352155983
+}
