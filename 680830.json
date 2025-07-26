@@ -1,0 +1,29 @@
+{
+    "appid": 680830,
+    "name": "Wait! Life is beautiful!",
+    "type": "Game",
+    "schinese_name": "",
+    "isfreeapp": 0,
+    "update_time": "2025-07-21 21:42:01",
+    "change_number": 30174190,
+    "depot": {
+        "680831": {
+            "manifests": {
+                "public": {
+                    "gid": "5056231453165531917",
+                    "size": "217770333",
+                    "download": "139970896"
+                }
+            },
+            "decryptionkey": "1d447a598413d592fc7aef1038fa036a1a3c7ca2ede04dd3f1a822174c4750ac"
+        },
+        "baselanguages": "english,russian",
+        "branches": {
+            "public": {
+                "buildid": "5488101",
+                "timeupdated": "1598968771"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
