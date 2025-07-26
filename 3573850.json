@@ -4,8 +4,8 @@
     "type": "DLC",
     "schinese_name": "叛逆神魂-免费壁纸包",
     "isfreeapp": 1,
-    "update_time": "2025-06-16 17:39:52",
-    "change_number": 29584258,
+    "update_time": "2025-06-30 14:20:54",
+    "change_number": 29823142,
     "depot": {
         "3573850": {
             "config": {
@@ -14,9 +14,9 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "6174733852199433626",
-                    "size": "37712442",
-                    "download": "37360224"
+                    "gid": "3632360273100508752",
+                    "size": "38491994",
+                    "download": "38064144"
                 }
             },
             "dlcappid": "3573850",
@@ -24,8 +24,8 @@
         },
         "branches": {
             "public": {
-                "buildid": "18880592",
-                "timeupdated": "1750066786"
+                "buildid": "19051327",
+                "timeupdated": "1751289647"
             }
         },
         "appmanagesdlc": "1"
