@@ -4,8 +4,8 @@
     "type": "Game",
     "schinese_name": "武馆模拟器",
     "isfreeapp": 0,
-    "update_time": "2025-06-15 04:42:09",
-    "change_number": 29568744,
+    "update_time": "2025-07-22 21:43:21",
+    "change_number": 30193798,
     "depot": {
         "2884191": {
             "manifests": {
@@ -27,7 +27,8 @@
                     "size": "10367766768",
                     "download": "3308210368"
                 }
-            }
+            },
+            "decryptionkey": "0b616eb346317a597f438dc52c8550b57b5e56216eb99b94190c678db1a22664"
         },
         "baselanguages": "english,german,italian,spanish,schinese,russian,japanese,portuguese,turkish",
         "branches": {
