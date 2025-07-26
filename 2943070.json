@@ -4,8 +4,8 @@
     "type": "Tool",
     "schinese_name": "",
     "isfreeapp": 0,
-    "update_time": "2025-06-20 21:54:09",
-    "change_number": 29669381,
+    "update_time": "2025-07-23 15:30:22",
+    "change_number": 30208299,
     "depot": {
         "228988": {
             "config": {
@@ -21,9 +21,9 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "8929208180487077761",
-                    "size": "111783273",
-                    "download": "47357616"
+                    "gid": "2752785198284072866",
+                    "size": "111782617",
+                    "download": "47356624"
                 },
                 "13254_stable": {
                     "gid": "7810410889684109446",
@@ -60,18 +60,23 @@
                     "size": "110987469",
                     "download": "46599680"
                 },
+                "15732_stable": {
+                    "gid": "8929208180487077761",
+                    "size": "111783273",
+                    "download": "47357616"
+                },
                 "experimental_ue5": {
-                    "gid": "1682714479723805996",
-                    "size": "111782403",
-                    "download": "47358224"
+                    "gid": "4217049296276074170",
+                    "size": "111544582",
+                    "download": "47312112"
                 }
             },
             "decryptionkey": "80733d32586237f8ab030696c2aa72a65297e942e68717b839e31208d46ae323"
         },
         "branches": {
             "public": {
-                "buildid": "18820447",
-                "timeupdated": "1749653202"
+                "buildid": "18960694",
+                "timeupdated": "1750667314"
             },
             "13254_stable": {
                 "buildid": "14855463",
@@ -108,10 +113,15 @@
                 "description": "Desynced Dedicated 0.1.15674",
                 "timeupdated": "1749653112"
             },
+            "15732_stable": {
+                "buildid": "18820447",
+                "description": "Desynced Dedicated 0.1.15732",
+                "timeupdated": "1750667270"
+            },
             "experimental_ue5": {
-                "buildid": "18940683",
+                "buildid": "19330007",
                 "description": "Experimental Branch, use at your own risk!",
-                "timeupdated": "1750427644"
+                "timeupdated": "1753281015"
             }
         },
         "privatebranches": "1"
