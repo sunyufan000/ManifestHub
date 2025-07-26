@@ -4,8 +4,8 @@
     "type": "Game",
     "schinese_name": "",
     "isfreeapp": 0,
-    "update_time": "2025-06-22 10:44:38",
-    "change_number": 29687339,
+    "update_time": "2025-07-21 23:07:57",
+    "change_number": 30175222,
     "depot": {
         "229002": {
             "config": {
@@ -17,19 +17,19 @@
         "1889621": {
             "manifests": {
                 "public": {
-                    "gid": "4854258121680468610",
-                    "size": "849651671",
-                    "download": "399222304"
+                    "gid": "7526018187357721874",
+                    "size": "852016059",
+                    "download": "400803632"
                 },
                 "alpha": {
-                    "gid": "3228968573291226864",
-                    "size": "848025259",
-                    "download": "400422304"
+                    "gid": "5965504888199241216",
+                    "size": "852022317",
+                    "download": "400807040"
                 },
                 "beta": {
-                    "gid": "4854258121680468610",
-                    "size": "849651671",
-                    "download": "399222304"
+                    "gid": "5965504888199241216",
+                    "size": "852022317",
+                    "download": "400807040"
                 },
                 "older_build": {
                     "gid": "7736448119469424484",
@@ -48,18 +48,18 @@
         "baselanguages": "english,german,french,italian,spanish,schinese,tchinese,russian,japanese,portuguese,polish,danish,dutch,finnish,norwegian,swedish,hungarian,czech,romanian,turkish,bulgarian,ukrainian,vietnamese,indonesian",
         "branches": {
             "public": {
-                "buildid": "18694877",
-                "timeupdated": "1750529649"
+                "buildid": "19289094",
+                "timeupdated": "1753051329"
             },
             "alpha": {
-                "buildid": "18953524",
-                "description": "Usually the same as Beta but may occasionally get features before then.",
-                "timeupdated": "1750560273"
+                "buildid": "19306719",
+                "description": "Alpha: Similar to Beta, but may get features earlier at the cost of possible bugs or broken saves.",
+                "timeupdated": "1753135662"
             },
             "beta": {
-                "buildid": "18694877",
+                "buildid": "19306719",
                 "description": "a beta channel",
-                "timeupdated": "1748812491"
+                "timeupdated": "1753135671"
             },
             "older_build": {
                 "buildid": "17935407",
