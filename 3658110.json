@@ -4,8 +4,8 @@
     "type": "Tool",
     "schinese_name": "",
     "isfreeapp": 0,
-    "update_time": "2025-06-20 05:31:37",
-    "change_number": 29656080,
+    "update_time": "2025-07-03 19:49:33",
+    "change_number": 29884524,
     "depot": {
         "3658111": {
             "manifests": {
@@ -20,9 +20,9 @@
                     "download": "943060160"
                 },
                 "release-candidate": {
-                    "gid": "151280626551813469",
-                    "size": "1372418978",
-                    "download": "366984544"
+                    "gid": "2395050288102016505",
+                    "size": "1372419282",
+                    "download": "366984816"
                 }
             },
             "decryptionkey": "bf95f0ac418e99d85c6b710461304c693358757ad4d2e8f706504c12a526404d"
@@ -38,9 +38,9 @@
                 "timeupdated": "1746821526"
             },
             "release-candidate": {
-                "buildid": "18931231",
+                "buildid": "19095983",
                 "description": "release candidate testing",
-                "timeupdated": "1750362892"
+                "timeupdated": "1751568567"
             }
         }
     },
