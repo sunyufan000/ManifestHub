@@ -4,8 +4,8 @@
     "type": "Game",
     "schinese_name": "",
     "isfreeapp": 1,
-    "update_time": "2025-06-16 14:30:57",
-    "change_number": 29581578,
+    "update_time": "2025-07-13 07:01:19",
+    "change_number": 30033326,
     "depot": {
         "baselanguages": "english,german,french,spanish,japanese,hungarian,czech",
         "workshopdepot": "434520",
@@ -77,9 +77,9 @@
                     "download": "2338752"
                 },
                 "nightly": {
-                    "gid": "5973800640604199046",
-                    "size": "7782998",
-                    "download": "2030656"
+                    "gid": "304377248967673301",
+                    "size": "7785047",
+                    "download": "2031328"
                 }
             },
             "decryptionkey": "b95b1e2abb86351157c40507dd8f3fccd73f101a736ee505c81a0480def6d4d8"
@@ -136,9 +136,9 @@
                     "download": "3971824"
                 },
                 "nightly": {
-                    "gid": "2887707912253230381",
-                    "size": "10393569",
-                    "download": "3981872"
+                    "gid": "4708534282335536464",
+                    "size": "10394593",
+                    "download": "3981440"
                 }
             },
             "decryptionkey": "a3505ff1415ce265c68655e3238b61b9e00586d66ec027317aff4b09c95824b5"
@@ -200,9 +200,9 @@
                     "download": "6830384"
                 },
                 "nightly": {
-                    "gid": "3960891578833989966",
+                    "gid": "2362169238705165083",
                     "size": "11945953",
-                    "download": "4418528"
+                    "download": "4418336"
                 }
             },
             "decryptionkey": "6843b3f0fb05f7c3543e59648333ce3e1515a65ace2fff498a68949b29152a59"
@@ -328,9 +328,9 @@
                     "download": "2875344"
                 },
                 "nightly": {
-                    "gid": "8875120731931868833",
+                    "gid": "894527826952304373",
                     "size": "8289200",
-                    "download": "2348976"
+                    "download": "2348144"
                 }
             },
             "decryptionkey": "01e08c00fb0b7e679e8fab8ab0a93eb8584d7f569529231ead2fe71fa6b43044"
@@ -450,9 +450,9 @@
                     "download": "2294672"
                 },
                 "nightly": {
-                    "gid": "2102126273112316978",
-                    "size": "27274045",
-                    "download": "7179248"
+                    "gid": "5907642862408862082",
+                    "size": "27276150",
+                    "download": "7179760"
                 }
             },
             "decryptionkey": "7fce76f0ac7515d5348583c1d40cf92f483f04ff44b22abf9fbc52ca978ecbee"
@@ -755,9 +755,9 @@
                     "download": "49676368"
                 },
                 "extended": {
-                    "gid": "6575843615372043665",
-                    "size": "801042393",
-                    "download": "361667664"
+                    "gid": "7252260932870608442",
+                    "size": "801190701",
+                    "download": "364708480"
                 },
                 "nightly": {
                     "gid": "8599913891629152689",
@@ -1056,14 +1056,14 @@
                 "timeupdated": "1743963701"
             },
             "extended": {
-                "buildid": "18620369",
+                "buildid": "19205523",
                 "description": "Simutrans Extended (nightly)",
-                "timeupdated": "1748325631"
+                "timeupdated": "1752386475"
             },
             "nightly": {
-                "buildid": "18878769",
+                "buildid": "19047407",
                 "description": "Nightly build from SVN",
-                "timeupdated": "1750055452"
+                "timeupdated": "1751265043"
             }
         },
         "privatebranches": "1",
