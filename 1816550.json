@@ -4,8 +4,8 @@
     "type": "DLC",
     "schinese_name": "《The Sims™ 4 高中时代》资料片",
     "isfreeapp": 0,
-    "update_time": "2025-05-24 01:43:12",
-    "change_number": 29153762,
+    "update_time": "2025-06-24 14:29:31",
+    "change_number": 29722959,
     "depot": {
         "1816550": {
             "dlcappid": "1816550",
@@ -44,7 +44,7 @@
                 }
             },
             "dlcappid": "1816550",
-            "decryptionkey": ""
+            "decryptionkey": "1ca8d407f53f48dfa54e4c620b5c942ccdbc7d5d8aaff5cb5a5bcdc39c4c2285"
         },
         "1816553": {
             "config": {
