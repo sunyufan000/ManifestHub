@@ -4,8 +4,8 @@
     "type": "Game",
     "schinese_name": "机动战队VS",
     "isfreeapp": 0,
-    "update_time": "2025-06-20 21:30:09",
-    "change_number": 29668989,
+    "update_time": "2025-07-17 11:26:30",
+    "change_number": 30108151,
     "depot": {
         "baselanguages": "english,schinese",
         "hasdepotsindlc": "0",
@@ -15,9 +15,9 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "461660015512940867",
-                    "size": "5066068903",
-                    "download": "4463320592"
+                    "gid": "5179697455392955673",
+                    "size": "5148221459",
+                    "download": "4554454528"
                 }
             },
             "decryptionkey": "8cdcbb70a237c9400218b90880a7eabf73d24271972575a40238baa5ba28f3bb"
@@ -35,8 +35,8 @@
         },
         "branches": {
             "public": {
-                "buildid": "18940333",
-                "timeupdated": "1750426204"
+                "buildid": "19257150",
+                "timeupdated": "1752743072"
             }
         },
         "privatebranches": "1"
