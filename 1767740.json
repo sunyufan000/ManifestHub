@@ -4,8 +4,8 @@
     "type": "Game",
     "schinese_name": "Lust&Magic -花篮中的琪莎拉-",
     "isfreeapp": 0,
-    "update_time": "2025-06-03 19:30:02",
-    "change_number": 29340846,
+    "update_time": "2025-07-17 03:36:12",
+    "change_number": 30101946,
     "depot": {
         "1767741": {
             "config": {
@@ -44,7 +44,7 @@
                     "download": "333239488"
                 }
             },
-            "decryptionkey": ""
+            "decryptionkey": "b14c2d6c9107bca0c2da2bed34265448330d67172ea28ca46375042b9b4cd9c4"
         },
         "baselanguages": "english,schinese,japanese",
         "branches": {
