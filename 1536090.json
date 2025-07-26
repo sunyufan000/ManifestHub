@@ -4,8 +4,8 @@
     "type": "Game",
     "schinese_name": "梅树林的回声",
     "isfreeapp": 0,
-    "update_time": "2025-06-17 03:58:45",
-    "change_number": 29590443,
+    "update_time": "2025-07-22 23:53:58",
+    "change_number": 30195361,
     "depot": {
         "hasdepotsindlc": "1",
         "1536091": {
@@ -15,9 +15,9 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "7685691592984194597",
-                    "size": "2279639334",
-                    "download": "403026688"
+                    "gid": "3810296395279415496",
+                    "size": "2282680737",
+                    "download": "407781728"
                 }
             },
             "decryptionkey": "3d3857b760b7b5ff52f50f5b402d4413a1e911ba3238c4b9ee9c225792fc32b9"
@@ -42,17 +42,17 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "7404230410418969250",
-                    "size": "2304854043",
-                    "download": "411245296"
+                    "gid": "8334861467388249154",
+                    "size": "2307898166",
+                    "download": "416337312"
                 }
             },
             "decryptionkey": "69847c5909ab3810e703594a25197aaf86b1650459daa2f33e45c8ce5ba73bd7"
         },
         "branches": {
             "public": {
-                "buildid": "18652966",
-                "timeupdated": "1748492004"
+                "buildid": "19069675",
+                "timeupdated": "1753224832"
             }
         },
         "privatebranches": "1"
