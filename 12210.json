@@ -4,8 +4,8 @@
     "type": "Game",
     "schinese_name": "侠盗猎车手4：完整版",
     "isfreeapp": 0,
-    "update_time": "2025-06-15 20:04:36",
-    "change_number": 29573829,
+    "update_time": "2025-07-19 17:18:26",
+    "change_number": 30147746,
     "depot": {
         "overridescddb": "1",
         "baselanguages": "english,german,french,italian,spanish,russian,japanese",
@@ -123,9 +123,9 @@
         "1899671": {
             "manifests": {
                 "public": {
-                    "gid": "4177720964978853031",
-                    "size": "230627596",
-                    "download": "187200304"
+                    "gid": "1313721849634300954",
+                    "size": "223812877",
+                    "download": "187185200"
                 }
             },
             "depotfromapp": "1899670",
