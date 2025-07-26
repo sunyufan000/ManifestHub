@@ -4,8 +4,8 @@
     "type": "Game",
     "schinese_name": "奇巧匠：手工经商模拟",
     "isfreeapp": 0,
-    "update_time": "2025-06-20 16:15:05",
-    "change_number": 29664157,
+    "update_time": "2025-07-23 22:13:43",
+    "change_number": 30214879,
     "depot": {
         "2226432": {
             "config": {
@@ -13,9 +13,9 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "7640629297868439518",
-                    "size": "3741798073",
-                    "download": "2829061248"
+                    "gid": "1832365535748844229",
+                    "size": "3794772073",
+                    "download": "3035020176"
                 },
                 "public_testing": {
                     "gid": "7689079194674963793",
@@ -36,9 +36,9 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "6559891281993977385",
-                    "size": "3790049604",
-                    "download": "2843083232"
+                    "gid": "2524894380565257214",
+                    "size": "3831446733",
+                    "download": "3048242544"
                 },
                 "public_testing": {
                     "gid": "4272247283026346179",
@@ -55,8 +55,8 @@
         },
         "branches": {
             "public": {
-                "buildid": "18902736",
-                "timeupdated": "1750192113"
+                "buildid": "19331724",
+                "timeupdated": "1753288457"
             },
             "public_testing": {
                 "buildid": "18784513",
