@@ -4,8 +4,8 @@
     "type": "Game",
     "schinese_name": "血奔",
     "isfreeapp": 0,
-    "update_time": "2025-06-13 18:19:01",
-    "change_number": 29547076,
+    "update_time": "2025-07-17 14:37:17",
+    "change_number": 30111704,
     "depot": {
         "2641491": {
             "manifests": {
@@ -40,7 +40,7 @@
                     "download": "315212816"
                 }
             },
-            "decryptionkey": ""
+            "decryptionkey": "696db94719bbd17b91222766034a9aae4dab574516133a4e01260b5ad42f34bc"
         },
         "branches": {
             "public": {
