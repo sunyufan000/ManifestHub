@@ -1,0 +1,28 @@
+{
+    "appid": 1022490,
+    "name": "DFF NT: Sanctifying Dragoon Appearance Set for Kain Highwind",
+    "type": "DLC",
+    "schinese_name": "",
+    "isfreeapp": 0,
+    "update_time": "2025-06-23 14:10:19",
+    "change_number": 26201212,
+    "depot": {
+        "1022490": {
+            "manifests": {
+                "public": {
+                    "gid": "2893922558805456523",
+                    "size": "0",
+                    "download": "0"
+                }
+            },
+            "dlcappid": "1022490",
+            "decryptionkey": "24ed949f7a53d59212677346352ae2aa4ffee5ddcae315dd9b93cdb027693155"
+        },
+        "branches": {
+            "public": {
+                "buildid": "3508059",
+                "timeupdated": "1548671903"
+            }
+        }
+    }
+}
