@@ -4,8 +4,8 @@
     "type": "Game",
     "schinese_name": "方块方舟（PixARK）",
     "isfreeapp": 0,
-    "update_time": "2025-06-18 15:54:31",
-    "change_number": 29624218,
+    "update_time": "2025-06-28 09:08:04",
+    "change_number": 29800094,
     "depot": {
         "baselanguages": "english,german,french,koreana,spanish,schinese,tchinese,russian,japanese,polish,swedish,turkish,brazilian",
         "workshopdepot": "593600",
@@ -61,9 +61,9 @@
         "593601": {
             "manifests": {
                 "public": {
-                    "gid": "3824038603121073094",
-                    "size": "19705031212",
-                    "download": "2809706688"
+                    "gid": "2149217131392442465",
+                    "size": "19712970392",
+                    "download": "2811455328"
                 }
             },
             "decryptionkey": "30052f6dbd5c875ccf3833ebf47a3fec63df141df7fd13a36af93eeb3a2e28e2"
@@ -71,9 +71,9 @@
         "883840": {
             "manifests": {
                 "public": {
-                    "gid": "3380569019294835626",
-                    "size": "20099709863",
-                    "download": "2850174000"
+                    "gid": "885591931995090286",
+                    "size": "20107665511",
+                    "download": "2851875552"
                 }
             },
             "dlcappid": "883840",
@@ -81,8 +81,8 @@
         },
         "branches": {
             "public": {
-                "buildid": "18906404",
-                "timeupdated": "1750233266"
+                "buildid": "18991082",
+                "timeupdated": "1750923849"
             }
         },
         "privatebranches": "1",
