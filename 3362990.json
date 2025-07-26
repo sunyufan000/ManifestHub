@@ -4,8 +4,8 @@
     "type": "Game",
     "schinese_name": "三国志：建安外史",
     "isfreeapp": 0,
-    "update_time": "2025-06-20 09:51:31",
-    "change_number": 29659738,
+    "update_time": "2025-07-19 09:52:53",
+    "change_number": 30144645,
     "depot": {
         "228988": {
             "config": {
@@ -53,17 +53,17 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "7810834565052325169",
-                    "size": "599542798",
-                    "download": "466792096"
+                    "gid": "2690958274627253100",
+                    "size": "600383073",
+                    "download": "467323552"
                 }
             },
             "decryptionkey": "c1053773c8087dd580afffa27d6e574c2f9c974efe91d0d238309827edf632aa"
         },
         "branches": {
             "public": {
-                "buildid": "18934036",
-                "timeupdated": "1750384283"
+                "buildid": "19244865",
+                "timeupdated": "1752669452"
             }
         },
         "privatebranches": "1"
