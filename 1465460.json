@@ -4,8 +4,8 @@
     "type": "Game",
     "schinese_name": "Infection Free Zone (无感染区)",
     "isfreeapp": 0,
-    "update_time": "2025-06-18 22:37:21",
-    "change_number": 29630939,
+    "update_time": "2025-07-24 04:00:55",
+    "change_number": 30218883,
     "depot": {
         "1465461": {
             "config": {
@@ -13,24 +13,24 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "1557076520548500311",
-                    "size": "6777777284",
-                    "download": "4387708752"
+                    "gid": "1192505900662512114",
+                    "size": "6035385224",
+                    "download": "3671324560"
                 },
                 "experimental": {
-                    "gid": "892714611575373509",
-                    "size": "6035365252",
-                    "download": "3669511264"
+                    "gid": "7961732146747963409",
+                    "size": "6016170438",
+                    "download": "3677949376"
                 },
                 "open_beta": {
-                    "gid": "892714611575373509",
-                    "size": "6035365252",
-                    "download": "3669511264"
+                    "gid": "1192505900662512114",
+                    "size": "6035385224",
+                    "download": "3671324560"
                 },
                 "previous": {
-                    "gid": "6307068266069485430",
-                    "size": "6777214912",
-                    "download": "4388021344"
+                    "gid": "3996229658477911163",
+                    "size": "6035377188",
+                    "download": "3671090512"
                 }
             },
             "decryptionkey": "e2a62ed18d9479e7bca56d425a8c527bacdfc7435666810eafeea55fe3e7746f"
@@ -38,23 +38,23 @@
         "workshopdepot": "1465460",
         "branches": {
             "public": {
-                "buildid": "18652399",
-                "timeupdated": "1748613052"
+                "buildid": "19215715",
+                "timeupdated": "1752675052"
             },
             "experimental": {
-                "buildid": "18910153",
+                "buildid": "19073645",
                 "description": "For experimental builds - highly unstable",
-                "timeupdated": "1750257437"
+                "timeupdated": "1751470088"
             },
             "open_beta": {
-                "buildid": "18910153",
+                "buildid": "19215715",
                 "description": "New builds still in testing",
-                "timeupdated": "1750257419"
+                "timeupdated": "1752506417"
             },
             "previous": {
-                "buildid": "18563450",
+                "buildid": "18965349",
                 "description": "previous default build",
-                "timeupdated": "1748612886"
+                "timeupdated": "1752675008"
             }
         },
         "privatebranches": "1",
