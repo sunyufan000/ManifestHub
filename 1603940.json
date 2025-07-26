@@ -4,8 +4,8 @@
     "type": "Game",
     "schinese_name": "",
     "isfreeapp": 0,
-    "update_time": "2025-06-11 22:33:34",
-    "change_number": 29504147,
+    "update_time": "2025-06-28 11:15:22",
+    "change_number": 29800940,
     "depot": {
         "229006": {
             "config": {
@@ -17,9 +17,9 @@
         "1603941": {
             "manifests": {
                 "public": {
-                    "gid": "3975039249654762456",
-                    "size": "5812065808",
-                    "download": "2293322112"
+                    "gid": "7506253810457770663",
+                    "size": "5825124196",
+                    "download": "2293325184"
                 },
                 "openbeta": {
                     "gid": "5387137195823985217",
@@ -32,9 +32,9 @@
         "1603942": {
             "manifests": {
                 "public": {
-                    "gid": "5788597796245886700",
-                    "size": "4020776",
-                    "download": "1453984"
+                    "gid": "1799422935887438188",
+                    "size": "4030655",
+                    "download": "1456880"
                 },
                 "openbeta": {
                     "gid": "787720480274020290",
@@ -46,8 +46,8 @@
         },
         "branches": {
             "public": {
-                "buildid": "17076182",
-                "timeupdated": "1738070276"
+                "buildid": "18822919",
+                "timeupdated": "1750955819"
             },
             "openbeta": {
                 "buildid": "18396171",
