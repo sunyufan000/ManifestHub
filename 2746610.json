@@ -4,8 +4,8 @@
     "type": "Game",
     "schinese_name": "",
     "isfreeapp": 1,
-    "update_time": "2025-06-19 19:18:23",
-    "change_number": 29648196,
+    "update_time": "2025-07-22 14:46:36",
+    "change_number": 30187155,
     "depot": {
         "2746611": {
             "config": {
@@ -14,9 +14,9 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "7236008026822639805",
-                    "size": "505483779",
-                    "download": "197098560"
+                    "gid": "1204044429019480682",
+                    "size": "505269399",
+                    "download": "197030864"
                 },
                 "internal": {
                     "gid": "2243243077482349685",
@@ -29,22 +29,39 @@
         "2746612": {
             "manifests": {
                 "internal": {
-                    "gid": "7881310542371833786",
-                    "size": "505480583",
-                    "download": "197685424"
+                    "gid": "1333770332111436197",
+                    "size": "505269399",
+                    "download": "198092752"
                 }
             },
             "decryptionkey": ""
         },
+        "2746613": {
+            "config": {
+                "oslist": "linux"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "5044475577745593413",
+                    "size": "524736160",
+                    "download": "203786160"
+                },
+                "internal": {
+                    "gid": "8231764791036843317",
+                    "size": "524736160",
+                    "download": "203786160"
+                }
+            }
+        },
         "branches": {
             "public": {
-                "buildid": "18785113",
-                "timeupdated": "1749396093"
+                "buildid": "19315467",
+                "timeupdated": "1753191515"
             },
             "internal": {
-                "buildid": "18762862",
+                "buildid": "19314258",
                 "description": "internal builds",
-                "timeupdated": "1749197025"
+                "timeupdated": "1753185087"
             }
         }
     }
