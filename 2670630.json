@@ -4,8 +4,8 @@
     "type": "Game",
     "schinese_name": "超市模拟器",
     "isfreeapp": 0,
-    "update_time": "2025-06-22 06:39:10",
-    "change_number": 29686123,
+    "update_time": "2025-07-11 17:13:04",
+    "change_number": 30015475,
     "depot": {
         "hasdepotsindlc": "1",
         "2670631": {
@@ -14,30 +14,30 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "8201240390525612375",
-                    "size": "1463805646",
-                    "download": "887428352"
+                    "gid": "8104257649776192521",
+                    "size": "1470602828",
+                    "download": "889619056"
                 }
             },
             "decryptionkey": "72fc26c211612ffaa7b30cdfea152be9628668260d7f8c375980e0f96e445701"
         },
         "2670632": {
             "config": {
-                "oslist": "macos",
-                "osarch": "64"
+                "oslist": "macos"
             },
             "manifests": {
                 "public": {
-                    "gid": "7049907928528254446",
-                    "size": "1484659580",
-                    "download": "925167216"
+                    "gid": "2770086332180486396",
+                    "size": "1519823811",
+                    "download": "938994304"
                 }
-            }
+            },
+            "decryptionkey": "05a026749d66983d1a8b484cee9c7e2e320926d365ae5fe9f916ca8e96c00e4a"
         },
         "branches": {
             "public": {
-                "buildid": "18940564",
-                "timeupdated": "1750426853"
+                "buildid": "18997189",
+                "timeupdated": "1750864015"
             }
         },
         "privatebranches": "1"
