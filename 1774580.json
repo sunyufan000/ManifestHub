@@ -4,8 +4,8 @@
     "type": "Game",
     "schinese_name": "星球大战 绝地：幸存者™",
     "isfreeapp": 0,
-    "update_time": "2025-06-10 01:10:57",
-    "change_number": 29469070,
+    "update_time": "2025-07-20 21:18:31",
+    "change_number": 30157573,
     "depot": {
         "baselanguages": "english,german,french,italian,koreana,spanish,schinese,tchinese,japanese,polish,brazilian,latam",
         "228988": {
@@ -191,9 +191,9 @@
         "3340993": {
             "manifests": {
                 "public": {
-                    "gid": "937075852439230715",
-                    "size": "234648114",
-                    "download": "234136224"
+                    "gid": "8110114562752415634",
+                    "size": "235231362",
+                    "download": "234719552"
                 }
             },
             "depotfromapp": "3340990",
