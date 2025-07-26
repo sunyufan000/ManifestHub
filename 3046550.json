@@ -4,8 +4,8 @@
     "type": "Application",
     "schinese_name": "",
     "isfreeapp": 0,
-    "update_time": "2025-06-13 15:20:08",
-    "change_number": 29543899,
+    "update_time": "2025-07-16 02:18:38",
+    "change_number": 30079954,
     "depot": {
         "hasdepotsindlc": "0",
         "229000": {
@@ -27,9 +27,9 @@
                     "download": "22085648"
                 },
                 "beta": {
-                    "gid": "3471392697927309692",
-                    "size": "53862321",
-                    "download": "22745024"
+                    "gid": "5217510933645283480",
+                    "size": "53873168",
+                    "download": "22752112"
                 }
             },
             "decryptionkey": "e126909adbd9a8d3d88411be28d17be2e7e689e89273a9624308f8edbcba8f78"
@@ -40,9 +40,9 @@
                 "timeupdated": "1746231928"
             },
             "beta": {
-                "buildid": "18803112",
+                "buildid": "19119664",
                 "description": "VoiceAttack 2 Beta",
-                "timeupdated": "1749517087"
+                "timeupdated": "1751766021"
             }
         },
         "privatebranches": "1"
