@@ -3,12 +3,12 @@
     "name": "Velvet Guard",
     "type": "Game",
     "schinese_name": "",
-    "isfreeapp": 0,
-    "update_time": "2025-06-19 05:30:25",
-    "change_number": 29637433,
+    "isfreeapp": 1,
+    "update_time": "2025-07-19 23:51:26",
+    "change_number": 30150285,
     "depot": {
         "baselanguages": "english",
-        "hasdepotsindlc": "0",
+        "hasdepotsindlc": "1",
         "workshopdepot": "822810",
         "228990": {
             "config": {
@@ -31,9 +31,9 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "4874466286469954515",
-                    "size": "122611409",
-                    "download": "58748928"
+                    "gid": "4341018498907451063",
+                    "size": "123957205",
+                    "download": "58897040"
                 },
                 "beta": {
                     "gid": "4874466286469954515",
@@ -49,9 +49,9 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "7021692117563289288",
-                    "size": "212721629",
-                    "download": "81629760"
+                    "gid": "1149950632717319701",
+                    "size": "214083625",
+                    "download": "81780624"
                 },
                 "beta": {
                     "gid": "7021692117563289288",
@@ -66,9 +66,9 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "4052665980640023319",
-                    "size": "122766522",
-                    "download": "58406576"
+                    "gid": "5144784376957783521",
+                    "size": "123999406",
+                    "download": "58556032"
                 },
                 "beta": {
                     "gid": "4052665980640023319",
@@ -84,9 +84,9 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "5686940491999810486",
-                    "size": "116197155",
-                    "download": "56251568"
+                    "gid": "7374914103035248064",
+                    "size": "117538663",
+                    "download": "56396144"
                 },
                 "beta": {
                     "gid": "5686940491999810486",
@@ -96,10 +96,21 @@
             },
             "decryptionkey": ""
         },
+        "3845490": {
+            "dlcappid": "3845490",
+            "manifests": {
+                "public": {
+                    "gid": "5614378167174734612",
+                    "size": "15709179",
+                    "download": "13328768"
+                }
+            },
+            "decryptionkey": ""
+        },
         "branches": {
             "public": {
-                "buildid": "18692287",
-                "timeupdated": "1748782126"
+                "buildid": "19038562",
+                "timeupdated": "1751138286"
             },
             "beta": {
                 "buildid": "18692287",
