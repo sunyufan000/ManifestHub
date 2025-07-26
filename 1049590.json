@@ -4,8 +4,8 @@
     "type": "Game",
     "schinese_name": "永恒轮回",
     "isfreeapp": 1,
-    "update_time": "2025-06-14 21:13:05",
-    "change_number": 29564947,
+    "update_time": "2025-07-24 00:10:23",
+    "change_number": 30216272,
     "depot": {
         "baselanguages": "english,koreana,schinese,tchinese,japanese",
         "1049591": {
@@ -15,9 +15,9 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "7190694231219006060",
-                    "size": "13242878316",
-                    "download": "10694615136"
+                    "gid": "2356656251336639482",
+                    "size": "14153694537",
+                    "download": "12078073024"
                 },
                 "32bit": {
                     "gid": "8189013814554242816",
@@ -29,8 +29,8 @@
         },
         "branches": {
             "public": {
-                "buildid": "18821827",
-                "timeupdated": "1749706221"
+                "buildid": "19314446",
+                "timeupdated": "1753335248"
             },
             "32bit": {
                 "buildid": "6216159",
