@@ -4,8 +4,8 @@
     "type": "Game",
     "schinese_name": "死锁（V社新游）内测",
     "isfreeapp": 0,
-    "update_time": "2025-06-21 04:58:18",
-    "change_number": 29675568,
+    "update_time": "2025-07-19 00:27:24",
+    "change_number": 30140900,
     "depot": {
         "228989": {
             "config": {
@@ -17,7 +17,7 @@
         "1422451": {
             "manifests": {
                 "public": {
-                    "gid": "8957921967959214209",
+                    "gid": "1673104194523746942",
                     "size": "679511939",
                     "download": "678308608"
                 }
@@ -30,9 +30,9 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "4407594186933602813",
-                    "size": "807238483",
-                    "download": "281732896"
+                    "gid": "4553875808833703710",
+                    "size": "807305355",
+                    "download": "288714704"
                 }
             },
             "decryptionkey": "cec8fb9b3514cdd7394110792bcfdb6b07903f136c0df1f81d7b94b02dc6ca89"
@@ -45,17 +45,17 @@
         "1422456": {
             "manifests": {
                 "public": {
-                    "gid": "7456443863288568830",
-                    "size": "25987569198",
-                    "download": "11233122752"
+                    "gid": "5990580348099573301",
+                    "size": "25984003897",
+                    "download": "11275894576"
                 }
             },
             "decryptionkey": "e615f3146e84f310bda59c806c74be74c86d1b81aa2b143e8e00a414ac279868"
         },
         "branches": {
             "public": {
-                "buildid": "18932618",
-                "timeupdated": "1750373177"
+                "buildid": "19281398",
+                "timeupdated": "1752881238"
             }
         }
     },
