@@ -4,8 +4,8 @@
     "type": "Game",
     "schinese_name": "神话时代：重述版",
     "isfreeapp": 0,
-    "update_time": "2025-06-22 07:35:37",
-    "change_number": 29686450,
+    "update_time": "2025-07-24 02:31:21",
+    "change_number": 30217850,
     "depot": {
         "228989": {
             "config": {
@@ -22,9 +22,14 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "3002749061052143506",
-                    "size": "25300580732",
-                    "download": "11923179888"
+                    "gid": "4320855081516270472",
+                    "size": "25300971219",
+                    "download": "11927414064"
+                },
+                "update-preview": {
+                    "gid": "6053065168138106358",
+                    "size": "25225495398",
+                    "download": "11968363408"
                 }
             },
             "decryptionkey": "802af330b3164b4c3b78d2f3b015e1017979ec6738f5d952aeb72eb14a138f19"
@@ -56,6 +61,11 @@
                     "gid": "1763279064055522245",
                     "size": "79628540",
                     "download": "79632960"
+                },
+                "update-preview": {
+                    "gid": "2180723404132642132",
+                    "size": "79628690",
+                    "download": "79639424"
                 }
             },
             "decryptionkey": "fae9ece6176586c7ad4c1d4d07e75e8a242d36d65d0402f3d20b5e86a58a6235"
@@ -69,6 +79,11 @@
                     "gid": "2783547877112991503",
                     "size": "77929622",
                     "download": "77753664"
+                },
+                "update-preview": {
+                    "gid": "1789863092133544215",
+                    "size": "77929772",
+                    "download": "77760160"
                 }
             },
             "decryptionkey": "bb3cd97225c4980fef59f25e876b5532339ff29dbceb7d4fc12190fde94bd372"
@@ -82,6 +97,11 @@
                     "gid": "1589855763573179861",
                     "size": "72927483",
                     "download": "72608064"
+                },
+                "update-preview": {
+                    "gid": "8137224732190087180",
+                    "size": "72927633",
+                    "download": "72614416"
                 }
             },
             "decryptionkey": "c47645f8442a72793113ab28d3206eb7841e9eed83e1817307859ac900a973f3"
@@ -95,6 +115,11 @@
                     "gid": "2498768807150457168",
                     "size": "73555718",
                     "download": "73451280"
+                },
+                "update-preview": {
+                    "gid": "8314551465168413371",
+                    "size": "73555866",
+                    "download": "73457552"
                 }
             },
             "decryptionkey": "8e17cff7c72b2eb5c1f2a5c16e5088810e0b5a33678f0d62455aabdab9ba2b1e"
@@ -108,6 +133,11 @@
                     "gid": "422117959909652435",
                     "size": "75784926",
                     "download": "75613536"
+                },
+                "update-preview": {
+                    "gid": "7875806832464661214",
+                    "size": "75785076",
+                    "download": "75619968"
                 }
             },
             "decryptionkey": "27aacd4bd5627dd1a4743bba1773d24b4a05993f10bff71faeb3f492d619366f"
@@ -121,6 +151,11 @@
                     "gid": "4196017078849102622",
                     "size": "72090800",
                     "download": "71649344"
+                },
+                "update-preview": {
+                    "gid": "3187619634821527588",
+                    "size": "72090949",
+                    "download": "71655600"
                 }
             },
             "decryptionkey": "3a5ba82ffea3a7063fe196e3bb0af72a423c2dc227c4d80b7798161fe655c684"
@@ -134,6 +169,11 @@
                     "gid": "5516275486197434235",
                     "size": "79142929",
                     "download": "79037296"
+                },
+                "update-preview": {
+                    "gid": "2222533430367749058",
+                    "size": "79143079",
+                    "download": "79043536"
                 }
             },
             "decryptionkey": "cbac32577b886bb30bfeb6c606edb883e882c3fc1105f56f3a3fc0d4c8e2ed90"
@@ -147,6 +187,11 @@
                     "gid": "4565430964928326271",
                     "size": "74722363",
                     "download": "74392992"
+                },
+                "update-preview": {
+                    "gid": "1102675290494916631",
+                    "size": "74722513",
+                    "download": "74399376"
                 }
             },
             "decryptionkey": "71854c8d94abca5cbeebd6ac1eb8edad6fd674437d935f99b70cff19034bbaec"
@@ -160,6 +205,11 @@
                     "gid": "4064790243739723877",
                     "size": "70920519",
                     "download": "70712832"
+                },
+                "update-preview": {
+                    "gid": "820091364270176325",
+                    "size": "70920669",
+                    "download": "70718944"
                 }
             },
             "decryptionkey": "c2504a8202da8fed8ef95c22f3528335c285257173876e4ff0ad1f351f4dd1a9"
@@ -173,14 +223,24 @@
                     "gid": "822827171810829800",
                     "size": "73786600",
                     "download": "73525360"
+                },
+                "update-preview": {
+                    "gid": "3754576264191992309",
+                    "size": "73786750",
+                    "download": "73531664"
                 }
             },
             "decryptionkey": "495e93c32f00d9f9ca59ada943e22fd8a423448c4e512b0903b92ae40730f01b"
         },
         "branches": {
             "public": {
-                "buildid": "18835422",
-                "timeupdated": "1750179864"
+                "buildid": "18922123",
+                "timeupdated": "1750784880"
+            },
+            "update-preview": {
+                "buildid": "19224380",
+                "description": "Public Update Preview for Age of Mythology: Retold",
+                "timeupdated": "1752771540"
             }
         },
         "privatebranches": "1"
