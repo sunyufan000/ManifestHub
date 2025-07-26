@@ -4,8 +4,8 @@
     "type": "Beta",
     "schinese_name": "",
     "isfreeapp": 0,
-    "update_time": "2025-06-16 15:13:00",
-    "change_number": 29582088,
+    "update_time": "2025-07-23 18:16:15",
+    "change_number": 30211405,
     "depot": {
         "228989": {
             "config": {
@@ -46,7 +46,8 @@
                     "size": "23200281336",
                     "download": "5623520736"
                 }
-            }
+            },
+            "decryptionkey": "a3c3e16bf4525b8d64b4f48a4d1a9766759bb79f13f1f005ad653d13997bad87"
         },
         "branches": {
             "public": {
