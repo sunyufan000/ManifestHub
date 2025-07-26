@@ -4,8 +4,8 @@
     "type": "DLC",
     "schinese_name": "皇帝与社稷 - 支持者包",
     "isfreeapp": 0,
-    "update_time": "2025-06-20 16:29:55",
-    "change_number": 29571822,
+    "update_time": "2025-07-09 09:48:01",
+    "change_number": 29964881,
     "depot": {
         "3060961": {
             "config": {
@@ -14,9 +14,9 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "3054371530361651314",
-                    "size": "1468928888",
-                    "download": "474782944"
+                    "gid": "6819532318794841230",
+                    "size": "1472525280",
+                    "download": "476933808"
                 }
             },
             "dlcappid": "3060960",
@@ -24,8 +24,8 @@
         },
         "branches": {
             "public": {
-                "buildid": "18871819",
-                "timeupdated": "1749966717"
+                "buildid": "19157668",
+                "timeupdated": "1752050877"
             }
         },
         "privatebranches": "1"
