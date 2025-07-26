@@ -1,11 +1,11 @@
 {
     "appid": 3163930,
-    "name": "PhotoStudioSimulator Demo",
+    "name": "Photo Studio Simulator Demo",
     "type": "Demo",
-    "schinese_name": "镜头人生 Demo",
+    "schinese_name": "镜头人生-模特写真馆 Demo",
     "isfreeapp": 0,
-    "update_time": "2025-05-26 14:30:53",
-    "change_number": 29185479,
+    "update_time": "2025-07-11 03:10:52",
+    "change_number": 30001794,
     "depot": {
         "228989": {
             "config": {
