@@ -4,8 +4,8 @@
     "type": "Game",
     "schinese_name": "乱欲牢城~监狱都市的花之少女~",
     "isfreeapp": 0,
-    "update_time": "2025-06-07 23:24:14",
-    "change_number": 29436662,
+    "update_time": "2025-07-24 01:03:42",
+    "change_number": 30216807,
     "depot": {
         "3041821": {
             "manifests": {
@@ -52,7 +52,7 @@
                     "download": "3856608"
                 }
             },
-            "decryptionkey": ""
+            "decryptionkey": "5ecdf521dcceb1c8e7c2e72a634dabcdfd8a1bd331fd72e4203ddb098abb5610"
         },
         "branches": {
             "public": {
