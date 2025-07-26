@@ -4,8 +4,8 @@
     "type": "Game",
     "schinese_name": "60秒差距！",
     "isfreeapp": 0,
-    "update_time": "2025-06-17 03:55:54",
-    "change_number": 29588371,
+    "update_time": "2025-07-09 13:04:31",
+    "change_number": 29967723,
     "depot": {
         "baselanguages": "english,german,french,schinese,russian,polish",
         "646271": {
@@ -44,6 +44,6 @@
             }
         },
         "privatebranches": "1",
-        "workshopdepotdecryptionkey": "348f98db5b5aaa9970a2b7decbec70782c36bb7248d165ef02d8c84eb848f778"
+        "workshopdepotdecryptionkey": "a25a35004e2ae4ed5a4ca39429182cb6b0342e1503729e2abc2c4333e3c110ff"
     }
 }
