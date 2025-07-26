@@ -4,8 +4,8 @@
     "type": "Application",
     "schinese_name": "",
     "isfreeapp": 0,
-    "update_time": "2025-06-22 05:54:57",
-    "change_number": 29683350,
+    "update_time": "2025-07-02 09:59:54",
+    "change_number": 29857096,
     "depot": {
         "228981": {
             "config": {
@@ -56,9 +56,9 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "6400161413155203054",
-                    "size": "761340074",
-                    "download": "223701248"
+                    "gid": "6731704806206884434",
+                    "size": "781369412",
+                    "download": "232506048"
                 },
                 "10.7": {
                     "gid": "5983590189243163797",
@@ -86,9 +86,9 @@
                     "download": "223724192"
                 },
                 "test": {
-                    "gid": "6400161413155203054",
-                    "size": "761340074",
-                    "download": "223701248"
+                    "gid": "6731704806206884434",
+                    "size": "781369412",
+                    "download": "232506048"
                 }
             },
             "decryptionkey": "28c2d6ab2577fc32273cf08dbf89f2804c40e98e7aed1e07cda7d652aca3b083"
@@ -96,8 +96,8 @@
         "workshopdepot": "1634680",
         "branches": {
             "public": {
-                "buildid": "18880226",
-                "timeupdated": "1750064956"
+                "buildid": "19076641",
+                "timeupdated": "1751446785"
             },
             "10.7": {
                 "buildid": "15963147",
@@ -125,9 +125,9 @@
                 "timeupdated": "1749095268"
             },
             "test": {
-                "buildid": "18880226",
+                "buildid": "19076641",
                 "description": "test",
-                "timeupdated": "1750064755"
+                "timeupdated": "1751446426"
             }
         },
         "workshopdepotdecryptionkey": "09a1a4431c876878148af1586a20801ada03150bdcc3de8aa72309b24f8d9eda"
