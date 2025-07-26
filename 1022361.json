@@ -1,0 +1,28 @@
+{
+    "appid": 1022361,
+    "name": "DFF NT: Rinoa Heartilly Starter Pack",
+    "type": "DLC",
+    "schinese_name": "",
+    "isfreeapp": 0,
+    "update_time": "2025-06-23 14:09:55",
+    "change_number": 26201212,
+    "depot": {
+        "1022361": {
+            "manifests": {
+                "public": {
+                    "gid": "5644610315748152899",
+                    "size": "0",
+                    "download": "0"
+                }
+            },
+            "dlcappid": "1022361",
+            "decryptionkey": "502ad81a5fe4107c6629f8d961d46acccd49268b1997a42bea96b2ed36f0f644"
+        },
+        "branches": {
+            "public": {
+                "buildid": "3508317",
+                "timeupdated": "1548673644"
+            }
+        }
+    }
+}
