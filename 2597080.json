@@ -4,23 +4,23 @@
     "type": "Game",
     "schinese_name": "墨境",
     "isfreeapp": 0,
-    "update_time": "2025-06-20 05:16:43",
-    "change_number": 29651296,
+    "update_time": "2025-07-17 16:50:25",
+    "change_number": 30114185,
     "depot": {
         "2597081": {
             "manifests": {
                 "public": {
-                    "gid": "1974095777008710322",
-                    "size": "7707992604",
-                    "download": "3686268016"
+                    "gid": "5448578201777700434",
+                    "size": "4524910186",
+                    "download": "3888400128"
                 }
             },
             "decryptionkey": "30b38a65aea230571a237b595825b0e4500f6c3717546e14cf300291af6b4891"
         },
         "branches": {
             "public": {
-                "buildid": "18108424",
-                "timeupdated": "1744698148"
+                "buildid": "19261919",
+                "timeupdated": "1752767421"
             }
         },
         "privatebranches": "1"
