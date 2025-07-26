@@ -4,7 +4,7 @@
     "type": "Game",
     "schinese_name": "为了人民 / For The People",
     "isfreeapp": 0,
-    "update_time": "2025-05-30 07:17:32",
+    "update_time": "2025-06-23 13:32:57",
     "change_number": 29272051,
     "depot": {
         "baselanguages": "english,german,schinese,russian",
@@ -52,7 +52,8 @@
                     "size": "867392465",
                     "download": "785076928"
                 }
-            }
+            },
+            "decryptionkey": "89b4b2ec2c0fb78ffb81f5b34fc6dc1d7f65558e5828141c5ccff77654d13b02"
         },
         "1146605": {
             "config": {
@@ -65,7 +66,8 @@
                     "size": "892650612",
                     "download": "791924944"
                 }
-            }
+            },
+            "decryptionkey": "372a7bbf9a90159c07d0ce227337cef95b00974b49d71b94fe54eddf3a6d97ba"
         },
         "1146606": {
             "config": {
