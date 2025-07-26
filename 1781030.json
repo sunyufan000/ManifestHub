@@ -4,8 +4,8 @@
     "type": "Game",
     "schinese_name": "钓鱼天堂",
     "isfreeapp": 0,
-    "update_time": "2025-06-18 06:14:39",
-    "change_number": 29612464,
+    "update_time": "2025-07-03 07:16:13",
+    "change_number": 29873260,
     "depot": {
         "1781032": {
             "config": {
@@ -18,7 +18,8 @@
                     "size": "172406164",
                     "download": "129086400"
                 }
-            }
+            },
+            "decryptionkey": "6c79dc14830b10b886c1632abccf1e517dcfbc27a44cfeab13b5dffd5d97a74b"
         },
         "1781031": {
             "config": {
@@ -45,9 +46,10 @@
                     "size": "142255848",
                     "download": "116930128"
                 }
-            }
+            },
+            "decryptionkey": "602bb802cfda8f1fe09a2cf02e14a5431879642bd52a002c48726127ea32cac2"
         },
-        "baselanguages": "english,koreana,schinese,tchinese,russian,japanese,turkish,brazilian,latam,vietnamese",
+        "baselanguages": "english,german,french,italian,koreana,schinese,tchinese,russian,japanese,turkish,brazilian,latam,vietnamese,indonesian",
         "branches": {
             "public": {
                 "buildid": "17060664",
