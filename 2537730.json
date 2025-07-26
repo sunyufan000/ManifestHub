@@ -4,15 +4,15 @@
     "type": "Game",
     "schinese_name": "",
     "isfreeapp": 1,
-    "update_time": "2025-06-20 05:29:04",
-    "change_number": 29654801,
+    "update_time": "2025-07-06 06:55:55",
+    "change_number": 29916103,
     "depot": {
         "2537731": {
             "manifests": {
                 "public": {
-                    "gid": "5954313179390462718",
-                    "size": "1844518868",
-                    "download": "1834161904"
+                    "gid": "8804582335796340632",
+                    "size": "1844519173",
+                    "download": "1834162272"
                 },
                 "dyslexiabeta": {
                     "gid": "8674846217780211282",
@@ -24,8 +24,8 @@
         },
         "branches": {
             "public": {
-                "buildid": "18930236",
-                "timeupdated": "1750355852"
+                "buildid": "19074829",
+                "timeupdated": "1751436047"
             },
             "dyslexiabeta": {
                 "buildid": "18525609",
