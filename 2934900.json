@@ -4,23 +4,23 @@
     "type": "Tool",
     "schinese_name": "",
     "isfreeapp": 0,
-    "update_time": "2025-06-07 15:08:12",
-    "change_number": 29432497,
+    "update_time": "2025-07-14 18:05:18",
+    "change_number": 30052940,
     "depot": {
         "2934901": {
             "manifests": {
                 "public": {
-                    "gid": "2861601691815213401",
-                    "size": "337629160",
-                    "download": "175505616"
+                    "gid": "6840957093300132878",
+                    "size": "323667404",
+                    "download": "161687808"
                 }
             },
             "decryptionkey": "279a5ac1d1d61af5cf5e8008a27c37455844b8210ad0f06d9c7bbd5cc2dc29bd"
         },
         "branches": {
             "public": {
-                "buildid": "18775872",
-                "timeupdated": "1749280089"
+                "buildid": "19219001",
+                "timeupdated": "1752512714"
             }
         }
     }
