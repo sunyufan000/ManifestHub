@@ -4,8 +4,8 @@
     "type": "Game",
     "schinese_name": "",
     "isfreeapp": 0,
-    "update_time": "2025-06-06 05:20:44",
-    "change_number": 29404881,
+    "update_time": "2025-07-22 22:41:17",
+    "change_number": 30194503,
     "depot": {
         "228985": {
             "config": {
@@ -33,9 +33,9 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "8733182184393971133",
-                    "size": "248969510",
-                    "download": "53929600"
+                    "gid": "2346077118055652071",
+                    "size": "249461550",
+                    "download": "55424272"
                 },
                 "v0.2.5.2_2020-09-27_old_ui": {
                     "gid": "1113102511976684905",
@@ -136,6 +136,11 @@
                     "gid": "670993070087013313",
                     "size": "245577162",
                     "download": "53657360"
+                },
+                "v0.8.2.0_ui_tags": {
+                    "gid": "8733182184393971133",
+                    "size": "248969510",
+                    "download": "53929600"
                 }
             },
             "decryptionkey": "fd1c25c2833bad4decdbea014440eafc068e6b569558468cdc73996a442d74ca"
@@ -143,8 +148,8 @@
         "workshopdepot": "1196080",
         "branches": {
             "public": {
-                "buildid": "18756416",
-                "timeupdated": "1749155299"
+                "buildid": "19119849",
+                "timeupdated": "1751753777"
             },
             "v0.2.5.2_2020-09-27_old_ui": {
                 "buildid": "5601917",
@@ -245,6 +250,11 @@
                 "buildid": "18119664",
                 "description": "backward version",
                 "timeupdated": "1749158439"
+            },
+            "v0.8.2.0_ui_tags": {
+                "buildid": "18756416",
+                "description": "backward version",
+                "timeupdated": "1751753759"
             }
         },
         "workshopdepotdecryptionkey": "11d38e9ffcdb237ca7dfdd464da8c5b6a40aabc8d48781612e6f85b7cb4c3dc4"
