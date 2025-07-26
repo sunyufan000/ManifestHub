@@ -4,16 +4,9 @@
     "type": "Game",
     "schinese_name": "深渊矿坑",
     "isfreeapp": 0,
-    "update_time": "2025-06-14 04:32:51",
-    "change_number": 29556909,
+    "update_time": "2025-07-14 19:13:08",
+    "change_number": 30054116,
     "depot": {
-        "228990": {
-            "config": {
-                "oslist": "windows"
-            },
-            "depotfromapp": "228980",
-            "sharedinstall": "1"
-        },
         "229006": {
             "config": {
                 "oslist": "windows"
@@ -28,9 +21,9 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "1757039118694832419",
-                    "size": "912508258",
-                    "download": "524185568"
+                    "gid": "6869223246205959330",
+                    "size": "912554505",
+                    "download": "524192560"
                 },
                 "alpha2015": {
                     "gid": "7279030483084572549",
@@ -43,9 +36,9 @@
                     "download": "523747568"
                 },
                 "test_branch": {
-                    "gid": "1757039118694832419",
-                    "size": "912508258",
-                    "download": "524185568"
+                    "gid": "6869223246205959330",
+                    "size": "912554505",
+                    "download": "524192560"
                 }
             },
             "decryptionkey": "c140804a963f7b0a7211923ea963c92f2c0ae36957f00588c90c067b58ed146c"
@@ -56,9 +49,9 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "8445151047707433955",
-                    "size": "940172340",
-                    "download": "532268288"
+                    "gid": "5850114692141181185",
+                    "size": "940212579",
+                    "download": "532280144"
                 },
                 "alpha2015": {
                     "gid": "7136429931710833455",
@@ -71,9 +64,9 @@
                     "download": "531592080"
                 },
                 "test_branch": {
-                    "gid": "8445151047707433955",
-                    "size": "940172340",
-                    "download": "532268288"
+                    "gid": "5850114692141181185",
+                    "size": "940212579",
+                    "download": "532280144"
                 }
             },
             "decryptionkey": "86b7d6c78eef2a3622d4a46cf34dcb40140484ad6f81865e33c017ed1edf83c8"
@@ -84,9 +77,9 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "3462132099578493541",
-                    "size": "943244889",
-                    "download": "532890352"
+                    "gid": "4114842679352011473",
+                    "size": "943291472",
+                    "download": "532897648"
                 },
                 "alpha2015": {
                     "gid": "8773668514636853196",
@@ -99,9 +92,9 @@
                     "download": "534564800"
                 },
                 "test_branch": {
-                    "gid": "3462132099578493541",
-                    "size": "943244889",
-                    "download": "532890352"
+                    "gid": "4114842679352011473",
+                    "size": "943291472",
+                    "download": "532897648"
                 }
             },
             "decryptionkey": "4e0908b76debb249c97043810474e0e2145ee9276ce8ff9f0b9bff7bf808f230"
@@ -109,8 +102,8 @@
         "hasdepotsindlc": "0",
         "branches": {
             "public": {
-                "buildid": "18860517",
-                "timeupdated": "1749844414"
+                "buildid": "19219662",
+                "timeupdated": "1752516783"
             },
             "alpha2015": {
                 "buildid": "521285",
@@ -123,9 +116,9 @@
                 "timeupdated": "1747084817"
             },
             "test_branch": {
-                "buildid": "18860517",
+                "buildid": "19219662",
                 "description": "Public testing for upcoming releases",
-                "timeupdated": "1749840779"
+                "timeupdated": "1752515730"
             }
         },
         "privatebranches": "1"
