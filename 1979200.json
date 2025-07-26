@@ -4,8 +4,8 @@
     "type": "Game",
     "schinese_name": "凡人之躯",
     "isfreeapp": 0,
-    "update_time": "2025-05-31 07:27:18",
-    "change_number": 29289505,
+    "update_time": "2025-07-04 01:06:47",
+    "change_number": 29888235,
     "depot": {
         "baselanguages": "english",
         "1979201": {
@@ -15,7 +15,7 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "1889373797197265049",
+                    "gid": "4352194513012540159",
                     "size": "1380244365",
                     "download": "1071258496"
                 }
@@ -24,8 +24,8 @@
         },
         "branches": {
             "public": {
-                "buildid": "18677456",
-                "timeupdated": "1748625253"
+                "buildid": "19100863",
+                "timeupdated": "1751587579"
             }
         }
     }
