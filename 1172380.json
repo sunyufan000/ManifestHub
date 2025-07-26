@@ -4,8 +4,8 @@
     "type": "Game",
     "schinese_name": "《星球大战 绝地：陨落的武士团™》",
     "isfreeapp": 0,
-    "update_time": "2025-06-21 07:29:21",
-    "change_number": 29677005,
+    "update_time": "2025-07-17 19:20:13",
+    "change_number": 30116906,
     "depot": {
         "baselanguages": "english,german,french,italian,koreana,spanish,schinese,tchinese,russian,japanese,polish,brazilian,latam",
         "hasdepotsindlc": "1",
@@ -205,9 +205,9 @@
         "3340991": {
             "manifests": {
                 "public": {
-                    "gid": "4706744716523911097",
-                    "size": "234648127",
-                    "download": "234136240"
+                    "gid": "1318423300601359782",
+                    "size": "235231375",
+                    "download": "234719568"
                 }
             },
             "depotfromapp": "3340990",
