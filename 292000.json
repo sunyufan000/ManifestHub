@@ -4,8 +4,8 @@
     "type": "Game",
     "schinese_name": "地狱已满2",
     "isfreeapp": 0,
-    "update_time": "2025-06-18 06:05:23",
-    "change_number": 29611261,
+    "update_time": "2025-07-23 16:02:13",
+    "change_number": 30208872,
     "depot": {
         "overridescddb": "1",
         "baselanguages": "english,german,french,italian,spanish,schinese,russian,brazilian",
@@ -30,9 +30,9 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "499666141904622975",
-                    "size": "23564907493",
-                    "download": "19659410896"
+                    "gid": "8535289037092316471",
+                    "size": "24858718994",
+                    "download": "20819689840"
                 }
             },
             "decryptionkey": "2bb3dfcc7245e9a85e6adcb82c91257dfd6e3ca66bdc188476820020395cc812"
@@ -44,17 +44,17 @@
             "dlcappid": "3320920",
             "manifests": {
                 "public": {
-                    "gid": "4943363864670021285",
-                    "size": "24854716792",
-                    "download": "20419109744"
+                    "gid": "6197118373809495780",
+                    "size": "25507052834",
+                    "download": "21089589568"
                 }
             },
             "decryptionkey": ""
         },
         "branches": {
             "public": {
-                "buildid": "18855198",
-                "timeupdated": "1750170608"
+                "buildid": "19236082",
+                "timeupdated": "1752685389"
             }
         },
         "privatebranches": "1"
