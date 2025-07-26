@@ -4,8 +4,8 @@
     "type": "Game",
     "schinese_name": "",
     "isfreeapp": 0,
-    "update_time": "2025-06-20 18:35:19",
-    "change_number": 29666370,
+    "update_time": "2025-07-03 15:55:15",
+    "change_number": 29881009,
     "depot": {
         "1857081": {},
         "1857082": {
@@ -14,9 +14,9 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "8570388107868381896",
-                    "size": "833679785",
-                    "download": "829778176"
+                    "gid": "8812287459377254926",
+                    "size": "842569291",
+                    "download": "838835776"
                 },
                 "hotfix_test": {
                     "gid": "4721353115483972327",
@@ -32,22 +32,23 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "8015964696483471650",
-                    "size": "841096837",
-                    "download": "831424832"
+                    "gid": "212752304560191637",
+                    "size": "849970188",
+                    "download": "840864992"
                 },
                 "hotfix_test": {
                     "gid": "8015964696483471650",
                     "size": "841096837",
                     "download": "831424832"
                 }
-            }
+            },
+            "decryptionkey": "d31765f2383e42a54b6614804aa4f36915de4b8d6615fdcdcfce3f873f158f82"
         },
         "workshopdepot": "1857080",
         "branches": {
             "public": {
-                "buildid": "18842452",
-                "timeupdated": "1749816901"
+                "buildid": "18965433",
+                "timeupdated": "1750771877"
             },
             "hotfix_test": {
                 "buildid": "18754948",
@@ -56,6 +57,6 @@
             }
         },
         "privatebranches": "1",
-        "workshopdepotdecryptionkey": ""
+        "workshopdepotdecryptionkey": "83b0560e7dd05cd8c6f1c190b12c52b9c79ee662bc1a087f6b495244c6fbc6b8"
     }
 }
