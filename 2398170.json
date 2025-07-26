@@ -4,8 +4,8 @@
     "type": "Game",
     "schinese_name": "深地爆破采掘",
     "isfreeapp": 0,
-    "update_time": "2025-06-17 17:33:59",
-    "change_number": 29604920,
+    "update_time": "2025-07-24 01:10:47",
+    "change_number": 30216924,
     "depot": {
         "baselanguages": "english",
         "2398171": {
@@ -25,9 +25,9 @@
                     "download": "464146352"
                 },
                 "v1_10_3": {
-                    "gid": "2955344205554955473",
-                    "size": "521107546",
-                    "download": "464017920"
+                    "gid": "5784699574422717814",
+                    "size": "521108624",
+                    "download": "466854400"
                 },
                 "game_not_launching_v1_10_1": {
                     "gid": "5799189428461058141",
@@ -63,9 +63,9 @@
                     "download": "463494528"
                 },
                 "v1_10_3": {
-                    "gid": "734448655084402043",
-                    "size": "519949504",
-                    "download": "463661696"
+                    "gid": "7553973977289116065",
+                    "size": "519949542",
+                    "download": "465999392"
                 },
                 "game_not_launching_v1_10_1": {
                     "gid": "7448867181146322299",
@@ -101,9 +101,9 @@
                     "download": "464108544"
                 },
                 "v1_10_3": {
-                    "gid": "7298883906225674241",
-                    "size": "528553918",
-                    "download": "465426144"
+                    "gid": "2403723871169257425",
+                    "size": "528558418",
+                    "download": "467795648"
                 },
                 "game_not_launching_v1_10_1": {
                     "gid": "7741400118315964760",
@@ -133,9 +133,9 @@
                 "timeupdated": "1740561988"
             },
             "v1_10_3": {
-                "buildid": "18895103",
+                "buildid": "18985392",
                 "description": "Bleeding edge engine build, testing if gamepad crash fix is resolved",
-                "timeupdated": "1750152834"
+                "timeupdated": "1750794248"
             },
             "game_not_launching_v1_10_1": {
                 "buildid": "18622773",
