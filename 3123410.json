@@ -4,8 +4,8 @@
     "type": "Game",
     "schinese_name": "优米雅的炼金工房 ～追忆之炼金术士与幻创之地～",
     "isfreeapp": 0,
-    "update_time": "2025-06-20 16:28:54",
-    "change_number": 29581141,
+    "update_time": "2025-07-23 02:02:37",
+    "change_number": 30196991,
     "depot": {
         "baselanguages": "english,german,french,koreana,spanish,schinese,tchinese,russian,japanese",
         "228988": {
@@ -18,9 +18,9 @@
         "3123411": {
             "manifests": {
                 "public": {
-                    "gid": "6403484574593992982",
-                    "size": "18061420255",
-                    "download": "17413210816"
+                    "gid": "110716267567870044",
+                    "size": "18212278307",
+                    "download": "17565522496"
                 }
             },
             "decryptionkey": "427bebee696a57c77abdb7f7c291fe1f99efc82922c0ba9b154fd7cb9a2b4e78"
@@ -28,8 +28,8 @@
         "hasdepotsindlc": "1",
         "branches": {
             "public": {
-                "buildid": "18620493",
-                "timeupdated": "1749171604"
+                "buildid": "18805569",
+                "timeupdated": "1752800730"
             }
         },
         "privatebranches": "1"
