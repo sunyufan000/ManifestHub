@@ -4,8 +4,8 @@
     "type": "Game",
     "schinese_name": "魔灵召唤: 天空之役",
     "isfreeapp": 1,
-    "update_time": "2025-06-11 10:00:49",
-    "change_number": 29497931,
+    "update_time": "2025-07-22 10:20:07",
+    "change_number": 30182886,
     "depot": {
         "228989": {
             "config": {
@@ -20,9 +20,9 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "4826835714538560767",
-                    "size": "2782362872",
-                    "download": "1443784064"
+                    "gid": "1618634532220546616",
+                    "size": "2782443673",
+                    "download": "1443795264"
                 }
             },
             "decryptionkey": "36212b96b54cb5c2e81406a73668db6b59d7252c187030dc1ed00e8205856721"
@@ -30,8 +30,8 @@
         "baselanguages": "english,koreana",
         "branches": {
             "public": {
-                "buildid": "18797079",
-                "timeupdated": "1749607244"
+                "buildid": "19248169",
+                "timeupdated": "1752976849"
             }
         },
         "privatebranches": "1"
