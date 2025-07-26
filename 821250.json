@@ -4,8 +4,8 @@
     "type": "Game",
     "schinese_name": "漂流品",
     "isfreeapp": 0,
-    "update_time": "2025-06-21 16:17:12",
-    "change_number": 29680480,
+    "update_time": "2025-07-22 13:17:41",
+    "change_number": 30185618,
     "depot": {
         "821251": {
             "config": {
@@ -18,9 +18,9 @@
                     "download": "410830832"
                 },
                 "experimental": {
-                    "gid": "4082338896645065635",
-                    "size": "1219785641",
-                    "download": "421836544"
+                    "gid": "2318965431240581619",
+                    "size": "1278968873",
+                    "download": "468384384"
                 }
             },
             "decryptionkey": "56d2732aafc44c77401e0dfc97a9374d19b16610b85b9446aadcbaccdfaf7c20"
@@ -31,9 +31,9 @@
                 "timeupdated": "1744225835"
             },
             "experimental": {
-                "buildid": "18939443",
+                "buildid": "19313548",
                 "description": "Experimental",
-                "timeupdated": "1750425157"
+                "timeupdated": "1753186656"
             }
         },
         "privatebranches": "1"
