@@ -4,8 +4,8 @@
     "type": "Game",
     "schinese_name": "新世界",
     "isfreeapp": 0,
-    "update_time": "2025-06-06 14:05:47",
-    "change_number": 29411323,
+    "update_time": "2025-07-23 17:42:15",
+    "change_number": 30210764,
     "depot": {
         "228989": {
             "config": {
@@ -25,9 +25,9 @@
         "1063731": {
             "manifests": {
                 "public": {
-                    "gid": "3968748525928024264",
-                    "size": "82977320093",
-                    "download": "72877718672"
+                    "gid": "5929428977937704867",
+                    "size": "82999320864",
+                    "download": "72958888672"
                 }
             },
             "decryptionkey": "3d40a764fce79086fca5d6ec9b71ab93a9b539b43510269327bcf68dc420081a"
@@ -47,9 +47,9 @@
             "dlcappid": "1716920",
             "manifests": {
                 "public": {
-                    "gid": "976988263176336444",
+                    "gid": "6341448703797397099",
                     "size": "589938541",
-                    "download": "163640192"
+                    "download": "165582880"
                 }
             },
             "decryptionkey": ""
@@ -58,9 +58,9 @@
             "dlcappid": "1210560",
             "manifests": {
                 "public": {
-                    "gid": "23187156672798912",
-                    "size": "288530448",
-                    "download": "94666880"
+                    "gid": "746450662435215405",
+                    "size": "288529424",
+                    "download": "104629280"
                 }
             },
             "decryptionkey": ""
@@ -171,8 +171,8 @@
         },
         "branches": {
             "public": {
-                "buildid": "18753860",
-                "timeupdated": "1749189942"
+                "buildid": "19029603",
+                "timeupdated": "1751349987"
             }
         },
         "privatebranches": "1"
