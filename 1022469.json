@@ -1,0 +1,28 @@
+{
+    "appid": 1022469,
+    "name": "DFF NT: Y'shtola Starter Pack",
+    "type": "DLC",
+    "schinese_name": "",
+    "isfreeapp": 0,
+    "update_time": "2025-06-23 14:10:16",
+    "change_number": 26201212,
+    "depot": {
+        "1022469": {
+            "manifests": {
+                "public": {
+                    "gid": "2922729717554293378",
+                    "size": "0",
+                    "download": "0"
+                }
+            },
+            "dlcappid": "1022469",
+            "decryptionkey": "dc423d96702c1164fffdbb8dcf0d8ce2e7e2e513f02a7198bb9cefc059ab271f"
+        },
+        "branches": {
+            "public": {
+                "buildid": "3508044",
+                "timeupdated": "1548672021"
+            }
+        }
+    }
+}
