@@ -4,8 +4,8 @@
     "type": "Tool",
     "schinese_name": "",
     "isfreeapp": 0,
-    "update_time": "2025-06-04 02:12:07",
-    "change_number": 29354945,
+    "update_time": "2025-07-18 14:12:50",
+    "change_number": 30132096,
     "depot": {
         "preloadonly": "1",
         "overridescddb": "1",
@@ -34,9 +34,9 @@
             "systemdefined": "1",
             "manifests": {
                 "public": {
-                    "gid": "2013349967918560839",
-                    "size": "3619397848",
-                    "download": "1270653008"
+                    "gid": "5741414433952735965",
+                    "size": "3619401169",
+                    "download": "1270656304"
                 },
                 "experimental_public": {
                     "gid": "6851238236280575555",
@@ -53,9 +53,9 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "6392387103903863351",
-                    "size": "61761496",
-                    "download": "17975872"
+                    "gid": "4500846341298025038",
+                    "size": "61765592",
+                    "download": "17980480"
                 }
             },
             "decryptionkey": "0e8d4d681fedd8b8693222327d7b5f58ff56cf714bfdd59a3d654f0ac39a525c"
@@ -67,9 +67,9 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "1584561251316039123",
-                    "size": "42037184",
-                    "download": "13200784"
+                    "gid": "738267802362033033",
+                    "size": "42038728",
+                    "download": "13201472"
                 },
                 "experimental_public": {
                     "gid": "6169702869082609638",
@@ -91,8 +91,8 @@
         },
         "branches": {
             "public": {
-                "buildid": "18721802",
-                "timeupdated": "1748974321"
+                "buildid": "18994715",
+                "timeupdated": "1751372879"
             },
             "experimental_public": {
                 "buildid": "3889697",
