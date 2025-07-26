@@ -1,0 +1,44 @@
+{
+    "appid": 1103420,
+    "name": "Forts - Moonshot Soundtrack",
+    "type": "Music",
+    "schinese_name": "",
+    "isfreeapp": 0,
+    "update_time": "2025-06-23 09:39:54",
+    "change_number": 26201212,
+    "depot": {
+        "1103420": {
+            "config": {
+                "language": ""
+            },
+            "manifests": {
+                "public": {
+                    "gid": "7347627263809034982",
+                    "size": "226067675",
+                    "download": "185991488"
+                }
+            },
+            "decryptionkey": "bb50b803de7315e6ae8f9a18aa73f4f77ba07ff69410012371bb2c7ea647e58e"
+        },
+        "1103421": {
+            "config": {
+                "highqualityaudio": "1",
+                "language": ""
+            },
+            "manifests": {
+                "public": {
+                    "gid": "8700586313605668292",
+                    "size": "895572948",
+                    "download": "885700848"
+                }
+            },
+            "decryptionkey": "a3aed839685948b60558a0b134b0322654454eb7d8c7081b1cd42e307b41065e"
+        },
+        "branches": {
+            "public": {
+                "buildid": "4607215",
+                "timeupdated": "1579933188"
+            }
+        }
+    }
+}
