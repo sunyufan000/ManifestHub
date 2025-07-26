@@ -4,23 +4,23 @@
     "type": "Game",
     "schinese_name": "琪露诺的卡牌教室",
     "isfreeapp": 0,
-    "update_time": "2025-06-19 18:28:22",
-    "change_number": 29647508,
+    "update_time": "2025-07-22 13:16:07",
+    "change_number": 30185598,
     "depot": {
         "3546241": {
             "manifests": {
                 "public": {
-                    "gid": "5304109340391517439",
-                    "size": "73314796",
-                    "download": "45735712"
+                    "gid": "7738149543403378293",
+                    "size": "74037552",
+                    "download": "46294576"
                 }
             },
             "decryptionkey": "3be53f71993b362dfb07f9a24a1a2392ac26b4c17d28b8ff81a041eee63aba83"
         },
         "branches": {
             "public": {
-                "buildid": "18925299",
-                "timeupdated": "1750328897"
+                "buildid": "19165871",
+                "timeupdated": "1752092143"
             }
         }
     }
