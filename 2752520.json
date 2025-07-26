@@ -4,8 +4,8 @@
     "type": "Game",
     "schinese_name": "战令姬蕾西娅与失落的要塞",
     "isfreeapp": 0,
-    "update_time": "2025-06-12 11:17:55",
-    "change_number": 29520194,
+    "update_time": "2025-07-19 21:52:34",
+    "change_number": 30149566,
     "depot": {
         "2752521": {
             "config": {
@@ -18,7 +18,7 @@
                     "download": "1355111712"
                 }
             },
-            "decryptionkey": ""
+            "decryptionkey": "9a04c9e13d689d1b7d4189c29fbbc271198fce67d8fa6df4c3b5497138a913c6"
         },
         "2752522": {
             "config": {
@@ -44,7 +44,7 @@
                     "download": "1359227104"
                 }
             },
-            "decryptionkey": ""
+            "decryptionkey": "e8df9c9c9ae3f316e91bdc453570f56eeaa92295f2c38bfaa4f7f25f909be47f"
         },
         "baselanguages": "english,schinese,japanese",
         "branches": {
