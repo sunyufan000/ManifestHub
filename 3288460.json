@@ -4,15 +4,15 @@
     "type": "Game",
     "schinese_name": "翻滚之星",
     "isfreeapp": 0,
-    "update_time": "2025-05-29 08:40:12",
-    "change_number": 29249088,
+    "update_time": "2025-07-21 09:54:03",
+    "change_number": 30163424,
     "depot": {
         "3288461": {
             "manifests": {
                 "public": {
-                    "gid": "793185153379710834",
-                    "size": "519805804",
-                    "download": "442458896"
+                    "gid": "8283100285953516930",
+                    "size": "519369836",
+                    "download": "442488960"
                 }
             },
             "decryptionkey": "3d9f7674539c00e8712a9816b5ab990466dbd2526becbfe582e2380da779e9e5"
@@ -20,8 +20,8 @@
         "baselanguages": "english,japanese",
         "branches": {
             "public": {
-                "buildid": "18519739",
-                "timeupdated": "1747667324"
+                "buildid": "19297498",
+                "timeupdated": "1753088039"
             }
         }
     }
