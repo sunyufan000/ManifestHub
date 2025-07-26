@@ -4,15 +4,15 @@
     "type": "Game",
     "schinese_name": "龙之歌：美食与冒险",
     "isfreeapp": 0,
-    "update_time": "2025-06-20 20:01:20",
-    "change_number": 29667662,
+    "update_time": "2025-07-23 14:03:17",
+    "change_number": 30206779,
     "depot": {
         "3148161": {
             "manifests": {
                 "public": {
-                    "gid": "1390199685438594374",
-                    "size": "7623747655",
-                    "download": "1885188528"
+                    "gid": "855361476105299918",
+                    "size": "8497783021",
+                    "download": "2075017296"
                 }
             },
             "decryptionkey": "16a24fe795ecb786924c5dec2ece27ee05d370710c0f176727d2c469c08bebcc"
@@ -34,8 +34,8 @@
         "baselanguages": "english,schinese",
         "branches": {
             "public": {
-                "buildid": "18939766",
-                "timeupdated": "1750420875"
+                "buildid": "19329393",
+                "timeupdated": "1753275793"
             }
         }
     }
