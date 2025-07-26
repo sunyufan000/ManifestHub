@@ -1,0 +1,28 @@
+{
+    "appid": 1022497,
+    "name": "DFF NT: One-Winged Angel Appearance Set for Sephiroth",
+    "type": "DLC",
+    "schinese_name": "",
+    "isfreeapp": 0,
+    "update_time": "2025-06-23 14:10:21",
+    "change_number": 26201212,
+    "depot": {
+        "1022497": {
+            "manifests": {
+                "public": {
+                    "gid": "355660011334000622",
+                    "size": "0",
+                    "download": "0"
+                }
+            },
+            "dlcappid": "1022497",
+            "decryptionkey": "5b660130e6b657973561471d1d5cd7cb7e1db2cc23300db87e33f44f1fbfe9cc"
+        },
+        "branches": {
+            "public": {
+                "buildid": "3508067",
+                "timeupdated": "1548671813"
+            }
+        }
+    }
+}
