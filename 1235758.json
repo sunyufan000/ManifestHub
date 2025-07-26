@@ -4,8 +4,8 @@
     "type": "DLC",
     "schinese_name": "The Sims™ 4 浪漫花园组合",
     "isfreeapp": 0,
-    "update_time": "2025-06-09 04:58:24",
-    "change_number": 29450622,
+    "update_time": "2025-06-24 04:46:37",
+    "change_number": 29715566,
     "depot": {
         "1235758": {
             "config": {
@@ -103,7 +103,7 @@
                 }
             },
             "dlcappid": "1235758",
-            "decryptionkey": ""
+            "decryptionkey": "032524f744d78bb2b95c36e9a6ae0a419e1f03835d85243db25e4d0400f7b45b"
         },
         "1242146": {
             "config": {
