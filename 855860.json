@@ -4,8 +4,8 @@
     "type": "Game",
     "schinese_name": "超级像素战士",
     "isfreeapp": 0,
-    "update_time": "2025-06-02 23:13:38",
-    "change_number": 29324936,
+    "update_time": "2025-07-17 18:18:50",
+    "change_number": 30115947,
     "depot": {
         "228983": {
             "config": {
@@ -41,9 +41,9 @@
             },
             "manifests": {
                 "public": {
-                    "gid": "2507535623118883938",
-                    "size": "411858432",
-                    "download": "336430768"
+                    "gid": "9120488552341894545",
+                    "size": "411947787",
+                    "download": "336665824"
                 },
                 "sfd_v_1_2_0g": {
                     "gid": "63170819306635382",
@@ -101,6 +101,11 @@
                     "download": "344245648"
                 },
                 "sfd_v_1_4_0_beta": {
+                    "gid": "9120488552341894545",
+                    "size": "411947787",
+                    "download": "336665824"
+                },
+                "sfd_v_1_4_1b": {
                     "gid": "2507535623118883938",
                     "size": "411858432",
                     "download": "336430768"
@@ -111,8 +116,8 @@
         "workshopdepot": "855860",
         "branches": {
             "public": {
-                "buildid": "18180275",
-                "timeupdated": "1745239008"
+                "buildid": "19263480",
+                "timeupdated": "1752772727"
             },
             "sfd_v_1_2_0g": {
                 "buildid": "3921478",
@@ -170,9 +175,14 @@
                 "timeupdated": "1742739166"
             },
             "sfd_v_1_4_0_beta": {
+                "buildid": "19263480",
+                "description": "SFD v.1.4.X (Beta)",
+                "timeupdated": "1752772534"
+            },
+            "sfd_v_1_4_1b": {
                 "buildid": "18180275",
-                "description": "SFD v.1.4.0 (Beta)",
-                "timeupdated": "1745238735"
+                "description": "SFD v1.4.1b",
+                "timeupdated": "1750596330"
             }
         },
         "privatebranches": "1",
