@@ -4,8 +4,8 @@
     "type": "Game",
     "schinese_name": "风起云涌2：越南",
     "isfreeapp": 0,
-    "update_time": "2025-06-10 20:58:22",
-    "change_number": 29486483,
+    "update_time": "2025-07-08 14:49:50",
+    "change_number": 29950332,
     "depot": {
         "workshopdepot": "418460",
         "baselanguages": "english,german,french,koreana,spanish,schinese,russian,japanese,turkish,brazilian",
@@ -48,9 +48,9 @@
         "418461": {
             "manifests": {
                 "public": {
-                    "gid": "2364141169891714760",
-                    "size": "56399161839",
-                    "download": "15474734704"
+                    "gid": "1586287165470878692",
+                    "size": "56399284568",
+                    "download": "15474352496"
                 }
             },
             "decryptionkey": "cf81b97143fb2a34580f171c2d5eb46c95b873e1a7f079c3e18eead69aca3926"
@@ -68,8 +68,8 @@
         },
         "branches": {
             "public": {
-                "buildid": "18098595",
-                "timeupdated": "1745330635"
+                "buildid": "19072512",
+                "timeupdated": "1751982582"
             }
         },
         "privatebranches": "1",
